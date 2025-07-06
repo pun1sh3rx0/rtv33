@@ -1,0 +1,2085 @@
+Event[0]:
+  Log Name: Application
+  Source: Microsoft-Windows-Winlogon
+  Date: 2025-07-06T15:55:14.7970000Z
+  Event ID: 6000
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: Lab-ZZ
+  Description: 
+The winlogon notification subscriber <WSearch> was unavailable to handle a notification event.
+
+Event[1]:
+  Log Name: Application
+  Source: Microsoft-Windows-Winlogon
+  Date: 2025-07-06T15:55:14.8440000Z
+  Event ID: 6000
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: Lab-ZZ
+  Description: 
+The winlogon notification subscriber <SessionEnv> was unavailable to handle a notification event.
+
+Event[2]:
+  Log Name: Application
+  Source: VMUpgradeHelper
+  Date: 2025-07-06T15:55:15.2040000Z
+  Event ID: 260
+  Task: N/A
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: Lab-ZZ
+  Description: 
+Saving network configuration.
+
+Event[3]:
+  Log Name: Application
+  Source: VMUpgradeHelper
+  Date: 2025-07-06T15:55:15.2040000Z
+  Event ID: 272
+  Task: N/A
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: Lab-ZZ
+  Description: 
+Saved network configuration.
+
+Event[4]:
+  Log Name: Application
+  Source: VMTools
+  Date: 2025-07-06T15:55:15.2190000Z
+  Event ID: 108
+  Task: N/A
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: Lab-ZZ
+  Description: 
+The service was stopped.
+
+Event[5]:
+  Log Name: Application
+  Source: Microsoft-Windows-MSDTC
+  Date: 2025-07-06T15:55:17.2510000Z
+  Event ID: 4111
+  Task: SVC
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: Lab-ZZ
+  Description: 
+The MS DTC service is stopping.
+
+Event[6]:
+  Log Name: Application
+  Source: Microsoft-Windows-User Profiles Service
+  Date: 2025-07-06T15:55:17.3310000Z
+  Event ID: 1532
+  Task: N/A
+  Level: Information
+  Opcode: Info
+  Keyword: N/A
+  User: S-1-5-18
+  User Name: NT AUTHORITY\SYSTEM
+  Computer: Lab-ZZ
+  Description: 
+The User Profile Service has stopped.  
+
+
+
+Event[7]:
+  Log Name: Application
+  Source: Microsoft-Windows-User Profiles Service
+  Date: 2025-07-06T15:55:44.8960000Z
+  Event ID: 1531
+  Task: N/A
+  Level: Information
+  Opcode: Info
+  Keyword: N/A
+  User: S-1-5-18
+  User Name: NT AUTHORITY\SYSTEM
+  Computer: Lab-ZZ
+  Description: 
+The User Profile Service has started successfully.  
+
+
+
+Event[8]:
+  Log Name: Application
+  Source: Microsoft-Windows-EventSystem
+  Date: 2025-07-06T15:55:46.4550000Z
+  Event ID: 4625
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: Lab-ZZ
+  Description: 
+The EventSystem sub system is suppressing duplicate event log entries for a duration of 86400 seconds.  The suppression timeout can be controlled by a REG_DWORD value named SuppressDuplicateDuration under the following registry key: HKLM\Software\Microsoft\EventSystem\EventLog.
+
+Event[9]:
+  Log Name: Application
+  Source: Microsoft-Windows-Winlogon
+  Date: 2025-07-06T15:55:48.3920000Z
+  Event ID: 6003
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: Lab-ZZ
+  Description: 
+The winlogon notification subscriber <SessionEnv> was unavailable to handle a critical notification event.
+
+Event[10]:
+  Log Name: Application
+  Source: VMTools
+  Date: 2025-07-06T15:55:51.0480000Z
+  Event ID: 105
+  Task: N/A
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: Lab-ZZ
+  Description: 
+The service was started.
+
+Event[11]:
+  Log Name: Application
+  Source: Microsoft-Windows-WMI
+  Date: 2025-07-06T15:55:51.8400000Z
+  Event ID: 5615
+  Task: N/A
+  Level: Information
+  Opcode: Info
+  Keyword: N/A
+  User: S-1-5-18
+  User Name: NT AUTHORITY\SYSTEM
+  Computer: Lab-ZZ
+  Description: 
+Windows Management Instrumentation Service started sucessfully
+
+Event[12]:
+  Log Name: Application
+  Source: Microsoft-Windows-Complus
+  Date: 2025-07-06T15:55:54.9860000Z
+  Event ID: 781
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: Lab-ZZ
+  Description: 
+The COM+ sub system is suppressing duplicate event log entries for a duration of 86400 seconds.  The suppression timeout can be controlled by a REG_DWORD value named SuppressDuplicateDuration under the following registry key: HKLM\Software\Microsoft\COM3\Eventlog.
+
+Event[13]:
+  Log Name: Application
+  Source: Microsoft-Windows-WMI
+  Date: 2025-07-06T15:55:54.4530000Z
+  Event ID: 5617
+  Task: N/A
+  Level: Information
+  Opcode: Info
+  Keyword: N/A
+  User: S-1-5-18
+  User Name: NT AUTHORITY\SYSTEM
+  Computer: Lab-ZZ
+  Description: 
+Windows Management Instrumentation Service subsystems initialized successfully
+
+Event[14]:
+  Log Name: Application
+  Source: SecurityCenter
+  Date: 2025-07-06T15:55:57.1730000Z
+  Event ID: 1
+  Task: N/A
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: Lab-ZZ
+  Description: 
+The Windows Security Center Service has started.
+
+Event[15]:
+  Log Name: Application
+  Source: ESENT
+  Date: 2025-07-06T15:55:58.2820000Z
+  Event ID: 102
+  Task: General
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: Lab-ZZ
+  Description: 
+SearchIndexer (5240,P,98) Windows: The database engine (10.00.19045.0000) is starting a new instance (0).
+
+Event[16]:
+  Log Name: Application
+  Source: ESENT
+  Date: 2025-07-06T15:55:58.6890000Z
+  Event ID: 105
+  Task: General
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: Lab-ZZ
+  Description: 
+SearchIndexer (5240,D,0) Windows: The database engine started a new instance (0). (Time=0 seconds) 
+ 
+Additional Data:
+  
+ 
+Internal Timing Sequence: 
+[1] 0.019902 +J(0) +M(C:0K, Fs:226, WS:880K # 880K, PF:5020K # 5020K, P:5020K)
+[2] 0.001503 +J(0) +M(C:0K, Fs:110, WS:440K # 440K, PF:384K # 384K, P:384K)
+[3] 0.013927 +J(0) +M(C:0K, Fs:12, WS:44K # 44K, PF:68K # 68K, P:68K)
+[4] 0.000568 +J(0) +M(C:0K, Fs:24, WS:96K # 96K, PF:348K # 348K, P:348K)
+[5] 0.061117 +J(0) +M(C:0K, Fs:10, WS:40K # 40K, PF:20K # 20K, P:20K)
+[6] 0.157275 +J(0) +M(C:0K, Fs:26, WS:104K # 104K, PF:16K # 16K, P:16K)
+[7] 0.170975 -0.157132 (2) WT +J(0) +M(C:0K, Fs:269, WS:1072K # 1072K, PF:1028K # 1028K, P:1028K)
+[8] -
+[9] -
+[10] -
+[11] -
+[12] -
+[13] 0.076545 -0.002163 (3) WT +J(CM:0, PgRf:0, Rd:0/0, Dy:0/0, Lg:616/1) +M(C:0K, Fs:12, WS:-984K # 24K, PF:-1024K # 12K, P:-1024K)
+[14] 0.000021 +J(0) +M(C:0K, Fs:1, WS:4K # 0K, PF:0K # 0K, P:0K)
+[15] 0.000819 +J(0) +M(C:0K, Fs:64, WS:256K # 0K, PF:64K # 0K, P:64K)
+[16] 0.000920 +J(0) +M(C:0K, Fs:3, WS:4K # 0K, PF:0K # 0K, P:0K).
+
+Event[17]:
+  Log Name: Application
+  Source: VMUpgradeHelper
+  Date: 2025-07-06T15:55:58.7980000Z
+  Event ID: 258
+  Task: N/A
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: Lab-ZZ
+  Description: 
+Restoring network configuration.
+
+Event[18]:
+  Log Name: Application
+  Source: Microsoft-Windows-Winlogon
+  Date: 2025-07-06T15:55:59.1420000Z
+  Event ID: 6000
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: Lab-ZZ
+  Description: 
+The winlogon notification subscriber <SessionEnv> was unavailable to handle a notification event.
+
+Event[19]:
+  Log Name: Application
+  Source: ESENT
+  Date: 2025-07-06T15:55:59.7670000Z
+  Event ID: 326
+  Task: General
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: Lab-ZZ
+  Description: 
+SearchIndexer (5240,D,50) Windows: The database engine attached a database (1, C:\ProgramData\Microsoft\Search\Data\Applications\Windows\Windows.edb). (Time=1 seconds) 
+ 
+Saved Cache: 0 0 
+Additional Data: lgposAttach = 00000038:00D1:0268,
+dbv = 1568.110.240 
+ 
+Internal Timing Sequence: 
+[1] 0.000007 +J(0) +M(C:0K, Fs:1, WS:4K # 0K, PF:0K # 0K, P:0K)
+[2] 0.113466 -0.112485 (1) WT +J(0) +M(C:0K, Fs:26, WS:40K # 0K, PF:32K # 0K, P:32K)
+[3] 0.611260 -0.400701 (6) WT +J(CM:0, PgRf:0, Rd:0/0, Dy:0/0, Lg:3480/2) +M(C:0K, Fs:42, WS:128K # 0K, PF:148K # 0K, P:148K)
+[4] 0.000351 +J(0) +M(C:0K, Fs:1, WS:4K # 0K, PF:0K # 0K, P:0K)
+[5] -
+[6] -
+[7] -
+[8] 0.007106 -0.005866 (2) CM +J(CM:2, PgRf:2, Rd:14/2, Dy:0/0, Lg:54/1) +M(C:0K, Fs:46, WS:180K # 0K, PF:664K # 0K, P:664K)
+[9] 0.324558 -0.002213 (5) CM -0.321697 (1) WT +J(CM:5, PgRf:23, Rd:0/5, Dy:0/0, Lg:0/0) +M(C:0K, Fs:70, WS:280K # 0K, PF:288K # 164K, P:288K)
+[10] 0.001407 -0.001149 (1) CM +J(CM:1, PgRf:40, Rd:0/1, Dy:0/0, Lg:0/0) +M(C:0K, Fs:9, WS:36K # 12K, PF:96K # 96K, P:96K)
+[11] 0.000033 +J(CM:0, PgRf:1, Rd:0/0, Dy:0/0, Lg:0/0) +M(C:0K, Fs:2, WS:8K # 8K, PF:0K # 0K, P:0K)
+[12] 0.000047 +J(CM:0, PgRf:42, Rd:0/0, Dy:0/0, Lg:0/0) +M(C:0K, Fs:3, WS:12K # 12K, PF:0K # 0K, P:0K)
+[13] 0.0 +J(0)
+[14] 0.0 +J(0)
+[15] 0.000006 +J(CM:0, PgRf:1, Rd:0/0, Dy:0/0, Lg:0/0).
+
+Event[20]:
+  Log Name: Application
+  Source: Microsoft-Windows-MSDTC 2
+  Date: 2025-07-06T15:56:01.4070000Z
+  Event ID: 4202
+  Task: TM
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: Lab-ZZ
+  Description: 
+MSDTC started with the following settings:
+
+ Security Configuration (OFF = 0 and ON = 1):
+ Allow Remote Administrator = 0,
+ Network Clients = 0,
+ Transaction Manager Communication: 
+ Allow Inbound Transactions = 0,
+ Allow Outbound Transactions = 0,
+ Transaction Internet Protocol (TIP) = 0,
+  Enable XA Transactions = 0,
+  Enable SNA LU 6.2 Transactions = 1,
+  MSDTC Communications Security = Mutual Authentication Required,
+ Account = NT AUTHORITY\NetworkService,
+  Firewall Exclusion Detected = 0
+
+ Transaction Bridge Installed = 0
+ Filtering Duplicate Events = 1
+
+
+Event[21]:
+  Log Name: Application
+  Source: VMUpgradeHelper
+  Date: 2025-07-06T15:56:02.0010000Z
+  Event ID: 271
+  Task: N/A
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: Lab-ZZ
+  Description: 
+Restored network configuration.
+
+Event[22]:
+  Log Name: Application
+  Source: SecurityCenter
+  Date: 2025-07-06T15:56:02.4700000Z
+  Event ID: 15
+  Task: N/A
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: Lab-ZZ
+  Description: 
+Updated Cortex XDR™ Advanced Endpoint Protection status successfully to SECURITY_PRODUCT_STATE_ON.
+
+Event[23]:
+  Log Name: Application
+  Source: Microsoft-Windows-Search
+  Date: 2025-07-06T15:56:13.0170000Z
+  Event ID: 1003
+  Task: Search service
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: Lab-ZZ
+  Description: 
+The Windows Search Service started.
+
+
+Event[24]:
+  Log Name: Application
+  Source: edgeupdate
+  Date: 2025-07-06T15:58:03.5700000Z
+  Event ID: 0
+  Task: N/A
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: Lab-ZZ
+  Description: 
+Service stopped.
+
+Event[25]:
+  Log Name: Application
+  Source: Microsoft-Windows-Security-SPP
+  Date: 2025-07-06T15:58:44.2890000Z
+  Event ID: 900
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: Lab-ZZ
+  Description: 
+The Software Protection service is starting.
+Parameters:<explicit>
+
+Event[26]:
+  Log Name: Application
+  Source: Microsoft-Windows-Security-SPP
+  Date: 2025-07-06T15:59:02.8150000Z
+  Event ID: 16394
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: Lab-ZZ
+  Description: 
+Offline downlevel migration succeeded.
+
+Event[27]:
+  Log Name: Application
+  Source: Microsoft-Windows-Security-SPP
+  Date: 2025-07-06T15:59:10.0870000Z
+  Event ID: 1066
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: Lab-ZZ
+  Description: 
+Initialization status for service objects.
+C:\Windows\system32\sppwinob.dll, msft:spp/windowsfunctionality/agent/7.0, 0x00000000, 0x00000000
+C:\Windows\system32\sppobjs.dll, msft:rm/algorithm/inherited/1.0, 0x00000000, 0x00000000
+C:\Windows\system32\sppobjs.dll, msft:rm/algorithm/phone/1.0, 0x00000000, 0x00000000
+C:\Windows\system32\sppobjs.dll, msft:rm/algorithm/pkey/detect, 0x00000000, 0x00000000
+C:\Windows\system32\sppobjs.dll, msft:spp/ActionScheduler/1.0, 0x00000000, 0x00000000
+C:\Windows\system32\sppobjs.dll, msft:spp/TaskScheduler/1.0, 0x00000000, 0x00000000
+C:\Windows\system32\sppobjs.dll, msft:spp/statecollector/pkey, 0x00000000, 0x00000000
+C:\Windows\system32\sppobjs.dll, msft:spp/volume/services/kms/1.0, 0x00000000, 0x00000000
+C:\Windows\system32\sppobjs.dll, msft:spp/volume/services/kms/activationinfo/1.0, 0x00000000, 0x00000000
+
+
+Event[28]:
+  Log Name: Application
+  Source: Microsoft-Windows-Security-SPP
+  Date: 2025-07-06T15:59:10.3680000Z
+  Event ID: 1003
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: Lab-ZZ
+  Description: 
+The Software Protection service has completed licensing status check.
+Application Id=55c92734-d682-4d71-983e-d6ec3f16059f
+Licensing Status=
+1: 040fa323-92b1-4baf-97a2-5b67feaefddb, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+2: 0724cb7d-3437-4cb7-93cb-830375d0079d, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+3: 0ad2ac98-7bb9-4201-8d92-312299201369, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+4: 1a9a717a-cf13-4ba5-83c3-0fe25fa868d5, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+5: 221a02da-e2a1-4b75-864c-0a4410a33fdf, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+6: 291ece0e-9c38-40ca-a9e1-32cc7ec19507, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+7: 2936d1d2-913a-4542-b54e-ce5a602a2a38, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+8: 2c293c26-a45a-4a2a-a350-c69a67097529, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+9: 2de67392-b7a7-462a-b1ca-108dd189f588, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+10: 2ffd8952-423e-4903-b993-72a1aa44cf82, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+11: 30a42c86-b7a0-4a34-8c90-ff177cb2acb7, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+12: 345a5db0-d94f-4e3b-a0c0-7c42f7bc3ebf, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+13: 3502365a-f88a-4ba4-822a-5769d3073b65, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+14: 377333b1-8b5d-48d6-9679-1225c872d37c, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+15: 3df374ef-d444-4494-a5a1-4b0d9fd0e203, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+16: 3f1afc82-f8ac-4f6c-8005-1d233e606eee, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+17: 49cd895b-53b2-4dc4-a5f7-b18aa019ad37, 1, 1 [(0 )(1 )(2 [0x00000000, 1, 0], [(?)( 1 0x00000000)(?)(?)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)(?)])(3 )]
+18: 4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+19: 4f3da0d2-271d-4508-ae81-626b60809a38, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+20: 60b3ec1b-9545-4921-821f-311b129dd6f6, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+21: 613d217f-7f13-4268-9907-1662339531cd, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+22: 62f0c100-9c53-4e02-b886-a3528ddfe7f6, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+23: 6365275e-368d-46ca-a0ef-fc0404119333, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+24: 721f9237-9341-4453-a661-09e8baa6cca5, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+25: 73111121-5638-40f6-bc11-f1d7b0d64300, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+26: 7a802526-4c94-4bd1-ba14-835a1aca2120, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+27: 7cb546c0-c7d5-44d8-9a5c-69ecdd782b69, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+28: 82bbc092-bc50-4e16-8e18-b74fc486aec3, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+29: 8ab9bdd1-1f67-4997-82d9-8878520837d9, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+30: 8b351c9c-f398-4515-9900-09df49427262, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+31: 90da7373-1c51-430b-bf26-c97e9c5cdc31, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+32: 95dca82f-385d-4d39-b85b-5c73fa285d6f, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+33: a48938aa-62fa-4966-9d44-9f04da3f72f2, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+34: b0773a15-df3a-4312-9ad2-83d69648e356, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+35: b4bfe195-541e-4e64-ad23-6177f19e395e, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+36: b68e61d2-68ca-4757-be45-0cc2f3e68eee, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+37: bd3762d7-270d-4760-8fb3-d829ca45278a, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+38: c86d5194-4840-4dae-9c1c-0301003a5ab0, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+39: d552befb-48cc-4327-8f39-47d2d94f987c, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+40: d6eadb3b-5ca8-4a6b-986e-35b550756111, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+41: df96023b-dcd9-4be2-afa0-c6c871159ebe, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+42: e0c42288-980c-4788-a014-c080d2e1926e, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+43: e4db50ea-bda1-4566-b047-0ca50abc6f07, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+44: e558417a-5123-4f6f-91e7-385c1c7ca9d4, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+45: e7a950a2-e548-4f10-bf16-02ec848e0643, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+46: eb6d346f-1c60-4643-b960-40ec31596c45, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+47: ec868e65-fadf-4759-b23e-93fe37f2cc29, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+48: ef51e000-2659-4f25-8345-3de70a9cf4c4, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+49: f7af7d09-40e4-419c-a49b-eae366689ebd, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+50: fa755fe6-6739-40b9-8d84-6d0ea3b6d1ab, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+51: fe74f55b-0338-41d6-b267-4a201abe7285, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+52: 0427ae42-b454-442d-b69a-d938b6a3bcdc, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+53: 0b533b5e-08b6-44f9-b885-c2de291ba456, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+54: 0c2ce8ac-7989-4e40-b934-068d8d71dd72, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+55: 1043add5-23b1-4afb-9a0f-64343c8f3f8d, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+56: 14240489-7c2d-42ee-a167-4913ca4672da, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+57: 1d9c9529-17be-48f7-bba5-a16ed636cfcb, 0, 0 [0xC004F055]
+58: 2bd41139-19ec-49e9-8271-db6f9fe0052d, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+59: 4acda200-3f2b-4b73-9839-f3603f99e7cd, 0, 0 [0xC004F055]
+60: 4dac5a0c-5709-4595-a32c-14a56a4a6b31, 0, 0 [0xC004F055]
+61: 5f1b1317-625e-4b1c-8d22-4bd93e3ae14e, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+62: 75863c7d-946f-4ff2-a07c-5551dedd1e15, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+63: 7b76ee02-0a75-4f08-85d5-bd0feadad0c0, 0, 0 [0xC004F055]
+64: 83d49986-add3-41d7-ba33-87c7bfb5c0fb, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+65: 84b9b0fc-b69d-42a6-a21d-9e0ce4125f7e, 0, 0 [0xC004F055]
+66: 8fe12eb1-a7ab-4410-83fb-9f6dbcb4a574, 0, 0 [0xC004F055]
+67: 909aa75d-43ee-413c-9030-c62e43287cf8, 0, 0 [0xC004F055]
+68: a6da5617-cb89-4acb-beb5-ccdbb871c922, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+69: a9fa3c71-7f63-4ea0-94be-1de2eab0a4d1, 0, 0 [0xC004F055]
+70: b705d67e-527a-4f11-b904-7be441066a22, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+71: b8527af1-5389-447c-9a88-2d1691ea33d3, 0, 0 [0xC004F055]
+72: e5fbdd17-c03d-4bed-9567-c60dee82f47e, 0, 0 [0xC004F055]
+73: ed6568de-daeb-4b01-9c4a-5f89018125d8, 0, 0 [0xC004F055]
+74: f520e45e-7413-4a34-a497-d2765967d094, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+75: f69e2d51-3bbd-4ddf-8da7-a145e9dca597, 0, 0 [0xC004F055]
+
+
+
+Event[29]:
+  Log Name: Application
+  Source: Microsoft-Windows-Security-SPP
+  Date: 2025-07-06T15:59:10.7120000Z
+  Event ID: 902
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: Lab-ZZ
+  Description: 
+The Software Protection service has started.
+10.0.19041.5965
+
+Event[30]:
+  Log Name: Application
+  Source: Microsoft-Windows-Security-SPP
+  Date: 2025-07-06T15:59:40.9300000Z
+  Event ID: 16384
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: Lab-ZZ
+  Description: 
+Successfully scheduled Software Protection service for re-start at 2125-06-12T18:59:40Z. Reason: RulesEngine.
+
+Event[31]:
+  Log Name: Application
+  Source: Microsoft-Windows-Security-SPP
+  Date: 2025-07-06T15:59:40.9620000Z
+  Event ID: 903
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: Lab-ZZ
+  Description: 
+The Software Protection service has stopped.
+
+
+Event[32]:
+  Log Name: Application
+  Source: Microsoft-Windows-Security-SPP
+  Date: 2025-07-06T16:00:14.6340000Z
+  Event ID: 16394
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: Lab-ZZ
+  Description: 
+Offline downlevel migration succeeded.
+
+Event[33]:
+  Log Name: Application
+  Source: Microsoft-Windows-Security-SPP
+  Date: 2025-07-06T16:00:45.2340000Z
+  Event ID: 16384
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: Lab-ZZ
+  Description: 
+Successfully scheduled Software Protection service for re-start at 2125-06-12T19:00:45Z. Reason: RulesEngine.
+
+Event[34]:
+  Log Name: Application
+  Source: Microsoft-Windows-Security-SPP
+  Date: 2025-07-06T16:01:38.9990000Z
+  Event ID: 16394
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: Lab-ZZ
+  Description: 
+Offline downlevel migration succeeded.
+
+Event[35]:
+  Log Name: Application
+  Source: VSS
+  Date: 2025-07-06T16:01:53.1570000Z
+  Event ID: 8224
+  Task: N/A
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: Lab-ZZ
+  Description: 
+The VSS service is shutting down due to idle timeout. 
+
+Event[36]:
+  Log Name: Application
+  Source: Microsoft-Windows-Security-SPP
+  Date: 2025-07-06T16:02:09.5640000Z
+  Event ID: 16384
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: Lab-ZZ
+  Description: 
+Successfully scheduled Software Protection service for re-start at 2125-06-12T19:02:09Z. Reason: RulesEngine.
+
+Event[37]:
+  Log Name: Application
+  Source: Microsoft-Windows-Security-SPP
+  Date: 2025-07-06T16:04:08.4360000Z
+  Event ID: 16394
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: Lab-ZZ
+  Description: 
+Offline downlevel migration succeeded.
+
+Event[38]:
+  Log Name: Application
+  Source: Microsoft-Windows-Security-SPP
+  Date: 2025-07-06T16:04:45.1710000Z
+  Event ID: 16384
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: Lab-ZZ
+  Description: 
+Successfully scheduled Software Protection service for re-start at 2125-06-12T19:04:45Z. Reason: RulesEngine.
+
+Event[39]:
+  Log Name: Application
+  Source: VSS
+  Date: 2025-07-06T16:29:53.7060000Z
+  Event ID: 8224
+  Task: N/A
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: Lab-ZZ
+  Description: 
+The VSS service is shutting down due to idle timeout. 
+
+Event[40]:
+  Log Name: Application
+  Source: Chrome
+  Date: 2025-07-06T16:35:59.5150000Z
+  Event ID: 256
+  Task: Browser Events
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: S-1-5-21-3560290119-491806085-1914595769-1000
+  User Name: Lab-ZZ\client
+  Computer: Lab-ZZ
+  Description: 
+[6048:6172:0706/163559.457:INFO:chrome\browser\extensions\extension_garbage_collector.cc:184] Garbage collection for extensions on file thread is complete.
+
+Event[41]:
+  Log Name: Application
+  Source: Microsoft-Windows-Winlogon
+  Date: 2025-07-06T16:40:05.1050000Z
+  Event ID: 6000
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: Lab-ZZ
+  Description: 
+The winlogon notification subscriber <WSearch> was unavailable to handle a notification event.
+
+Event[42]:
+  Log Name: Application
+  Source: Microsoft-Windows-Winlogon
+  Date: 2025-07-06T16:40:05.3080000Z
+  Event ID: 6000
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: Lab-ZZ
+  Description: 
+The winlogon notification subscriber <SessionEnv> was unavailable to handle a notification event.
+
+Event[43]:
+  Log Name: Application
+  Source: VMUpgradeHelper
+  Date: 2025-07-06T16:40:05.5890000Z
+  Event ID: 260
+  Task: N/A
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: Lab-ZZ
+  Description: 
+Saving network configuration.
+
+Event[44]:
+  Log Name: Application
+  Source: VMUpgradeHelper
+  Date: 2025-07-06T16:40:05.5890000Z
+  Event ID: 272
+  Task: N/A
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: Lab-ZZ
+  Description: 
+Saved network configuration.
+
+Event[45]:
+  Log Name: Application
+  Source: VMTools
+  Date: 2025-07-06T16:40:05.5890000Z
+  Event ID: 108
+  Task: N/A
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: Lab-ZZ
+  Description: 
+The service was stopped.
+
+Event[46]:
+  Log Name: Application
+  Source: Microsoft-Windows-MSDTC
+  Date: 2025-07-06T16:40:07.8240000Z
+  Event ID: 4111
+  Task: SVC
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: Lab-ZZ
+  Description: 
+The MS DTC service is stopping.
+
+Event[47]:
+  Log Name: Application
+  Source: Microsoft-Windows-User Profiles Service
+  Date: 2025-07-06T16:40:07.8820000Z
+  Event ID: 1532
+  Task: N/A
+  Level: Information
+  Opcode: Info
+  Keyword: N/A
+  User: S-1-5-18
+  User Name: NT AUTHORITY\SYSTEM
+  Computer: Lab-ZZ
+  Description: 
+The User Profile Service has stopped.  
+
+
+
+Event[48]:
+  Log Name: Application
+  Source: Microsoft-Windows-User Profiles Service
+  Date: 2025-07-06T16:40:34.3360000Z
+  Event ID: 1531
+  Task: N/A
+  Level: Information
+  Opcode: Info
+  Keyword: N/A
+  User: S-1-5-18
+  User Name: NT AUTHORITY\SYSTEM
+  Computer: Lab-ZZ
+  Description: 
+The User Profile Service has started successfully.  
+
+
+
+Event[49]:
+  Log Name: Application
+  Source: Microsoft-Windows-EventSystem
+  Date: 2025-07-06T16:40:34.6340000Z
+  Event ID: 4625
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: Lab-ZZ
+  Description: 
+The EventSystem sub system is suppressing duplicate event log entries for a duration of 86400 seconds.  The suppression timeout can be controlled by a REG_DWORD value named SuppressDuplicateDuration under the following registry key: HKLM\Software\Microsoft\EventSystem\EventLog.
+
+Event[50]:
+  Log Name: Application
+  Source: Microsoft-Windows-Winlogon
+  Date: 2025-07-06T16:40:38.3230000Z
+  Event ID: 6003
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: Lab-ZZ
+  Description: 
+The winlogon notification subscriber <SessionEnv> was unavailable to handle a critical notification event.
+
+Event[51]:
+  Log Name: Application
+  Source: VMTools
+  Date: 2025-07-06T16:40:41.2920000Z
+  Event ID: 105
+  Task: N/A
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: Lab-ZZ
+  Description: 
+The service was started.
+
+Event[52]:
+  Log Name: Application
+  Source: Microsoft-Windows-WMI
+  Date: 2025-07-06T16:40:40.4290000Z
+  Event ID: 5615
+  Task: N/A
+  Level: Information
+  Opcode: Info
+  Keyword: N/A
+  User: S-1-5-18
+  User Name: NT AUTHORITY\SYSTEM
+  Computer: Lab-ZZ
+  Description: 
+Windows Management Instrumentation Service started sucessfully
+
+Event[53]:
+  Log Name: Application
+  Source: Microsoft-Windows-WMI
+  Date: 2025-07-06T16:40:43.6480000Z
+  Event ID: 5617
+  Task: N/A
+  Level: Information
+  Opcode: Info
+  Keyword: N/A
+  User: S-1-5-18
+  User Name: NT AUTHORITY\SYSTEM
+  Computer: Lab-ZZ
+  Description: 
+Windows Management Instrumentation Service subsystems initialized successfully
+
+Event[54]:
+  Log Name: Application
+  Source: SecurityCenter
+  Date: 2025-07-06T16:40:45.7610000Z
+  Event ID: 1
+  Task: N/A
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: Lab-ZZ
+  Description: 
+The Windows Security Center Service has started.
+
+Event[55]:
+  Log Name: Application
+  Source: Microsoft-Windows-Complus
+  Date: 2025-07-06T16:40:46.3230000Z
+  Event ID: 781
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: Lab-ZZ
+  Description: 
+The COM+ sub system is suppressing duplicate event log entries for a duration of 86400 seconds.  The suppression timeout can be controlled by a REG_DWORD value named SuppressDuplicateDuration under the following registry key: HKLM\Software\Microsoft\COM3\Eventlog.
+
+Event[56]:
+  Log Name: Application
+  Source: ESENT
+  Date: 2025-07-06T16:40:48.8230000Z
+  Event ID: 102
+  Task: General
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: Lab-ZZ
+  Description: 
+SearchIndexer (4792,P,98) Windows: The database engine (10.00.19045.0000) is starting a new instance (0).
+
+Event[57]:
+  Log Name: Application
+  Source: VMUpgradeHelper
+  Date: 2025-07-06T16:40:48.8540000Z
+  Event ID: 258
+  Task: N/A
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: Lab-ZZ
+  Description: 
+Restoring network configuration.
+
+Event[58]:
+  Log Name: Application
+  Source: Microsoft-Windows-Winlogon
+  Date: 2025-07-06T16:40:49.0570000Z
+  Event ID: 6000
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: Lab-ZZ
+  Description: 
+The winlogon notification subscriber <SessionEnv> was unavailable to handle a notification event.
+
+Event[59]:
+  Log Name: Application
+  Source: ESENT
+  Date: 2025-07-06T16:40:49.1980000Z
+  Event ID: 105
+  Task: General
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: Lab-ZZ
+  Description: 
+SearchIndexer (4792,D,0) Windows: The database engine started a new instance (0). (Time=1 seconds) 
+ 
+Additional Data:
+  
+ 
+Internal Timing Sequence: 
+[1] 1.101814 +J(0) +M(C:0K, Fs:246, WS:960K # 960K, PF:5096K # 5096K, P:5096K)
+[2] 0.000613 +J(0) +M(C:0K, Fs:110, WS:440K # 440K, PF:388K # 388K, P:388K)
+[3] 0.113912 +J(0) +M(C:0K, Fs:12, WS:44K # 44K, PF:68K # 68K, P:68K)
+[4] 0.000197 +J(0) +M(C:0K, Fs:24, WS:96K # 96K, PF:348K # 348K, P:348K)
+[5] 0.001359 +J(0) +M(C:0K, Fs:10, WS:40K # 40K, PF:20K # 20K, P:20K)
+[6] 0.020026 +J(0) +M(C:0K, Fs:26, WS:104K # 104K, PF:16K # 16K, P:16K)
+[7] 0.341013 -0.160029 (2) WT +J(0) +M(C:0K, Fs:271, WS:1080K # 1080K, PF:1028K # 1028K, P:1028K)
+[8] -
+[9] -
+[10] -
+[11] -
+[12] -
+[13] 0.021938 -0.007362 (1) WT +J(CM:0, PgRf:0, Rd:0/0, Dy:0/0, Lg:616/1) +M(C:0K, Fs:11, WS:-988K # 24K, PF:-1024K # 12K, P:-1024K)
+[14] 0.000017 +J(0) +M(C:0K, Fs:1, WS:4K # 0K, PF:0K # 0K, P:0K)
+[15] 0.000148 +J(0) +M(C:0K, Fs:65, WS:256K # 0K, PF:68K # 0K, P:68K)
+[16] 0.000317 +J(0) +M(C:0K, Fs:3, WS:4K # 0K, PF:0K # 0K, P:0K).
+
+Event[60]:
+  Log Name: Application
+  Source: VMUpgradeHelper
+  Date: 2025-07-06T16:40:49.4170000Z
+  Event ID: 271
+  Task: N/A
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: Lab-ZZ
+  Description: 
+Restored network configuration.
+
+Event[61]:
+  Log Name: Application
+  Source: ESENT
+  Date: 2025-07-06T16:40:51.3230000Z
+  Event ID: 326
+  Task: General
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: Lab-ZZ
+  Description: 
+SearchIndexer (4792,D,50) Windows: The database engine attached a database (1, C:\ProgramData\Microsoft\Search\Data\Applications\Windows\Windows.edb). (Time=2 seconds) 
+ 
+Saved Cache: 0 0 
+Additional Data: lgposAttach = 00000039:0061:0268,
+dbv = 1568.110.240 
+ 
+Internal Timing Sequence: 
+[1] 0.000008 +J(0) +M(C:0K, Fs:1, WS:4K # 0K, PF:0K # 0K, P:0K)
+[2] 0.005657 -0.005173 (1) WT +J(0) +M(C:0K, Fs:26, WS:40K # 0K, PF:32K # 0K, P:32K)
+[3] 1.134036 -0.615427 (6) WT +J(CM:0, PgRf:0, Rd:0/0, Dy:0/0, Lg:3480/2) +M(C:0K, Fs:40, WS:128K # 0K, PF:140K # 0K, P:140K)
+[4] 0.000289 +J(0) +M(C:0K, Fs:1, WS:4K # 0K, PF:0K # 0K, P:0K)
+[5] -
+[6] -
+[7] -
+[8] 0.676540 -0.508284 (2) CM +J(CM:2, PgRf:2, Rd:14/2, Dy:0/0, Lg:54/1) +M(C:0K, Fs:48, WS:188K # 0K, PF:684K # 0K, P:684K)
+[9] 0.301198 -0.001052 (5) CM -0.299470 (1) WT +J(CM:5, PgRf:23, Rd:0/5, Dy:0/0, Lg:0/0) +M(C:0K, Fs:70, WS:276K # 0K, PF:268K # 160K, P:268K)
+[10] 0.000606 -0.000384 (1) CM +J(CM:1, PgRf:40, Rd:0/1, Dy:0/0, Lg:0/0) +M(C:0K, Fs:9, WS:36K # 12K, PF:96K # 96K, P:96K)
+[11] 0.000013 +J(CM:0, PgRf:1, Rd:0/0, Dy:0/0, Lg:0/0) +M(C:0K, Fs:2, WS:8K # 8K, PF:0K # 0K, P:0K)
+[12] 0.000032 +J(CM:0, PgRf:42, Rd:0/0, Dy:0/0, Lg:0/0) +M(C:0K, Fs:3, WS:12K # 12K, PF:0K # 0K, P:0K)
+[13] 0.0 +J(0)
+[14] 0.0 +J(0)
+[15] 0.000004 +J(CM:0, PgRf:1, Rd:0/0, Dy:0/0, Lg:0/0).
+
+Event[62]:
+  Log Name: Application
+  Source: SecurityCenter
+  Date: 2025-07-06T16:40:52.0260000Z
+  Event ID: 15
+  Task: N/A
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: Lab-ZZ
+  Description: 
+Updated Cortex XDR™ Advanced Endpoint Protection status successfully to SECURITY_PRODUCT_STATE_ON.
+
+Event[63]:
+  Log Name: Application
+  Source: Microsoft-Windows-Search
+  Date: 2025-07-06T16:40:55.3540000Z
+  Event ID: 1003
+  Task: Search service
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: Lab-ZZ
+  Description: 
+The Windows Search Service started.
+
+
+Event[64]:
+  Log Name: Application
+  Source: Microsoft-Windows-MSDTC 2
+  Date: 2025-07-06T16:40:58.0260000Z
+  Event ID: 4202
+  Task: TM
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: Lab-ZZ
+  Description: 
+MSDTC started with the following settings:
+
+ Security Configuration (OFF = 0 and ON = 1):
+ Allow Remote Administrator = 0,
+ Network Clients = 0,
+ Transaction Manager Communication: 
+ Allow Inbound Transactions = 0,
+ Allow Outbound Transactions = 0,
+ Transaction Internet Protocol (TIP) = 0,
+  Enable XA Transactions = 0,
+  Enable SNA LU 6.2 Transactions = 1,
+  MSDTC Communications Security = Mutual Authentication Required,
+ Account = NT AUTHORITY\NetworkService,
+  Firewall Exclusion Detected = 0
+
+ Transaction Bridge Installed = 0
+ Filtering Duplicate Events = 1
+
+
+Event[65]:
+  Log Name: Application
+  Source: edgeupdate
+  Date: 2025-07-06T16:42:50.1750000Z
+  Event ID: 0
+  Task: N/A
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: Lab-ZZ
+  Description: 
+Service stopped.
+
+Event[66]:
+  Log Name: Application
+  Source: Microsoft-Windows-Security-SPP
+  Date: 2025-07-06T16:42:52.4410000Z
+  Event ID: 900
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: Lab-ZZ
+  Description: 
+The Software Protection service is starting.
+Parameters:<explicit>
+
+Event[67]:
+  Log Name: Application
+  Source: Microsoft-Windows-Security-SPP
+  Date: 2025-07-06T16:42:55.9090000Z
+  Event ID: 16394
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: Lab-ZZ
+  Description: 
+Offline downlevel migration succeeded.
+
+Event[68]:
+  Log Name: Application
+  Source: Microsoft-Windows-Security-SPP
+  Date: 2025-07-06T16:42:55.9720000Z
+  Event ID: 1066
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: Lab-ZZ
+  Description: 
+Initialization status for service objects.
+C:\Windows\system32\sppwinob.dll, msft:spp/windowsfunctionality/agent/7.0, 0x00000000, 0x00000000
+C:\Windows\system32\sppobjs.dll, msft:rm/algorithm/inherited/1.0, 0x00000000, 0x00000000
+C:\Windows\system32\sppobjs.dll, msft:rm/algorithm/phone/1.0, 0x00000000, 0x00000000
+C:\Windows\system32\sppobjs.dll, msft:rm/algorithm/pkey/detect, 0x00000000, 0x00000000
+C:\Windows\system32\sppobjs.dll, msft:spp/ActionScheduler/1.0, 0x00000000, 0x00000000
+C:\Windows\system32\sppobjs.dll, msft:spp/TaskScheduler/1.0, 0x00000000, 0x00000000
+C:\Windows\system32\sppobjs.dll, msft:spp/statecollector/pkey, 0x00000000, 0x00000000
+C:\Windows\system32\sppobjs.dll, msft:spp/volume/services/kms/1.0, 0x00000000, 0x00000000
+C:\Windows\system32\sppobjs.dll, msft:spp/volume/services/kms/activationinfo/1.0, 0x00000000, 0x00000000
+
+
+Event[69]:
+  Log Name: Application
+  Source: Microsoft-Windows-Security-SPP
+  Date: 2025-07-06T16:42:56.2530000Z
+  Event ID: 1003
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: Lab-ZZ
+  Description: 
+The Software Protection service has completed licensing status check.
+Application Id=55c92734-d682-4d71-983e-d6ec3f16059f
+Licensing Status=
+1: 040fa323-92b1-4baf-97a2-5b67feaefddb, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+2: 0724cb7d-3437-4cb7-93cb-830375d0079d, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+3: 0ad2ac98-7bb9-4201-8d92-312299201369, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+4: 1a9a717a-cf13-4ba5-83c3-0fe25fa868d5, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+5: 221a02da-e2a1-4b75-864c-0a4410a33fdf, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+6: 291ece0e-9c38-40ca-a9e1-32cc7ec19507, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+7: 2936d1d2-913a-4542-b54e-ce5a602a2a38, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+8: 2c293c26-a45a-4a2a-a350-c69a67097529, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+9: 2de67392-b7a7-462a-b1ca-108dd189f588, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+10: 2ffd8952-423e-4903-b993-72a1aa44cf82, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+11: 30a42c86-b7a0-4a34-8c90-ff177cb2acb7, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+12: 345a5db0-d94f-4e3b-a0c0-7c42f7bc3ebf, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+13: 3502365a-f88a-4ba4-822a-5769d3073b65, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+14: 377333b1-8b5d-48d6-9679-1225c872d37c, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+15: 3df374ef-d444-4494-a5a1-4b0d9fd0e203, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+16: 3f1afc82-f8ac-4f6c-8005-1d233e606eee, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+17: 49cd895b-53b2-4dc4-a5f7-b18aa019ad37, 1, 1 [(0 )(1 )(2 [0x00000000, 1, 0], [(?)( 1 0x00000000)(?)(?)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)(?)])(3 )]
+18: 4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+19: 4f3da0d2-271d-4508-ae81-626b60809a38, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+20: 60b3ec1b-9545-4921-821f-311b129dd6f6, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+21: 613d217f-7f13-4268-9907-1662339531cd, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+22: 62f0c100-9c53-4e02-b886-a3528ddfe7f6, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+23: 6365275e-368d-46ca-a0ef-fc0404119333, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+24: 721f9237-9341-4453-a661-09e8baa6cca5, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+25: 73111121-5638-40f6-bc11-f1d7b0d64300, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+26: 7a802526-4c94-4bd1-ba14-835a1aca2120, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+27: 7cb546c0-c7d5-44d8-9a5c-69ecdd782b69, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+28: 82bbc092-bc50-4e16-8e18-b74fc486aec3, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+29: 8ab9bdd1-1f67-4997-82d9-8878520837d9, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+30: 8b351c9c-f398-4515-9900-09df49427262, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+31: 90da7373-1c51-430b-bf26-c97e9c5cdc31, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+32: 95dca82f-385d-4d39-b85b-5c73fa285d6f, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+33: a48938aa-62fa-4966-9d44-9f04da3f72f2, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+34: b0773a15-df3a-4312-9ad2-83d69648e356, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+35: b4bfe195-541e-4e64-ad23-6177f19e395e, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+36: b68e61d2-68ca-4757-be45-0cc2f3e68eee, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+37: bd3762d7-270d-4760-8fb3-d829ca45278a, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+38: c86d5194-4840-4dae-9c1c-0301003a5ab0, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+39: d552befb-48cc-4327-8f39-47d2d94f987c, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+40: d6eadb3b-5ca8-4a6b-986e-35b550756111, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+41: df96023b-dcd9-4be2-afa0-c6c871159ebe, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+42: e0c42288-980c-4788-a014-c080d2e1926e, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+43: e4db50ea-bda1-4566-b047-0ca50abc6f07, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+44: e558417a-5123-4f6f-91e7-385c1c7ca9d4, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+45: e7a950a2-e548-4f10-bf16-02ec848e0643, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+46: eb6d346f-1c60-4643-b960-40ec31596c45, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+47: ec868e65-fadf-4759-b23e-93fe37f2cc29, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+48: ef51e000-2659-4f25-8345-3de70a9cf4c4, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+49: f7af7d09-40e4-419c-a49b-eae366689ebd, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+50: fa755fe6-6739-40b9-8d84-6d0ea3b6d1ab, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+51: fe74f55b-0338-41d6-b267-4a201abe7285, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+52: 0427ae42-b454-442d-b69a-d938b6a3bcdc, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+53: 0b533b5e-08b6-44f9-b885-c2de291ba456, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+54: 0c2ce8ac-7989-4e40-b934-068d8d71dd72, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+55: 1043add5-23b1-4afb-9a0f-64343c8f3f8d, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+56: 14240489-7c2d-42ee-a167-4913ca4672da, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+57: 1d9c9529-17be-48f7-bba5-a16ed636cfcb, 0, 0 [0xC004F055]
+58: 2bd41139-19ec-49e9-8271-db6f9fe0052d, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+59: 4acda200-3f2b-4b73-9839-f3603f99e7cd, 0, 0 [0xC004F055]
+60: 4dac5a0c-5709-4595-a32c-14a56a4a6b31, 0, 0 [0xC004F055]
+61: 5f1b1317-625e-4b1c-8d22-4bd93e3ae14e, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+62: 75863c7d-946f-4ff2-a07c-5551dedd1e15, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+63: 7b76ee02-0a75-4f08-85d5-bd0feadad0c0, 0, 0 [0xC004F055]
+64: 83d49986-add3-41d7-ba33-87c7bfb5c0fb, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+65: 84b9b0fc-b69d-42a6-a21d-9e0ce4125f7e, 0, 0 [0xC004F055]
+66: 8fe12eb1-a7ab-4410-83fb-9f6dbcb4a574, 0, 0 [0xC004F055]
+67: 909aa75d-43ee-413c-9030-c62e43287cf8, 0, 0 [0xC004F055]
+68: a6da5617-cb89-4acb-beb5-ccdbb871c922, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+69: a9fa3c71-7f63-4ea0-94be-1de2eab0a4d1, 0, 0 [0xC004F055]
+70: b705d67e-527a-4f11-b904-7be441066a22, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+71: b8527af1-5389-447c-9a88-2d1691ea33d3, 0, 0 [0xC004F055]
+72: e5fbdd17-c03d-4bed-9567-c60dee82f47e, 0, 0 [0xC004F055]
+73: ed6568de-daeb-4b01-9c4a-5f89018125d8, 0, 0 [0xC004F055]
+74: f520e45e-7413-4a34-a497-d2765967d094, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+75: f69e2d51-3bbd-4ddf-8da7-a145e9dca597, 0, 0 [0xC004F055]
+
+
+
+Event[70]:
+  Log Name: Application
+  Source: Microsoft-Windows-Security-SPP
+  Date: 2025-07-06T16:42:56.6280000Z
+  Event ID: 902
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: Lab-ZZ
+  Description: 
+The Software Protection service has started.
+10.0.19041.5965
+
+Event[71]:
+  Log Name: Application
+  Source: Microsoft-Windows-Security-SPP
+  Date: 2025-07-06T16:43:57.7530000Z
+  Event ID: 16384
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: Lab-ZZ
+  Description: 
+Successfully scheduled Software Protection service for re-start at 2125-06-12T19:43:56Z. Reason: RulesEngine.
+
+Event[72]:
+  Log Name: Application
+  Source: Microsoft-Windows-Security-SPP
+  Date: 2025-07-06T16:43:57.8000000Z
+  Event ID: 903
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: Lab-ZZ
+  Description: 
+The Software Protection service has stopped.
+
+
+Event[73]:
+  Log Name: Application
+  Source: Microsoft-Windows-Security-SPP
+  Date: 2025-07-06T16:44:18.6120000Z
+  Event ID: 16394
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: Lab-ZZ
+  Description: 
+Offline downlevel migration succeeded.
+
+Event[74]:
+  Log Name: Application
+  Source: Microsoft-Windows-Security-SPP
+  Date: 2025-07-06T16:44:49.0970000Z
+  Event ID: 16384
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: Lab-ZZ
+  Description: 
+Successfully scheduled Software Protection service for re-start at 2125-06-12T19:44:49Z. Reason: RulesEngine.
+
+Event[75]:
+  Log Name: Application
+  Source: VSS
+  Date: 2025-07-06T16:45:52.2940000Z
+  Event ID: 8224
+  Task: N/A
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: Lab-ZZ
+  Description: 
+The VSS service is shutting down due to idle timeout. 
+
+Event[76]:
+  Log Name: Application
+  Source: Edge
+  Date: 2025-07-06T16:46:43.8810000Z
+  Event ID: 256
+  Task: Browser Events
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: S-1-5-21-3560290119-491806085-1914595769-1000
+  User Name: Lab-ZZ\client
+  Computer: Lab-ZZ
+  Description: 
+[8628:7240:0706/164643.881:INFO:chrome\browser\extensions\extension_garbage_collector.cc:184] Garbage collection for extensions on file thread is complete.
+
+Event[77]:
+  Log Name: Application
+  Source: Microsoft-Windows-Security-SPP
+  Date: 2025-07-06T16:47:24.8940000Z
+  Event ID: 16394
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: Lab-ZZ
+  Description: 
+Offline downlevel migration succeeded.
+
+Event[78]:
+  Log Name: Application
+  Source: Microsoft-Windows-Security-SPP
+  Date: 2025-07-06T16:47:25.3920000Z
+  Event ID: 1003
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: Lab-ZZ
+  Description: 
+The Software Protection service has completed licensing status check.
+Application Id=0ff1ce15-a989-479d-af46-f275c6370663
+Licensing Status=
+1: 28f64a3f-cf84-46da-b1e8-2dfa7750e491, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+2: 4c1d1588-3088-4796-b3b2-8935f3a0d886, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+3: 52287aa3-9945-44d1-9046-7a3373666821, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+4: 537ea5b5-7d50-4876-bd38-a53a77caca32, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+5: 77f47589-2212-4e3b-ad27-a900ce813837, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+6: 7ab38a1c-a803-4ca5-8ebb-f8786c4b4faa, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+7: 86af9220-9d6f-4575-bef0-619a9a6aa005, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+8: 951c0fe6-40a8-4400-8003-eec0686ffbc4, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+9: 95820f84-6e8c-4d22-b2ce-54953e9911bc, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+10: 96353198-443e-479d-9e80-9a6d72fd1a99, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+11: a96f8dae-da54-4fad-bdc6-108da592707a, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+12: ae9d158f-9450-4a0c-8c80-dd973c58357c, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+13: b4af11be-5f94-4d8f-9844-ce0d5e0d8680, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+14: b58a5943-16ea-420f-a611-7b230acd762c, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+15: c85fe025-b033-4f41-936b-b121521ba1c1, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+16: d7279dd0-e175-49fe-a623-8fc2fc00afc4, 1, 1 [(0 )(1 )(2 )(3 [0x00000000, 0, 0], [( 6 0xC004F009 5 0)( 1 0x00000000)( 6 0xC004F009 5 0)(?)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)( 11 0x00000000 0xC004F009)])]
+17: fb3540bc-a824-4c79-83da-6f6bd3ac6ccb, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+
+
+
+Event[79]:
+  Log Name: Application
+  Source: Microsoft-Windows-Security-SPP
+  Date: 2025-07-06T16:47:26.2330000Z
+  Event ID: 1003
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: Lab-ZZ
+  Description: 
+The Software Protection service has completed licensing status check.
+Application Id=0ff1ce15-a989-479d-af46-f275c6370663
+Licensing Status=
+1: d7279dd0-e175-49fe-a623-8fc2fc00afc4, 1, 1 [(0 )(1 )(2 )(3 [0x00000000, 0, 0], [( 6 0xC004F009 5 0)( 1 0x00000000)( 6 0xC004F009 5 0)(?)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)( 11 0x00000000 0xC004F009)])]
+
+
+
+Event[80]:
+  Log Name: Application
+  Source: Microsoft-Windows-Security-SPP
+  Date: 2025-07-06T16:47:57.1240000Z
+  Event ID: 16384
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: Lab-ZZ
+  Description: 
+Successfully scheduled Software Protection service for re-start at 2125-06-12T19:47:57Z. Reason: RulesEngine.
+
+Event[81]:
+  Log Name: Application
+  Source: MsiInstaller
+  Date: 2025-07-06T16:48:24.2700000Z
+  Event ID: 1040
+  Task: N/A
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: S-1-5-21-3560290119-491806085-1914595769-1000
+  User Name: Lab-ZZ\client
+  Computer: Lab-ZZ
+  Description: 
+Beginning a Windows Installer transaction: C:\ProgramData\Package Cache\{560D2DA4-096E-4868-B22A-DA6418FDE6FB}v14.40.33816\packages\vcRuntimeMinimum_amd64\vc_runtimeMinimum_x64.msi. Client Process Id: 2280.
+
+Event[82]:
+  Log Name: Application
+  Source: Microsoft-Windows-RestartManager
+  Date: 2025-07-06T16:48:24.8600000Z
+  Event ID: 10000
+  Task: N/A
+  Level: Information
+  Opcode: Info
+  Keyword: N/A
+  User: S-1-5-21-3560290119-491806085-1914595769-1000
+  User Name: Lab-ZZ\client
+  Computer: Lab-ZZ
+  Description: 
+Starting session 0 - ?2025?-?07?-?06T19:48:24.848127000Z.
+
+Event[83]:
+  Log Name: Application
+  Source: Microsoft-Windows-RestartManager
+  Date: 2025-07-06T16:48:25.6190000Z
+  Event ID: 10000
+  Task: N/A
+  Level: Information
+  Opcode: Info
+  Keyword: N/A
+  User: S-1-5-21-3560290119-491806085-1914595769-1000
+  User Name: Lab-ZZ\client
+  Computer: Lab-ZZ
+  Description: 
+Starting session 0 - ?2025?-?07?-?06T19:48:25.613769000Z.
+
+Event[84]:
+  Log Name: Application
+  Source: MsiInstaller
+  Date: 2025-07-06T16:48:27.1290000Z
+  Event ID: 11707
+  Task: N/A
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: S-1-5-21-3560290119-491806085-1914595769-1000
+  User Name: Lab-ZZ\client
+  Computer: Lab-ZZ
+  Description: 
+Product: Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.40.33816 -- Installation completed successfully.
+
+Event[85]:
+  Log Name: Application
+  Source: MsiInstaller
+  Date: 2025-07-06T16:48:27.1290000Z
+  Event ID: 1033
+  Task: N/A
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: S-1-5-21-3560290119-491806085-1914595769-1000
+  User Name: Lab-ZZ\client
+  Computer: Lab-ZZ
+  Description: 
+Windows Installer installed the product. Product Name: Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.40.33816. Product Version: 14.40.33816. Product Language: 1033. Manufacturer: Microsoft Corporation. Installation success or error status: 0.
+
+Event[86]:
+  Log Name: Application
+  Source: MsiInstaller
+  Date: 2025-07-06T16:48:27.2070000Z
+  Event ID: 1042
+  Task: N/A
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: S-1-5-18
+  User Name: NT AUTHORITY\SYSTEM
+  Computer: Lab-ZZ
+  Description: 
+Ending a Windows Installer transaction: C:\ProgramData\Package Cache\{560D2DA4-096E-4868-B22A-DA6418FDE6FB}v14.40.33816\packages\vcRuntimeMinimum_amd64\vc_runtimeMinimum_x64.msi. Client Process Id: 2280.
+
+Event[87]:
+  Log Name: Application
+  Source: MsiInstaller
+  Date: 2025-07-06T16:48:27.2540000Z
+  Event ID: 1040
+  Task: N/A
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: S-1-5-21-3560290119-491806085-1914595769-1000
+  User Name: Lab-ZZ\client
+  Computer: Lab-ZZ
+  Description: 
+Beginning a Windows Installer transaction: C:\ProgramData\Package Cache\{5904914B-9FC8-44C2-AE48-5C7F30A603EC}v14.40.33816\packages\vcRuntimeAdditional_amd64\vc_runtimeAdditional_x64.msi. Client Process Id: 2280.
+
+Event[88]:
+  Log Name: Application
+  Source: Microsoft-Windows-RestartManager
+  Date: 2025-07-06T16:48:27.1540000Z
+  Event ID: 10001
+  Task: N/A
+  Level: Information
+  Opcode: Info
+  Keyword: N/A
+  User: S-1-5-21-3560290119-491806085-1914595769-1000
+  User Name: Lab-ZZ\client
+  Computer: Lab-ZZ
+  Description: 
+Ending session 0 started ?2025?-?07?-?06T19:48:24.848127000Z.
+
+Event[89]:
+  Log Name: Application
+  Source: Microsoft-Windows-RestartManager
+  Date: 2025-07-06T16:48:27.1560000Z
+  Event ID: 10001
+  Task: N/A
+  Level: Information
+  Opcode: Info
+  Keyword: N/A
+  User: S-1-5-21-3560290119-491806085-1914595769-1000
+  User Name: Lab-ZZ\client
+  Computer: Lab-ZZ
+  Description: 
+Ending session 0 started ?2025?-?07?-?06T19:48:25.613769000Z.
+
+Event[90]:
+  Log Name: Application
+  Source: Microsoft-Windows-RestartManager
+  Date: 2025-07-06T16:48:27.3700000Z
+  Event ID: 10000
+  Task: N/A
+  Level: Information
+  Opcode: Info
+  Keyword: N/A
+  User: S-1-5-21-3560290119-491806085-1914595769-1000
+  User Name: Lab-ZZ\client
+  Computer: Lab-ZZ
+  Description: 
+Starting session 0 - ?2025?-?07?-?06T19:48:27.363827600Z.
+
+Event[91]:
+  Log Name: Application
+  Source: Microsoft-Windows-RestartManager
+  Date: 2025-07-06T16:48:27.8460000Z
+  Event ID: 10010
+  Task: N/A
+  Level: Warning
+  Opcode: Info
+  Keyword: N/A
+  User: S-1-5-21-3560290119-491806085-1914595769-1000
+  User Name: Lab-ZZ\client
+  Computer: Lab-ZZ
+  Description: 
+Application 'C:\Program Files\VMware\VMware Tools\vmtoolsd.exe' (pid 7348) cannot be restarted - Application SID does not match Conductor SID..
+
+Event[92]:
+  Log Name: Application
+  Source: Microsoft-Windows-RestartManager
+  Date: 2025-07-06T16:48:27.8460000Z
+  Event ID: 10005
+  Task: N/A
+  Level: Information
+  Opcode: Info
+  Keyword: N/A
+  User: S-1-5-21-3560290119-491806085-1914595769-1000
+  User Name: Lab-ZZ\client
+  Computer: Lab-ZZ
+  Description: 
+Machine restart is required.
+
+Event[93]:
+  Log Name: Application
+  Source: Microsoft-Windows-RestartManager
+  Date: 2025-07-06T16:48:27.9330000Z
+  Event ID: 10000
+  Task: N/A
+  Level: Information
+  Opcode: Info
+  Keyword: N/A
+  User: S-1-5-21-3560290119-491806085-1914595769-1000
+  User Name: Lab-ZZ\client
+  Computer: Lab-ZZ
+  Description: 
+Starting session 1 - ?2025?-?07?-?06T19:48:27.926247800Z.
+
+Event[94]:
+  Log Name: Application
+  Source: Microsoft-Windows-RestartManager
+  Date: 2025-07-06T16:48:27.9970000Z
+  Event ID: 10000
+  Task: N/A
+  Level: Information
+  Opcode: Info
+  Keyword: N/A
+  User: S-1-5-21-3560290119-491806085-1914595769-1000
+  User Name: Lab-ZZ\client
+  Computer: Lab-ZZ
+  Description: 
+Starting session 0 - ?2025?-?07?-?06T19:48:27.988770500Z.
+
+Event[95]:
+  Log Name: Application
+  Source: Microsoft-Windows-RestartManager
+  Date: 2025-07-06T16:48:28.4220000Z
+  Event ID: 10010
+  Task: N/A
+  Level: Warning
+  Opcode: Info
+  Keyword: N/A
+  User: S-1-5-21-3560290119-491806085-1914595769-1000
+  User Name: Lab-ZZ\client
+  Computer: Lab-ZZ
+  Description: 
+Application 'C:\Program Files\VMware\VMware Tools\vmtoolsd.exe' (pid 7348) cannot be restarted - Application SID does not match Conductor SID..
+
+Event[96]:
+  Log Name: Application
+  Source: Microsoft-Windows-RestartManager
+  Date: 2025-07-06T16:48:28.4220000Z
+  Event ID: 10005
+  Task: N/A
+  Level: Information
+  Opcode: Info
+  Keyword: N/A
+  User: S-1-5-21-3560290119-491806085-1914595769-1000
+  User Name: Lab-ZZ\client
+  Computer: Lab-ZZ
+  Description: 
+Machine restart is required.
+
+Event[97]:
+  Log Name: Application
+  Source: Microsoft-Windows-RestartManager
+  Date: 2025-07-06T16:48:28.4240000Z
+  Event ID: 10000
+  Task: N/A
+  Level: Information
+  Opcode: Info
+  Keyword: N/A
+  User: S-1-5-21-3560290119-491806085-1914595769-1000
+  User Name: Lab-ZZ\client
+  Computer: Lab-ZZ
+  Description: 
+Starting session 1 - ?2025?-?07?-?06T19:48:28.410630500Z.
+
+Event[98]:
+  Log Name: Application
+  Source: MsiInstaller
+  Date: 2025-07-06T16:48:31.1290000Z
+  Event ID: 11707
+  Task: N/A
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: S-1-5-21-3560290119-491806085-1914595769-1000
+  User Name: Lab-ZZ\client
+  Computer: Lab-ZZ
+  Description: 
+Product: Microsoft Visual C++ 2022 X64 Additional Runtime - 14.40.33816 -- Installation completed successfully.
+
+Event[99]:
+  Log Name: Application
+  Source: MsiInstaller
+  Date: 2025-07-06T16:48:31.1290000Z
+  Event ID: 1033
+  Task: N/A
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: S-1-5-21-3560290119-491806085-1914595769-1000
+  User Name: Lab-ZZ\client
+  Computer: Lab-ZZ
+  Description: 
+Windows Installer installed the product. Product Name: Microsoft Visual C++ 2022 X64 Additional Runtime - 14.40.33816. Product Version: 14.40.33816. Product Language: 1033. Manufacturer: Microsoft Corporation. Installation success or error status: 0.
+
+Event[100]:
+  Log Name: Application
+  Source: MsiInstaller
+  Date: 2025-07-06T16:48:31.1760000Z
+  Event ID: 1042
+  Task: N/A
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: S-1-5-18
+  User Name: NT AUTHORITY\SYSTEM
+  Computer: Lab-ZZ
+  Description: 
+Ending a Windows Installer transaction: C:\ProgramData\Package Cache\{5904914B-9FC8-44C2-AE48-5C7F30A603EC}v14.40.33816\packages\vcRuntimeAdditional_amd64\vc_runtimeAdditional_x64.msi. Client Process Id: 2280.
+
+Event[101]:
+  Log Name: Application
+  Source: Microsoft-Windows-RestartManager
+  Date: 2025-07-06T16:48:31.1430000Z
+  Event ID: 10001
+  Task: N/A
+  Level: Information
+  Opcode: Info
+  Keyword: N/A
+  User: S-1-5-21-3560290119-491806085-1914595769-1000
+  User Name: Lab-ZZ\client
+  Computer: Lab-ZZ
+  Description: 
+Ending session 0 started ?2025?-?07?-?06T19:48:27.363827600Z.
+
+Event[102]:
+  Log Name: Application
+  Source: Microsoft-Windows-RestartManager
+  Date: 2025-07-06T16:48:31.1460000Z
+  Event ID: 10001
+  Task: N/A
+  Level: Information
+  Opcode: Info
+  Keyword: N/A
+  User: S-1-5-21-3560290119-491806085-1914595769-1000
+  User Name: Lab-ZZ\client
+  Computer: Lab-ZZ
+  Description: 
+Ending session 0 started ?2025?-?07?-?06T19:48:27.988770500Z.
+
+Event[103]:
+  Log Name: Application
+  Source: Microsoft-Windows-RestartManager
+  Date: 2025-07-06T16:48:31.1830000Z
+  Event ID: 10001
+  Task: N/A
+  Level: Information
+  Opcode: Info
+  Keyword: N/A
+  User: S-1-5-21-3560290119-491806085-1914595769-1000
+  User Name: Lab-ZZ\client
+  Computer: Lab-ZZ
+  Description: 
+Ending session 1 started ?2025?-?07?-?06T19:48:27.926247800Z.
+
+Event[104]:
+  Log Name: Application
+  Source: Microsoft-Windows-RestartManager
+  Date: 2025-07-06T16:48:31.1860000Z
+  Event ID: 10001
+  Task: N/A
+  Level: Information
+  Opcode: Info
+  Keyword: N/A
+  User: S-1-5-21-3560290119-491806085-1914595769-1000
+  User Name: Lab-ZZ\client
+  Computer: Lab-ZZ
+  Description: 
+Ending session 1 started ?2025?-?07?-?06T19:48:28.410630500Z.
+
+Event[105]:
+  Log Name: Application
+  Source: Microsoft-Windows-Security-SPP
+  Date: 2025-07-06T16:50:37.4890000Z
+  Event ID: 16394
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: Lab-ZZ
+  Description: 
+Offline downlevel migration succeeded.
+
+Event[106]:
+  Log Name: Application
+  Source: Microsoft-Windows-Security-SPP
+  Date: 2025-07-06T16:50:37.8640000Z
+  Event ID: 1003
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: Lab-ZZ
+  Description: 
+The Software Protection service has completed licensing status check.
+Application Id=0ff1ce15-a989-479d-af46-f275c6370663
+Licensing Status=
+1: 28f64a3f-cf84-46da-b1e8-2dfa7750e491, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+2: 4c1d1588-3088-4796-b3b2-8935f3a0d886, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+3: 52287aa3-9945-44d1-9046-7a3373666821, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+4: 537ea5b5-7d50-4876-bd38-a53a77caca32, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+5: 77f47589-2212-4e3b-ad27-a900ce813837, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+6: 7ab38a1c-a803-4ca5-8ebb-f8786c4b4faa, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+7: 86af9220-9d6f-4575-bef0-619a9a6aa005, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+8: 951c0fe6-40a8-4400-8003-eec0686ffbc4, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+9: 95820f84-6e8c-4d22-b2ce-54953e9911bc, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+10: 96353198-443e-479d-9e80-9a6d72fd1a99, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+11: a96f8dae-da54-4fad-bdc6-108da592707a, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+12: ae9d158f-9450-4a0c-8c80-dd973c58357c, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+13: b4af11be-5f94-4d8f-9844-ce0d5e0d8680, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+14: b58a5943-16ea-420f-a611-7b230acd762c, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+15: c85fe025-b033-4f41-936b-b121521ba1c1, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+16: d7279dd0-e175-49fe-a623-8fc2fc00afc4, 1, 1 [(0 )(1 )(2 )(3 [0x00000000, 0, 0], [( 6 0xC004F009 5 0)( 1 0x00000000)( 6 0xC004F009 5 0)(?)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)( 11 0x00000000 0xC004F009)])]
+17: fb3540bc-a824-4c79-83da-6f6bd3ac6ccb, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+
+
+
+Event[107]:
+  Log Name: Application
+  Source: Microsoft-Windows-Security-SPP
+  Date: 2025-07-06T16:50:38.0830000Z
+  Event ID: 1003
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: Lab-ZZ
+  Description: 
+The Software Protection service has completed licensing status check.
+Application Id=0ff1ce15-a989-479d-af46-f275c6370663
+Licensing Status=
+1: d7279dd0-e175-49fe-a623-8fc2fc00afc4, 1, 1 [(0 )(1 )(2 )(3 [0x00000000, 0, 0], [( 6 0xC004F009 5 0)( 1 0x00000000)( 6 0xC004F009 5 0)(?)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)( 11 0x00000000 0xC004F009)])]
+
+
+
+Event[108]:
+  Log Name: Application
+  Source: Edge
+  Date: 2025-07-06T16:50:41.5670000Z
+  Event ID: 256
+  Task: Browser Events
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: S-1-5-21-3560290119-491806085-1914595769-1000
+  User Name: Lab-ZZ\client
+  Computer: Lab-ZZ
+  Description: 
+[10144:10788:0706/165041.567:INFO:chrome\browser\extensions\extension_garbage_collector.cc:184] Garbage collection for extensions on file thread is complete.
+
+Event[109]:
+  Log Name: Application
+  Source: Microsoft-Windows-Security-SPP
+  Date: 2025-07-06T16:50:49.0670000Z
+  Event ID: 1003
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: Lab-ZZ
+  Description: 
+The Software Protection service has completed licensing status check.
+Application Id=0ff1ce15-a989-479d-af46-f275c6370663
+Licensing Status=
+1: 28f64a3f-cf84-46da-b1e8-2dfa7750e491, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+2: 4c1d1588-3088-4796-b3b2-8935f3a0d886, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+3: 52287aa3-9945-44d1-9046-7a3373666821, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+4: 537ea5b5-7d50-4876-bd38-a53a77caca32, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+5: 77f47589-2212-4e3b-ad27-a900ce813837, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+6: 7ab38a1c-a803-4ca5-8ebb-f8786c4b4faa, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+7: 86af9220-9d6f-4575-bef0-619a9a6aa005, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+8: 951c0fe6-40a8-4400-8003-eec0686ffbc4, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+9: 95820f84-6e8c-4d22-b2ce-54953e9911bc, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+10: 96353198-443e-479d-9e80-9a6d72fd1a99, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+11: a96f8dae-da54-4fad-bdc6-108da592707a, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+12: ae9d158f-9450-4a0c-8c80-dd973c58357c, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+13: b4af11be-5f94-4d8f-9844-ce0d5e0d8680, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+14: b58a5943-16ea-420f-a611-7b230acd762c, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+15: c85fe025-b033-4f41-936b-b121521ba1c1, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+16: d7279dd0-e175-49fe-a623-8fc2fc00afc4, 1, 1 [(0 )(1 )(2 )(3 [0x00000000, 0, 0], [( 6 0xC004F009 5 0)( 1 0x00000000)( 6 0xC004F009 5 0)(?)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)( 11 0x00000000 0xC004F009)])]
+17: fb3540bc-a824-4c79-83da-6f6bd3ac6ccb, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+
+
+
+Event[110]:
+  Log Name: Application
+  Source: Microsoft-Windows-Security-SPP
+  Date: 2025-07-06T16:50:49.3330000Z
+  Event ID: 1003
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: Lab-ZZ
+  Description: 
+The Software Protection service has completed licensing status check.
+Application Id=0ff1ce15-a989-479d-af46-f275c6370663
+Licensing Status=
+1: d7279dd0-e175-49fe-a623-8fc2fc00afc4, 1, 1 [(0 )(1 )(2 )(3 [0x00000000, 0, 0], [( 6 0xC004F009 5 0)( 1 0x00000000)( 6 0xC004F009 5 0)(?)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)( 11 0x00000000 0xC004F009)])]
+
+
+
+Event[111]:
+  Log Name: Application
+  Source: Microsoft-Windows-Security-SPP
+  Date: 2025-07-06T16:51:41.1180000Z
+  Event ID: 16384
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: Lab-ZZ
+  Description: 
+Successfully scheduled Software Protection service for re-start at 2125-06-12T19:51:41Z. Reason: RulesEngine.
+
+Event[112]:
+  Log Name: Application
+  Source: Edge
+  Date: 2025-07-06T16:59:07.6860000Z
+  Event ID: 256
+  Task: Browser Events
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: S-1-5-21-3560290119-491806085-1914595769-1000
+  User Name: Lab-ZZ\client
+  Computer: Lab-ZZ
+  Description: 
+[5844:4684:0706/165907.671:INFO:chrome\browser\extensions\extension_garbage_collector.cc:184] Garbage collection for extensions on file thread is complete.
+
