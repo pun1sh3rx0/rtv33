@@ -1,0 +1,6 @@
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run
+    OneDrive    REG_SZ    "C:\Program Files\Microsoft OneDrive\OneDrive.exe" /background
+    MicrosoftEdgeAutoLaunch_58F9DBD044CB7D49421DA93EEEEF83F1    REG_SZ    "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --no-startup-window --win-session-start
+    ThreatSimulator    REG_SZ    C:\Users\client\AppData\Local\Temp\_MEI98402\calculadora.py
+
