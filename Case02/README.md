@@ -8,7 +8,7 @@ Are there any suspicious logon events? Was any user created, modified, or elevat
 
 ⚙️ Execution and Processes
 
-Which process did the attacker use to execute the malware? Is there any security tool process running? \n
+Which process did the attacker use to execute the malware? Is there any security tool process running?
 
 📝 Registry (Registry Autostart Entries)
 
