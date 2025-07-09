@@ -1,0 +1,176 @@
+{'create_time': 0.0, 'pid': 0, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'System Idle Process'}
+{'create_time': 1752079155.8623552, 'pid': 4, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'System'}
+{'create_time': 1752079147.666741, 'pid': 92, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'Registry'}
+{'create_time': 1752079155.877519, 'pid': 364, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'smss.exe'}
+{'create_time': 1752080895.796309, 'pid': 376, 'username': 'LAB-ZZ-WIN\\client', 'name': 'chrome.exe'}
+{'create_time': 1752081614.9945168, 'pid': 396, 'username': 'LAB-ZZ-WIN\\client', 'name': 'chrome.exe'}
+{'create_time': 1752079163.460778, 'pid': 408, 'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe'}
+{'create_time': 1752079163.0522408, 'pid': 424, 'username': 'Window Manager\\DWM-1', 'name': 'dwm.exe'}
+{'create_time': 1752079160.407386, 'pid': 480, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'csrss.exe'}
+{'create_time': 1752079160.6026733, 'pid': 556, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'wininit.exe'}
+{'create_time': 1752079160.603096, 'pid': 564, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'csrss.exe'}
+{'create_time': 1752079160.780844, 'pid': 652, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'services.exe'}
+{'create_time': 1752079160.789038, 'pid': 660, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'winlogon.exe'}
+{'create_time': 1752079160.8722956, 'pid': 672, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'lsass.exe'}
+{'create_time': 1752079161.5581372, 'pid': 784, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe'}
+{'create_time': 1752079161.574088, 'pid': 796, 'username': 'Font Driver Host\\UMFD-0', 'name': 'fontdrvhost.exe'}
+{'create_time': 1752079161.577788, 'pid': 808, 'username': 'Font Driver Host\\UMFD-1', 'name': 'fontdrvhost.exe'}
+{'create_time': 1752079162.4316063, 'pid': 880, 'username': 'NT AUTHORITY\\NETWORK SERVICE', 'name': 'svchost.exe'}
+{'create_time': 1752079162.541947, 'pid': 928, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe'}
+{'create_time': 1752081111.3525484, 'pid': 980, 'username': 'LAB-ZZ-WIN\\client', 'name': 'chrome.exe'}
+{'create_time': 1752079162.9902697, 'pid': 992, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe'}
+{'create_time': 1752079163.0029187, 'pid': 1012, 'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe'}
+{'create_time': 1752079163.0097802, 'pid': 1020, 'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe'}
+{'create_time': 1752079163.5304363, 'pid': 1048, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe'}
+{'create_time': 1752079163.6622267, 'pid': 1080, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe'}
+{'create_time': 1752079163.857728, 'pid': 1128, 'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe'}
+{'create_time': 1752079163.9345264, 'pid': 1156, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe'}
+{'create_time': 1752081644.8191977, 'pid': 1168, 'username': 'LAB-ZZ-WIN\\client', 'name': 'powershell.exe'}
+{'create_time': 1752079163.9801512, 'pid': 1176, 'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe'}
+{'create_time': 1752079163.980872, 'pid': 1184, 'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe'}
+{'create_time': 1752081753.9823368, 'pid': 1240, 'username': 'LAB-ZZ-WIN\\client', 'name': 'conhost.exe'}
+{'create_time': 1752079164.3456492, 'pid': 1308, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'SEDService.exe'}
+{'create_time': 1752079167.3815007, 'pid': 1340, 'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe'}
+{'create_time': 1752079502.7291286, 'pid': 1392, 'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'SophosFS.exe'}
+{'create_time': 1752079164.9738033, 'pid': 1496, 'username': 'NT AUTHORITY\\NETWORK SERVICE', 'name': 'svchost.exe'}
+{'create_time': 1752079165.0092676, 'pid': 1508, 'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe'}
+{'create_time': 1752081596.4222596, 'pid': 1560, 'username': 'LAB-ZZ-WIN\\client', 'name': 'smartscreen.exe'}
+{'create_time': 1752081572.17122, 'pid': 1588, 'username': 'LAB-ZZ-WIN\\client', 'name': 'chrome.exe'}
+{'create_time': 1752080434.427944, 'pid': 1616, 'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe'}
+{'create_time': 1752079165.528797, 'pid': 1640, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'hmpalert.exe'}
+{'create_time': 1752079167.515014, 'pid': 1692, 'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe'}
+{'create_time': 1752079165.9492266, 'pid': 1712, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe'}
+{'create_time': 1752079165.9560297, 'pid': 1720, 'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe'}
+{'create_time': 1752079165.962358, 'pid': 1728, 'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe'}
+{'create_time': 1752079165.999658, 'pid': 1736, 'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe'}
+{'create_time': 1752079517.320789, 'pid': 1744, 'username': 'LAB-ZZ-WIN\\client', 'name': 'RuntimeBroker.exe'}
+{'create_time': 1752079166.006878, 'pid': 1748, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe'}
+{'create_time': 1752079232.9415953, 'pid': 1784, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe'}
+{'create_time': 1752079166.5622437, 'pid': 1808, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'MemCompression'}
+{'create_time': 1752079166.7070715, 'pid': 1892, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe'}
+{'create_time': 1752079190.1215396, 'pid': 1928, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'dllhost.exe'}
+{'create_time': 1752079166.9602015, 'pid': 1936, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe'}
+{'create_time': 1752079167.0130565, 'pid': 1960, 'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe'}
+{'create_time': 1752080117.4750452, 'pid': 2052, 'username': 'LAB-ZZ-WIN\\client', 'name': 'SDXHelper.exe'}
+{'create_time': 1752079167.6285024, 'pid': 2068, 'username': 'NT AUTHORITY\\NETWORK SERVICE', 'name': 'svchost.exe'}
+{'create_time': 1752079167.929169, 'pid': 2160, 'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe'}
+{'create_time': 1752079167.961094, 'pid': 2176, 'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe'}
+{'create_time': 1752081538.2713213, 'pid': 2188, 'username': 'LAB-ZZ-WIN\\client', 'name': 'chrome.exe'}
+{'create_time': 1752079289.0188327, 'pid': 2200, 'username': 'LAB-ZZ-WIN\\client', 'name': 'svchost.exe'}
+{'create_time': 1752079168.0943608, 'pid': 2220, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe'}
+{'create_time': 1752079329.0835323, 'pid': 2236, 'username': 'LAB-ZZ-WIN\\client', 'name': 'svchost.exe'}
+{'create_time': 1752079168.1816874, 'pid': 2256, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe'}
+{'create_time': 1752079251.0473435, 'pid': 2296, 'username': 'LAB-ZZ-WIN\\client', 'name': 'svchost.exe'}
+{'create_time': 1752079168.65449, 'pid': 2400, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'spoolsv.exe'}
+{'create_time': 1752080886.5987844, 'pid': 2428, 'username': 'LAB-ZZ-WIN\\client', 'name': 'chrome.exe'}
+{'create_time': 1752079168.8200684, 'pid': 2432, 'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe'}
+{'create_time': 1752079169.0317192, 'pid': 2480, 'username': 'NT AUTHORITY\\NETWORK SERVICE', 'name': 'svchost.exe'}
+{'create_time': 1752079187.290512, 'pid': 2528, 'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'SophosNtpService.exe'}
+{'create_time': 1752081075.66228, 'pid': 2568, 'username': 'LAB-ZZ-WIN\\client', 'name': 'chrome.exe'}
+{'create_time': 1752081753.646444, 'pid': 2580, 'username': 'LAB-ZZ-WIN\\client', 'name': 'powershell.exe'}
+{'create_time': 1752079170.7178297, 'pid': 2692, 'username': 'NT AUTHORITY\\NETWORK SERVICE', 'name': 'svchost.exe'}
+{'create_time': 1752079170.7277672, 'pid': 2700, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe'}
+{'create_time': 1752079214.6219618, 'pid': 2712, 'username': 'LAB-ZZ-WIN\\client', 'name': 'ctfmon.exe'}
+{'create_time': 1752079170.7596657, 'pid': 2716, 'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe'}
+{'create_time': 1752079502.8992517, 'pid': 2724, 'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'SophosFileScanner.exe'}
+{'create_time': 1752079170.9443953, 'pid': 2732, 'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe'}
+{'create_time': 1752079171.001712, 'pid': 2744, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe'}
+{'create_time': 1752079295.0174744, 'pid': 2788, 'username': 'LAB-ZZ-WIN\\client', 'name': 'msedge.exe'}
+{'create_time': 1752079171.5074892, 'pid': 2844, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe'}
+{'create_time': 1752080862.1269615, 'pid': 2852, 'username': 'LAB-ZZ-WIN\\client', 'name': 'Wireshark.exe'}
+{'create_time': 1752081625.1743765, 'pid': 2868, 'username': 'LAB-ZZ-WIN\\client', 'name': 'chrome.exe'}
+{'create_time': 1752079171.597257, 'pid': 2876, 'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe'}
+{'create_time': 1752079171.8139825, 'pid': 2896, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'VGAuthService.exe'}
+{'create_time': 1752079171.8366728, 'pid': 2908, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe'}
+{'create_time': 1752079171.8530753, 'pid': 2916, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'vmtoolsd.exe'}
+{'create_time': 1752079171.8929987, 'pid': 2924, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe'}
+{'create_time': 1752079171.9160085, 'pid': 2940, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe'}
+{'create_time': 1752081863.6582568, 'pid': 3180, 'username': 'LAB-ZZ-WIN\\client', 'name': 'RuntimeBroker.exe'}
+{'create_time': 1752079319.0427945, 'pid': 3212, 'username': 'LAB-ZZ-WIN\\client', 'name': 'msedge.exe'}
+{'create_time': 1752079174.6979067, 'pid': 3292, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'OfficeClickToRun.exe'}
+{'create_time': 1752080413.9642324, 'pid': 3548, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe'}
+{'create_time': 1752079319.228613, 'pid': 3564, 'username': 'LAB-ZZ-WIN\\client', 'name': 'msedge.exe'}
+{'create_time': 1752079292.8282075, 'pid': 3632, 'username': 'LAB-ZZ-WIN\\client', 'name': 'vmtoolsd.exe'}
+{'create_time': 1752079217.6946049, 'pid': 3728, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe'}
+{'create_time': 1752081863.253426, 'pid': 3744, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe'}
+{'create_time': 1752079215.5823355, 'pid': 3768, 'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'SophosNetFilter.exe'}
+{'create_time': 1752079187.8857396, 'pid': 3788, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'SearchIndexer.exe'}
+{'create_time': 1752081050.6814992, 'pid': 3804, 'username': 'LAB-ZZ-WIN\\client', 'name': 'chrome.exe'}
+{'create_time': 1752079270.1418638, 'pid': 3844, 'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe'}
+{'create_time': 1752079534.522139, 'pid': 4056, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'SophosLiveQueryService.exe'}
+{'create_time': 1752079190.736659, 'pid': 4116, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'SSPService.exe'}
+{'create_time': 1752081604.1128, 'pid': 4228, 'username': 'LAB-ZZ-WIN\\client', 'name': 'chrome.exe'}
+{'create_time': 1752079194.0502412, 'pid': 4276, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe'}
+{'create_time': 1752079230.5924993, 'pid': 4460, 'username': 'LAB-ZZ-WIN\\client', 'name': 'explorer.exe'}
+{'create_time': 1752079196.9406853, 'pid': 4504, 'username': 'NT AUTHORITY\\NETWORK SERVICE', 'name': 'msdtc.exe'}
+{'create_time': 1752081644.8732176, 'pid': 4596, 'username': 'LAB-ZZ-WIN\\client', 'name': 'conhost.exe'}
+{'create_time': 1752079207.3643727, 'pid': 4792, 'username': 'LAB-ZZ-WIN\\client', 'name': 'sihost.exe'}
+{'create_time': 1752079207.4457953, 'pid': 4800, 'username': 'LAB-ZZ-WIN\\client', 'name': 'svchost.exe'}
+{'create_time': 1752079208.974998, 'pid': 4816, 'username': 'LAB-ZZ-WIN\\client', 'name': 'svchost.exe'}
+{'create_time': 1752079208.9896324, 'pid': 4824, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'dllhost.exe'}
+{'create_time': 1752081931.6392927, 'pid': 4840, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'SearchFilterHost.exe'}
+{'create_time': 1752081816.5053988, 'pid': 4856, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe'}
+{'create_time': 1752079246.6582737, 'pid': 4884, 'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe'}
+{'create_time': 1752079209.177281, 'pid': 4896, 'username': 'LAB-ZZ-WIN\\client', 'name': 'taskhostw.exe'}
+{'create_time': 1752079211.8845384, 'pid': 5024, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe'}
+{'create_time': 1752079213.632777, 'pid': 5092, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe'}
+{'create_time': 1752079502.9452257, 'pid': 5116, 'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'SophosFileScanner.exe'}
+{'create_time': 1752079219.3833003, 'pid': 5204, 'username': 'NT AUTHORITY\\NETWORK SERVICE', 'name': 'WmiPrvSE.exe'}
+{'create_time': 1752079219.4107466, 'pid': 5212, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'WmiPrvSE.exe'}
+{'create_time': 1752079872.9308012, 'pid': 5244, 'username': 'LAB-ZZ-WIN\\client', 'name': 'UserOOBEBroker.exe'}
+{'create_time': 1752079221.6066265, 'pid': 5460, 'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe'}
+{'create_time': 1752079865.726051, 'pid': 5660, 'username': 'LAB-ZZ-WIN\\client', 'name': 'dllhost.exe'}
+{'create_time': 1752079253.385292, 'pid': 5668, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe'}
+{'create_time': 1752079491.246738, 'pid': 5700, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'McsAgent.exe'}
+{'create_time': 1752079247.4312131, 'pid': 5744, 'username': 'NT AUTHORITY\\NETWORK SERVICE', 'name': 'svchost.exe'}
+{'create_time': 1752079225.9733899, 'pid': 5852, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe'}
+{'create_time': 1752079268.342388, 'pid': 5864, 'username': 'LAB-ZZ-WIN\\client', 'name': 'RuntimeBroker.exe'}
+{'create_time': 1752080981.830397, 'pid': 5888, 'username': 'LAB-ZZ-WIN\\client', 'name': 'chrome.exe'}
+{'create_time': 1752079234.6338384, 'pid': 5952, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'AggregatorHost.exe'}
+{'create_time': 1752079294.5213904, 'pid': 6048, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'SecurityHealthService.exe'}
+{'create_time': 1752080907.2142227, 'pid': 6360, 'username': 'LAB-ZZ-WIN\\client', 'name': 'chrome.exe'}
+{'create_time': 1752080886.38668, 'pid': 6392, 'username': 'LAB-ZZ-WIN\\client', 'name': 'chrome.exe'}
+{'create_time': 1752081035.4921694, 'pid': 6448, 'username': 'LAB-ZZ-WIN\\client', 'name': 'chrome.exe'}
+{'create_time': 1752079321.6865935, 'pid': 6496, 'username': 'LAB-ZZ-WIN\\client', 'name': 'msedge.exe'}
+{'create_time': 1752079262.648656, 'pid': 6844, 'username': 'LAB-ZZ-WIN\\client', 'name': 'TextInputHost.exe'}
+{'create_time': 1752079262.770125, 'pid': 6868, 'username': 'LAB-ZZ-WIN\\client', 'name': 'StartMenuExperienceHost.exe'}
+{'create_time': 1752081450.9942436, 'pid': 6912, 'username': 'LAB-ZZ-WIN\\client', 'name': 'chrome.exe'}
+{'create_time': 1752079547.5639267, 'pid': 6932, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe'}
+{'create_time': 1752081851.3271644, 'pid': 6960, 'username': 'LAB-ZZ-WIN\\client', 'name': 'PECmd.exe'}
+{'create_time': 1752079265.2267387, 'pid': 7140, 'username': 'LAB-ZZ-WIN\\client', 'name': 'RuntimeBroker.exe'}
+{'create_time': 1752081862.915304, 'pid': 7188, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe'}
+{'create_time': 1752079492.29715, 'pid': 7192, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'McsClient.exe'}
+{'create_time': 1752079332.3001409, 'pid': 7336, 'username': 'LAB-ZZ-WIN\\client', 'name': 'SearchApp.exe'}
+{'create_time': 1752081931.1807761, 'pid': 7388, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'SearchProtocolHost.exe'}
+{'create_time': 1752079291.6899295, 'pid': 7408, 'username': 'LAB-ZZ-WIN\\client', 'name': 'SystemSettingsBroker.exe'}
+{'create_time': 1752079291.9575384, 'pid': 7452, 'username': 'LAB-ZZ-WIN\\client', 'name': 'SecurityHealthSystray.exe'}
+{'create_time': 1752079315.7664137, 'pid': 7524, 'username': 'LAB-ZZ-WIN\\client', 'name': 'msedge.exe'}
+{'create_time': 1752079274.9723284, 'pid': 7544, 'username': 'LAB-ZZ-WIN\\client', 'name': 'ShellExperienceHost.exe'}
+{'create_time': 1752079534.596079, 'pid': 7556, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'SophosOsquery.exe'}
+{'create_time': 1752080895.453804, 'pid': 7660, 'username': 'LAB-ZZ-WIN\\client', 'name': 'chrome.exe'}
+{'create_time': 1752079293.799616, 'pid': 7732, 'username': 'LAB-ZZ-WIN\\client', 'name': 'Sophos UI.exe'}
+{'create_time': 1752079278.608434, 'pid': 7912, 'username': 'LAB-ZZ-WIN\\client', 'name': 'RuntimeBroker.exe'}
+{'create_time': 1752080168.538926, 'pid': 8108, 'username': 'LAB-ZZ-WIN\\client', 'name': 'ApplicationFrameHost.exe'}
+{'create_time': 1752081062.5877564, 'pid': 8156, 'username': 'LAB-ZZ-WIN\\client', 'name': 'chrome.exe'}
+{'create_time': 1752079340.3273532, 'pid': 8224, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'uhssvc.exe'}
+{'create_time': 1752079340.793794, 'pid': 8260, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe'}
+{'create_time': 1752080895.495278, 'pid': 8268, 'username': 'LAB-ZZ-WIN\\client', 'name': 'chrome.exe'}
+{'create_time': 1752081649.072165, 'pid': 8316, 'username': 'LAB-ZZ-WIN\\client', 'name': 'mmc.exe'}
+{'create_time': 1752079342.1381917, 'pid': 8336, 'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe'}
+{'create_time': 1752081438.0242543, 'pid': 8344, 'username': 'LAB-ZZ-WIN\\client', 'name': 'chrome.exe'}
+{'create_time': 1752080418.8813603, 'pid': 8372, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe'}
+{'create_time': 1752081605.6875925, 'pid': 8612, 'username': 'LAB-ZZ-WIN\\client', 'name': 'chrome.exe'}
+{'create_time': 1752079344.9225368, 'pid': 8644, 'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe'}
+{'create_time': 1752079530.343752, 'pid': 8668, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'Sophos.Encryption.BitLockerService.exe'}
+{'create_time': 1752081433.0692184, 'pid': 8724, 'username': 'LAB-ZZ-WIN\\client', 'name': 'chrome.exe'}
+{'create_time': 1752081631.6336665, 'pid': 8728, 'username': 'LAB-ZZ-WIN\\client', 'name': 'chrome.exe'}
+{'create_time': 1752079505.5063956, 'pid': 8812, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'SophosHealth.exe'}
+{'create_time': 1752081574.9920297, 'pid': 9044, 'username': 'LAB-ZZ-WIN\\client', 'name': 'chrome.exe'}
+{'create_time': 1752081425.2961638, 'pid': 9140, 'username': 'LAB-ZZ-WIN\\client', 'name': 'chrome.exe'}
+{'create_time': 1752080168.5466585, 'pid': 9164, 'username': 'LAB-ZZ-WIN\\client', 'name': 'SystemSettings.exe'}
+{'create_time': 1752080486.4842474, 'pid': 9176, 'username': 'LAB-ZZ-WIN\\client', 'name': 'svchost.exe'}
+{'create_time': 1752081606.8003652, 'pid': 9608, 'username': 'LAB-ZZ-WIN\\client', 'name': 'chrome.exe'}
+{'create_time': 1752081619.350296, 'pid': 9644, 'username': 'LAB-ZZ-WIN\\client', 'name': 'chrome.exe'}
+{'create_time': 1752081572.7987797, 'pid': 9876, 'username': 'LAB-ZZ-WIN\\client', 'name': 'chrome.exe'}
+{'create_time': 1752081929.2555332, 'pid': 10044, 'username': 'LAB-ZZ-WIN\\client', 'name': 'python3.13.exe'}
+{'create_time': 1752081612.8410091, 'pid': 10224, 'username': 'LAB-ZZ-WIN\\client', 'name': 'chrome.exe'}
