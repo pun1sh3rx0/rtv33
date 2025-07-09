@@ -12,7 +12,7 @@ Was any user created, modified, or elevated privileges during the incident?
 ⚙️ Execution and Processes
 
 Which process did the attacker use to execute the malware?
-Is there any security tool process running? \n
+Is there any security tool process running?
 
 📝 Registry (Registry Autostart Entries)
 
