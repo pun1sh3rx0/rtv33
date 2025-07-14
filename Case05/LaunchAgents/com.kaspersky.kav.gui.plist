@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Label</key>
+	<string>com.kaspersky.kav.gui</string>
+	<key>ProgramArguments</key>
+	<array>
+		<string>/Library/Application Support/Kaspersky Lab/KAV/Applications/Kaspersky Anti-Virus Agent.app/Contents/MacOS/kav_agent</string>
+	</array>
+	<key>RunAtLoad</key>
+	<true/>
+	<key>WatchPaths</key>
+	<array>
+		<string>/Library/Application Support/Kaspersky Lab/KAV/kickstart_gui</string>
+	</array>
+</dict>
+</plist>

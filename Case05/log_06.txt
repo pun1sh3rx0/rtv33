@@ -1,0 +1,4 @@
+                 system boot  Jul 14 18:50 
+developer        console      Jul 14 18:50 
+developer        ttys000      Jul 14 18:55 
+   .       run-level 3

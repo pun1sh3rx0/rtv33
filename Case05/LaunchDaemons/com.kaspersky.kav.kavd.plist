@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>EnableTransactions</key>
+	<false/>
+	<key>EnvironmentVariables</key>
+	<dict>
+		<key>KL_PRODUCT_ROOT</key>
+		<string>/Library/Application Support/Kaspersky Lab/KAV/Binaries</string>
+		<key>SYSTEM_VERSION_COMPAT</key>
+		<string>0</string>
+	</dict>
+	<key>ExitTimeout</key>
+	<integer>10</integer>
+	<key>KeepAlive</key>
+	<dict>
+		<key>AfterInitialDemand</key>
+		<true/>
+		<key>SuccessfulExit</key>
+		<false/>
+	</dict>
+	<key>Label</key>
+	<string>com.kaspersky.kav.kavd</string>
+	<key>LowPriorityBackgroundIO</key>
+	<false/>
+	<key>LowPriorityIO</key>
+	<false/>
+	<key>MachServices</key>
+	<dict>
+		<key>2Y8XE5CQ94.com.kaspersky.kav.bl.resolver</key>
+		<true/>
+		<key>2Y8XE5CQ94.com.kaspersky.kav.bl.resolver.alive</key>
+		<dict>
+			<key>HideUntilCheckIn</key>
+			<true/>
+			<key>ResetAtClose</key>
+			<true/>
+		</dict>
+	</dict>
+	<key>ProcessType</key>
+	<string>Interactive</string>
+	<key>ProgramArguments</key>
+	<array>
+		<string>/Applications/Kaspersky Anti-Virus For Mac.app/Contents/MacOS/kavd.app/Contents/MacOS/kavd</string>
+		<string>-r</string>
+		<string>-bl</string>
+	</array>
+	<key>RunAtLoad</key>
+	<true/>
+	<key>StandardErrorPath</key>
+	<string>/var/log/kav_daemon_stderr.log</string>
+	<key>StandardOutPath</key>
+	<string>/var/log/kav_daemon_stdout.log</string>
+</dict>
+</plist>

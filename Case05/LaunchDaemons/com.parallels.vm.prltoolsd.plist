@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Label</key>
+	<string>com.parallels.vm.prltoolsd</string>
+	<key>ProgramArguments</key>
+	<array>
+		<string>/Library/Parallels Guest Tools/prltoolsd</string>
+	</array>
+	<key>KeepAlive</key>
+	<dict>
+		<key>SuccessfulExit</key>
+		<false/>
+	</dict>
+	<key>Umask</key>
+	<integer>0</integer>
+</dict>
+</plist>

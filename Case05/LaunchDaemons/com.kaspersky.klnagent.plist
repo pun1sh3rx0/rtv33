@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Label</key>
+	<string>com.kaspersky.klnagent</string>
+	<key>EnvironmentVariables</key>
+	<dict>
+		<key>SYSTEM_VERSION_COMPAT</key>
+		<string>0</string>
+	</dict>
+	<key>ProgramArguments</key>
+	<array>
+		<string>/Library/Application Support/Kaspersky Lab/klnagent/Binaries/klnagent</string>
+	</array>
+	<key>RunAtLoad</key>
+	<true/>
+	<key>KeepAlive</key>
+	<dict>
+		<key>SuccessfulExit</key>
+		<false/>
+	</dict>
+	<key>ExitTimeOut</key>
+	<integer>20</integer>
+	<key>ServiceIPC</key>
+	<false/>
+	<key>WorkingDirectory</key>
+	<string>/Library/Application Support/Kaspersky Lab/klnagent/Binaries/</string>
+	<key>StandardErrorPath</key>
+	<string>/var/log/klnagent_daemon_stderr.log</string>
+	<key>StandardOutPath</key>
+	<string>/var/log/klnagent_daemon_stdout.log</string>
+</dict>
+</plist>

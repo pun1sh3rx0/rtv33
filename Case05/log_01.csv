@@ -1,0 +1,63 @@
+File Threat Protection
+1,2025-07-14 18:58:15 -03:00,/Volumes/EDR Bypass 1/m4c0sRans.app/Contents/MacOS/m4c0sRans///m4c0sRans,DesktopServicesHelper,Not processed
+1,2025-07-14 18:58:15 -03:00,/Volumes/EDR Bypass 1/m4c0sRans.app/Contents/MacOS/m4c0sRans,DesktopServicesHelper,Detected
+3,2025-07-14 18:58:14 -03:00,/Applications/m4c0sRans.app/Contents/MacOS/m4c0sRans,DesktopServicesHelper,Deleted
+4,2025-07-14 18:58:13 -03:00,/Applications/m4c0sRans.app/Contents/MacOS/m4c0sRans,DesktopServicesHelper,Backup copy created
+1,2025-07-14 18:58:10 -03:00,/Applications/m4c0sRans.app/Contents/MacOS/m4c0sRans,DesktopServicesHelper,Detected
+1,2025-07-14 18:54:54 -03:00,/Volumes/EDR Bypass/payload.app/Contents/MacOS/payload///payload,DesktopServicesHelper,Not processed
+1,2025-07-14 18:54:54 -03:00,/Volumes/EDR Bypass/payload.app/Contents/MacOS/payload,DesktopServicesHelper,Detected
+3,2025-07-14 18:54:52 -03:00,/Applications/payload.app/Contents/MacOS/payload,DesktopServicesHelper,Deleted
+4,2025-07-14 18:54:51 -03:00,/Applications/payload.app/Contents/MacOS/payload,DesktopServicesHelper,Backup copy created
+1,2025-07-14 18:54:51 -03:00,/Applications/payload.app/Contents/MacOS/payload,DesktopServicesHelper,Detected
+3,2025-07-14 18:54:28 -03:00,/Users/developer/Downloads/r4ns0nZZ.exe,com.apple.quicklook.ThumbnailsAgent,Deleted
+4,2025-07-14 18:54:28 -03:00,/Users/developer/Downloads/r4ns0nZZ.exe,com.apple.quicklook.ThumbnailsAgent,Backup copy created
+1,2025-07-14 18:54:26 -03:00,/Users/developer/Downloads/r4ns0nZZ.exe,com.apple.quicklook.ThumbnailsAgent,Detected
+3,2025-07-14 18:32:24 -03:00,/Volumes/My Shared Files/Home/Downloads/r4ns0nZZ.exe,kavd,Deleted
+4,2025-07-14 18:32:24 -03:00,/Volumes/My Shared Files/Home/Downloads/r4ns0nZZ.exe,kavd,Backup copy created
+1,2025-07-14 18:32:23 -03:00,/Volumes/My Shared Files/Home/Downloads/r4ns0nZZ.exe,kavd,Detected
+3,2025-07-13 20:46:45 -03:00,/Volumes/My Shared Files/Home/Downloads/r4ns0nZZ.exe,Finder,Not processed
+3,2025-07-09 15:26:28 -03:00,/private/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/0/com.apple.icloud.searchpartyd/Main.db-shm,searchpartyd,Not processed
+3,2025-07-08 09:28:55 -03:00,/Users/developer/dist/encoded_payload.app/Contents/MacOS/encoded_payload,codesign,Deleted
+4,2025-07-08 09:28:55 -03:00,/Users/developer/dist/encoded_payload.app/Contents/MacOS/encoded_payload,codesign,Backup copy created
+1,2025-07-08 09:28:55 -03:00,/Users/developer/dist/encoded_payload.app/Contents/MacOS/encoded_payload,codesign,Detected
+3,2025-07-08 09:28:55 -03:00,/Users/developer/dist/encoded_payload,Python,Deleted
+4,2025-07-08 09:28:54 -03:00,/Users/developer/dist/encoded_payload,Python,Backup copy created
+1,2025-07-08 09:28:54 -03:00,/Users/developer/dist/encoded_payload,Python,Detected
+3,2025-07-08 09:28:54 -03:00,/Users/developer/build/encoded_payload/encoded_payload.pkg,Python,Deleted
+4,2025-07-08 09:28:54 -03:00,/Users/developer/build/encoded_payload/encoded_payload.pkg,Python,Backup copy created
+1,2025-07-08 09:28:54 -03:00,/Users/developer/build/encoded_payload/encoded_payload.pkg,Python,Detected
+3,2025-07-08 09:28:10 -03:00,/Users/developer/dist/encoded_payload/encoded_payload,Python,Deleted
+4,2025-07-08 09:28:10 -03:00,/Users/developer/dist/encoded_payload/encoded_payload,Python,Backup copy created
+1,2025-07-08 09:28:10 -03:00,/Users/developer/dist/encoded_payload/encoded_payload,Python,Detected
+3,2025-07-08 09:28:10 -03:00,/Users/developer/build/encoded_payload/encoded_payload,Python,Deleted
+4,2025-07-08 09:28:10 -03:00,/Users/developer/build/encoded_payload/encoded_payload,Python,Backup copy created
+1,2025-07-08 09:28:10 -03:00,/Users/developer/build/encoded_payload/encoded_payload,Python,Detected
+3,2025-07-08 09:28:10 -03:00,/Users/developer/build/encoded_payload/encoded_payload.pkg,Python,Deleted
+4,2025-07-08 09:28:10 -03:00,/Users/developer/build/encoded_payload/encoded_payload.pkg,Python,Backup copy created
+1,2025-07-08 09:28:05 -03:00,/Users/developer/build/encoded_payload/encoded_payload.pkg,Python,Detected
+3,2025-07-07 23:34:22 -03:00,/private/var/protected/sfanalytics/24A2021E-3BAD-45A0-BED8-146F2B94BAB6/sos_analytics.db-wal,,Not processed
+3,2025-07-07 23:34:22 -03:00,/private/var/protected/sfanalytics/24A2021E-3BAD-45A0-BED8-146F2B94BAB6/sos_analytics.db,,Not processed
+3,2025-07-07 23:34:22 -03:00,/private/var/protected/sfanalytics/FFFFEEEE-DDDD-CCCC-BBBB-AAAA000000CD/networking_analytics.db-shm,,Not processed
+3,2025-07-07 23:34:22 -03:00,/private/var/protected/sfanalytics/FFFFEEEE-DDDD-CCCC-BBBB-AAAA000000CD/trust_analytics.db-shm,trustd,Not processed
+1,2025-07-07 23:28:42 -03:00,/Volumes/Bypass EDRs MacOS/sample03v02.app/Contents/MacOS/sample03v02///sample03v02,kavd,Not processed
+1,2025-07-07 23:28:26 -03:00,/Volumes/Bypass EDRs MacOS/sample03v02.app/Contents/MacOS/sample03v02///sample03v02,kavd,Not processed
+1,2025-07-07 23:28:08 -03:00,/Volumes/Bypass EDRs MacOS/sample03v02.app/Contents/MacOS/sample03v02///sample03v02,kavd,Not processed
+1,2025-07-07 23:27:46 -03:00,/Volumes/Bypass EDRs MacOS/sample03v02.app/Contents/MacOS/sample03v02///sample03v02,kavd,Not processed
+1,2025-07-07 23:16:44 -03:00,/Volumes/Bypass EDRs MacOS/sample03v02.app/Contents/MacOS/sample03v02///sample03v02,DesktopServicesHelper,Not processed
+1,2025-07-07 23:16:44 -03:00,/Volumes/Bypass EDRs MacOS/sample03v02.app/Contents/MacOS/sample03v02,DesktopServicesHelper,Detected
+3,2025-07-07 23:16:43 -03:00,/Applications/sample03v02.app/Contents/MacOS/sample03v02,DesktopServicesHelper,Deleted
+4,2025-07-07 23:16:42 -03:00,/Applications/sample03v02.app/Contents/MacOS/sample03v02,DesktopServicesHelper,Backup copy created
+1,2025-07-07 23:16:39 -03:00,/Applications/sample03v02.app/Contents/MacOS/sample03v02,DesktopServicesHelper,Detected
+3,2025-07-07 23:14:33 -03:00,/Volumes/My Shared Files/Home/Downloads/Archive0505/malware03.app/Contents/MacOS/malware03,launchd,Deleted
+4,2025-07-07 23:14:32 -03:00,/Volumes/My Shared Files/Home/Downloads/Archive0505/malware03.app/Contents/MacOS/malware03,launchd,Backup copy created
+1,2025-07-07 23:14:30 -03:00,/Volumes/My Shared Files/Home/Downloads/Archive0505/malware03.app/Contents/MacOS/malware03,launchd,Detected
+3,2025-07-07 23:13:18 -03:00,/Users/developer/Downloads/sample03v02.app/Contents/MacOS/sample03v02,DesktopServicesHelper,Deleted
+4,2025-07-07 23:13:17 -03:00,/Users/developer/Downloads/sample03v02.app/Contents/MacOS/sample03v02,DesktopServicesHelper,Backup copy created
+1,2025-07-07 23:13:17 -03:00,/Users/developer/Downloads/sample03v02.app/Contents/MacOS/sample03v02,DesktopServicesHelper,Detected
+3,2025-07-07 23:13:17 -03:00,/Volumes/My Shared Files/Home/Downloads/sample03v02.app/Contents/MacOS/sample03v02,DesktopServicesHelper,Deleted
+4,2025-07-07 23:13:16 -03:00,/Volumes/My Shared Files/Home/Downloads/sample03v02.app/Contents/MacOS/sample03v02,DesktopServicesHelper,Backup copy created
+1,2025-07-07 23:13:14 -03:00,/Volumes/My Shared Files/Home/Downloads/sample03v02.app/Contents/MacOS/sample03v02,DesktopServicesHelper,Detected
+3,2025-07-07 23:10:11 -03:00,/Applications/sample03v02.app/Contents/MacOS/sample03v02,launchd,Deleted
+4,2025-07-07 23:10:10 -03:00,/Applications/sample03v02.app/Contents/MacOS/sample03v02,launchd,Backup copy created
+1,2025-07-07 23:10:05 -03:00,/Applications/sample03v02.app/Contents/MacOS/sample03v02,launchd,Detected
+3,2025-07-07 23:04:33 -03:00,/private/var/log/install.log,syslogd,Not processed

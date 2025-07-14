@@ -1,0 +1,477 @@
+Error running command:
+/Users/developer/Documentation/Awareness_1.pdf
+/Users/developer/Documentation/Awareness_3.xlsx
+/Users/developer/Documentation/Awareness_7.pdf
+/Users/developer/Documentation/Awareness_10.pdf
+/Users/developer/Documentation/Awareness_4.pdf
+/Users/developer/Documentation/Awareness_9.xlsx
+/Users/developer/Documentation/Awareness_2.docx
+/Users/developer/Documentation/Awareness_6.xlsx
+/Users/developer/Documentation/Awareness_5.docx
+/Users/developer/Documentation/Awareness_8.docx
+/Users/developer/evidence_20250714_190240/user_sessions.txt
+/Users/developer/evidence_20250714_190240/running_processes.txt
+/Users/developer/evidence_20250714_190240/network_connections.txt
+/Users/developer/evidence_20250714_190240/var_log/powermanagement/2025.07.14.asl
+/Users/developer/evidence_20250714_190240/var_log/powermanagement/StoreData
+/Users/developer/evidence_20250714_190240/var_log/asl/2025.07.14.G80.asl
+/Users/developer/evidence_20250714_190240/var_log/asl/Logs/aslmanager.20250714T185552-03
+/Users/developer/evidence_20250714_190240/var_log/asl/StoreData
+/Users/developer/evidence_20250714_190240/var_log/asl/BB.2026.07.31.G80.asl
+/Users/developer/evidence_20250714_190240/var_log/DiagnosticMessages/2025.07.14.asl
+/Users/developer/evidence_20250714_190240/var_log/DiagnosticMessages/StoreData
+/Users/developer/evidence_20250714_190240/var_log/fsck_hfs.log
+/Users/developer/evidence_20250714_190240/var_log/com.apple.xpc.launchd/launchd.log
+/Users/developer/evidence_20250714_190240/var_log/system.log
+/Users/developer/evidence_20250714_190240/var_log/wifi.log
+/Users/developer/evidence_20250714_190240/crontab_user.txt
+/Users/developer/.DS_Store
+/Users/developer/Financial/Awareness_1.pdf
+/Users/developer/Financial/Awareness_3.xlsx
+/Users/developer/Financial/Awareness_7.pdf
+/Users/developer/Financial/Awareness_10.pdf
+/Users/developer/Financial/Awareness_4.pdf
+/Users/developer/Financial/Awareness_9.xlsx
+/Users/developer/Financial/Awareness_2.docx
+/Users/developer/Financial/Awareness_6.xlsx
+/Users/developer/Financial/Awareness_5.docx
+/Users/developer/Financial/Awareness_8.docx
+/Users/developer/Pictures/Photos Library.photoslibrary/database/Photos.sqlite.lock
+/Users/developer/Pictures/Photos Library.photoslibrary/database/Photos.sqlite-shm
+/Users/developer/Pictures/Photos Library.photoslibrary/resources/derivatives/thumbs/thumbnailConfiguration
+/Users/developer/Pictures/Photos Library.photoslibrary/private/com.apple.photoanalysisd/caches/graph/PhotosGraph/photosgraph.kgdb-shm
+/Users/developer/Pictures/Photos Library.photoslibrary/private/com.apple.photoanalysisd/caches/graph/PhotoAnalysisServicePreferences.plist
+/Users/developer/Family/Awareness_1.pdf
+/Users/developer/Family/Awareness_3.xlsx
+/Users/developer/Family/Awareness_7.pdf
+/Users/developer/Family/Awareness_10.pdf
+/Users/developer/Family/Awareness_4.pdf
+/Users/developer/Family/Awareness_9.xlsx
+/Users/developer/Family/Awareness_2.docx
+/Users/developer/Family/Awareness_6.xlsx
+/Users/developer/Family/Awareness_5.docx
+/Users/developer/Family/Awareness_8.docx
+find: /Users/developer/Library/Application Support/CallHistoryTransactions: Operation not permitted
+/Users/developer/Library/Application Support/com.apple.spotlight/appList.dat
+find: /Users/developer/Library/Application Support/com.apple.sharedfilelist: Operation not permitted
+find: /Users/developer/Library/Application Support/Knowledge: Operation not permitted
+find: /Users/developer/Library/Application Support/com.apple.TCC: Operation not permitted
+find: /Users/developer/Library/Application Support/FileProvider: Operation not permitted
+find: /Users/developer/Library/Application Support/AddressBook: Operation not permitted
+find: /Users/developer/Library/Application Support/FaceTime: Operation not permitted
+find: /Users/developer/Library/Application Support/DifferentialPrivacy: Operation not permitted
+find: /Users/developer/Library/Application Support/CallHistoryDB: Operation not permitted
+/Users/developer/Library/Application Support/com.apple.ProtectedCloudStorage/KeysSyncingVersion3-(null)-ProtectedCloudStorage.db-shm
+/Users/developer/Library/Application Support/com.apple.ProtectedCloudStorage/PCSAnalytics.db-shm
+find: /Users/developer/Library/Assistant/SiriVocabulary: Operation not permitted
+find: /Users/developer/Library/Daemon Containers: Operation not permitted
+find: /Users/developer/Library/Autosave Information: Operation not permitted
+find: /Users/developer/Library/IdentityServices: Operation not permitted
+/Users/developer/Library/Preferences/com.apple.tipsd.plist
+/Users/developer/Library/Preferences/com.apple.spotlightknowledge.plist
+/Users/developer/Library/Preferences/com.apple.protectedcloudstorage.protectedcloudkeysyncing.plist
+/Users/developer/Library/Preferences/ByHost/com.apple.loginwindow.49612B25-344B-55C5-9BBC-EE699DCDB825.plist
+/Users/developer/Library/Preferences/ByHost/com.apple.configurationprofiles.user.49612B25-344B-55C5-9BBC-EE699DCDB825.plist
+/Users/developer/Library/Preferences/com.apple.systempreferences.plist
+/Users/developer/Library/Preferences/com.apple.dock.plist
+/Users/developer/Library/Preferences/com.apple.businessservicesd.plist
+/Users/developer/Library/Preferences/com.apple.spaces.plist
+/Users/developer/Library/Preferences/com.apple.AddressBook.plist
+/Users/developer/Library/Preferences/com.apple.seserviced.plist
+/Users/developer/Library/Preferences/com.apple.Accessibility.Assets.plist
+/Users/developer/Library/Preferences/com.apple.SpeakSelection.plist
+/Users/developer/Library/Preferences/ContextStoreAgent.plist
+/Users/developer/Library/Preferences/com.apple.LaunchServices.QuarantineEventsV2
+/Users/developer/Library/Preferences/com.apple.appstored.plist
+/Users/developer/Library/Preferences/com.apple.DuetExpertCenter.AppPredictionExpert.plist
+/Users/developer/Library/Preferences/com.apple.knowledge-agent.plist
+/Users/developer/Library/Preferences/com.apple.xpc.activity2.plist
+/Users/developer/Library/Preferences/com.kaspersky.kav.plist
+/Users/developer/Library/Preferences/com.apple.studentd.plist
+/Users/developer/Library/Preferences/com.apple.Terminal.plist
+/Users/developer/Library/Preferences/com.apple.finder.plist
+find: /Users/developer/Library/Messages: Operation not permitted
+find: /Users/developer/Library/HomeKit: Operation not permitted
+find: /Users/developer/Library/Sharing: Operation not permitted
+find: /Users/developer/Library/com.apple.aiml.instrumentation: Operation not permitted
+/Users/developer/Library/Python/3.9/lib/python/site-packages/python_docx-1.2.0.dist-info/RECORD
+/Users/developer/Library/Python/3.9/lib/python/site-packages/python_docx-1.2.0.dist-info/licenses/LICENSE
+/Users/developer/Library/Python/3.9/lib/python/site-packages/python_docx-1.2.0.dist-info/WHEEL
+/Users/developer/Library/Python/3.9/lib/python/site-packages/python_docx-1.2.0.dist-info/top_level.txt
+/Users/developer/Library/Python/3.9/lib/python/site-packages/python_docx-1.2.0.dist-info/REQUESTED
+/Users/developer/Library/Python/3.9/lib/python/site-packages/python_docx-1.2.0.dist-info/INSTALLER
+/Users/developer/Library/Python/3.9/lib/python/site-packages/python_docx-1.2.0.dist-info/METADATA
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/package.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/oxml/coreprops.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/oxml/simpletypes.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/oxml/drawing.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/oxml/__init__.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/oxml/ns.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/oxml/section.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/oxml/shared.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/oxml/numbering.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/oxml/parser.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/oxml/document.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/oxml/styles.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/oxml/settings.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/oxml/exceptions.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/oxml/shape.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/oxml/table.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/oxml/text/run.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/oxml/text/hyperlink.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/oxml/text/__init__.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/oxml/text/font.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/oxml/text/parfmt.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/oxml/text/paragraph.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/oxml/text/pagebreak.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/oxml/xmlchemy.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/oxml/comments.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/drawing/__init__.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/opc/package.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/opc/coreprops.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/opc/oxml.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/opc/constants.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/opc/__init__.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/opc/spec.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/opc/shared.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/opc/packuri.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/opc/phys_pkg.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/opc/parts/coreprops.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/opc/parts/__init__.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/opc/exceptions.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/opc/pkgreader.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/opc/part.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/opc/rel.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/opc/pkgwriter.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/blkcntnr.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/dml/color.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/dml/__init__.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/enum/style.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/enum/__init__.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/enum/section.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/enum/text.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/enum/shape.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/enum/table.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/enum/dml.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/enum/base.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/__init__.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/types.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/section.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/image/tiff.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/image/gif.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/image/constants.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/image/jpeg.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/image/__init__.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/image/png.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/image/bmp.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/image/exceptions.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/image/helpers.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/image/image.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/shared.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/api.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/styles/style.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/styles/latent.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/styles/__init__.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/styles/styles.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/document.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/settings.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/parts/story.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/parts/__init__.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/parts/numbering.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/parts/hdrftr.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/parts/document.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/parts/styles.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/parts/settings.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/parts/image.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/parts/comments.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/py.typed
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/templates/default-header.xml
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/templates/default-settings.xml
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/templates/default-footer.xml
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/templates/default-comments.xml
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/templates/default-docx-template/[Content_Types].xml
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/templates/default-docx-template/docProps/app.xml
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/templates/default-docx-template/docProps/thumbnail.jpeg
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/templates/default-docx-template/docProps/core.xml
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/templates/default-docx-template/customXml/item1.xml
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/templates/default-docx-template/customXml/_rels/item1.xml.rels
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/templates/default-docx-template/customXml/itemProps1.xml
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/templates/default-docx-template/_rels/.rels
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/templates/default-docx-template/word/fontTable.xml
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/templates/default-docx-template/word/document.xml
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/templates/default-docx-template/word/settings.xml
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/templates/default-docx-template/word/numbering.xml
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/templates/default-docx-template/word/webSettings.xml
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/templates/default-docx-template/word/styles.xml
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/templates/default-docx-template/word/theme/theme1.xml
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/templates/default-docx-template/word/_rels/document.xml.rels
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/templates/default-docx-template/word/stylesWithEffects.xml
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/templates/default.docx
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/templates/default-styles.xml
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/exceptions.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/shape.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/table.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/text/run.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/text/hyperlink.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/text/__init__.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/text/font.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/text/tabstops.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/text/parfmt.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/text/paragraph.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/text/pagebreak.py
+/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/comments.py
+find: /Users/developer/Library/Mail: Operation not permitted
+find: /Users/developer/Library/Trial: Operation not permitted
+find: /Users/developer/Library/AppleMediaServices: Operation not permitted
+find: /Users/developer/Library/DuetExpertCenter: Operation not permitted
+/Users/developer/Library/HTTPStorages/com.apple.tipsd/httpstorages.sqlite-wal
+/Users/developer/Library/HTTPStorages/com.apple.tipsd/httpstorages.sqlite-shm
+find: /Users/developer/Library/Accounts: Operation not permitted
+find: /Users/developer/Library/Safari: Operation not permitted
+find: /Users/developer/Library/Biome: Operation not permitted
+find: /Users/developer/Library/IntelligencePlatform: Operation not permitted
+find: /Users/developer/Library/Shortcuts: Operation not permitted
+find: /Users/developer/Library/Suggestions: Operation not permitted
+find: /Users/developer/Library/Weather: Operation not permitted
+find: /Users/developer/Library/Group Containers/group.com.apple.stocks-news: Operation not permitted
+find: /Users/developer/Library/Group Containers/group.com.apple.photolibraryd.private: Operation not permitted
+find: /Users/developer/Library/Group Containers/group.com.apple.feedback: Operation not permitted
+find: /Users/developer/Library/Group Containers/group.com.apple.swtransparency: Operation not permitted
+find: /Users/developer/Library/Group Containers/group.com.apple.coreservices.useractivityd: Operation not permitted
+find: /Users/developer/Library/Group Containers/group.com.apple.accessibility.voicebanking: Operation not permitted
+find: /Users/developer/Library/Group Containers/group.com.apple.stocks: Operation not permitted
+find: /Users/developer/Library/Group Containers/group.com.apple.usernoted: Operation not permitted
+find: /Users/developer/Library/Group Containers/group.com.apple.VoiceMemos.shared: Operation not permitted
+find: /Users/developer/Library/Group Containers/group.com.apple.secure-control-center-preferences: Operation not permitted
+find: /Users/developer/Library/Group Containers/group.com.apple.chronod: Operation not permitted
+find: /Users/developer/Library/Group Containers/group.com.apple.private.translation: Operation not permitted
+find: /Users/developer/Library/Group Containers/group.com.apple.appstoreagent: Operation not permitted
+find: /Users/developer/Library/Group Containers/group.com.apple.portrait.BackgroundReplacement: Operation not permitted
+find: /Users/developer/Library/Group Containers/group.com.apple.amsondevicestoraged: Operation not permitted
+find: /Users/developer/Library/Group Containers/group.com.apple.SiriTTS: Operation not permitted
+find: /Users/developer/Library/Group Containers/group.com.apple.calendar: Operation not permitted
+find: /Users/developer/Library/Group Containers/group.com.apple.newsd: Operation not permitted
+find: /Users/developer/Library/Group Containers/group.com.apple.siri.userfeedbacklearning: Operation not permitted
+find: /Users/developer/Library/Group Containers/group.com.apple.tips: Operation not permitted
+find: /Users/developer/Library/Group Containers/group.com.apple.spotlight: Operation not permitted
+find: /Users/developer/Library/Group Containers/group.com.apple.studentd: Operation not permitted
+find: /Users/developer/Library/Group Containers/group.com.apple.ManagedSettings: Operation not permitted
+find: /Users/developer/Library/Group Containers/group.com.apple.sharingd: Operation not permitted
+find: /Users/developer/Library/Group Containers/group.com.apple.printtool: Operation not permitted
+find: /Users/developer/Library/Group Containers/group.com.apple.news: Operation not permitted
+find: /Users/developer/Library/Group Containers/group.com.apple.scopedbookmarkagent: Operation not permitted
+find: /Users/developer/Library/Group Containers/group.com.apple.weather: Operation not permitted
+find: /Users/developer/Library/Group Containers/com.apple.systempreferences.cache: Operation not permitted
+find: /Users/developer/Library/Group Containers/group.com.apple.feedbacklogger: Operation not permitted
+find: /Users/developer/Library/Group Containers/group.com.apple.siri.remembers: Operation not permitted
+find: /Users/developer/Library/Group Containers/group.com.apple.notes: Operation not permitted
+find: /Users/developer/Library/Group Containers/com.apple.stickersd.group: Operation not permitted
+find: /Users/developer/Library/Group Containers/group.com.apple.UserNotifications: Operation not permitted
+find: /Users/developer/Library/Group Containers/group.com.apple.tipsnext: Operation not permitted
+find: /Users/developer/Library/Group Containers/group.com.apple.Safari.SandboxBroker: Operation not permitted
+find: /Users/developer/Library/Group Containers/group.com.apple.transparency: Operation not permitted
+find: /Users/developer/Library/Group Containers/group.com.apple.reminders: Operation not permitted
+find: /Users/developer/Library/Group Containers/group.com.apple.mail: Operation not permitted
+find: /Users/developer/Library/Group Containers/com.apple.bird: Operation not permitted
+find: /Users/developer/Library/Group Containers/group.com.apple.DeviceActivity: Operation not permitted
+find: /Users/developer/Library/Group Containers/com.apple.Home.group: Operation not permitted
+find: /Users/developer/Library/Group Containers/group.com.apple.iCloudDrive: Operation not permitted
+find: /Users/developer/Library/Group Containers/com.apple.PreviewLegacySignaturesConversion: Operation not permitted
+find: /Users/developer/Library/Group Containers/group.com.apple.replicatord: Operation not permitted
+find: /Users/developer/Library/Group Containers/group.com.apple.AppleSpell: Operation not permitted
+find: /Users/developer/Library/Group Containers/group.com.apple.mlhost: Operation not permitted
+find: /Users/developer/Library/Group Containers/group.com.apple.PegasusConfiguration: Operation not permitted
+find: /Users/developer/Library/Group Containers/group.com.apple.shortcuts: Operation not permitted
+find: /Users/developer/Library/Containers/com.apple.VoiceMemos: Operation not permitted
+/Users/developer/Library/Containers/com.apple.weather.widget/Data/Library/HTTPStorages/com.apple.weather.widget/httpstorages.sqlite-wal
+/Users/developer/Library/Containers/com.apple.weather.widget/Data/SystemData/com.apple.chrono/timelines/com.apple.weather/systemSmall--1289529871828302290----164.00w--164.00h--20.00r--0f--0.00t-0.00l-0.00b0.00t.chrono-timeline
+/Users/developer/Library/Containers/com.apple.photolibraryd/Data/Library/Preferences/com.apple.photolibraryd.plist
+find: /Users/developer/Library/Containers/com.apple.Maps/Data/Maps: Operation not permitted
+find: /Users/developer/Library/Containers/com.apple.Home: Operation not permitted
+find: /Users/developer/Library/Containers/com.apple.Safari: Operation not permitted
+find: /Users/developer/Library/Containers/com.apple.mail: Operation not permitted
+find: /Users/developer/Library/Containers/com.apple.MobileSMS: Operation not permitted
+find: /Users/developer/Library/Containers/com.apple.Notes: Operation not permitted
+/Users/developer/Library/Containers/com.apple.geod/Data/Library/Caches/com.apple.geod/Vault/GEOConfigStore.db-wal
+find: /Users/developer/Library/Containers/com.apple.news: Operation not permitted
+find: /Users/developer/Library/Containers/com.apple.stocks: Operation not permitted
+find: /Users/developer/Library/Containers/com.apple.Safari.WebApp: Operation not permitted
+find: /Users/developer/Library/ContainerManager: Operation not permitted
+find: /Users/developer/Library/PersonalizationPortrait: Operation not permitted
+/Users/developer/Library/Photos/Libraries/Syndication.photoslibrary/database/Photos.sqlite.lock
+/Users/developer/Library/Photos/Libraries/Syndication.photoslibrary/database/Photos.sqlite-shm
+/Users/developer/Library/Photos/Libraries/Syndication.photoslibrary/resources/derivatives/thumbs/thumbnailConfiguration
+find: /Users/developer/Library/Metadata/CoreSpotlight: Operation not permitted
+find: /Users/developer/Library/Cookies: Operation not permitted
+find: /Users/developer/Library/CoreFollowUp: Operation not permitted
+find: /Users/developer/Library/StatusKit: Operation not permitted
+find: /Users/developer/Library/DoNotDisturb: Operation not permitted
+/Users/developer/Library/Caches/com.apple.helpd/HelpCache.plist
+find: /Users/developer/Library/Caches/com.apple.HomeKit: Operation not permitted
+find: /Users/developer/Library/Caches/CloudKit: Operation not permitted
+find: /Users/developer/Library/Caches/com.apple.Safari: Operation not permitted
+/Users/developer/Library/Caches/com.apple.geoanalyticsd/AP.db-wal
+/Users/developer/Library/Caches/com.apple.tipsd/Cache.db-shm
+/Users/developer/Library/Caches/com.apple.tipsd/Cache.db-wal
+find: /Users/developer/Library/Caches/com.apple.containermanagerd: Operation not permitted
+/Users/developer/Library/Caches/com.apple.systemsettings.menucache
+/Users/developer/Library/Caches/pip/http-v2/e/d/b/3/b/edb3baf90632cffec441cc46b42df9b7b9bd5ae1fe19a2b8d93254ff
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/__init__.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/api.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/oxml/__init__.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/oxml/numbering.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/oxml/comments.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/oxml/shared.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/oxml/shape.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/oxml/settings.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/oxml/table.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/oxml/xmlchemy.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/oxml/styles.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/oxml/document.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/oxml/exceptions.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/oxml/simpletypes.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/oxml/text/__init__.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/oxml/text/run.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/oxml/text/pagebreak.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/oxml/text/hyperlink.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/oxml/text/paragraph.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/oxml/text/font.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/oxml/text/parfmt.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/oxml/drawing.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/oxml/section.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/oxml/coreprops.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/oxml/parser.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/oxml/ns.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/drawing/__init__.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/comments.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/opc/__init__.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/opc/spec.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/opc/shared.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/opc/pkgreader.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/opc/part.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/opc/rel.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/opc/pkgwriter.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/opc/parts/__init__.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/opc/parts/coreprops.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/opc/phys_pkg.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/opc/oxml.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/opc/package.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/opc/exceptions.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/opc/packuri.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/opc/coreprops.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/opc/constants.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/shared.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/dml/__init__.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/dml/color.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/enum/__init__.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/enum/dml.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/enum/shape.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/enum/base.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/enum/text.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/enum/table.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/enum/style.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/enum/section.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/shape.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/settings.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/image/__init__.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/image/gif.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/image/jpeg.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/image/tiff.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/image/helpers.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/image/bmp.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/image/image.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/image/exceptions.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/image/png.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/image/constants.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/styles/__init__.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/styles/style.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/styles/styles.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/styles/latent.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/types.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/table.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/blkcntnr.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/parts/__init__.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/parts/numbering.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/parts/comments.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/parts/hdrftr.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/parts/settings.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/parts/story.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/parts/styles.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/parts/image.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/parts/document.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/package.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/document.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/exceptions.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/text/__init__.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/text/run.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/text/pagebreak.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/text/hyperlink.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/text/tabstops.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/text/paragraph.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/text/font.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/text/parfmt.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.python/Users/developer/Library/Python/3.9/lib/python/site-packages/docx/section.cpython-39.pyc
+/Users/developer/Library/Caches/com.apple.parsecd/Cohorts/cohorts.sqlite
+/Users/developer/Library/Caches/com.apple.parsecd/Cohorts/cohorts.sqlite-shm
+/Users/developer/Library/Caches/com.apple.parsecd/Cohorts/cohorts.sqlite-wal
+/Users/developer/Library/Caches/com.apple.nsservicescache.plist
+/Users/developer/Library/Caches/com.apple.feedbacklogger/latest-logging-config.data
+/Users/developer/Library/Caches/com.apple.feedbacklogger/com.apple.siri.telemetry/data.sqlite-wal
+find: /Users/developer/Library/Caches/com.apple.homed: Operation not permitted
+/Users/developer/Library/Caches/com.apple.cache_delete/CacheDeleteAnalytics.plist
+/Users/developer/Library/Caches/com.apple.cache_delete/CacheDeleteDaemonRecentInfo_v2
+find: /Users/developer/Library/Caches/com.apple.ap.adprivacyd: Operation not permitted
+/Users/developer/Project/Awareness_1.pdf
+/Users/developer/Project/Awareness_3.xlsx
+/Users/developer/Project/Awareness_7.pdf
+/Users/developer/Project/Awareness_10.pdf
+/Users/developer/Project/Awareness_4.pdf
+/Users/developer/Project/Awareness_9.xlsx
+/Users/developer/Project/Awareness_2.docx
+/Users/developer/Project/Awareness_6.xlsx
+/Users/developer/Project/Awareness_5.docx
+/Users/developer/Project/Awareness_8.docx
+/Users/developer/evidence_20250714_190336/user_sessions.txt
+/Users/developer/evidence_20250714_190336/running_processes.txt
+/Users/developer/evidence_20250714_190336/network_connections.txt
+/Users/developer/evidence_20250714_190336/var_log/powermanagement/2025.07.14.asl
+/Users/developer/evidence_20250714_190336/var_log/powermanagement/StoreData
+/Users/developer/evidence_20250714_190336/var_log/asl/2025.07.14.G80.asl
+/Users/developer/evidence_20250714_190336/var_log/asl/Logs/aslmanager.20250714T185552-03
+/Users/developer/evidence_20250714_190336/var_log/asl/StoreData
+/Users/developer/evidence_20250714_190336/var_log/asl/BB.2026.07.31.G80.asl
+/Users/developer/evidence_20250714_190336/var_log/DiagnosticMessages/2025.07.14.asl
+/Users/developer/evidence_20250714_190336/var_log/DiagnosticMessages/StoreData
+/Users/developer/evidence_20250714_190336/var_log/fsck_hfs.log
+/Users/developer/evidence_20250714_190336/var_log/com.apple.xpc.launchd/launchd.log
+/Users/developer/evidence_20250714_190336/var_log/system.log
+/Users/developer/evidence_20250714_190336/var_log/wifi.log
+/Users/developer/evidence_20250714_190336/recently_modified_files.txt
+/Users/developer/evidence_20250714_190336/crontab_user.txt
+find: /Users/developer/.Trash: Operation not permitted
+/Users/developer/Backup/Awareness_1.pdf
+/Users/developer/Backup/Awareness_3.xlsx
+/Users/developer/Backup/Awareness_7.pdf
+/Users/developer/Backup/Awareness_10.pdf
+/Users/developer/Backup/Awareness_4.pdf
+/Users/developer/Backup/Awareness_9.xlsx
+/Users/developer/Backup/Awareness_2.docx
+/Users/developer/Backup/Awareness_6.xlsx
+/Users/developer/Backup/Awareness_5.docx
+/Users/developer/Backup/Awareness_8.docx
+/Users/developer/Downloads/FileAntiVirus_2025-07-14_19-00-08.csv
+/Users/developer/Downloads/.DS_Store
+/Users/developer/Downloads/Threats_2025-07-14_18-59-59.csv
+/Users/developer/Downloads/payload.dmg
+/Users/developer/Downloads/m4c0sRans.dmg
+/Users/developer/Presentation/Awareness_1.pdf
+/Users/developer/Presentation/Awareness_3.xlsx
+/Users/developer/Presentation/Awareness_7.pdf
+/Users/developer/Presentation/Awareness_10.pdf
+/Users/developer/Presentation/Awareness_4.pdf
+/Users/developer/Presentation/Awareness_9.xlsx
+/Users/developer/Presentation/Awareness_2.docx
+/Users/developer/Presentation/Awareness_6.xlsx
+/Users/developer/Presentation/Awareness_5.docx
+/Users/developer/Presentation/Awareness_8.docx
+/Users/developer/.zsh_sessions/AE9D8853-4407-4222-B823-76CD24B73AEF.historynew
