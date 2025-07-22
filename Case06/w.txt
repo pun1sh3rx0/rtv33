@@ -1,0 +1,4 @@
+ 16:48:09 up  8:31,  2 users,  load average: 0.02, 0.02, 0.00
+USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU WHAT
+pun1sh3r pts/0    172.16.166.1     08:18    1.00s  1.32s  0.13s sshd: pun1sh3r [priv]
+pun1sh3r pts/1    172.16.166.1     16:30   19.00s  0.13s  0.07s sshd: pun1sh3r [priv]

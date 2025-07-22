@@ -1,0 +1,7 @@
+Netid State     Recv-Q Send-Q  Local Address:Port     Peer Address:Port Process                                               
+udp   UNCONN    0      0             0.0.0.0:68            0.0.0.0:*     users:(("dhclient",pid=517,fd=7))                    
+tcp   LISTEN    0      128           0.0.0.0:22            0.0.0.0:*     users:(("sshd",pid=646,fd=3))                        
+tcp   ESTAB     0      0      172.16.166.142:22       172.16.166.1:34292 users:(("sshd",pid=845,fd=4),("sshd",pid=822,fd=4))  
+tcp   TIME-WAIT 0      0      172.16.166.142:47534 104.248.115.135:59642                                                      
+tcp   ESTAB     0      0      172.16.166.142:22       172.16.166.1:50772 users:(("sshd",pid=3439,fd=4),("sshd",pid=3433,fd=4))
+tcp   LISTEN    0      128              [::]:22               [::]:*     users:(("sshd",pid=646,fd=4))                        

@@ -1,0 +1,91 @@
+Active Internet connections (servers and established)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 0.0.0.0:22              0.0.0.0:*               LISTEN      646/sshd: /usr/sbin 
+tcp        0      0 172.16.166.142:22       172.16.166.1:34292      ESTABLISHED 822/sshd: pun1sh3r  
+tcp        0      0 172.16.166.142:47534    104.248.115.135:59642   TIME_WAIT   -                   
+tcp        0      0 172.16.166.142:22       172.16.166.1:50772      ESTABLISHED 3433/sshd: pun1sh3r 
+tcp6       0      0 :::22                   :::*                    LISTEN      646/sshd: /usr/sbin 
+udp        0      0 0.0.0.0:68              0.0.0.0:*                           517/dhclient        
+Active UNIX domain sockets (servers and established)
+Proto RefCnt Flags       Type       State         I-Node   PID/Program name     Path
+unix  3      [ ]         STREAM     CONNECTED     21092    528/dbus-daemon      
+unix  3      [ ]         STREAM     CONNECTED     20913    525/cron             
+unix  2      [ ]         DGRAM      CONNECTED     104194   3455/su              
+unix  3      [ ]         STREAM     CONNECTED     21733    1/init               /run/systemd/journal/stdout
+unix  2      [ ]         DGRAM                    21820    825/systemd          /run/user/1000/systemd/notify
+unix  2      [ ACC ]     STREAM     LISTENING     21823    825/systemd          /run/user/1000/systemd/private
+unix  2      [ ACC ]     STREAM     LISTENING     21833    825/systemd          /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     21054    537/systemd-logind   
+unix  2      [ ACC ]     STREAM     LISTENING     21840    825/systemd          /run/user/1000/gnupg/S.dirmngr
+unix  2      [ ACC ]     STREAM     LISTENING     21842    825/systemd          /run/user/1000/gnupg/S.gpg-agent.browser
+unix  2      [ ACC ]     STREAM     LISTENING     21844    825/systemd          /run/user/1000/gnupg/S.gpg-agent.extra
+unix  2      [ ACC ]     STREAM     LISTENING     21846    825/systemd          /run/user/1000/gnupg/S.gpg-agent.ssh
+unix  2      [ ACC ]     STREAM     LISTENING     21848    825/systemd          /run/user/1000/gnupg/S.gpg-agent
+unix  2      [ ]         DGRAM      CONNECTED     19004    336/systemd-journal  
+unix  2      [ ]         DGRAM      CONNECTED     20873    517/dhclient         
+unix  3      [ ]         STREAM     CONNECTED     20914    1/init               /run/systemd/journal/stdout
+unix  2      [ ]         DGRAM      CONNECTED     106047   3680/su              
+unix  2      [ ]         DGRAM      CONNECTED     21740    826/(sd-pam)         
+unix  3      [ ]         STREAM     CONNECTED     21100    528/dbus-daemon      /run/dbus/system_bus_socket
+unix  2      [ ]         DGRAM      CONNECTED     20995    525/cron             
+unix  2      [ ]         DGRAM      CONNECTED     20238    357/systemd-udevd    
+unix  3      [ ]         STREAM     CONNECTED     20860    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     20687    450/systemd-timesyn  
+unix  2      [ ]         DGRAM      CONNECTED     21760    825/systemd          
+unix  3      [ ]         STREAM     CONNECTED     21055    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     104125   3433/sshd: pun1sh3r  
+unix  3      [ ]         DGRAM      CONNECTED     21821    825/systemd          
+unix  2      [ ]         DGRAM      CONNECTED     99298    3204/rsyslogd        
+unix  3      [ ]         STREAM     CONNECTED     21093    528/dbus-daemon      
+unix  3      [ ]         STREAM     CONNECTED     21095    528/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     20980    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         DGRAM      CONNECTED     15546    1/init               /run/systemd/notify
+unix  2      [ ACC ]     STREAM     LISTENING     15549    1/init               /run/systemd/private
+unix  3      [ ]         STREAM     CONNECTED     104124   3439/sshd: pun1sh3r  
+unix  2      [ ACC ]     STREAM     LISTENING     15551    1/init               /run/systemd/userdb/io.systemd.DynamicUser
+unix  2      [ ACC ]     STREAM     LISTENING     15552    1/init               /run/systemd/io.system.ManagedOOM
+unix  3      [ ]         STREAM     CONNECTED     20855    492/VGAuthService    
+unix  2      [ ]         DGRAM                    15563    1/init               /run/systemd/journal/syslog
+unix  2      [ ACC ]     STREAM     LISTENING     15565    1/init               /run/systemd/fsck.progress
+unix  3      [ ]         STREAM     CONNECTED     20859    493/vmtoolsd         
+unix  11     [ ]         DGRAM      CONNECTED     15569    1/init               /run/systemd/journal/dev-log
+unix  3      [ ]         DGRAM      CONNECTED     15547    1/init               
+unix  7      [ ]         DGRAM      CONNECTED     15571    1/init               /run/systemd/journal/socket
+unix  2      [ ACC ]     STREAM     LISTENING     15573    1/init               /run/systemd/journal/stdout
+unix  2      [ ACC ]     SEQPACKET  LISTENING     15575    1/init               /run/udev/control
+unix  3      [ ]         STREAM     CONNECTED     21405    1/init               /run/systemd/journal/stdout
+unix  2      [ ACC ]     STREAM     LISTENING     19002    336/systemd-journal  /run/systemd/journal/io.systemd.journal
+unix  3      [ ]         DGRAM      CONNECTED     20890    450/systemd-timesyn  
+unix  3      [ ]         STREAM     CONNECTED     21728    825/systemd          
+unix  2      [ ]         DGRAM      CONNECTED     104098   3433/sshd: pun1sh3r  
+unix  2      [ ]         DGRAM      CONNECTED     103476   528/dbus-daemon      
+unix  3      [ ]         DGRAM      CONNECTED     20243    357/systemd-udevd    
+unix  3      [ ]         STREAM     CONNECTED     20907    450/systemd-timesyn  
+unix  2      [ ]         DGRAM      CONNECTED     21313    537/systemd-logind   
+unix  3      [ ]         STREAM     CONNECTED     20979    528/dbus-daemon      
+unix  3      [ ]         DGRAM      CONNECTED     20891    450/systemd-timesyn  
+unix  2      [ ]         DGRAM      CONNECTED     21684    822/sshd: pun1sh3r   
+unix  2      [ ]         STREAM     CONNECTED     104079   3433/sshd: pun1sh3r  
+unix  3      [ ]         STREAM     CONNECTED     21873    822/sshd: pun1sh3r   
+unix  3      [ ]         STREAM     CONNECTED     20688    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     21402    646/sshd: /usr/sbin  
+unix  3      [ ]         STREAM     CONNECTED     21826    528/dbus-daemon      /run/dbus/system_bus_socket
+unix  2      [ ]         DGRAM                    21009    492/VGAuthService    
+unix  3      [ ]         STREAM     CONNECTED     21825    825/systemd          
+unix  3      [ ]         STREAM     CONNECTED     20226    357/systemd-udevd    
+unix  2      [ ACC ]     STREAM     LISTENING     20897    1/init               /run/dbus/system_bus_socket
+unix  2      [ ]         STREAM     CONNECTED     21665    822/sshd: pun1sh3r   
+unix  3      [ ]         STREAM     CONNECTED     21098    1/init               
+unix  3      [ ]         DGRAM      CONNECTED     20892    450/systemd-timesyn  
+unix  3      [ ]         STREAM     CONNECTED     20353    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         DGRAM      CONNECTED     21822    825/systemd          
+unix  2      [ ACC ]     STREAM     LISTENING     21322    492/VGAuthService    /var/run/vmware/guestServicePipe
+unix  3      [ ]         STREAM     CONNECTED     21339    537/systemd-logind   
+unix  3      [ ]         DGRAM      CONNECTED     15548    1/init               
+unix  3      [ ]         DGRAM      CONNECTED     20889    450/systemd-timesyn  
+unix  3      [ ]         STREAM     CONNECTED     21872    845/sshd: pun1sh3r@  
+unix  2      [ ]         DGRAM      CONNECTED     20883    450/systemd-timesyn  
+unix  3      [ ]         DGRAM      CONNECTED     20242    357/systemd-udevd    
+unix  3      [ ]         STREAM     CONNECTED     20856    1/init               /run/systemd/journal/stdout
+unix  2      [ ]         DGRAM      CONNECTED     20321    1/init               
+unix  3      [ ]         STREAM     CONNECTED     21340    528/dbus-daemon      /run/dbus/system_bus_socket

