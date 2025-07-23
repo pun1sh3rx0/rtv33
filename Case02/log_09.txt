@@ -29,7 +29,7 @@
 {'name': 'svchost.exe', 'username': 'NT AUTHORITY\\SYSTEM', 'pid': 1428, 'create_time': 1751830833.766322}
 {'name': 'svchost.exe', 'username': 'NT AUTHORITY\\LOCAL SERVICE', 'pid': 1456, 'create_time': 1751830833.8164709}
 {'name': 'svchost.exe', 'username': 'NT AUTHORITY\\LOCAL SERVICE', 'pid': 1524, 'create_time': 1751830833.9291327}
-{'name': 'powershell.exe', 'username': 'LAB-ZZ\\client', 'pid': 1536, 'create_time': 1751831104.5702467}
+{'name': 'powershell.exe', 'username': 'LAB-ZZ02\\client', 'pid': 1536, 'create_time': 1751831104.5702467}
 {'name': 'svchost.exe', 'username': 'NT AUTHORITY\\SYSTEM', 'pid': 1620, 'create_time': 1751830834.2957492}
 {'name': 'svchost.exe', 'username': 'NT AUTHORITY\\SYSTEM', 'pid': 1648, 'create_time': 1751830834.3400989}
 {'name': 'svchost.exe', 'username': 'NT AUTHORITY\\LOCAL SERVICE', 'pid': 1728, 'create_time': 1751830834.4275093}
@@ -42,7 +42,7 @@
 {'name': 'svchost.exe', 'username': 'NT AUTHORITY\\LOCAL SERVICE', 'pid': 1960, 'create_time': 1751830834.7170825}
 {'name': 'svchost.exe', 'username': 'NT AUTHORITY\\SYSTEM', 'pid': 2016, 'create_time': 1751830835.1322863}
 {'name': 'svchost.exe', 'username': 'NT AUTHORITY\\LOCAL SERVICE', 'pid': 2044, 'create_time': 1751830835.156181}
-{'name': 'conhost.exe', 'username': 'LAB-ZZ\\client', 'pid': 2112, 'create_time': 1751831104.598622}
+{'name': 'conhost.exe', 'username': 'LAB-ZZ02\\client', 'pid': 2112, 'create_time': 1751831104.598622}
 {'name': 'svchost.exe', 'username': 'NT AUTHORITY\\LOCAL SERVICE', 'pid': 2212, 'create_time': 1751830835.539925}
 {'name': 'svchost.exe', 'username': 'NT AUTHORITY\\LOCAL SERVICE', 'pid': 2300, 'create_time': 1751830835.9998212}
 {'name': 'svchost.exe', 'username': 'NT AUTHORITY\\NETWORK SERVICE', 'pid': 2308, 'create_time': 1751830838.375604}
@@ -62,7 +62,7 @@
 {'name': 'OfficeClickToRun.exe', 'username': 'NT AUTHORITY\\SYSTEM', 'pid': 3316, 'create_time': 1751830839.6345413}
 {'name': 'cyserver.exe', 'username': 'NT AUTHORITY\\SYSTEM', 'pid': 3328, 'create_time': 1751830839.6385095}
 {'name': 'svchost.exe', 'username': 'NT AUTHORITY\\SYSTEM', 'pid': 3340, 'create_time': 1751830839.6484292}
-{'name': 'SecurityHealthSystray.exe', 'username': 'LAB-ZZ\\client', 'pid': 3352, 'create_time': 1751830908.6946592}
+{'name': 'SecurityHealthSystray.exe', 'username': 'LAB-ZZ02\\client', 'pid': 3352, 'create_time': 1751830908.6946592}
 {'name': 'svchost.exe', 'username': 'NT AUTHORITY\\LOCAL SERVICE', 'pid': 3360, 'create_time': 1751830839.6870742}
 {'name': 'svchost.exe', 'username': 'NT AUTHORITY\\SYSTEM', 'pid': 3408, 'create_time': 1751830839.7579827}
 {'name': 'svchost.exe', 'username': 'NT AUTHORITY\\SYSTEM', 'pid': 3508, 'create_time': 1751830839.87281}
@@ -76,28 +76,28 @@
 {'name': 'svchost.exe', 'username': 'NT AUTHORITY\\SYSTEM', 'pid': 3656, 'create_time': 1751830840.181188}
 {'name': 'SecurityHealthService.exe', 'username': 'NT AUTHORITY\\SYSTEM', 'pid': 3696, 'create_time': 1751830909.1287692}
 {'name': 'svchost.exe', 'username': 'NT AUTHORITY\\SYSTEM', 'pid': 3808, 'create_time': 1751830845.5303087}
-{'name': 'ssh.exe', 'username': 'LAB-ZZ\\client', 'pid': 3928, 'create_time': 1751831071.3916917}
+{'name': 'ssh.exe', 'username': 'LAB-ZZ02\\client', 'pid': 3928, 'create_time': 1751831071.3916917}
 {'name': 'svchost.exe', 'username': 'NT AUTHORITY\\LOCAL SERVICE', 'pid': 4012, 'create_time': 1751830840.8757207}
 {'name': 'vm3dservice.exe', 'username': 'NT AUTHORITY\\SYSTEM', 'pid': 4048, 'create_time': 1751830840.896896}
-{'name': 'msedge.exe', 'username': 'LAB-ZZ\\client', 'pid': 4056, 'create_time': 1751831917.573348}
-{'name': 'powershell.exe', 'username': 'LAB-ZZ\\client', 'pid': 4168, 'create_time': 1751831063.35816}
-{'name': 'SearchApp.exe', 'username': 'LAB-ZZ\\client', 'pid': 4216, 'create_time': 1751830890.6443112}
-{'name': 'explorer.exe', 'username': 'LAB-ZZ\\client', 'pid': 4328, 'create_time': 1751830857.271273}
-{'name': 'RuntimeBroker.exe', 'username': 'LAB-ZZ\\client', 'pid': 4460, 'create_time': 1751830891.378176}
+{'name': 'msedge.exe', 'username': 'LAB-ZZ02\\client', 'pid': 4056, 'create_time': 1751831917.573348}
+{'name': 'powershell.exe', 'username': 'LAB-ZZ02\\client', 'pid': 4168, 'create_time': 1751831063.35816}
+{'name': 'SearchApp.exe', 'username': 'LAB-ZZ02\\client', 'pid': 4216, 'create_time': 1751830890.6443112}
+{'name': 'explorer.exe', 'username': 'LAB-ZZ02\\client', 'pid': 4328, 'create_time': 1751830857.271273}
+{'name': 'RuntimeBroker.exe', 'username': 'LAB-ZZ02\\client', 'pid': 4460, 'create_time': 1751830891.378176}
 {'name': 'svchost.exe', 'username': 'NT AUTHORITY\\LOCAL SERVICE', 'pid': 4468, 'create_time': 1751830841.9825673}
-{'name': 'msedge.exe', 'username': 'LAB-ZZ\\client', 'pid': 4772, 'create_time': 1751831916.518695}
+{'name': 'msedge.exe', 'username': 'LAB-ZZ02\\client', 'pid': 4772, 'create_time': 1751831916.518695}
 {'name': 'SearchIndexer.exe', 'username': 'NT AUTHORITY\\SYSTEM', 'pid': 4792, 'create_time': 1751830845.6224074}
 {'name': 'dllhost.exe', 'username': 'NT AUTHORITY\\SYSTEM', 'pid': 4892, 'create_time': 1751830843.5040324}
-{'name': 'StartMenuExperienceHost.exe', 'username': 'LAB-ZZ\\client', 'pid': 4992, 'create_time': 1751830880.9463675}
+{'name': 'StartMenuExperienceHost.exe', 'username': 'LAB-ZZ02\\client', 'pid': 4992, 'create_time': 1751830880.9463675}
 {'name': 'WmiPrvSE.exe', 'username': 'NT AUTHORITY\\NETWORK SERVICE', 'pid': 5112, 'create_time': 1751830844.1692448}
 {'name': 'cysandbox.exe', 'username': 'NT AUTHORITY\\SYSTEM', 'pid': 5200, 'create_time': 1751830846.94607}
 {'name': 'svchost.exe', 'username': 'NT AUTHORITY\\LOCAL SERVICE', 'pid': 5252, 'create_time': 1751832059.3479612}
-{'name': 'sihost.exe', 'username': 'LAB-ZZ\\client', 'pid': 5376, 'create_time': 1751830847.9689047}
+{'name': 'sihost.exe', 'username': 'LAB-ZZ02\\client', 'pid': 5376, 'create_time': 1751830847.9689047}
 {'name': 'svchost.exe', 'username': 'NT AUTHORITY\\SYSTEM', 'pid': 5392, 'create_time': 1751831159.731364}
-{'name': 'svchost.exe', 'username': 'LAB-ZZ\\client', 'pid': 5424, 'create_time': 1751830849.043788}
+{'name': 'svchost.exe', 'username': 'LAB-ZZ02\\client', 'pid': 5424, 'create_time': 1751830849.043788}
 {'name': 'svchost.exe', 'username': 'NT AUTHORITY\\LOCAL SERVICE', 'pid': 5440, 'create_time': 1751830849.0708659}
-{'name': 'svchost.exe', 'username': 'LAB-ZZ\\client', 'pid': 5484, 'create_time': 1751830849.13128}
-{'name': 'taskhostw.exe', 'username': 'LAB-ZZ\\client', 'pid': 5592, 'create_time': 1751830849.5731125}
+{'name': 'svchost.exe', 'username': 'LAB-ZZ02\\client', 'pid': 5484, 'create_time': 1751830849.13128}
+{'name': 'taskhostw.exe', 'username': 'LAB-ZZ02\\client', 'pid': 5592, 'create_time': 1751830849.5731125}
 {'name': 'msdtc.exe', 'username': 'NT AUTHORITY\\NETWORK SERVICE', 'pid': 5600, 'create_time': 1751830849.6037004}
 {'name': 'svchost.exe', 'username': 'NT AUTHORITY\\LOCAL SERVICE', 'pid': 5656, 'create_time': 1751830857.7669222}
 {'name': 'uhssvc.exe', 'username': 'NT AUTHORITY\\SYSTEM', 'pid': 5688, 'create_time': 1751830972.509923}
@@ -105,51 +105,51 @@
 {'name': 'cywscsvc.exe', 'username': 'NT AUTHORITY\\SYSTEM', 'pid': 5728, 'create_time': 1751830850.4078095}
 {'name': 'tlaworker.exe', 'username': 'NT AUTHORITY\\SYSTEM', 'pid': 5744, 'create_time': 1751830917.8847153}
 {'name': 'dllhost.exe', 'username': 'NT AUTHORITY\\SYSTEM', 'pid': 5748, 'create_time': 1751830851.2829797}
-{'name': 'msedge.exe', 'username': 'LAB-ZZ\\client', 'pid': 5844, 'create_time': 1751831915.9773383}
+{'name': 'msedge.exe', 'username': 'LAB-ZZ02\\client', 'pid': 5844, 'create_time': 1751831915.9773383}
 {'name': 'svchost.exe', 'username': 'NT AUTHORITY\\SYSTEM', 'pid': 5848, 'create_time': 1751830851.4945872}
 {'name': 'svchost.exe', 'username': 'NT AUTHORITY\\SYSTEM', 'pid': 5980, 'create_time': 1751830851.790069}
-{'name': 'ctfmon.exe', 'username': 'LAB-ZZ\\client', 'pid': 6068, 'create_time': 1751830852.877227}
+{'name': 'ctfmon.exe', 'username': 'LAB-ZZ02\\client', 'pid': 6068, 'create_time': 1751830852.877227}
 {'name': 'WmiPrvSE.exe', 'username': 'NT AUTHORITY\\SYSTEM', 'pid': 6420, 'create_time': 1751830862.0956223}
 {'name': 'svchost.exe', 'username': 'NT AUTHORITY\\SYSTEM', 'pid': 6548, 'create_time': 1751832064.5132496}
-{'name': 'svchost.exe', 'username': 'LAB-ZZ\\client', 'pid': 6572, 'create_time': 1751830863.4023805}
+{'name': 'svchost.exe', 'username': 'LAB-ZZ02\\client', 'pid': 6572, 'create_time': 1751830863.4023805}
 {'name': 'svchost.exe', 'username': 'NT AUTHORITY\\LOCAL SERVICE', 'pid': 6708, 'create_time': 1751830973.1247709}
 {'name': 'AggregatorHost.exe', 'username': 'NT AUTHORITY\\SYSTEM', 'pid': 6776, 'create_time': 1751830865.249571}
-{'name': 'msedge.exe', 'username': 'LAB-ZZ\\client', 'pid': 6816, 'create_time': 1751831918.262648}
+{'name': 'msedge.exe', 'username': 'LAB-ZZ02\\client', 'pid': 6816, 'create_time': 1751831918.262648}
 {'name': 'svchost.exe', 'username': 'NT AUTHORITY\\LOCAL SERVICE', 'pid': 6876, 'create_time': 1751830867.0176833}
 {'name': 'svchost.exe', 'username': 'NT AUTHORITY\\SYSTEM', 'pid': 7044, 'create_time': 1751830869.0271685}
-{'name': 'RuntimeBroker.exe', 'username': 'LAB-ZZ\\client', 'pid': 7076, 'create_time': 1751830885.5041409}
-{'name': 'taskhostw.exe', 'username': 'LAB-ZZ\\client', 'pid': 7120, 'create_time': 1751830870.6879387}
+{'name': 'RuntimeBroker.exe', 'username': 'LAB-ZZ02\\client', 'pid': 7076, 'create_time': 1751830885.5041409}
+{'name': 'taskhostw.exe', 'username': 'LAB-ZZ02\\client', 'pid': 7120, 'create_time': 1751830870.6879387}
 {'name': 'svchost.exe', 'username': 'NT AUTHORITY\\SYSTEM', 'pid': 7232, 'create_time': 1751830972.7581503}
-{'name': 'vmtoolsd.exe', 'username': 'LAB-ZZ\\client', 'pid': 7348, 'create_time': 1751830910.0032287}
-{'name': 'RuntimeBroker.exe', 'username': 'LAB-ZZ\\client', 'pid': 7400, 'create_time': 1751830899.5590146}
-{'name': 'PhoneExperienceHost.exe', 'username': 'LAB-ZZ\\client', 'pid': 7432, 'create_time': 1751831156.1708996}
+{'name': 'vmtoolsd.exe', 'username': 'LAB-ZZ02\\client', 'pid': 7348, 'create_time': 1751830910.0032287}
+{'name': 'RuntimeBroker.exe', 'username': 'LAB-ZZ02\\client', 'pid': 7400, 'create_time': 1751830899.5590146}
+{'name': 'PhoneExperienceHost.exe', 'username': 'LAB-ZZ02\\client', 'pid': 7432, 'create_time': 1751831156.1708996}
 {'name': 'svchost.exe', 'username': 'NT AUTHORITY\\SYSTEM', 'pid': 7440, 'create_time': 1751831981.581038}
-{'name': 'svchost.exe', 'username': 'LAB-ZZ\\client', 'pid': 7516, 'create_time': 1751831509.4314988}
-{'name': 'ShellExperienceHost.exe', 'username': 'LAB-ZZ\\client', 'pid': 7536, 'create_time': 1751830900.8150504}
-{'name': 'conhost.exe', 'username': 'LAB-ZZ\\client', 'pid': 7592, 'create_time': 1751831063.479812}
-{'name': 'CyveraConsole.exe', 'username': 'LAB-ZZ\\client', 'pid': 7656, 'create_time': 1751831921.772149}
-{'name': 'cytray.exe', 'username': 'LAB-ZZ\\client', 'pid': 7696, 'create_time': 1751830911.324576}
-{'name': 'RuntimeBroker.exe', 'username': 'LAB-ZZ\\client', 'pid': 7716, 'create_time': 1751830903.0317757}
+{'name': 'svchost.exe', 'username': 'LAB-ZZ02\\client', 'pid': 7516, 'create_time': 1751831509.4314988}
+{'name': 'ShellExperienceHost.exe', 'username': 'LAB-ZZ02\\client', 'pid': 7536, 'create_time': 1751830900.8150504}
+{'name': 'conhost.exe', 'username': 'LAB-ZZ02\\client', 'pid': 7592, 'create_time': 1751831063.479812}
+{'name': 'CyveraConsole.exe', 'username': 'LAB-ZZ02\\client', 'pid': 7656, 'create_time': 1751831921.772149}
+{'name': 'cytray.exe', 'username': 'LAB-ZZ02\\client', 'pid': 7696, 'create_time': 1751830911.324576}
+{'name': 'RuntimeBroker.exe', 'username': 'LAB-ZZ02\\client', 'pid': 7716, 'create_time': 1751830903.0317757}
 {'name': 'cortex-xdr-payload.exe', 'username': 'NT AUTHORITY\\SYSTEM', 'pid': 8016, 'create_time': 1751830905.8648667}
 {'name': 'conhost.exe', 'username': 'NT AUTHORITY\\SYSTEM', 'pid': 8032, 'create_time': 1751830905.8801494}
-{'name': 'smartscreen.exe', 'username': 'LAB-ZZ\\client', 'pid': 8164, 'create_time': 1751830908.0509093}
-{'name': 'regedit.exe', 'username': 'LAB-ZZ\\client', 'pid': 8284, 'create_time': 1751830921.7137835}
-{'name': 'mmc.exe', 'username': 'LAB-ZZ\\client', 'pid': 8308, 'create_time': 1751830921.9525833}
-{'name': 'mmc.exe', 'username': 'LAB-ZZ\\client', 'pid': 8316, 'create_time': 1751830922.0157456}
+{'name': 'smartscreen.exe', 'username': 'LAB-ZZ02\\client', 'pid': 8164, 'create_time': 1751830908.0509093}
+{'name': 'regedit.exe', 'username': 'LAB-ZZ02\\client', 'pid': 8284, 'create_time': 1751830921.7137835}
+{'name': 'mmc.exe', 'username': 'LAB-ZZ02\\client', 'pid': 8308, 'create_time': 1751830921.9525833}
+{'name': 'mmc.exe', 'username': 'LAB-ZZ02\\client', 'pid': 8316, 'create_time': 1751830922.0157456}
 {'name': 'svchost.exe', 'username': 'NT AUTHORITY\\LOCAL SERVICE', 'pid': 8608, 'create_time': 1751831232.1626053}
 {'name': 'svchost.exe', 'username': 'NT AUTHORITY\\NETWORK SERVICE', 'pid': 8796, 'create_time': 1751830966.9842186}
 {'name': 'cysandbox.exe', 'username': 'NT AUTHORITY\\SYSTEM', 'pid': 8828, 'create_time': 1751830967.176622}
 {'name': 'cysandbox.exe', 'username': 'NT AUTHORITY\\SYSTEM', 'pid': 8836, 'create_time': 1751830967.2656572}
-{'name': 'svchost.exe', 'username': 'LAB-ZZ\\client', 'pid': 8960, 'create_time': 1751830969.258782}
+{'name': 'svchost.exe', 'username': 'LAB-ZZ02\\client', 'pid': 8960, 'create_time': 1751830969.258782}
 {'name': 'svchost.exe', 'username': 'NT AUTHORITY\\SYSTEM', 'pid': 9024, 'create_time': 1751830969.5493565}
-{'name': 'notepad.exe', 'username': 'LAB-ZZ\\client', 'pid': 9248, 'create_time': 1751831998.0088143}
-{'name': 'dllhost.exe', 'username': 'LAB-ZZ\\client', 'pid': 9572, 'create_time': 1751831196.8904026}
+{'name': 'notepad.exe', 'username': 'LAB-ZZ02\\client', 'pid': 9248, 'create_time': 1751831998.0088143}
+{'name': 'dllhost.exe', 'username': 'LAB-ZZ02\\client', 'pid': 9572, 'create_time': 1751831196.8904026}
 {'name': 'svchost.exe', 'username': 'NT AUTHORITY\\SYSTEM', 'pid': 9652, 'create_time': 1751831705.4364371}
-{'name': 'TextInputHost.exe', 'username': 'LAB-ZZ\\client', 'pid': 9712, 'create_time': 1751831184.086776}
-{'name': 'dllhost.exe', 'username': 'LAB-ZZ\\client', 'pid': 9892, 'create_time': 1751831307.1412008}
-{'name': 'python3.12.exe', 'username': 'LAB-ZZ\\client', 'pid': 9908, 'create_time': 1751832184.57843}
+{'name': 'TextInputHost.exe', 'username': 'LAB-ZZ02\\client', 'pid': 9712, 'create_time': 1751831184.086776}
+{'name': 'dllhost.exe', 'username': 'LAB-ZZ02\\client', 'pid': 9892, 'create_time': 1751831307.1412008}
+{'name': 'python3.12.exe', 'username': 'LAB-ZZ02\\client', 'pid': 9908, 'create_time': 1751832184.57843}
 {'name': 'svchost.exe', 'username': 'NT AUTHORITY\\SYSTEM', 'pid': 10108, 'create_time': 1751832063.145846}
-{'name': 'ApplicationFrameHost.exe', 'username': 'LAB-ZZ\\client', 'pid': 10180, 'create_time': 1751831703.2543}
+{'name': 'ApplicationFrameHost.exe', 'username': 'LAB-ZZ02\\client', 'pid': 10180, 'create_time': 1751831703.2543}
 {'name': 'SearchFilterHost.exe', 'username': 'NT AUTHORITY\\SYSTEM', 'pid': 10512, 'create_time': 1751832186.1818123}
-{'name': 'msedge.exe', 'username': 'LAB-ZZ\\client', 'pid': 10664, 'create_time': 1751831917.5754325}
-{'name': 'UserOOBEBroker.exe', 'username': 'LAB-ZZ\\client', 'pid': 10696, 'create_time': 1751831691.6868312}
+{'name': 'msedge.exe', 'username': 'LAB-ZZ02\\client', 'pid': 10664, 'create_time': 1751831917.5754325}
+{'name': 'UserOOBEBroker.exe', 'username': 'LAB-ZZ02\\client', 'pid': 10696, 'create_time': 1751831691.6868312}

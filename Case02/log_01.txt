@@ -9,7 +9,7 @@ Event[0]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 The winlogon notification subscriber <WSearch> was unavailable to handle a notification event.
 
@@ -24,7 +24,7 @@ Event[1]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 The winlogon notification subscriber <SessionEnv> was unavailable to handle a notification event.
 
@@ -39,7 +39,7 @@ Event[2]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 Saving network configuration.
 
@@ -54,7 +54,7 @@ Event[3]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 Saved network configuration.
 
@@ -69,7 +69,7 @@ Event[4]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 The service was stopped.
 
@@ -84,7 +84,7 @@ Event[5]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 The MS DTC service is stopping.
 
@@ -99,7 +99,7 @@ Event[6]:
   Keyword: N/A
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 The User Profile Service has stopped.  
 
@@ -116,7 +116,7 @@ Event[7]:
   Keyword: N/A
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 The User Profile Service has started successfully.  
 
@@ -133,7 +133,7 @@ Event[8]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 The EventSystem sub system is suppressing duplicate event log entries for a duration of 86400 seconds.  The suppression timeout can be controlled by a REG_DWORD value named SuppressDuplicateDuration under the following registry key: HKLM\Software\Microsoft\EventSystem\EventLog.
 
@@ -148,7 +148,7 @@ Event[9]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 The winlogon notification subscriber <SessionEnv> was unavailable to handle a critical notification event.
 
@@ -163,7 +163,7 @@ Event[10]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 The service was started.
 
@@ -178,7 +178,7 @@ Event[11]:
   Keyword: N/A
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 Windows Management Instrumentation Service started sucessfully
 
@@ -193,7 +193,7 @@ Event[12]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 The COM+ sub system is suppressing duplicate event log entries for a duration of 86400 seconds.  The suppression timeout can be controlled by a REG_DWORD value named SuppressDuplicateDuration under the following registry key: HKLM\Software\Microsoft\COM3\Eventlog.
 
@@ -208,7 +208,7 @@ Event[13]:
   Keyword: N/A
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 Windows Management Instrumentation Service subsystems initialized successfully
 
@@ -223,7 +223,7 @@ Event[14]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 The Windows Security Center Service has started.
 
@@ -238,7 +238,7 @@ Event[15]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 SearchIndexer (5240,P,98) Windows: The database engine (10.00.19045.0000) is starting a new instance (0).
 
@@ -253,7 +253,7 @@ Event[16]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 SearchIndexer (5240,D,0) Windows: The database engine started a new instance (0). (Time=0 seconds) 
  
@@ -289,7 +289,7 @@ Event[17]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 Restoring network configuration.
 
@@ -304,7 +304,7 @@ Event[18]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 The winlogon notification subscriber <SessionEnv> was unavailable to handle a notification event.
 
@@ -319,7 +319,7 @@ Event[19]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 SearchIndexer (5240,D,50) Windows: The database engine attached a database (1, C:\ProgramData\Microsoft\Search\Data\Applications\Windows\Windows.edb). (Time=1 seconds) 
  
@@ -355,7 +355,7 @@ Event[20]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 MSDTC started with the following settings:
 
@@ -387,7 +387,7 @@ Event[21]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 Restored network configuration.
 
@@ -402,7 +402,7 @@ Event[22]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 Updated Cortex XDR™ Advanced Endpoint Protection status successfully to SECURITY_PRODUCT_STATE_ON.
 
@@ -417,7 +417,7 @@ Event[23]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 The Windows Search Service started.
 
@@ -433,7 +433,7 @@ Event[24]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 Service stopped.
 
@@ -448,7 +448,7 @@ Event[25]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 The Software Protection service is starting.
 Parameters:<explicit>
@@ -464,7 +464,7 @@ Event[26]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 Offline downlevel migration succeeded.
 
@@ -479,7 +479,7 @@ Event[27]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 Initialization status for service objects.
 C:\Windows\system32\sppwinob.dll, msft:spp/windowsfunctionality/agent/7.0, 0x00000000, 0x00000000
@@ -504,7 +504,7 @@ Event[28]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 The Software Protection service has completed licensing status check.
 Application Id=55c92734-d682-4d71-983e-d6ec3f16059f
@@ -598,7 +598,7 @@ Event[29]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 The Software Protection service has started.
 10.0.19041.5965
@@ -614,7 +614,7 @@ Event[30]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 Successfully scheduled Software Protection service for re-start at 2125-06-12T18:59:40Z. Reason: RulesEngine.
 
@@ -629,7 +629,7 @@ Event[31]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 The Software Protection service has stopped.
 
@@ -645,7 +645,7 @@ Event[32]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 Offline downlevel migration succeeded.
 
@@ -660,7 +660,7 @@ Event[33]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 Successfully scheduled Software Protection service for re-start at 2125-06-12T19:00:45Z. Reason: RulesEngine.
 
@@ -675,7 +675,7 @@ Event[34]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 Offline downlevel migration succeeded.
 
@@ -690,7 +690,7 @@ Event[35]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 The VSS service is shutting down due to idle timeout. 
 
@@ -705,7 +705,7 @@ Event[36]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 Successfully scheduled Software Protection service for re-start at 2125-06-12T19:02:09Z. Reason: RulesEngine.
 
@@ -720,7 +720,7 @@ Event[37]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 Offline downlevel migration succeeded.
 
@@ -735,7 +735,7 @@ Event[38]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 Successfully scheduled Software Protection service for re-start at 2125-06-12T19:04:45Z. Reason: RulesEngine.
 
@@ -750,7 +750,7 @@ Event[39]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 The VSS service is shutting down due to idle timeout. 
 
@@ -764,8 +764,8 @@ Event[40]:
   Opcode: N/A
   Keyword: Classic
   User: S-1-5-21-3560290119-491806085-1914595769-1000
-  User Name: Lab-ZZ\client
-  Computer: Lab-ZZ
+  User Name: Lab-ZZ02\client
+  Computer: Lab-ZZ02
   Description: 
 [6048:6172:0706/163559.457:INFO:chrome\browser\extensions\extension_garbage_collector.cc:184] Garbage collection for extensions on file thread is complete.
 
@@ -780,7 +780,7 @@ Event[41]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 The winlogon notification subscriber <WSearch> was unavailable to handle a notification event.
 
@@ -795,7 +795,7 @@ Event[42]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 The winlogon notification subscriber <SessionEnv> was unavailable to handle a notification event.
 
@@ -810,7 +810,7 @@ Event[43]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 Saving network configuration.
 
@@ -825,7 +825,7 @@ Event[44]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 Saved network configuration.
 
@@ -840,7 +840,7 @@ Event[45]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 The service was stopped.
 
@@ -855,7 +855,7 @@ Event[46]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 The MS DTC service is stopping.
 
@@ -870,7 +870,7 @@ Event[47]:
   Keyword: N/A
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 The User Profile Service has stopped.  
 
@@ -887,7 +887,7 @@ Event[48]:
   Keyword: N/A
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 The User Profile Service has started successfully.  
 
@@ -904,7 +904,7 @@ Event[49]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 The EventSystem sub system is suppressing duplicate event log entries for a duration of 86400 seconds.  The suppression timeout can be controlled by a REG_DWORD value named SuppressDuplicateDuration under the following registry key: HKLM\Software\Microsoft\EventSystem\EventLog.
 
@@ -919,7 +919,7 @@ Event[50]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 The winlogon notification subscriber <SessionEnv> was unavailable to handle a critical notification event.
 
@@ -934,7 +934,7 @@ Event[51]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 The service was started.
 
@@ -949,7 +949,7 @@ Event[52]:
   Keyword: N/A
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 Windows Management Instrumentation Service started sucessfully
 
@@ -964,7 +964,7 @@ Event[53]:
   Keyword: N/A
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 Windows Management Instrumentation Service subsystems initialized successfully
 
@@ -979,7 +979,7 @@ Event[54]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 The Windows Security Center Service has started.
 
@@ -994,7 +994,7 @@ Event[55]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 The COM+ sub system is suppressing duplicate event log entries for a duration of 86400 seconds.  The suppression timeout can be controlled by a REG_DWORD value named SuppressDuplicateDuration under the following registry key: HKLM\Software\Microsoft\COM3\Eventlog.
 
@@ -1009,7 +1009,7 @@ Event[56]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 SearchIndexer (4792,P,98) Windows: The database engine (10.00.19045.0000) is starting a new instance (0).
 
@@ -1024,7 +1024,7 @@ Event[57]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 Restoring network configuration.
 
@@ -1039,7 +1039,7 @@ Event[58]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 The winlogon notification subscriber <SessionEnv> was unavailable to handle a notification event.
 
@@ -1054,7 +1054,7 @@ Event[59]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 SearchIndexer (4792,D,0) Windows: The database engine started a new instance (0). (Time=1 seconds) 
  
@@ -1090,7 +1090,7 @@ Event[60]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 Restored network configuration.
 
@@ -1105,7 +1105,7 @@ Event[61]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 SearchIndexer (4792,D,50) Windows: The database engine attached a database (1, C:\ProgramData\Microsoft\Search\Data\Applications\Windows\Windows.edb). (Time=2 seconds) 
  
@@ -1141,7 +1141,7 @@ Event[62]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 Updated Cortex XDR™ Advanced Endpoint Protection status successfully to SECURITY_PRODUCT_STATE_ON.
 
@@ -1156,7 +1156,7 @@ Event[63]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 The Windows Search Service started.
 
@@ -1172,7 +1172,7 @@ Event[64]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 MSDTC started with the following settings:
 
@@ -1204,7 +1204,7 @@ Event[65]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 Service stopped.
 
@@ -1219,7 +1219,7 @@ Event[66]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 The Software Protection service is starting.
 Parameters:<explicit>
@@ -1235,7 +1235,7 @@ Event[67]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 Offline downlevel migration succeeded.
 
@@ -1250,7 +1250,7 @@ Event[68]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 Initialization status for service objects.
 C:\Windows\system32\sppwinob.dll, msft:spp/windowsfunctionality/agent/7.0, 0x00000000, 0x00000000
@@ -1275,7 +1275,7 @@ Event[69]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 The Software Protection service has completed licensing status check.
 Application Id=55c92734-d682-4d71-983e-d6ec3f16059f
@@ -1369,7 +1369,7 @@ Event[70]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 The Software Protection service has started.
 10.0.19041.5965
@@ -1385,7 +1385,7 @@ Event[71]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 Successfully scheduled Software Protection service for re-start at 2125-06-12T19:43:56Z. Reason: RulesEngine.
 
@@ -1400,7 +1400,7 @@ Event[72]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 The Software Protection service has stopped.
 
@@ -1416,7 +1416,7 @@ Event[73]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 Offline downlevel migration succeeded.
 
@@ -1431,7 +1431,7 @@ Event[74]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 Successfully scheduled Software Protection service for re-start at 2125-06-12T19:44:49Z. Reason: RulesEngine.
 
@@ -1446,7 +1446,7 @@ Event[75]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 The VSS service is shutting down due to idle timeout. 
 
@@ -1460,8 +1460,8 @@ Event[76]:
   Opcode: N/A
   Keyword: Classic
   User: S-1-5-21-3560290119-491806085-1914595769-1000
-  User Name: Lab-ZZ\client
-  Computer: Lab-ZZ
+  User Name: Lab-ZZ02\client
+  Computer: Lab-ZZ02
   Description: 
 [8628:7240:0706/164643.881:INFO:chrome\browser\extensions\extension_garbage_collector.cc:184] Garbage collection for extensions on file thread is complete.
 
@@ -1476,7 +1476,7 @@ Event[77]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 Offline downlevel migration succeeded.
 
@@ -1491,7 +1491,7 @@ Event[78]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 The Software Protection service has completed licensing status check.
 Application Id=0ff1ce15-a989-479d-af46-f275c6370663
@@ -1527,7 +1527,7 @@ Event[79]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 The Software Protection service has completed licensing status check.
 Application Id=0ff1ce15-a989-479d-af46-f275c6370663
@@ -1547,7 +1547,7 @@ Event[80]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 Successfully scheduled Software Protection service for re-start at 2125-06-12T19:47:57Z. Reason: RulesEngine.
 
@@ -1561,8 +1561,8 @@ Event[81]:
   Opcode: Info
   Keyword: Classic
   User: S-1-5-21-3560290119-491806085-1914595769-1000
-  User Name: Lab-ZZ\client
-  Computer: Lab-ZZ
+  User Name: Lab-ZZ02\client
+  Computer: Lab-ZZ02
   Description: 
 Beginning a Windows Installer transaction: C:\ProgramData\Package Cache\{560D2DA4-096E-4868-B22A-DA6418FDE6FB}v14.40.33816\packages\vcRuntimeMinimum_amd64\vc_runtimeMinimum_x64.msi. Client Process Id: 2280.
 
@@ -1576,8 +1576,8 @@ Event[82]:
   Opcode: Info
   Keyword: N/A
   User: S-1-5-21-3560290119-491806085-1914595769-1000
-  User Name: Lab-ZZ\client
-  Computer: Lab-ZZ
+  User Name: Lab-ZZ02\client
+  Computer: Lab-ZZ02
   Description: 
 Starting session 0 - ?2025?-?07?-?06T19:48:24.848127000Z.
 
@@ -1591,8 +1591,8 @@ Event[83]:
   Opcode: Info
   Keyword: N/A
   User: S-1-5-21-3560290119-491806085-1914595769-1000
-  User Name: Lab-ZZ\client
-  Computer: Lab-ZZ
+  User Name: Lab-ZZ02\client
+  Computer: Lab-ZZ02
   Description: 
 Starting session 0 - ?2025?-?07?-?06T19:48:25.613769000Z.
 
@@ -1606,8 +1606,8 @@ Event[84]:
   Opcode: Info
   Keyword: Classic
   User: S-1-5-21-3560290119-491806085-1914595769-1000
-  User Name: Lab-ZZ\client
-  Computer: Lab-ZZ
+  User Name: Lab-ZZ02\client
+  Computer: Lab-ZZ02
   Description: 
 Product: Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.40.33816 -- Installation completed successfully.
 
@@ -1621,8 +1621,8 @@ Event[85]:
   Opcode: Info
   Keyword: Classic
   User: S-1-5-21-3560290119-491806085-1914595769-1000
-  User Name: Lab-ZZ\client
-  Computer: Lab-ZZ
+  User Name: Lab-ZZ02\client
+  Computer: Lab-ZZ02
   Description: 
 Windows Installer installed the product. Product Name: Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.40.33816. Product Version: 14.40.33816. Product Language: 1033. Manufacturer: Microsoft Corporation. Installation success or error status: 0.
 
@@ -1637,7 +1637,7 @@ Event[86]:
   Keyword: Classic
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 Ending a Windows Installer transaction: C:\ProgramData\Package Cache\{560D2DA4-096E-4868-B22A-DA6418FDE6FB}v14.40.33816\packages\vcRuntimeMinimum_amd64\vc_runtimeMinimum_x64.msi. Client Process Id: 2280.
 
@@ -1651,8 +1651,8 @@ Event[87]:
   Opcode: Info
   Keyword: Classic
   User: S-1-5-21-3560290119-491806085-1914595769-1000
-  User Name: Lab-ZZ\client
-  Computer: Lab-ZZ
+  User Name: Lab-ZZ02\client
+  Computer: Lab-ZZ02
   Description: 
 Beginning a Windows Installer transaction: C:\ProgramData\Package Cache\{5904914B-9FC8-44C2-AE48-5C7F30A603EC}v14.40.33816\packages\vcRuntimeAdditional_amd64\vc_runtimeAdditional_x64.msi. Client Process Id: 2280.
 
@@ -1666,8 +1666,8 @@ Event[88]:
   Opcode: Info
   Keyword: N/A
   User: S-1-5-21-3560290119-491806085-1914595769-1000
-  User Name: Lab-ZZ\client
-  Computer: Lab-ZZ
+  User Name: Lab-ZZ02\client
+  Computer: Lab-ZZ02
   Description: 
 Ending session 0 started ?2025?-?07?-?06T19:48:24.848127000Z.
 
@@ -1681,8 +1681,8 @@ Event[89]:
   Opcode: Info
   Keyword: N/A
   User: S-1-5-21-3560290119-491806085-1914595769-1000
-  User Name: Lab-ZZ\client
-  Computer: Lab-ZZ
+  User Name: Lab-ZZ02\client
+  Computer: Lab-ZZ02
   Description: 
 Ending session 0 started ?2025?-?07?-?06T19:48:25.613769000Z.
 
@@ -1696,8 +1696,8 @@ Event[90]:
   Opcode: Info
   Keyword: N/A
   User: S-1-5-21-3560290119-491806085-1914595769-1000
-  User Name: Lab-ZZ\client
-  Computer: Lab-ZZ
+  User Name: Lab-ZZ02\client
+  Computer: Lab-ZZ02
   Description: 
 Starting session 0 - ?2025?-?07?-?06T19:48:27.363827600Z.
 
@@ -1711,8 +1711,8 @@ Event[91]:
   Opcode: Info
   Keyword: N/A
   User: S-1-5-21-3560290119-491806085-1914595769-1000
-  User Name: Lab-ZZ\client
-  Computer: Lab-ZZ
+  User Name: Lab-ZZ02\client
+  Computer: Lab-ZZ02
   Description: 
 Application 'C:\Program Files\VMware\VMware Tools\vmtoolsd.exe' (pid 7348) cannot be restarted - Application SID does not match Conductor SID..
 
@@ -1726,8 +1726,8 @@ Event[92]:
   Opcode: Info
   Keyword: N/A
   User: S-1-5-21-3560290119-491806085-1914595769-1000
-  User Name: Lab-ZZ\client
-  Computer: Lab-ZZ
+  User Name: Lab-ZZ02\client
+  Computer: Lab-ZZ02
   Description: 
 Machine restart is required.
 
@@ -1741,8 +1741,8 @@ Event[93]:
   Opcode: Info
   Keyword: N/A
   User: S-1-5-21-3560290119-491806085-1914595769-1000
-  User Name: Lab-ZZ\client
-  Computer: Lab-ZZ
+  User Name: Lab-ZZ02\client
+  Computer: Lab-ZZ02
   Description: 
 Starting session 1 - ?2025?-?07?-?06T19:48:27.926247800Z.
 
@@ -1756,8 +1756,8 @@ Event[94]:
   Opcode: Info
   Keyword: N/A
   User: S-1-5-21-3560290119-491806085-1914595769-1000
-  User Name: Lab-ZZ\client
-  Computer: Lab-ZZ
+  User Name: Lab-ZZ02\client
+  Computer: Lab-ZZ02
   Description: 
 Starting session 0 - ?2025?-?07?-?06T19:48:27.988770500Z.
 
@@ -1771,8 +1771,8 @@ Event[95]:
   Opcode: Info
   Keyword: N/A
   User: S-1-5-21-3560290119-491806085-1914595769-1000
-  User Name: Lab-ZZ\client
-  Computer: Lab-ZZ
+  User Name: Lab-ZZ02\client
+  Computer: Lab-ZZ02
   Description: 
 Application 'C:\Program Files\VMware\VMware Tools\vmtoolsd.exe' (pid 7348) cannot be restarted - Application SID does not match Conductor SID..
 
@@ -1786,8 +1786,8 @@ Event[96]:
   Opcode: Info
   Keyword: N/A
   User: S-1-5-21-3560290119-491806085-1914595769-1000
-  User Name: Lab-ZZ\client
-  Computer: Lab-ZZ
+  User Name: Lab-ZZ02\client
+  Computer: Lab-ZZ02
   Description: 
 Machine restart is required.
 
@@ -1801,8 +1801,8 @@ Event[97]:
   Opcode: Info
   Keyword: N/A
   User: S-1-5-21-3560290119-491806085-1914595769-1000
-  User Name: Lab-ZZ\client
-  Computer: Lab-ZZ
+  User Name: Lab-ZZ02\client
+  Computer: Lab-ZZ02
   Description: 
 Starting session 1 - ?2025?-?07?-?06T19:48:28.410630500Z.
 
@@ -1816,8 +1816,8 @@ Event[98]:
   Opcode: Info
   Keyword: Classic
   User: S-1-5-21-3560290119-491806085-1914595769-1000
-  User Name: Lab-ZZ\client
-  Computer: Lab-ZZ
+  User Name: Lab-ZZ02\client
+  Computer: Lab-ZZ02
   Description: 
 Product: Microsoft Visual C++ 2022 X64 Additional Runtime - 14.40.33816 -- Installation completed successfully.
 
@@ -1831,8 +1831,8 @@ Event[99]:
   Opcode: Info
   Keyword: Classic
   User: S-1-5-21-3560290119-491806085-1914595769-1000
-  User Name: Lab-ZZ\client
-  Computer: Lab-ZZ
+  User Name: Lab-ZZ02\client
+  Computer: Lab-ZZ02
   Description: 
 Windows Installer installed the product. Product Name: Microsoft Visual C++ 2022 X64 Additional Runtime - 14.40.33816. Product Version: 14.40.33816. Product Language: 1033. Manufacturer: Microsoft Corporation. Installation success or error status: 0.
 
@@ -1847,7 +1847,7 @@ Event[100]:
   Keyword: Classic
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 Ending a Windows Installer transaction: C:\ProgramData\Package Cache\{5904914B-9FC8-44C2-AE48-5C7F30A603EC}v14.40.33816\packages\vcRuntimeAdditional_amd64\vc_runtimeAdditional_x64.msi. Client Process Id: 2280.
 
@@ -1861,8 +1861,8 @@ Event[101]:
   Opcode: Info
   Keyword: N/A
   User: S-1-5-21-3560290119-491806085-1914595769-1000
-  User Name: Lab-ZZ\client
-  Computer: Lab-ZZ
+  User Name: Lab-ZZ02\client
+  Computer: Lab-ZZ02
   Description: 
 Ending session 0 started ?2025?-?07?-?06T19:48:27.363827600Z.
 
@@ -1876,8 +1876,8 @@ Event[102]:
   Opcode: Info
   Keyword: N/A
   User: S-1-5-21-3560290119-491806085-1914595769-1000
-  User Name: Lab-ZZ\client
-  Computer: Lab-ZZ
+  User Name: Lab-ZZ02\client
+  Computer: Lab-ZZ02
   Description: 
 Ending session 0 started ?2025?-?07?-?06T19:48:27.988770500Z.
 
@@ -1891,8 +1891,8 @@ Event[103]:
   Opcode: Info
   Keyword: N/A
   User: S-1-5-21-3560290119-491806085-1914595769-1000
-  User Name: Lab-ZZ\client
-  Computer: Lab-ZZ
+  User Name: Lab-ZZ02\client
+  Computer: Lab-ZZ02
   Description: 
 Ending session 1 started ?2025?-?07?-?06T19:48:27.926247800Z.
 
@@ -1906,8 +1906,8 @@ Event[104]:
   Opcode: Info
   Keyword: N/A
   User: S-1-5-21-3560290119-491806085-1914595769-1000
-  User Name: Lab-ZZ\client
-  Computer: Lab-ZZ
+  User Name: Lab-ZZ02\client
+  Computer: Lab-ZZ02
   Description: 
 Ending session 1 started ?2025?-?07?-?06T19:48:28.410630500Z.
 
@@ -1922,7 +1922,7 @@ Event[105]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 Offline downlevel migration succeeded.
 
@@ -1937,7 +1937,7 @@ Event[106]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 The Software Protection service has completed licensing status check.
 Application Id=0ff1ce15-a989-479d-af46-f275c6370663
@@ -1973,7 +1973,7 @@ Event[107]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 The Software Protection service has completed licensing status check.
 Application Id=0ff1ce15-a989-479d-af46-f275c6370663
@@ -1992,8 +1992,8 @@ Event[108]:
   Opcode: N/A
   Keyword: Classic
   User: S-1-5-21-3560290119-491806085-1914595769-1000
-  User Name: Lab-ZZ\client
-  Computer: Lab-ZZ
+  User Name: Lab-ZZ02\client
+  Computer: Lab-ZZ02
   Description: 
 [10144:10788:0706/165041.567:INFO:chrome\browser\extensions\extension_garbage_collector.cc:184] Garbage collection for extensions on file thread is complete.
 
@@ -2008,7 +2008,7 @@ Event[109]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 The Software Protection service has completed licensing status check.
 Application Id=0ff1ce15-a989-479d-af46-f275c6370663
@@ -2044,7 +2044,7 @@ Event[110]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 The Software Protection service has completed licensing status check.
 Application Id=0ff1ce15-a989-479d-af46-f275c6370663
@@ -2064,7 +2064,7 @@ Event[111]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 Successfully scheduled Software Protection service for re-start at 2125-06-12T19:51:41Z. Reason: RulesEngine.
 
@@ -2078,8 +2078,8 @@ Event[112]:
   Opcode: N/A
   Keyword: Classic
   User: S-1-5-21-3560290119-491806085-1914595769-1000
-  User Name: Lab-ZZ\client
-  Computer: Lab-ZZ
+  User Name: Lab-ZZ02\client
+  Computer: Lab-ZZ02
   Description: 
 [5844:4684:0706/165907.671:INFO:chrome\browser\extensions\extension_garbage_collector.cc:184] Garbage collection for extensions on file thread is complete.
 

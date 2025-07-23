@@ -9,13 +9,13 @@ Event[0]:
   Keyword: Audit Success
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 The audit log was cleared.
 Subject:
 	Security ID:	S-1-5-21-3560290119-491806085-1914595769-1000
 	Account Name:	client
-	Domain Name:	Lab-ZZ
+	Domain Name:	Lab-ZZ02
 	Logon ID:	0x2607E
 
 Event[1]:
@@ -29,20 +29,20 @@ Event[1]:
   Keyword: Audit Success
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 A user's local group membership was enumerated.
 
 Subject:
 	Security ID:		S-1-5-21-3560290119-491806085-1914595769-1000
 	Account Name:		client
-	Account Domain:		Lab-ZZ
+	Account Domain:		Lab-ZZ02
 	Logon ID:		0x26121
 
 User:
 	Security ID:		S-1-5-21-3560290119-491806085-1914595769-1000
 	Account Name:		client
-	Account Domain:		Lab-ZZ
+	Account Domain:		Lab-ZZ02
 
 Process Information:
 	Process ID:		0x10e8
@@ -59,20 +59,20 @@ Event[2]:
   Keyword: Audit Success
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 A user's local group membership was enumerated.
 
 Subject:
 	Security ID:		S-1-5-21-3560290119-491806085-1914595769-1000
 	Account Name:		client
-	Account Domain:		Lab-ZZ
+	Account Domain:		Lab-ZZ02
 	Logon ID:		0x26121
 
 User:
 	Security ID:		S-1-5-21-3560290119-491806085-1914595769-1000
 	Account Name:		client
-	Account Domain:		Lab-ZZ
+	Account Domain:		Lab-ZZ02
 
 Process Information:
 	Process ID:		0x10e8
@@ -89,20 +89,20 @@ Event[3]:
   Keyword: Audit Success
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 A user's local group membership was enumerated.
 
 Subject:
 	Security ID:		S-1-5-21-3560290119-491806085-1914595769-1000
 	Account Name:		client
-	Account Domain:		Lab-ZZ
+	Account Domain:		Lab-ZZ02
 	Logon ID:		0x26121
 
 User:
 	Security ID:		S-1-5-21-3560290119-491806085-1914595769-1000
 	Account Name:		client
-	Account Domain:		Lab-ZZ
+	Account Domain:		Lab-ZZ02
 
 Process Information:
 	Process ID:		0x10e8
@@ -119,20 +119,20 @@ Event[4]:
   Keyword: Audit Success
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 A user's local group membership was enumerated.
 
 Subject:
 	Security ID:		S-1-5-21-3560290119-491806085-1914595769-1000
 	Account Name:		client
-	Account Domain:		Lab-ZZ
+	Account Domain:		Lab-ZZ02
 	Logon ID:		0x26121
 
 User:
 	Security ID:		S-1-5-21-3560290119-491806085-1914595769-1000
 	Account Name:		client
-	Account Domain:		Lab-ZZ
+	Account Domain:		Lab-ZZ02
 
 Process Information:
 	Process ID:		0x10e8
@@ -149,20 +149,20 @@ Event[5]:
   Keyword: Audit Success
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 A user's local group membership was enumerated.
 
 Subject:
 	Security ID:		S-1-5-21-3560290119-491806085-1914595769-1000
 	Account Name:		client
-	Account Domain:		Lab-ZZ
+	Account Domain:		Lab-ZZ02
 	Logon ID:		0x26121
 
 User:
 	Security ID:		S-1-5-21-3560290119-491806085-1914595769-1000
 	Account Name:		client
-	Account Domain:		Lab-ZZ
+	Account Domain:		Lab-ZZ02
 
 Process Information:
 	Process ID:		0x10e8
@@ -179,20 +179,20 @@ Event[6]:
   Keyword: Audit Success
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 A user's local group membership was enumerated.
 
 Subject:
 	Security ID:		S-1-5-21-3560290119-491806085-1914595769-1000
 	Account Name:		client
-	Account Domain:		Lab-ZZ
+	Account Domain:		Lab-ZZ02
 	Logon ID:		0x26121
 
 User:
 	Security ID:		S-1-5-21-3560290119-491806085-1914595769-1000
 	Account Name:		client
-	Account Domain:		Lab-ZZ
+	Account Domain:		Lab-ZZ02
 
 Process Information:
 	Process ID:		0x10e8
@@ -209,20 +209,20 @@ Event[7]:
   Keyword: Audit Success
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 A user's local group membership was enumerated.
 
 Subject:
 	Security ID:		S-1-5-21-3560290119-491806085-1914595769-1000
 	Account Name:		client
-	Account Domain:		Lab-ZZ
+	Account Domain:		Lab-ZZ02
 	Logon ID:		0x26121
 
 User:
 	Security ID:		S-1-5-21-3560290119-491806085-1914595769-1000
 	Account Name:		client
-	Account Domain:		Lab-ZZ
+	Account Domain:		Lab-ZZ02
 
 Process Information:
 	Process ID:		0x10e8
@@ -239,20 +239,20 @@ Event[8]:
   Keyword: Audit Success
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 A user's local group membership was enumerated.
 
 Subject:
 	Security ID:		S-1-5-21-3560290119-491806085-1914595769-1000
 	Account Name:		client
-	Account Domain:		Lab-ZZ
+	Account Domain:		Lab-ZZ02
 	Logon ID:		0x26121
 
 User:
 	Security ID:		S-1-5-21-3560290119-491806085-1914595769-1000
 	Account Name:		client
-	Account Domain:		Lab-ZZ
+	Account Domain:		Lab-ZZ02
 
 Process Information:
 	Process ID:		0x10e8
@@ -269,20 +269,20 @@ Event[9]:
   Keyword: Audit Success
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 A user's local group membership was enumerated.
 
 Subject:
 	Security ID:		S-1-5-21-3560290119-491806085-1914595769-1000
 	Account Name:		client
-	Account Domain:		Lab-ZZ
+	Account Domain:		Lab-ZZ02
 	Logon ID:		0x26121
 
 User:
 	Security ID:		S-1-5-21-3560290119-491806085-1914595769-1000
 	Account Name:		client
-	Account Domain:		Lab-ZZ
+	Account Domain:		Lab-ZZ02
 
 Process Information:
 	Process ID:		0x10e8
@@ -299,20 +299,20 @@ Event[10]:
   Keyword: Audit Success
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 A user's local group membership was enumerated.
 
 Subject:
 	Security ID:		S-1-5-21-3560290119-491806085-1914595769-1000
 	Account Name:		client
-	Account Domain:		Lab-ZZ
+	Account Domain:		Lab-ZZ02
 	Logon ID:		0x26121
 
 User:
 	Security ID:		S-1-5-21-3560290119-491806085-1914595769-1000
 	Account Name:		client
-	Account Domain:		Lab-ZZ
+	Account Domain:		Lab-ZZ02
 
 Process Information:
 	Process ID:		0x10e8
@@ -329,13 +329,13 @@ Event[11]:
   Keyword: Audit Success
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 An account was successfully logged on.
 
 Subject:
 	Security ID:		S-1-5-18
-	Account Name:		Lab-ZZ$
+	Account Name:		Lab-ZZ02$
 	Account Domain:		WORKGROUP
 	Logon ID:		0x3E7
 
@@ -402,7 +402,7 @@ Event[12]:
   Keyword: Audit Success
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 Special privileges assigned to new logon.
 
@@ -436,13 +436,13 @@ Event[13]:
   Keyword: Audit Success
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 An account was successfully logged on.
 
 Subject:
 	Security ID:		S-1-5-18
-	Account Name:		Lab-ZZ$
+	Account Name:		Lab-ZZ02$
 	Account Domain:		WORKGROUP
 	Logon ID:		0x3E7
 
@@ -509,7 +509,7 @@ Event[14]:
   Keyword: Audit Success
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 Special privileges assigned to new logon.
 
@@ -543,13 +543,13 @@ Event[15]:
   Keyword: Audit Success
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 An account was successfully logged on.
 
 Subject:
 	Security ID:		S-1-5-18
-	Account Name:		Lab-ZZ$
+	Account Name:		Lab-ZZ02$
 	Account Domain:		WORKGROUP
 	Logon ID:		0x3E7
 
@@ -616,7 +616,7 @@ Event[16]:
   Keyword: Audit Success
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 Special privileges assigned to new logon.
 
@@ -650,20 +650,20 @@ Event[17]:
   Keyword: Audit Success
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 An attempt was made to query the existence of a blank password for an account.
 
 Subject:
 	Security ID:		S-1-5-21-3560290119-491806085-1914595769-1000
 	Account Name:		client
-	Account Domain:		Lab-ZZ
+	Account Domain:		Lab-ZZ02
 	Logon ID:		0x26121
 
 Additional Information:
-	Caller Workstation:	Lab-ZZ
+	Caller Workstation:	Lab-ZZ02
 	Target Account Name:	Administrator
-	Target Account Domain:	Lab-ZZ
+	Target Account Domain:	Lab-ZZ02
 
 Event[18]:
   Log Name: Security
@@ -676,20 +676,20 @@ Event[18]:
   Keyword: Audit Success
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 An attempt was made to query the existence of a blank password for an account.
 
 Subject:
 	Security ID:		S-1-5-21-3560290119-491806085-1914595769-1000
 	Account Name:		client
-	Account Domain:		Lab-ZZ
+	Account Domain:		Lab-ZZ02
 	Logon ID:		0x26121
 
 Additional Information:
-	Caller Workstation:	Lab-ZZ
+	Caller Workstation:	Lab-ZZ02
 	Target Account Name:	DefaultAccount
-	Target Account Domain:	Lab-ZZ
+	Target Account Domain:	Lab-ZZ02
 
 Event[19]:
   Log Name: Security
@@ -702,20 +702,20 @@ Event[19]:
   Keyword: Audit Success
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 An attempt was made to query the existence of a blank password for an account.
 
 Subject:
 	Security ID:		S-1-5-21-3560290119-491806085-1914595769-1000
 	Account Name:		client
-	Account Domain:		Lab-ZZ
+	Account Domain:		Lab-ZZ02
 	Logon ID:		0x26121
 
 Additional Information:
-	Caller Workstation:	Lab-ZZ
+	Caller Workstation:	Lab-ZZ02
 	Target Account Name:	Guest
-	Target Account Domain:	Lab-ZZ
+	Target Account Domain:	Lab-ZZ02
 
 Event[20]:
   Log Name: Security
@@ -728,20 +728,20 @@ Event[20]:
   Keyword: Audit Success
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 An attempt was made to query the existence of a blank password for an account.
 
 Subject:
 	Security ID:		S-1-5-21-3560290119-491806085-1914595769-1000
 	Account Name:		client
-	Account Domain:		Lab-ZZ
+	Account Domain:		Lab-ZZ02
 	Logon ID:		0x26121
 
 Additional Information:
-	Caller Workstation:	Lab-ZZ
+	Caller Workstation:	Lab-ZZ02
 	Target Account Name:	WDAGUtilityAccount
-	Target Account Domain:	Lab-ZZ
+	Target Account Domain:	Lab-ZZ02
 
 Event[21]:
   Log Name: Security
@@ -754,13 +754,13 @@ Event[21]:
   Keyword: Audit Success
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 An account was successfully logged on.
 
 Subject:
 	Security ID:		S-1-5-18
-	Account Name:		Lab-ZZ$
+	Account Name:		Lab-ZZ02$
 	Account Domain:		WORKGROUP
 	Logon ID:		0x3E7
 
@@ -827,7 +827,7 @@ Event[22]:
   Keyword: Audit Success
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 Special privileges assigned to new logon.
 
@@ -861,20 +861,20 @@ Event[23]:
   Keyword: Audit Success
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 A user's local group membership was enumerated.
 
 Subject:
 	Security ID:		S-1-5-21-3560290119-491806085-1914595769-1000
 	Account Name:		client
-	Account Domain:		Lab-ZZ
+	Account Domain:		Lab-ZZ02
 	Logon ID:		0x26121
 
 User:
 	Security ID:		S-1-5-21-3560290119-491806085-1914595769-1000
 	Account Name:		client
-	Account Domain:		Lab-ZZ
+	Account Domain:		Lab-ZZ02
 
 Process Information:
 	Process ID:		0x10e8
@@ -891,20 +891,20 @@ Event[24]:
   Keyword: Audit Success
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 A user's local group membership was enumerated.
 
 Subject:
 	Security ID:		S-1-5-21-3560290119-491806085-1914595769-1000
 	Account Name:		client
-	Account Domain:		Lab-ZZ
+	Account Domain:		Lab-ZZ02
 	Logon ID:		0x26121
 
 User:
 	Security ID:		S-1-5-21-3560290119-491806085-1914595769-1000
 	Account Name:		client
-	Account Domain:		Lab-ZZ
+	Account Domain:		Lab-ZZ02
 
 Process Information:
 	Process ID:		0x10e8
@@ -921,20 +921,20 @@ Event[25]:
   Keyword: Audit Success
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 A user's local group membership was enumerated.
 
 Subject:
 	Security ID:		S-1-5-21-3560290119-491806085-1914595769-1000
 	Account Name:		client
-	Account Domain:		Lab-ZZ
+	Account Domain:		Lab-ZZ02
 	Logon ID:		0x26121
 
 User:
 	Security ID:		S-1-5-21-3560290119-491806085-1914595769-1000
 	Account Name:		client
-	Account Domain:		Lab-ZZ
+	Account Domain:		Lab-ZZ02
 
 Process Information:
 	Process ID:		0x10e8
@@ -951,14 +951,14 @@ Event[26]:
   Keyword: Audit Success
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 Key file operation.
 
 Subject:
 	Security ID:		S-1-5-21-3560290119-491806085-1914595769-1000
 	Account Name:		client
-	Account Domain:		Lab-ZZ
+	Account Domain:		Lab-ZZ02
 	Logon ID:		0x26121
 
 Process Information:
@@ -987,14 +987,14 @@ Event[27]:
   Keyword: Audit Success
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 Cryptographic operation.
 
 Subject:
 	Security ID:		S-1-5-21-3560290119-491806085-1914595769-1000
 	Account Name:		client
-	Account Domain:		Lab-ZZ
+	Account Domain:		Lab-ZZ02
 	Logon ID:		0x26121
 
 Cryptographic Parameters:
@@ -1018,14 +1018,14 @@ Event[28]:
   Keyword: Audit Success
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 Key migration operation.
 
 Subject:
 	Security ID:		S-1-5-21-3560290119-491806085-1914595769-1000
 	Account Name:		client
-	Account Domain:		Lab-ZZ
+	Account Domain:		Lab-ZZ02
 	Logon ID:		0x26121
 
 Process Information:
@@ -1053,14 +1053,14 @@ Event[29]:
   Keyword: Audit Success
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 Key file operation.
 
 Subject:
 	Security ID:		S-1-5-21-3560290119-491806085-1914595769-1000
 	Account Name:		client
-	Account Domain:		Lab-ZZ
+	Account Domain:		Lab-ZZ02
 	Logon ID:		0x26121
 
 Process Information:
@@ -1089,14 +1089,14 @@ Event[30]:
   Keyword: Audit Success
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 Cryptographic operation.
 
 Subject:
 	Security ID:		S-1-5-21-3560290119-491806085-1914595769-1000
 	Account Name:		client
-	Account Domain:		Lab-ZZ
+	Account Domain:		Lab-ZZ02
 	Logon ID:		0x26121
 
 Cryptographic Parameters:
@@ -1120,14 +1120,14 @@ Event[31]:
   Keyword: Audit Success
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 Key migration operation.
 
 Subject:
 	Security ID:		S-1-5-21-3560290119-491806085-1914595769-1000
 	Account Name:		client
-	Account Domain:		Lab-ZZ
+	Account Domain:		Lab-ZZ02
 	Logon ID:		0x26121
 
 Process Information:
@@ -1155,14 +1155,14 @@ Event[32]:
   Keyword: Audit Success
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 Key file operation.
 
 Subject:
 	Security ID:		S-1-5-21-3560290119-491806085-1914595769-1000
 	Account Name:		client
-	Account Domain:		Lab-ZZ
+	Account Domain:		Lab-ZZ02
 	Logon ID:		0x26121
 
 Process Information:
@@ -1191,14 +1191,14 @@ Event[33]:
   Keyword: Audit Success
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 A member was added to a security-enabled global group.
 
 Subject:
 	Security ID:		S-1-5-21-3560290119-491806085-1914595769-1000
 	Account Name:		client
-	Account Domain:		Lab-ZZ
+	Account Domain:		Lab-ZZ02
 	Logon ID:		0x2607E
 
 Member:
@@ -1208,7 +1208,7 @@ Member:
 Group:
 	Security ID:		S-1-5-21-3560290119-491806085-1914595769-513
 	Group Name:		None
-	Group Domain:		Lab-ZZ
+	Group Domain:		Lab-ZZ02
 
 Additional Information:
 	Privileges:		-
@@ -1224,20 +1224,20 @@ Event[34]:
   Keyword: Audit Success
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 A user account was created.
 
 Subject:
 	Security ID:		S-1-5-21-3560290119-491806085-1914595769-1000
 	Account Name:		client
-	Account Domain:		Lab-ZZ
+	Account Domain:		Lab-ZZ02
 	Logon ID:		0x2607E
 
 New Account:
 	Security ID:		S-1-5-21-3560290119-491806085-1914595769-1003
 	Account Name:		r3dt34m
-	Account Domain:		Lab-ZZ
+	Account Domain:		Lab-ZZ02
 
 Attributes:
 	SAM Account Name:	r3dt34m
@@ -1276,20 +1276,20 @@ Event[35]:
   Keyword: Audit Success
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 A user account was enabled.
 
 Subject:
 	Security ID:		S-1-5-21-3560290119-491806085-1914595769-1000
 	Account Name:		client
-	Account Domain:		Lab-ZZ
+	Account Domain:		Lab-ZZ02
 	Logon ID:		0x2607E
 
 Target Account:
 	Security ID:		S-1-5-21-3560290119-491806085-1914595769-1003
 	Account Name:		r3dt34m
-	Account Domain:		Lab-ZZ
+	Account Domain:		Lab-ZZ02
 
 Event[36]:
   Log Name: Security
@@ -1302,20 +1302,20 @@ Event[36]:
   Keyword: Audit Success
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 A user account was changed.
 
 Subject:
 	Security ID:		S-1-5-21-3560290119-491806085-1914595769-1000
 	Account Name:		client
-	Account Domain:		Lab-ZZ
+	Account Domain:		Lab-ZZ02
 	Logon ID:		0x2607E
 
 Target Account:
 	Security ID:		S-1-5-21-3560290119-491806085-1914595769-1003
 	Account Name:		r3dt34m
-	Account Domain:		Lab-ZZ
+	Account Domain:		Lab-ZZ02
 
 Changed Attributes:
 	SAM Account Name:	r3dt34m
@@ -1353,20 +1353,20 @@ Event[37]:
   Keyword: Audit Success
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 An attempt was made to reset an account's password.
 
 Subject:
 	Security ID:		S-1-5-21-3560290119-491806085-1914595769-1000
 	Account Name:		client
-	Account Domain:		Lab-ZZ
+	Account Domain:		Lab-ZZ02
 	Logon ID:		0x2607E
 
 Target Account:
 	Security ID:		S-1-5-21-3560290119-491806085-1914595769-1003
 	Account Name:		r3dt34m
-	Account Domain:		Lab-ZZ
+	Account Domain:		Lab-ZZ02
 
 Event[38]:
   Log Name: Security
@@ -1379,14 +1379,14 @@ Event[38]:
   Keyword: Audit Success
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 A member was added to a security-enabled local group.
 
 Subject:
 	Security ID:		S-1-5-21-3560290119-491806085-1914595769-1000
 	Account Name:		client
-	Account Domain:		Lab-ZZ
+	Account Domain:		Lab-ZZ02
 	Logon ID:		0x2607E
 
 Member:
@@ -1412,14 +1412,14 @@ Event[39]:
   Keyword: Audit Success
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 A member was added to a security-enabled local group.
 
 Subject:
 	Security ID:		S-1-5-21-3560290119-491806085-1914595769-1000
 	Account Name:		client
-	Account Domain:		Lab-ZZ
+	Account Domain:		Lab-ZZ02
 	Logon ID:		0x2607E
 
 Member:
@@ -1445,13 +1445,13 @@ Event[40]:
   Keyword: Audit Success
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 An account was successfully logged on.
 
 Subject:
 	Security ID:		S-1-5-18
-	Account Name:		Lab-ZZ$
+	Account Name:		Lab-ZZ02$
 	Account Domain:		WORKGROUP
 	Logon ID:		0x3E7
 
@@ -1518,7 +1518,7 @@ Event[41]:
   Keyword: Audit Success
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 Special privileges assigned to new logon.
 
@@ -1552,13 +1552,13 @@ Event[42]:
   Keyword: Audit Success
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 A security-enabled local group membership was enumerated.
 
 Subject:
 	Security ID:		S-1-5-18
-	Account Name:		Lab-ZZ$
+	Account Name:		Lab-ZZ02$
 	Account Domain:		WORKGROUP
 	Logon ID:		0x3E7
 
@@ -1582,13 +1582,13 @@ Event[43]:
   Keyword: Audit Success
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 A security-enabled local group membership was enumerated.
 
 Subject:
 	Security ID:		S-1-5-18
-	Account Name:		Lab-ZZ$
+	Account Name:		Lab-ZZ02$
 	Account Domain:		WORKGROUP
 	Logon ID:		0x3E7
 
@@ -1612,13 +1612,13 @@ Event[44]:
   Keyword: Audit Success
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 An account was successfully logged on.
 
 Subject:
 	Security ID:		S-1-5-18
-	Account Name:		Lab-ZZ$
+	Account Name:		Lab-ZZ02$
 	Account Domain:		WORKGROUP
 	Logon ID:		0x3E7
 
@@ -1685,7 +1685,7 @@ Event[45]:
   Keyword: Audit Success
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 Special privileges assigned to new logon.
 
@@ -1719,13 +1719,13 @@ Event[46]:
   Keyword: Audit Success
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 An account was successfully logged on.
 
 Subject:
 	Security ID:		S-1-5-18
-	Account Name:		Lab-ZZ$
+	Account Name:		Lab-ZZ02$
 	Account Domain:		WORKGROUP
 	Logon ID:		0x3E7
 
@@ -1792,7 +1792,7 @@ Event[47]:
   Keyword: Audit Success
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 Special privileges assigned to new logon.
 
@@ -1826,20 +1826,20 @@ Event[48]:
   Keyword: Audit Success
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 A user's local group membership was enumerated.
 
 Subject:
 	Security ID:		S-1-5-21-3560290119-491806085-1914595769-1000
 	Account Name:		client
-	Account Domain:		Lab-ZZ
+	Account Domain:		Lab-ZZ02
 	Logon ID:		0x2607E
 
 User:
 	Security ID:		S-1-5-21-3560290119-491806085-1914595769-1003
 	Account Name:		r3dt34m
-	Account Domain:		Lab-ZZ
+	Account Domain:		Lab-ZZ02
 
 Process Information:
 	Process ID:		0x1410
@@ -1856,20 +1856,20 @@ Event[49]:
   Keyword: Audit Success
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 A user's local group membership was enumerated.
 
 Subject:
 	Security ID:		S-1-5-21-3560290119-491806085-1914595769-1000
 	Account Name:		client
-	Account Domain:		Lab-ZZ
+	Account Domain:		Lab-ZZ02
 	Logon ID:		0x2607E
 
 User:
 	Security ID:		S-1-5-21-3560290119-491806085-1914595769-1003
 	Account Name:		r3dt34m
-	Account Domain:		Lab-ZZ
+	Account Domain:		Lab-ZZ02
 
 Process Information:
 	Process ID:		0x1410

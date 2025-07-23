@@ -8,8 +8,8 @@ Event[0]:
   Opcode: Info
   Keyword: N/A
   User: S-1-5-21-3560290119-491806085-1914595769-1000
-  User Name: Lab-ZZ\client
-  Computer: Lab-ZZ
+  User Name: Lab-ZZ02\client
+  Computer: Lab-ZZ02
   Description: 
 The System log file was cleared.
 
@@ -24,7 +24,7 @@ Event[1]:
   Keyword: N/A
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 Port BFDCA3FB-5EB5-4BAB-8762-770DE481FB45 (Friendly Name: 6450EF1E-9C41-4523-8F44-AA7D90F180F1) successfully created on switch 6354ECEF-6396-4E5F-A2CD-AC82FA2F258F (Friendly Name: WSL).
 
@@ -39,7 +39,7 @@ Event[2]:
   Keyword: N/A
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 The operation 'Create' succeeded on nic D14FC853-0963-4ABC-AA25-12A9360D38C4--6450EF1E-9C41-4523-8F44-AA7D90F180F1 (Friendly Name: ).
 
@@ -54,7 +54,7 @@ Event[3]:
   Keyword: N/A
   User: S-1-5-83-1-3511666771-1253837155-2836538794-3292007734
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 NIC D14FC853-0963-4ABC-AA25-12A9360D38C4--6450EF1E-9C41-4523-8F44-AA7D90F180F1 (Friendly Name: ) successfully connected to port BFDCA3FB-5EB5-4BAB-8762-770DE481FB45 (Friendly Name: 6450EF1E-9C41-4523-8F44-AA7D90F180F1) on switch 6354ECEF-6396-4E5F-A2CD-AC82FA2F258F(Friendly Name: WSL).
 
@@ -69,7 +69,7 @@ Event[4]:
   Keyword: N/A
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 Networking driver in Virtual Machine is loaded and the protocol version is negotiated to the most recent version (Virtual machine ID D14FC853-0963-4ABC-AA25-12A9360D38C4).
 
@@ -84,7 +84,7 @@ Event[5]:
   Keyword: N/A
   User: S-1-5-83-1-3511666771-1253837155-2836538794-3292007734
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 NIC D14FC853-0963-4ABC-AA25-12A9360D38C4--6450EF1E-9C41-4523-8F44-AA7D90F180F1 successfully disconnected from port .
 
@@ -99,7 +99,7 @@ Event[6]:
   Keyword: N/A
   User: S-1-5-83-1-3511666771-1253837155-2836538794-3292007734
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 The operation 'Delete' succeeded on nic D14FC853-0963-4ABC-AA25-12A9360D38C4--6450EF1E-9C41-4523-8F44-AA7D90F180F1 (Friendly Name: ).
 
@@ -114,7 +114,7 @@ Event[7]:
   Keyword: Classic
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start.
 
@@ -128,10 +128,10 @@ Event[8]:
   Opcode: N/A
   Keyword: Classic
   User: S-1-5-21-3560290119-491806085-1914595769-1000
-  User Name: Lab-ZZ\client
-  Computer: Lab-ZZ
+  User Name: Lab-ZZ02\client
+  Computer: Lab-ZZ02
   Description: 
-The process C:\Windows\System32\RuntimeBroker.exe (Lab-ZZ) has initiated the restart of computer Lab-ZZ on behalf of user Lab-ZZ\client for the following reason: Other (Unplanned)
+The process C:\Windows\System32\RuntimeBroker.exe (Lab-ZZ02) has initiated the restart of computer Lab-ZZ02 on behalf of user Lab-ZZ02\client for the following reason: Other (Unplanned)
  Reason Code: 0x0
  Shut-down Type: restart
  Comment: 
@@ -146,8 +146,8 @@ Event[9]:
   Opcode: Info
   Keyword: Classic
   User: S-1-5-21-3560290119-491806085-1914595769-1000
-  User Name: Lab-ZZ\client
-  Computer: Lab-ZZ
+  User Name: Lab-ZZ02\client
+  Computer: Lab-ZZ02
   Description: 
 The server {FD06603A-2BDF-4BB1-B7DF-5DC68F353601} did not register with DCOM within the required timeout.
 
@@ -161,8 +161,8 @@ Event[10]:
   Opcode: Info
   Keyword: Classic
   User: S-1-5-21-3560290119-491806085-1914595769-1000
-  User Name: Lab-ZZ\client
-  Computer: Lab-ZZ
+  User Name: Lab-ZZ02\client
+  Computer: Lab-ZZ02
   Description: 
 The server {FD06603A-2BDF-4BB1-B7DF-5DC68F353601} did not register with DCOM within the required timeout.
 
@@ -176,8 +176,8 @@ Event[11]:
   Opcode: Info
   Keyword: Classic
   User: S-1-5-21-3560290119-491806085-1914595769-1000
-  User Name: Lab-ZZ\client
-  Computer: Lab-ZZ
+  User Name: Lab-ZZ02\client
+  Computer: Lab-ZZ02
   Description: 
 The server {FD06603A-2BDF-4BB1-B7DF-5DC68F353601} did not register with DCOM within the required timeout.
 
@@ -192,7 +192,7 @@ Event[12]:
   Keyword: N/A
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 Application pop-up: GameBar.exe - Application Error : The instruction at 0x00007FF6D817FF40 referenced memory at 0x0000000000000000. The memory could not be read.
 
@@ -209,7 +209,7 @@ Event[13]:
   Keyword: N/A
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 User Log-off Notification for Customer Experience Improvement Program
 
@@ -224,7 +224,7 @@ Event[14]:
   Keyword: N/A
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 File System Filter 'tedrdrv' (Version 0.0, ?2024?-?12?-?31T06:14:42.000000000Z) unloaded successfully.
 
@@ -239,7 +239,7 @@ Event[15]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 The Event log service was stopped.
 
@@ -254,7 +254,7 @@ Event[16]:
   Keyword: N/A
   User: S-1-5-19
   User Name: NT AUTHORITY\LOCAL SERVICE
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 DHCPv4 client received shutdown notification
 
@@ -269,7 +269,7 @@ Event[17]:
   Keyword: N/A
   User: S-1-5-19
   User Name: NT AUTHORITY\LOCAL SERVICE
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 DHCPv4 client ProcessDHCPRequestForever received TERMINATE_EVENT
 
@@ -284,7 +284,7 @@ Event[18]:
   Keyword: N/A
   User: S-1-5-19
   User Name: NT AUTHORITY\LOCAL SERVICE
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 DHCPv6 client service is stopped. ShutDown Flag value is 1
 
@@ -299,7 +299,7 @@ Event[19]:
   Keyword: N/A
   User: S-1-5-19
   User Name: NT AUTHORITY\LOCAL SERVICE
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 DHCPv6 client service stop is almost done.DHCP Context Ref count is 1
 
@@ -314,7 +314,7 @@ Event[20]:
   Keyword: N/A
   User: S-1-5-19
   User Name: NT AUTHORITY\LOCAL SERVICE
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 DHCPv6 client service stop is almost done.DHCP Context Ref count is 1
 
@@ -329,7 +329,7 @@ Event[21]:
   Keyword: N/A
   User: S-1-5-19
   User Name: NT AUTHORITY\LOCAL SERVICE
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 DHCPv4 is waiting on DHCPv6 service to stop
 
@@ -344,7 +344,7 @@ Event[22]:
   Keyword: N/A
   User: S-1-5-19
   User Name: NT AUTHORITY\LOCAL SERVICE
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 DHCPv4 client service is stopped. ShutDown Flag value is 1
 
@@ -359,7 +359,7 @@ Event[23]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 Microsoft (R) Windows (R) 10.00. 19045  Multiprocessor Free.
 
@@ -374,7 +374,7 @@ Event[24]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 The Event log service was started.
 
@@ -389,7 +389,7 @@ Event[25]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 The system uptime is 10 seconds.
 
@@ -404,7 +404,7 @@ Event[26]:
   Keyword: N/A
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 The kernel power manager has initiated a shutdown transition.
 
@@ -421,7 +421,7 @@ Event[27]:
   Keyword: N/A
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 The operating system is shutting down at system time ?2025?-?07?-?06T19:40:12.041989400Z.
 
@@ -436,7 +436,7 @@ Event[28]:
   Keyword: N/A
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 The operating system started at system time ?2025?-?07?-?06T19:40:23.500000000Z.
 
@@ -451,7 +451,7 @@ Event[29]:
   Keyword: N/A
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 Virtualization-based security (policies: VBS Enabled,VSM Required,Boot Chain Signer Soft Enforced) is enabled due to HyperV.
 
@@ -466,7 +466,7 @@ Event[30]:
   Keyword: N/A
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 The last shutdown's success status was true. The last boot's success status was true.
 
@@ -481,7 +481,7 @@ Event[31]:
   Keyword: N/A
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 EFI time zone bias: 2047. Daylight flags: 0
 
@@ -496,7 +496,7 @@ Event[32]:
   Keyword: N/A
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 The boot menu policy was 0x1.
 
@@ -511,7 +511,7 @@ Event[33]:
   Keyword: N/A
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 The boot type was 0x0.
 
@@ -526,7 +526,7 @@ Event[34]:
   Keyword: N/A
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 There are 0x1 boot options on this system.
 
@@ -541,7 +541,7 @@ Event[35]:
   Keyword: N/A
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 The bootmgr spent 0 ms waiting for user input.
 
@@ -556,7 +556,7 @@ Event[36]:
   Keyword: N/A
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 Hypervisor successfully started.
 
@@ -571,7 +571,7 @@ Event[37]:
   Keyword: N/A
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 Hypervisor scheduler type is 0x4.
 
@@ -586,7 +586,7 @@ Event[38]:
   Keyword: N/A
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 Hypervisor initialized I/O remapping.
 
@@ -609,7 +609,7 @@ Event[39]:
   Keyword: N/A
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 Hypervisor configured mitigations for CVE-2018-3646 for virtual machines.
 
@@ -634,7 +634,7 @@ Event[40]:
   Keyword: N/A
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 Hypervisor configured mitigations for CVE-2019-11091, CVE-2018-12126, CVE-2018-12127, CVE-2018-12130 for virtual machines.
 
@@ -655,7 +655,7 @@ Event[41]:
   Keyword: N/A
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 Secure Kernel started with status STATUS_SUCCESS and flags 0.
 
@@ -670,7 +670,7 @@ Event[42]:
   Keyword: Time
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 The leap second configuration has been updated.
 Reason: Leap second data initialized from registry during boot
@@ -689,7 +689,7 @@ Event[43]:
   Keyword: N/A
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 The iommu fault reporting has been initialized.
 
@@ -704,7 +704,7 @@ Event[44]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 VMCI: Using capabilities (0x1c).
 
@@ -720,7 +720,7 @@ Event[45]:
   Keyword: N/A
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 File System Filter 'FileInfo' (10.0, ?2062?-?12?-?23T02:21:06.000000000Z) has successfully loaded and registered with Filter Manager.
 
@@ -735,7 +735,7 @@ Event[46]:
   Keyword: N/A
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 File System Filter 'Wof' (10.0, ?2090?-?03?-?16T15:56:17.000000000Z) has successfully loaded and registered with Filter Manager.
 
@@ -750,7 +750,7 @@ Event[47]:
   Keyword: N/A
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 Volume C: (\Device\HarddiskVolume3) is healthy.  No action is needed.
 
@@ -765,7 +765,7 @@ Event[48]:
   Keyword: N/A
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 File System Filter 'FileCrypt' (10.0, ?2002?-?03?-?01T08:12:42.000000000Z) has successfully loaded and registered with Filter Manager.
 
@@ -780,7 +780,7 @@ Event[49]:
   Keyword: N/A
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 File System Filter 'cyvrfsfd' (0.0, ?2024?-?12?-?31T06:12:59.000000000Z) has successfully loaded and registered with Filter Manager.
 
@@ -795,7 +795,7 @@ Event[50]:
   Keyword: N/A
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 File System Filter 'UCPD' (10.0, ?2006?-?08?-?28T08:56:22.000000000Z) has successfully loaded and registered with Filter Manager.
 
@@ -810,7 +810,7 @@ Event[51]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 The  service entered the Driver load start state.
 
@@ -825,7 +825,7 @@ Event[52]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 The  service entered the Driver load complete state.
 
@@ -840,7 +840,7 @@ Event[53]:
   Keyword: N/A
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 File System Filter 'npsvctrig' (10.0, ?2025?-?01?-?05T23:41:12.000000000Z) has successfully loaded and registered with Filter Manager.
 
@@ -855,7 +855,7 @@ Event[54]:
   Keyword: N/A
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 Connectivity state in standby: Disconnected, Reason: NIC compliance
 
@@ -870,7 +870,7 @@ Event[55]:
   Keyword: N/A
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 vmswitch.sys build 19041.amd64.vb_release_svc_prod1, debug false, official true, 1 1
 
@@ -885,7 +885,7 @@ Event[56]:
   Keyword: N/A
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 The operation 'Create' succeeded on nic 6354ECEF-6396-4E5F-A2CD-AC82FA2F258F (Friendly Name: WSL).
 
@@ -900,7 +900,7 @@ Event[57]:
   Keyword: N/A
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 NIC 6354ECEF-6396-4E5F-A2CD-AC82FA2F258F (Friendly Name: WSL) successfully connected to port 6354ECEF-6396-4E5F-A2CD-AC82FA2F258F (Friendly Name: WSL) on switch 6354ECEF-6396-4E5F-A2CD-AC82FA2F258F(Friendly Name: WSL).
 
@@ -915,7 +915,7 @@ Event[58]:
   Keyword: N/A
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 Switch 6354ECEF-6396-4E5F-A2CD-AC82FA2F258F (Friendly Name: WSL) successfully initialized.
 
@@ -930,7 +930,7 @@ Event[59]:
   Keyword: N/A
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 Port 35A0006A-C26F-42AA-9A6D-C11D5D2535E5 (Friendly Name: Container NIC 6b9efee1) successfully created on switch 6354ECEF-6396-4E5F-A2CD-AC82FA2F258F (Friendly Name: WSL).
 
@@ -945,7 +945,7 @@ Event[60]:
   Keyword: N/A
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 The operation 'Create' succeeded on nic 77627775-AC7D-4A8D-93D4-CC8D2B60CD01 (Friendly Name: WSL).
 
@@ -960,7 +960,7 @@ Event[61]:
   Keyword: N/A
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 NIC 77627775-AC7D-4A8D-93D4-CC8D2B60CD01 (Friendly Name: WSL) successfully connected to port 35A0006A-C26F-42AA-9A6D-C11D5D2535E5 (Friendly Name: Container NIC 6b9efee1) on switch 6354ECEF-6396-4E5F-A2CD-AC82FA2F258F(Friendly Name: WSL).
 
@@ -975,7 +975,7 @@ Event[62]:
   Keyword: N/A
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 Miniport NIC 77627775-AC7D-4A8D-93D4-CC8D2B60CD01 (Friendly Name: WSL) successfully enabled
 
@@ -990,7 +990,7 @@ Event[63]:
   Keyword: Time
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 The time zone information was refreshed with exit reason 0. Current time zone bias is 180.
 
@@ -1005,7 +1005,7 @@ Event[64]:
   Keyword: N/A
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 Processor 0 in group 0 exposes the following power management capabilities:
 
@@ -1028,7 +1028,7 @@ Event[65]:
   Keyword: N/A
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 Processor 1 in group 0 exposes the following power management capabilities:
 
@@ -1051,7 +1051,7 @@ Event[66]:
   Keyword: N/A
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 Miniport NIC 77627775-AC7D-4A8D-93D4-CC8D2B60CD01 (Friendly Name: WSL) successfully initialized.
 
@@ -1066,7 +1066,7 @@ Event[67]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 Intel(R) 82574L Gigabit Network Connection
  Network link has been established at 1Gbps full duplex.
@@ -1083,7 +1083,7 @@ Event[68]:
   Keyword: N/A
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 Credential Guard configuration: 0x0, 0
 
@@ -1098,7 +1098,7 @@ Event[69]:
   Keyword: N/A
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 Secure Trustlet NULL Id 0 and Pid 0 started with status STATUS_SUCCESS.
 
@@ -1113,7 +1113,7 @@ Event[70]:
   Keyword: N/A
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 Secure Trustlet \??\C:\Windows\system32\lsaiso.exe Id 1 and Pid 760 started with status STATUS_SUCCESS.
 
@@ -1128,7 +1128,7 @@ Event[71]:
   Keyword: N/A
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 Key Guard was started and will protect VSM-isolated keys.
 
@@ -1143,7 +1143,7 @@ Event[72]:
   Keyword: N/A
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 Remote calls to the SAM database are being restricted using the default security descriptor: O:SYG:SYD:(A;;RC;;;BA).
 For more information please see http://go.microsoft.com/fwlink/?LinkId=787651.
@@ -1159,7 +1159,7 @@ Event[73]:
   Keyword: N/A
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 The domain is configured with the following minimum password length-related settings.
 
@@ -1183,7 +1183,7 @@ Event[74]:
   Keyword: N/A
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 The security account manager is now logging periodic summary events for remote clients that call legacy password change or set RPC methods.
 
@@ -1201,7 +1201,7 @@ Event[75]:
   Keyword: N/A
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 File System Filter 'tedrdrv' (0.0, ?2024?-?12?-?31T06:14:42.000000000Z) has successfully loaded and registered with Filter Manager.
 
@@ -1216,7 +1216,7 @@ Event[76]:
   Keyword: N/A
   User: S-1-5-19
   User Name: NT AUTHORITY\LOCAL SERVICE
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 DHCPv4 client service is started
 
@@ -1231,7 +1231,7 @@ Event[77]:
   Keyword: N/A
   User: S-1-5-19
   User Name: NT AUTHORITY\LOCAL SERVICE
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 DHCPv4 client registered for shutdown notification
 
@@ -1246,7 +1246,7 @@ Event[78]:
   Keyword: N/A
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 File System Filter 'luafv' (10.0, ?1996?-?01?-?27T09:16:28.000000000Z) has successfully loaded and registered with Filter Manager.
 
@@ -1261,7 +1261,7 @@ Event[79]:
   Keyword: N/A
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 File System Filter 'wcifs' (10.0, ?2043?-?11?-?04T08:04:53.000000000Z) has successfully loaded and registered with Filter Manager.
 
@@ -1276,7 +1276,7 @@ Event[80]:
   Keyword: N/A
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 File System Filter 'CldFlt' (10.0, ?2063?-?06?-?09T07:33:16.000000000Z) has successfully loaded and registered with Filter Manager.
 
@@ -1291,7 +1291,7 @@ Event[81]:
   Keyword: N/A
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 File System Filter 'CldFlt' (Version 10.0, ?2063?-?06?-?09T07:33:16.000000000Z) unloaded successfully.
 
@@ -1306,7 +1306,7 @@ Event[82]:
   Keyword: N/A
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 File System Filter 'CldFlt' (10.0, ?2063?-?06?-?09T07:33:16.000000000Z) has successfully loaded and registered with Filter Manager.
 
@@ -1321,7 +1321,7 @@ Event[83]:
   Keyword: N/A
   User: S-1-5-19
   User Name: NT AUTHORITY\LOCAL SERVICE
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 DHCPv6 client service is started
 
@@ -1336,7 +1336,7 @@ Event[84]:
   Keyword: N/A
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 File System Filter 'storqosflt' (10.0, ?2038?-?12?-?03T06:18:20.000000000Z) has successfully loaded and registered with Filter Manager.
 
@@ -1351,7 +1351,7 @@ Event[85]:
   Keyword: N/A
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 File System Filter 'bindflt' (10.0, ?2091?-?04?-?15T20:55:03.000000000Z) has successfully loaded and registered with Filter Manager.
 
@@ -1366,7 +1366,7 @@ Event[86]:
   Keyword: N/A
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 User Log-on Notification for Customer Experience Improvement Program
 
@@ -1381,7 +1381,7 @@ Event[87]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 The following boot-start or system-start driver(s) did not load: 
 dam
@@ -1397,7 +1397,7 @@ Event[88]:
   Keyword: N/A
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 NIC 6354ECEF-6396-4E5F-A2CD-AC82FA2F258F successfully disconnected from port 6354ECEF-6396-4E5F-A2CD-AC82FA2F258F.
 
@@ -1412,7 +1412,7 @@ Event[89]:
   Keyword: N/A
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 NIC 77627775-AC7D-4A8D-93D4-CC8D2B60CD01 successfully disconnected from port 35A0006A-C26F-42AA-9A6D-C11D5D2535E5.
 
@@ -1427,7 +1427,7 @@ Event[90]:
   Keyword: N/A
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 The operation 'Delete' succeeded on nic 6354ECEF-6396-4E5F-A2CD-AC82FA2F258F (Friendly Name: WSL).
 
@@ -1442,7 +1442,7 @@ Event[91]:
   Keyword: N/A
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 Switch 6354ECEF-6396-4E5F-A2CD-AC82FA2F258F (Friendly Name: WSL) successfully deleted.
 
@@ -1457,7 +1457,7 @@ Event[92]:
   Keyword: N/A
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 The operation 'Delete' succeeded on nic 77627775-AC7D-4A8D-93D4-CC8D2B60CD01 (Friendly Name: WSL).
 
@@ -1472,7 +1472,7 @@ Event[93]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 A caller specified the SDC_FORCE_MODE_ENUMERATION flag in a call to the SetDisplayConfig() API
 
@@ -1486,14 +1486,14 @@ Event[94]:
   Opcode: Info
   Keyword: Classic
   User: S-1-5-21-3560290119-491806085-1914595769-1000
-  User Name: Lab-ZZ\client
-  Computer: Lab-ZZ
+  User Name: Lab-ZZ02\client
+  Computer: Lab-ZZ02
   Description: 
 The machine-default permission settings do not grant Local Activation permission for the COM Server application with CLSID 
 {C2F03A33-21F5-47FA-B4BB-156362A2F239}
  and APPID 
 {316CDED5-E4AE-4B15-9113-7055D84DCC97}
- to the user Lab-ZZ\client SID (S-1-5-21-3560290119-491806085-1914595769-1000) from address LocalHost (Using LRPC) running in the application container Microsoft.Windows.ShellExperienceHost_10.0.19041.5072_neutral_neutral_cw5n1h2txyewy SID (S-1-15-2-155514346-2573954481-755741238-1654018636-1233331829-3075935687-2861478708). This security permission can be modified using the Component Services administrative tool.
+ to the user Lab-ZZ02\client SID (S-1-5-21-3560290119-491806085-1914595769-1000) from address LocalHost (Using LRPC) running in the application container Microsoft.Windows.ShellExperienceHost_10.0.19041.5072_neutral_neutral_cw5n1h2txyewy SID (S-1-15-2-155514346-2573954481-755741238-1654018636-1233331829-3075935687-2861478708). This security permission can be modified using the Component Services administrative tool.
 
 Event[95]:
   Log Name: System
@@ -1506,7 +1506,7 @@ Event[95]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 A caller specified the SDC_FORCE_MODE_ENUMERATION flag in a call to the SetDisplayConfig() API
 
@@ -1521,7 +1521,7 @@ Event[96]:
   Keyword: Classic
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 The start type of the Cortex XDR Health Helper service was changed from auto start to disabled.
 
@@ -1536,7 +1536,7 @@ Event[97]:
   Keyword: Classic
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 The start type of the Cortex XDR Health Helper service was changed from disabled to auto start.
 
@@ -1551,7 +1551,7 @@ Event[98]:
   Keyword: N/A
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 The access history in hive \??\C:\Users\client\AppData\Local\Packages\Microsoft.AAD.BrokerPlugin_cw5n1h2txyewy\Settings\settings.dat was cleared updating 5 keys and creating 1 modified pages.
 
@@ -1566,7 +1566,7 @@ Event[99]:
   Keyword: N/A
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 Hive \SystemRoot\System32\config\DRIVERS was reorganized with a starting size of 4354048 bytes and an ending size of 3952640 bytes.
 
@@ -1581,7 +1581,7 @@ Event[100]:
   Keyword: N/A
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 The operation 'Create' succeeded on nic 4C92C009-9A0D-4B10-9AAF-42E33E1FE48D (Friendly Name: WSL).
 
@@ -1596,7 +1596,7 @@ Event[101]:
   Keyword: N/A
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 NIC 4C92C009-9A0D-4B10-9AAF-42E33E1FE48D (Friendly Name: WSL) successfully connected to port 4C92C009-9A0D-4B10-9AAF-42E33E1FE48D (Friendly Name: WSL) on switch 4C92C009-9A0D-4B10-9AAF-42E33E1FE48D(Friendly Name: WSL).
 
@@ -1611,7 +1611,7 @@ Event[102]:
   Keyword: N/A
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 Switch 4C92C009-9A0D-4B10-9AAF-42E33E1FE48D (Friendly Name: WSL) successfully initialized.
 
@@ -1626,7 +1626,7 @@ Event[103]:
   Keyword: N/A
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 Port 894A506D-2E95-4E28-B830-6C8B41A3C9D8 (Friendly Name: Container NIC a79b5dce) successfully created on switch 4C92C009-9A0D-4B10-9AAF-42E33E1FE48D (Friendly Name: WSL).
 
@@ -1641,7 +1641,7 @@ Event[104]:
   Keyword: N/A
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 The operation 'Create' succeeded on nic 2413A9EA-E24A-4704-BD87-CD63B54B4507 (Friendly Name: WSL).
 
@@ -1656,7 +1656,7 @@ Event[105]:
   Keyword: N/A
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 Miniport NIC 2413A9EA-E24A-4704-BD87-CD63B54B4507 (Friendly Name: WSL) successfully initialized.
 
@@ -1671,7 +1671,7 @@ Event[106]:
   Keyword: N/A
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 NIC 2413A9EA-E24A-4704-BD87-CD63B54B4507 (Friendly Name: WSL) successfully connected to port 894A506D-2E95-4E28-B830-6C8B41A3C9D8 (Friendly Name: Container NIC a79b5dce) on switch 4C92C009-9A0D-4B10-9AAF-42E33E1FE48D(Friendly Name: WSL).
 
@@ -1686,7 +1686,7 @@ Event[107]:
   Keyword: N/A
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 Port 63F53EA2-D23D-4A15-8F06-E8B3F0A73013 (Friendly Name: 9246DD42-26BA-4925-9901-6D6C13B6D78E) successfully created on switch 4C92C009-9A0D-4B10-9AAF-42E33E1FE48D (Friendly Name: WSL).
 
@@ -1701,7 +1701,7 @@ Event[108]:
   Keyword: N/A
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 The operation 'Create' succeeded on nic 96C272CD-7EB0-4950-996B-81555C598F5C--9246DD42-26BA-4925-9901-6D6C13B6D78E (Friendly Name: ).
 
@@ -1716,7 +1716,7 @@ Event[109]:
   Keyword: N/A
   User: S-1-5-83-1-2529325773-1230012080-1434545049-1552898396
   User Name: NT VIRTUAL MACHINE\96C272CD-7EB0-4950-996B-81555C598F5C
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 NIC 96C272CD-7EB0-4950-996B-81555C598F5C--9246DD42-26BA-4925-9901-6D6C13B6D78E (Friendly Name: ) successfully connected to port 63F53EA2-D23D-4A15-8F06-E8B3F0A73013 (Friendly Name: 9246DD42-26BA-4925-9901-6D6C13B6D78E) on switch 4C92C009-9A0D-4B10-9AAF-42E33E1FE48D(Friendly Name: WSL).
 
@@ -1731,7 +1731,7 @@ Event[110]:
   Keyword: N/A
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 Networking driver in Virtual Machine is loaded and the protocol version is negotiated to the most recent version (Virtual machine ID 96C272CD-7EB0-4950-996B-81555C598F5C).
 
@@ -1746,7 +1746,7 @@ Event[111]:
   Keyword: N/A
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 The Secure Boot update failed to update a Secure Boot variable with error Secure Boot is not enabled on this machine.. For more information, please see https://go.microsoft.com/fwlink/?linkid=2169931
 
@@ -1761,7 +1761,7 @@ Event[112]:
   Keyword: N/A
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 The Secure Boot update failed to update a Secure Boot variable with error Secure Boot is not enabled on this machine.. For more information, please see https://go.microsoft.com/fwlink/?linkid=2169931
 
@@ -1775,8 +1775,8 @@ Event[113]:
   Opcode: Info
   Keyword: N/A
   User: S-1-5-21-3560290119-491806085-1914595769-1000
-  User Name: Lab-ZZ\client
-  Computer: Lab-ZZ
+  User Name: Lab-ZZ02\client
+  Computer: Lab-ZZ02
   Description: 
 Secure Trustlet NULL Id 0 and Pid 0 started with status STATUS_SUCCESS.
 
@@ -1791,7 +1791,7 @@ Event[114]:
   Keyword: N/A
   User: S-1-5-83-1-2529325773-1230012080-1434545049-1552898396
   User Name: NT VIRTUAL MACHINE\96C272CD-7EB0-4950-996B-81555C598F5C
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 NIC 96C272CD-7EB0-4950-996B-81555C598F5C--9246DD42-26BA-4925-9901-6D6C13B6D78E successfully disconnected from port .
 
@@ -1806,7 +1806,7 @@ Event[115]:
   Keyword: N/A
   User: S-1-5-83-1-2529325773-1230012080-1434545049-1552898396
   User Name: NT VIRTUAL MACHINE\96C272CD-7EB0-4950-996B-81555C598F5C
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 The operation 'Delete' succeeded on nic 96C272CD-7EB0-4950-996B-81555C598F5C--9246DD42-26BA-4925-9901-6D6C13B6D78E (Friendly Name: ).
 
@@ -1821,7 +1821,7 @@ Event[116]:
   Keyword: Classic
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start.
 
@@ -1836,7 +1836,7 @@ Event[117]:
   Keyword: Classic
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start.
 
@@ -1851,7 +1851,7 @@ Event[118]:
   Keyword: N/A
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 Port CC70A93C-0C08-4087-AF0A-A5D3C5AD1F49 (Friendly Name: E3EABE7F-2E40-4C60-AE63-044FFF4F7877) successfully created on switch 4C92C009-9A0D-4B10-9AAF-42E33E1FE48D (Friendly Name: WSL).
 
@@ -1866,7 +1866,7 @@ Event[119]:
   Keyword: N/A
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 The operation 'Create' succeeded on nic 485F2BC1-2E84-4824-9C63-FECDBDF28F49--E3EABE7F-2E40-4C60-AE63-044FFF4F7877 (Friendly Name: ).
 
@@ -1881,7 +1881,7 @@ Event[120]:
   Keyword: N/A
   User: S-1-5-83-1-1214196673-1210330756-3456000924-1234170557
   User Name: NT VIRTUAL MACHINE\485F2BC1-2E84-4824-9C63-FECDBDF28F49
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 NIC 485F2BC1-2E84-4824-9C63-FECDBDF28F49--E3EABE7F-2E40-4C60-AE63-044FFF4F7877 (Friendly Name: ) successfully connected to port CC70A93C-0C08-4087-AF0A-A5D3C5AD1F49 (Friendly Name: E3EABE7F-2E40-4C60-AE63-044FFF4F7877) on switch 4C92C009-9A0D-4B10-9AAF-42E33E1FE48D(Friendly Name: WSL).
 
@@ -1896,7 +1896,7 @@ Event[121]:
   Keyword: N/A
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 Networking driver in Virtual Machine is loaded and the protocol version is negotiated to the most recent version (Virtual machine ID 485F2BC1-2E84-4824-9C63-FECDBDF28F49).
 
@@ -1911,7 +1911,7 @@ Event[122]:
   Keyword: N/A
   User: S-1-5-83-1-1214196673-1210330756-3456000924-1234170557
   User Name: NT VIRTUAL MACHINE\485F2BC1-2E84-4824-9C63-FECDBDF28F49
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 NIC 485F2BC1-2E84-4824-9C63-FECDBDF28F49--E3EABE7F-2E40-4C60-AE63-044FFF4F7877 successfully disconnected from port .
 
@@ -1926,7 +1926,7 @@ Event[123]:
   Keyword: N/A
   User: S-1-5-83-1-1214196673-1210330756-3456000924-1234170557
   User Name: NT VIRTUAL MACHINE\485F2BC1-2E84-4824-9C63-FECDBDF28F49
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 The operation 'Delete' succeeded on nic 485F2BC1-2E84-4824-9C63-FECDBDF28F49--E3EABE7F-2E40-4C60-AE63-044FFF4F7877 (Friendly Name: ).
 
@@ -1940,8 +1940,8 @@ Event[124]:
   Opcode: N/A
   Keyword: Classic
   User: S-1-5-21-3560290119-491806085-1914595769-1000
-  User Name: Lab-ZZ\client
-  Computer: Lab-ZZ
+  User Name: Lab-ZZ02\client
+  Computer: Lab-ZZ02
   Description: 
 A service was installed in the system.
 
@@ -1961,8 +1961,8 @@ Event[125]:
   Opcode: Info
   Keyword: N/A
   User: S-1-5-21-3560290119-491806085-1914595769-1000
-  User Name: Lab-ZZ\client
-  Computer: Lab-ZZ
+  User Name: Lab-ZZ02\client
+  Computer: Lab-ZZ02
   Description: 
 Secure Trustlet Id 0 and Pid 0 stopped with status STATUS_SUCCESS.
 
@@ -1976,8 +1976,8 @@ Event[126]:
   Opcode: Info
   Keyword: N/A
   User: S-1-5-21-3560290119-491806085-1914595769-1000
-  User Name: Lab-ZZ\client
-  Computer: Lab-ZZ
+  User Name: Lab-ZZ02\client
+  Computer: Lab-ZZ02
   Description: 
 Secure Trustlet NULL Id 0 and Pid 0 started with status STATUS_SUCCESS.
 
@@ -1992,7 +1992,7 @@ Event[127]:
   Keyword: Classic
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start.
 
@@ -2007,7 +2007,7 @@ Event[128]:
   Keyword: Classic
   User: N/A
   User Name: N/A
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 The oldest shadow copy of volume C: was deleted to keep disk space usage for shadow copies of volume C: below the user defined limit.
 
@@ -2021,8 +2021,8 @@ Event[129]:
   Opcode: Info
   Keyword: N/A
   User: S-1-5-21-3560290119-491806085-1914595769-1000
-  User Name: Lab-ZZ\client
-  Computer: Lab-ZZ
+  User Name: Lab-ZZ02\client
+  Computer: Lab-ZZ02
   Description: 
 Secure Trustlet Id 0 and Pid 0 stopped with status STATUS_SUCCESS.
 
@@ -2036,8 +2036,8 @@ Event[130]:
   Opcode: Info
   Keyword: N/A
   User: S-1-5-21-3560290119-491806085-1914595769-1000
-  User Name: Lab-ZZ\client
-  Computer: Lab-ZZ
+  User Name: Lab-ZZ02\client
+  Computer: Lab-ZZ02
   Description: 
 Secure Trustlet NULL Id 0 and Pid 0 started with status STATUS_SUCCESS.
 
@@ -2052,7 +2052,7 @@ Event[131]:
   Keyword: Classic
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start.
 
@@ -2067,7 +2067,7 @@ Event[132]:
   Keyword: N/A
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 The access history in hive \??\C:\Users\client\AppData\Local\Packages\microsoft.windowscommunicationsapps_8wekyb3d8bbwe\Settings\settings.dat was cleared updating 22 keys and creating 2 modified pages.
 
@@ -2082,7 +2082,7 @@ Event[133]:
   Keyword: N/A
   User: S-1-5-18
   User Name: NT AUTHORITY\SYSTEM
-  Computer: Lab-ZZ
+  Computer: Lab-ZZ02
   Description: 
 The access history in hive \??\C:\Users\client\AppData\Local\Packages\Microsoft.WindowsStore_8wekyb3d8bbwe\Settings\settings.dat was cleared updating 11 keys and creating 2 modified pages.
 

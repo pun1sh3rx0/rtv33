@@ -1,0 +1,54 @@
+Host Name:                 LAB-ZZ02
+OS Name:                   Microsoft Windows 10 Pro
+OS Version:                10.0.19045 N/A Build 19045
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          Windows User
+Registered Organization:
+Product ID:                00331-20314-47789-AA067
+Original Install Date:     02/03/2024, 18:03:13
+System Boot Time:          22/07/2025, 21:26:15
+System Manufacturer:       VMware, Inc.
+System Model:              VMware20,1
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 142 Stepping 9 GenuineIntel ~2904 Mhz
+BIOS Version:              VMware, Inc. VMW201.00V.24006586.B64.2406042154, 04/06/2024
+Windows Directory:         C:\Windows
+System Directory:          C:\Windows\system32
+Boot Device:               \Device\HarddiskVolume1
+System Locale:             en-gb;English (United Kingdom)
+Input Locale:              en-gb;English (United Kingdom)
+Time Zone:                 (UTC-03:00) Brasilia
+Total Physical Memory:     6,651 MB
+Available Physical Memory: 3,621 MB
+Virtual Memory: Max Size:  7,739 MB
+Virtual Memory: Available: 4,622 MB
+Virtual Memory: In Use:    3,117 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    WORKGROUP
+Logon Server:              \\LAB-ZZ02
+Hotfix(s):                 13 Hotfix(s) Installed.
+                           [01]: KB5056578
+                           [02]: KB5034468
+                           [03]: KB5011048
+                           [04]: KB5015684
+                           [05]: KB5060533
+                           [06]: KB5014032
+                           [07]: KB5025315
+                           [08]: KB5036447
+                           [09]: KB5037018
+                           [10]: KB5046823
+                           [11]: KB5050388
+                           [12]: KB5059504
+                           [13]: KB5063523
+Network Card(s):           1 NIC(s) Installed.
+                           [01]: Intel(R) 82574L Gigabit Network Connection
+                                 Connection Name: Ethernet0
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     172.16.166.254
+                                 IP address(es)
+                                 [01]: 172.16.166.137
+                                 [02]: fe80::4aba:27a5:633c:cf41
+Hyper-V Requirements:      A hypervisor has been detected. Features required for Hyper-V will not be displayed.
