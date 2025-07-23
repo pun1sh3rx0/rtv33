@@ -1,27 +1,37 @@
 🧠 General Analysis
 
-What does the malware appear to have done? (exfiltration, persistence, ransomware, etc.) Are there indications that the malware was executed with elevated privileges? Was it possible to identify the name or family of the malware?
-
-🪪 Authentication and Logon (Event Viewer - Security)
-
-Are there any suspicious logon events? Was any user created, modified, or elevated privileges during the incident?
+What were the first signs of compromise?
+Build a timeline of the incident with the main observed events.
 
 ⚙️ Execution and Processes
 
-Which process did the attacker use to execute the malware? Is there any security tool process running?
+What is the name of the identified malware (if applicable)?
+How was it introduced into the system (e-mail, download, removable media, RDP, etc.)?
+Which user executed the malicious binary or script?
+Are there indications of file encryption or ransomware activity?
+Which executable or script initiated this action (e.g., powershell.exe, cmd.exe, wscript.exe)?
 
-📝 Registry (Registry Autostart Entries)
+🛠️ Persistence / Autostart (Windows)
 
-Were any new persistence entries in the registry identified? Were any known autostart keys modified (e.g., Run, RunOnce, Services, etc.)?
+Are there any persistence mechanisms configured?
+Are there suspicious entries in the Registry keys?
+Were any tasks created in the Task Scheduler?
 
 🗃️ Modified Files
 
-Which files were modified before and after the malware execution? Are there any files that appear to be additional payloads or scripts?
+Were critical system or user files modified?
+Are there signs of data exfiltration or staging for a leak?
+Which files were accessed, modified, or copied?
 
-🖥️ System Info / Machine State
+🌐 Network Activity / C2 Communication
 
-Were there any changes to the hostname, domain, security settings, or firewall? Any evidence of EDR deactivation or bypass attempt?
+Were connections made to suspicious external domains or IP addresses?
+Was any Command & Control (C2) domain or IP identified?
+Which protocols and ports were used (HTTP, HTTPS, DNS, etc.)?
+Are there signs of DNS tunneling, use of PowerShell Remoting, WinRM, etc.?
 
-📅 Scheduled Tasks / Persistence
+🔍 EDR (Endpoint Detection and Response)
 
-Was any scheduled task created to ensure persistence? Does the task point to a malicious binary or script?
+Is there an active EDR solution on the machine (e.g., Microsoft Defender for Endpoint, SentinelOne, etc.)?
+Was there an attempt to bypass or disable the EDR?
+Did the EDR block any malicious actions or not?

@@ -1,27 +1,41 @@
+🖥️ System Information / Machine State
+
+What is the macOS version and system architecture (Intel/ARM)?
+What is the hostname and hardware model?
+
 🧠 General Analysis
 
-What does the malware appear to have done? (exfiltration, persistence, ransomware, etc.) Are there indications that the malware was executed with elevated privileges? Was it possible to identify the name or family of the malware?
-
-🪪 Authentication and Logon (Event Viewer - Security)
-
-Are there any suspicious logon events? Was any user created, modified, or elevated privileges during the incident?
+What were the first signs of compromise?
+Build a timeline of the incident with the main events.
 
 ⚙️ Execution and Processes
 
-Which process did the attacker use to execute the malware? Is there any security tool process running?
+What is the name of the identified malware (if applicable)?
+How was it introduced into the system (e-mail, download, removable media, etc.)?
+Which user executed the malware?
+Are there signs of file encryption or ransomware activity?
+Which binary or script initiated this action?
 
-📝 Registry (Registry Autostart Entries)
+🛠️ Autostart and Launch Agents (macOS)
 
-Were any new persistence entries in the registry identified? Were any known autostart keys modified (e.g., Run, RunOnce, Services, etc.)?
+Are there indications of persistence through autostart mechanisms?
+Was any suspicious LaunchAgent or LaunchDaemon created?
+Were .plist files added in locations like ~/Library/LaunchAgents or /Library/LaunchDaemons?
 
 🗃️ Modified Files
 
-Which files were modified before and after the malware execution? Are there any files that appear to be additional payloads or scripts?
+Were critical system or user files modified?
+Are there signs of data exfiltration or staging for a leak?
+Which files were accessed or copied?
 
-🖥️ System Info / Machine State
+🌐 Network Activity / C2 Communication
 
-Were there any changes to the hostname, domain, security settings, or firewall? Any evidence of EDR deactivation or bypass attempt?
+Were any connections made to external domains or IP addresses?
+Was any Command & Control (C2) IP address or domain identified?
+Which protocols and ports were used?
 
-📅 Scheduled Tasks / Persistence
+🔍 EDR (Endpoint Detection and Response)
 
-Was any scheduled task created to ensure persistence? Does the task point to a malicious binary or script?
+Is there an active EDR solution on the machine (e.g., Microsoft Defender for Endpoint, SentinelOne, etc.)?
+Was there an attempt to bypass or disable the EDR?
+Did the EDR block any malicious actions or not?

@@ -198,7 +198,7 @@
 /Users/developer/Library/Biome/sets/Default/App.InstalledApp/Database/Set.db-shm
 /Users/developer/Library/Biome/sets/Default/App.InstalledApp/Database/Set.db-wal
 /Users/developer/Library/Weather/weather-data.db-wal
-/Users/developer/Library/LaunchAgents/com.threat.plist
+/Users/developer/Library/LaunchAgents/com.backup.plist
 /Users/developer/Library/Group Containers/group.com.apple.usernoted/db2/db-wal
 /Users/developer/Library/Group Containers/group.com.apple.calendar/Calendar.sqlitedb-shm
 /Users/developer/Library/Group Containers/group.com.apple.calendar/Extras.db-shm

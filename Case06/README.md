@@ -46,3 +46,9 @@ Were any files encrypted or tampered with by the malware?
 Were there connections made to external domains or IPs?
 What Command & Control (C2) IP was used?
 How did the malware communicate (protocol, port, method)?
+
+🔍 EDR (Endpoint Detection and Response)
+
+Is there an active EDR solution on the machine (e.g., Microsoft Defender for Endpoint, SentinelOne, etc.)?
+Was there an attempt to bypass or disable the EDR?
+Did the EDR block any malicious actions or not?
