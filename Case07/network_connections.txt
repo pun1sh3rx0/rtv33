@@ -1,0 +1,9 @@
+Netid State     Recv-Q Send-Q  Local Address:Port     Peer Address:Port Process                                               
+udp   UNCONN    0      0             0.0.0.0:68            0.0.0.0:*     users:(("dhclient",pid=444,fd=7))                    
+tcp   LISTEN    0      128           0.0.0.0:22            0.0.0.0:*     users:(("sshd",pid=559,fd=3))                        
+tcp   ESTAB     0      0      172.16.166.146:22       172.16.166.1:35910 users:(("sshd",pid=1048,fd=4),("sshd",pid=1022,fd=4))
+tcp   ESTAB     0      0      172.16.166.146:22       172.16.166.1:47598 users:(("sshd",pid=3268,fd=4),("sshd",pid=3262,fd=4))
+tcp   TIME-WAIT 0      0      172.16.166.146:36074   64.227.23.182:54843                                                      
+tcp   TIME-WAIT 0      0      172.16.166.146:35554 157.230.119.161:80                                                         
+tcp   ESTAB     0      0      172.16.166.146:33671    52.35.11.124:443   users:(("falcon-sensor-b",pid=409,fd=549))           
+tcp   LISTEN    0      128              [::]:22               [::]:*     users:(("sshd",pid=559,fd=4))                        

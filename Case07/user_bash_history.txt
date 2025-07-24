@@ -1,0 +1,13 @@
+ip ad
+ls -lh
+whoami
+rm -rf d34dp00l 
+ip ad
+whoami
+ls -lh
+pwd
+cat /etc/passwd
+cat /etc/group
+cat /etc/shadow
+netstat -lntp
+htop

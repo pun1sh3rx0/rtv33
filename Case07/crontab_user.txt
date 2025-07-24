@@ -1,0 +1,1 @@
+@reboot python3 /tmp/_MEIlku7RY/d34dp00l.py

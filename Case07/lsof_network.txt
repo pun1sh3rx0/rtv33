@@ -1,0 +1,9 @@
+COMMAND    PID     USER   FD   TYPE DEVICE SIZE/OFF NODE NAME
+falcon-se  409     root  549u  IPv4  24095      0t0  TCP 172.16.166.146:33671->ec2-52-35-11-124.us-west-2.compute.amazonaws.com:https (ESTABLISHED)
+dhclient   444     root    7u  IPv4  21203      0t0  UDP *:bootpc 
+sshd       559     root    3u  IPv4  22621      0t0  TCP *:ssh (LISTEN)
+sshd       559     root    4u  IPv6  22632      0t0  TCP *:ssh (LISTEN)
+sshd      1022     root    4u  IPv4  23717      0t0  TCP 172.16.166.146:ssh->172.16.166.1:35910 (ESTABLISHED)
+sshd      1048 pun1sh3r    4u  IPv4  23717      0t0  TCP 172.16.166.146:ssh->172.16.166.1:35910 (ESTABLISHED)
+sshd      3262     root    4u  IPv4 168971      0t0  TCP 172.16.166.146:ssh->172.16.166.1:47598 (ESTABLISHED)
+sshd      3268 pun1sh3r    4u  IPv4 168971      0t0  TCP 172.16.166.146:ssh->172.16.166.1:47598 (ESTABLISHED)

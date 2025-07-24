@@ -1,0 +1,35 @@
+UNIT FILE                      STATE    PRESET
+dbus.service                   static   -
+deadpool.service               enabled  enabled
+dirmngr.service                static   -
+gpg-agent.service              static   -
+ssh-agent.service              static   -
+systemd-exit.service           static   -
+systemd-tmpfiles-clean.service static   -
+systemd-tmpfiles-setup.service disabled enabled
+app.slice                      static   -
+background.slice               static   -
+session.slice                  static   -
+dbus.socket                    static   -
+dirmngr.socket                 enabled  enabled
+gpg-agent-browser.socket       enabled  enabled
+gpg-agent-extra.socket         enabled  enabled
+gpg-agent-ssh.socket           enabled  enabled
+gpg-agent.socket               enabled  enabled
+basic.target                   static   -
+bluetooth.target               static   -
+default.target                 static   -
+exit.target                    static   -
+graphical-session-pre.target   static   -
+graphical-session.target       static   -
+paths.target                   static   -
+printer.target                 static   -
+shutdown.target                static   -
+smartcard.target               static   -
+sockets.target                 static   -
+sound.target                   static   -
+timers.target                  static   -
+xdg-desktop-autostart.target   static   -
+systemd-tmpfiles-clean.timer   disabled enabled
+
+32 unit files listed.
