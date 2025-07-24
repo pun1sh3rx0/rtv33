@@ -1,0 +1,634 @@
+ 
+2025-07-23T15:54:38.088746-03:00 linux-lab01 sshd[3447]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=backup
+2025-07-23T15:54:39.511932-03:00 linux-lab01 sshd[3447]: Failed password for backup from 172.16.166.1 port 32804 ssh2
+2025-07-23T15:54:40.827465-03:00 linux-lab01 sshd[3449]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=backup
+2025-07-23T15:54:42.857171-03:00 linux-lab01 sshd[3449]: Failed password for backup from 172.16.166.1 port 52806 ssh2
+2025-07-23T15:54:43.583785-03:00 linux-lab01 sshd[3451]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=backup
+2025-07-23T15:54:45.691817-03:00 linux-lab01 sshd[3451]: Failed password for backup from 172.16.166.1 port 52820 ssh2
+2025-07-23T15:54:46.340125-03:00 linux-lab01 sshd[3453]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=backup
+2025-07-23T15:54:48.192903-03:00 linux-lab01 sshd[3453]: Failed password for backup from 172.16.166.1 port 52834 ssh2
+2025-07-23T15:54:49.091655-03:00 linux-lab01 sshd[3455]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=backup
+2025-07-23T15:54:50.690087-03:00 linux-lab01 sshd[3455]: Failed password for backup from 172.16.166.1 port 52838 ssh2
+2025-07-23T15:54:51.861296-03:00 linux-lab01 sshd[3457]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=backup
+2025-07-23T15:54:53.399628-03:00 linux-lab01 sshd[3457]: Failed password for backup from 172.16.166.1 port 59840 ssh2
+2025-07-23T15:54:54.620018-03:00 linux-lab01 sshd[3459]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=backup
+2025-07-23T15:54:57.240970-03:00 linux-lab01 sshd[3459]: Failed password for backup from 172.16.166.1 port 59856 ssh2
+2025-07-23T15:54:57.367541-03:00 linux-lab01 sshd[3461]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=backup
+2025-07-23T15:54:59.064292-03:00 linux-lab01 sshd[3461]: Failed password for backup from 172.16.166.1 port 59860 ssh2
+2025-07-23T15:55:00.136870-03:00 linux-lab01 sshd[3463]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=backup
+2025-07-23T15:55:02.247508-03:00 linux-lab01 sshd[3463]: Failed password for backup from 172.16.166.1 port 59872 ssh2
+2025-07-23T15:55:02.876538-03:00 linux-lab01 sshd[3465]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=backup
+2025-07-23T15:55:04.258640-03:00 linux-lab01 sshd[3465]: Failed password for backup from 172.16.166.1 port 55398 ssh2
+2025-07-23T15:55:05.623772-03:00 linux-lab01 sshd[3467]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=backup
+2025-07-23T15:55:07.750863-03:00 linux-lab01 sshd[3467]: Failed password for backup from 172.16.166.1 port 55408 ssh2
+2025-07-23T15:55:08.376011-03:00 linux-lab01 sshd[3470]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=backup
+2025-07-23T15:55:10.249215-03:00 linux-lab01 sshd[3470]: Failed password for backup from 172.16.166.1 port 55414 ssh2
+2025-07-23T15:55:11.129666-03:00 linux-lab01 sshd[3472]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=backup
+2025-07-23T15:55:13.412982-03:00 linux-lab01 sshd[3472]: Failed password for backup from 172.16.166.1 port 60426 ssh2
+2025-07-23T15:55:13.777110-03:00 linux-lab01 sshd[559]: error: beginning MaxStartups throttling
+2025-07-23T15:55:13.779477-03:00 linux-lab01 sshd[559]: drop connection #13 from [172.16.166.1]:60436 on [172.16.166.146]:22 past MaxStartups
+2025-07-23T15:55:13.877742-03:00 linux-lab01 sshd[3474]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=backup
+2025-07-23T15:55:15.769994-03:00 linux-lab01 sshd[3474]: Failed password for backup from 172.16.166.1 port 60442 ssh2
+2025-07-23T15:55:16.627732-03:00 linux-lab01 sshd[3476]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=backup
+2025-07-23T15:55:18.600879-03:00 linux-lab01 sshd[3476]: Failed password for backup from 172.16.166.1 port 60444 ssh2
+2025-07-23T15:55:19.383463-03:00 linux-lab01 sshd[3478]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=backup
+2025-07-23T15:55:21.102359-03:00 linux-lab01 sshd[3478]: Failed password for backup from 172.16.166.1 port 60458 ssh2
+2025-07-23T15:55:22.135459-03:00 linux-lab01 sshd[3480]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=backup
+2025-07-23T15:55:24.265622-03:00 linux-lab01 sshd[3480]: Failed password for backup from 172.16.166.1 port 56652 ssh2
+2025-07-23T15:55:24.888253-03:00 linux-lab01 sshd[3482]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=backup
+2025-07-23T15:55:26.957712-03:00 linux-lab01 sshd[3482]: Failed password for backup from 172.16.166.1 port 56660 ssh2
+2025-07-23T15:55:27.638253-03:00 linux-lab01 sshd[3484]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=backup
+2025-07-23T15:55:29.787612-03:00 linux-lab01 sshd[3484]: Failed password for backup from 172.16.166.1 port 56682 ssh2
+2025-07-23T15:55:30.384166-03:00 linux-lab01 sshd[3486]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=backup
+2025-07-23T15:55:32.944883-03:00 linux-lab01 sshd[3486]: Failed password for backup from 172.16.166.1 port 43264 ssh2
+2025-07-23T15:55:33.139922-03:00 linux-lab01 sshd[3488]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=backup
+2025-07-23T15:55:34.779104-03:00 linux-lab01 sshd[3488]: Failed password for backup from 172.16.166.1 port 43284 ssh2
+2025-07-23T15:55:35.891738-03:00 linux-lab01 sshd[3490]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=backup
+2025-07-23T15:55:37.804396-03:00 linux-lab01 sshd[3490]: Failed password for backup from 172.16.166.1 port 43298 ssh2
+2025-07-23T15:55:38.647928-03:00 linux-lab01 sshd[3492]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=backup
+2025-07-23T15:55:40.640465-03:00 linux-lab01 sshd[3492]: Failed password for backup from 172.16.166.1 port 43324 ssh2
+2025-07-23T15:55:41.399994-03:00 linux-lab01 sshd[3494]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=backup
+2025-07-23T15:55:43.804639-03:00 linux-lab01 sshd[3494]: Failed password for backup from 172.16.166.1 port 53966 ssh2
+2025-07-23T15:55:44.163152-03:00 linux-lab01 sshd[3496]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=backup
+2025-07-23T15:55:46.315673-03:00 linux-lab01 sshd[3496]: Failed password for backup from 172.16.166.1 port 53994 ssh2
+2025-07-23T15:55:46.911653-03:00 linux-lab01 sshd[3498]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=backup
+2025-07-23T15:55:49.000905-03:00 linux-lab01 sshd[3498]: Failed password for backup from 172.16.166.1 port 54020 ssh2
+2025-07-23T15:55:49.654018-03:00 linux-lab01 sshd[3500]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=backup
+2025-07-23T15:55:51.824852-03:00 linux-lab01 sshd[3500]: Failed password for backup from 172.16.166.1 port 54034 ssh2
+2025-07-23T15:55:52.450581-03:00 linux-lab01 sshd[3502]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=backup
+2025-07-23T15:55:54.366321-03:00 linux-lab01 sshd[3502]: Failed password for backup from 172.16.166.1 port 49430 ssh2
+2025-07-23T15:55:55.203606-03:00 linux-lab01 sshd[3504]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=backup
+2025-07-23T15:55:56.862938-03:00 linux-lab01 sshd[3504]: Failed password for backup from 172.16.166.1 port 49442 ssh2
+2025-07-23T15:55:57.959228-03:00 linux-lab01 sshd[3506]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=backup
+2025-07-23T15:55:59.891899-03:00 linux-lab01 sshd[3506]: Failed password for backup from 172.16.166.1 port 49454 ssh2
+2025-07-23T15:56:00.716231-03:00 linux-lab01 sshd[3508]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=backup
+2025-07-23T15:56:03.060050-03:00 linux-lab01 sshd[3508]: Failed password for backup from 172.16.166.1 port 59340 ssh2
+2025-07-23T15:56:03.475905-03:00 linux-lab01 sshd[3510]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=backup
+2025-07-23T15:56:05.234222-03:00 linux-lab01 sshd[3510]: Failed password for backup from 172.16.166.1 port 59356 ssh2
+2025-07-23T15:56:06.227241-03:00 linux-lab01 sshd[3512]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=backup
+2025-07-23T15:56:08.396380-03:00 linux-lab01 sshd[3512]: Failed password for backup from 172.16.166.1 port 59370 ssh2
+2025-07-23T15:56:08.983836-03:00 linux-lab01 sshd[3514]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=backup
+2025-07-23T15:56:11.094985-03:00 linux-lab01 sshd[3514]: Failed password for backup from 172.16.166.1 port 59390 ssh2
+2025-07-23T15:56:11.735864-03:00 linux-lab01 sshd[3516]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=backup
+2025-07-23T15:56:13.588459-03:00 linux-lab01 sshd[3516]: Failed password for backup from 172.16.166.1 port 32870 ssh2
+2025-07-23T15:56:14.502435-03:00 linux-lab01 sshd[3518]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=backup
+2025-07-23T15:56:16.436321-03:00 linux-lab01 sshd[3518]: Failed password for backup from 172.16.166.1 port 32900 ssh2
+2025-07-23T15:56:17.232034-03:00 linux-lab01 sshd[3520]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=backup
+2025-07-23T15:56:19.576384-03:00 linux-lab01 sshd[3520]: Failed password for backup from 172.16.166.1 port 32930 ssh2
+2025-07-23T15:56:19.991072-03:00 linux-lab01 sshd[3522]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=backup
+2025-07-23T15:56:21.943496-03:00 linux-lab01 sshd[3522]: Failed password for backup from 172.16.166.1 port 32960 ssh2
+2025-07-23T15:56:22.755852-03:00 linux-lab01 sshd[3524]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=backup
+2025-07-23T15:56:24.454982-03:00 linux-lab01 sshd[3524]: Failed password for backup from 172.16.166.1 port 46814 ssh2
+2025-07-23T15:56:25.528489-03:00 linux-lab01 sshd[3526]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=backup
+2025-07-23T15:56:27.309174-03:00 linux-lab01 sshd[3526]: Failed password for backup from 172.16.166.1 port 46846 ssh2
+2025-07-23T15:56:28.279430-03:00 linux-lab01 sshd[3528]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=backup
+2025-07-23T15:56:30.470669-03:00 linux-lab01 sshd[3528]: Failed password for backup from 172.16.166.1 port 46852 ssh2
+2025-07-23T15:56:31.034800-03:00 linux-lab01 sshd[3530]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=backup
+2025-07-23T15:56:32.969658-03:00 linux-lab01 sshd[3530]: Failed password for backup from 172.16.166.1 port 56986 ssh2
+2025-07-23T15:56:33.792295-03:00 linux-lab01 sshd[3532]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=backup
+2025-07-23T15:56:35.666736-03:00 linux-lab01 sshd[3532]: Failed password for backup from 172.16.166.1 port 57002 ssh2
+2025-07-23T15:56:36.548207-03:00 linux-lab01 sshd[3534]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=backup
+2025-07-23T15:56:39.168796-03:00 linux-lab01 sshd[3534]: Failed password for backup from 172.16.166.1 port 57008 ssh2
+2025-07-23T15:56:39.304258-03:00 linux-lab01 sshd[3536]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=backup
+2025-07-23T15:56:41.668787-03:00 linux-lab01 sshd[3536]: Failed password for backup from 172.16.166.1 port 57032 ssh2
+2025-07-23T15:56:42.059679-03:00 linux-lab01 sshd[3538]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=backup
+2025-07-23T15:56:44.168341-03:00 linux-lab01 sshd[3538]: Failed password for backup from 172.16.166.1 port 60710 ssh2
+2025-07-23T15:56:44.815014-03:00 linux-lab01 sshd[3540]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=backup
+2025-07-23T15:56:46.533856-03:00 linux-lab01 sshd[3540]: Failed password for backup from 172.16.166.1 port 60744 ssh2
+2025-07-23T15:56:47.569895-03:00 linux-lab01 sshd[3542]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=backup
+2025-07-23T15:56:50.036039-03:00 linux-lab01 sshd[3542]: Failed password for backup from 172.16.166.1 port 60774 ssh2
+2025-07-23T15:56:50.327848-03:00 linux-lab01 sshd[3544]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=backup
+2025-07-23T15:56:52.536397-03:00 linux-lab01 sshd[3544]: Failed password for backup from 172.16.166.1 port 48822 ssh2
+2025-07-23T15:56:53.114000-03:00 linux-lab01 sshd[3546]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=backup
+2025-07-23T15:56:55.069059-03:00 linux-lab01 sshd[3546]: Failed password for backup from 172.16.166.1 port 48882 ssh2
+2025-07-23T15:56:55.872053-03:00 linux-lab01 sshd[3548]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=backup
+2025-07-23T15:56:58.432812-03:00 linux-lab01 sshd[3548]: Failed password for backup from 172.16.166.1 port 48906 ssh2
+2025-07-23T15:56:58.619250-03:00 linux-lab01 sshd[3550]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=backup
+2025-07-23T15:57:00.592577-03:00 linux-lab01 sshd[3550]: Failed password for backup from 172.16.166.1 port 48922 ssh2
+2025-07-23T15:57:01.376543-03:00 linux-lab01 sshd[3552]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=backup
+2025-07-23T15:57:03.761903-03:00 linux-lab01 sshd[3552]: Failed password for backup from 172.16.166.1 port 53216 ssh2
+2025-07-23T15:57:04.166559-03:00 linux-lab01 sshd[3554]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=backup
+2025-07-23T15:57:05.966290-03:00 linux-lab01 sshd[3554]: Failed password for backup from 172.16.166.1 port 53218 ssh2
+2025-07-23T15:57:06.923792-03:00 linux-lab01 sshd[3556]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=backup
+2025-07-23T15:57:09.328469-03:00 linux-lab01 sshd[3556]: Failed password for backup from 172.16.166.1 port 53238 ssh2
+2025-07-23T15:57:09.680439-03:00 linux-lab01 sshd[3558]: Invalid user admin from 172.16.166.1 port 53300
+2025-07-23T15:57:09.686916-03:00 linux-lab01 sshd[3558]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T15:57:09.687130-03:00 linux-lab01 sshd[3558]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T15:57:12.171076-03:00 linux-lab01 sshd[3558]: Failed password for invalid user admin from 172.16.166.1 port 53300 ssh2
+2025-07-23T15:57:13.201404-03:00 linux-lab01 sshd[3560]: Invalid user admin from 172.16.166.1 port 55002
+2025-07-23T15:57:13.214648-03:00 linux-lab01 sshd[3560]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T15:57:13.214996-03:00 linux-lab01 sshd[3560]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T15:57:15.916030-03:00 linux-lab01 sshd[3560]: Failed password for invalid user admin from 172.16.166.1 port 55002 ssh2
+2025-07-23T15:57:16.729083-03:00 linux-lab01 sshd[3562]: Invalid user admin from 172.16.166.1 port 55014
+2025-07-23T15:57:16.735299-03:00 linux-lab01 sshd[3562]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T15:57:16.735603-03:00 linux-lab01 sshd[3562]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T15:57:18.512892-03:00 linux-lab01 sshd[3562]: Failed password for invalid user admin from 172.16.166.1 port 55014 ssh2
+2025-07-23T15:57:20.249182-03:00 linux-lab01 sshd[3564]: Invalid user admin from 172.16.166.1 port 37708
+2025-07-23T15:57:20.255232-03:00 linux-lab01 sshd[3564]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T15:57:20.255445-03:00 linux-lab01 sshd[3564]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T15:57:22.249598-03:00 linux-lab01 sshd[3564]: Failed password for invalid user admin from 172.16.166.1 port 37708 ssh2
+2025-07-23T15:57:23.772293-03:00 linux-lab01 sshd[3566]: Invalid user admin from 172.16.166.1 port 37736
+2025-07-23T15:57:23.778685-03:00 linux-lab01 sshd[3566]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T15:57:23.778938-03:00 linux-lab01 sshd[3566]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T15:57:25.853065-03:00 linux-lab01 sshd[3566]: Failed password for invalid user admin from 172.16.166.1 port 37736 ssh2
+2025-07-23T15:57:27.301619-03:00 linux-lab01 sshd[3568]: Invalid user admin from 172.16.166.1 port 37738
+2025-07-23T15:57:27.315110-03:00 linux-lab01 sshd[3568]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T15:57:27.315814-03:00 linux-lab01 sshd[3568]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T15:57:29.271108-03:00 linux-lab01 sshd[3568]: Failed password for invalid user admin from 172.16.166.1 port 37738 ssh2
+2025-07-23T15:57:30.842660-03:00 linux-lab01 sshd[3570]: Invalid user admin from 172.16.166.1 port 46884
+2025-07-23T15:57:30.855604-03:00 linux-lab01 sshd[3570]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T15:57:30.856113-03:00 linux-lab01 sshd[3570]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T15:57:32.891988-03:00 linux-lab01 sshd[3570]: Failed password for invalid user admin from 172.16.166.1 port 46884 ssh2
+2025-07-23T15:57:34.373470-03:00 linux-lab01 sshd[3572]: Invalid user admin from 172.16.166.1 port 46912
+2025-07-23T15:57:34.379619-03:00 linux-lab01 sshd[3572]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T15:57:34.379895-03:00 linux-lab01 sshd[3572]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T15:57:36.628734-03:00 linux-lab01 sshd[3572]: Failed password for invalid user admin from 172.16.166.1 port 46912 ssh2
+2025-07-23T15:57:37.900985-03:00 linux-lab01 sshd[3574]: Invalid user admin from 172.16.166.1 port 46938
+2025-07-23T15:57:37.914800-03:00 linux-lab01 sshd[3574]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T15:57:37.915308-03:00 linux-lab01 sshd[3574]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T15:57:40.576507-03:00 linux-lab01 sshd[3574]: Failed password for invalid user admin from 172.16.166.1 port 46938 ssh2
+2025-07-23T15:57:41.432682-03:00 linux-lab01 sshd[3576]: Invalid user admin from 172.16.166.1 port 39722
+2025-07-23T15:57:41.438834-03:00 linux-lab01 sshd[3576]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T15:57:41.439099-03:00 linux-lab01 sshd[3576]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T15:57:43.321053-03:00 linux-lab01 sshd[3576]: Failed password for invalid user admin from 172.16.166.1 port 39722 ssh2
+2025-07-23T15:57:44.952838-03:00 linux-lab01 sshd[3578]: Invalid user admin from 172.16.166.1 port 39740
+2025-07-23T15:57:44.959521-03:00 linux-lab01 sshd[3578]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T15:57:44.959824-03:00 linux-lab01 sshd[3578]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T15:57:47.248969-03:00 linux-lab01 sshd[3578]: Failed password for invalid user admin from 172.16.166.1 port 39740 ssh2
+2025-07-23T15:57:48.481891-03:00 linux-lab01 sshd[3580]: Invalid user admin from 172.16.166.1 port 39776
+2025-07-23T15:57:48.494237-03:00 linux-lab01 sshd[3580]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T15:57:48.494605-03:00 linux-lab01 sshd[3580]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T15:57:51.000620-03:00 linux-lab01 sshd[3580]: Failed password for invalid user admin from 172.16.166.1 port 39776 ssh2
+2025-07-23T15:57:52.013936-03:00 linux-lab01 sshd[3582]: Invalid user admin from 172.16.166.1 port 53038
+2025-07-23T15:57:52.034296-03:00 linux-lab01 sshd[3582]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T15:57:52.035189-03:00 linux-lab01 sshd[3582]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T15:57:54.090983-03:00 linux-lab01 sshd[3582]: Failed password for invalid user admin from 172.16.166.1 port 53038 ssh2
+2025-07-23T15:57:55.549178-03:00 linux-lab01 sshd[3584]: Invalid user admin from 172.16.166.1 port 53046
+2025-07-23T15:57:55.555423-03:00 linux-lab01 sshd[3584]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T15:57:55.555640-03:00 linux-lab01 sshd[3584]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T15:57:58.021417-03:00 linux-lab01 sshd[3584]: Failed password for invalid user admin from 172.16.166.1 port 53046 ssh2
+2025-07-23T15:57:59.073182-03:00 linux-lab01 sshd[3586]: Invalid user admin from 172.16.166.1 port 53052
+2025-07-23T15:57:59.086852-03:00 linux-lab01 sshd[3586]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T15:57:59.087581-03:00 linux-lab01 sshd[3586]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T15:58:01.100250-03:00 linux-lab01 sshd[3586]: Failed password for invalid user admin from 172.16.166.1 port 53052 ssh2
+2025-07-23T15:58:02.572798-03:00 linux-lab01 sshd[3588]: Invalid user admin from 172.16.166.1 port 57560
+2025-07-23T15:58:02.579161-03:00 linux-lab01 sshd[3588]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T15:58:02.580057-03:00 linux-lab01 sshd[3588]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T15:58:04.004981-03:00 linux-lab01 sshd[3588]: Failed password for invalid user admin from 172.16.166.1 port 57560 ssh2
+2025-07-23T15:58:04.397858-03:00 linux-lab01 sshd[3590]: Invalid user admin from 172.16.166.1 port 57568
+2025-07-23T15:58:04.408336-03:00 linux-lab01 sshd[3590]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T15:58:04.408945-03:00 linux-lab01 sshd[3590]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T15:58:06.114164-03:00 linux-lab01 sshd[3590]: Failed password for invalid user admin from 172.16.166.1 port 57568 ssh2
+2025-07-23T15:58:07.916896-03:00 linux-lab01 sshd[3592]: Invalid user admin from 172.16.166.1 port 57580
+2025-07-23T15:58:07.922995-03:00 linux-lab01 sshd[3592]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T15:58:07.923259-03:00 linux-lab01 sshd[3592]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T15:58:10.703075-03:00 linux-lab01 sshd[3592]: Failed password for invalid user admin from 172.16.166.1 port 57580 ssh2
+2025-07-23T15:58:11.444406-03:00 linux-lab01 sshd[3594]: Invalid user admin from 172.16.166.1 port 37626
+2025-07-23T15:58:11.450918-03:00 linux-lab01 sshd[3594]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T15:58:11.451534-03:00 linux-lab01 sshd[3594]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T15:58:13.445022-03:00 linux-lab01 sshd[3594]: Failed password for invalid user admin from 172.16.166.1 port 37626 ssh2
+2025-07-23T15:58:14.984957-03:00 linux-lab01 sshd[3596]: Invalid user admin from 172.16.166.1 port 37692
+2025-07-23T15:58:14.991147-03:00 linux-lab01 sshd[3596]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T15:58:14.991379-03:00 linux-lab01 sshd[3596]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T15:58:16.396925-03:00 linux-lab01 sshd[3596]: Failed password for invalid user admin from 172.16.166.1 port 37692 ssh2
+2025-07-23T15:58:16.764522-03:00 linux-lab01 sshd[3598]: Invalid user admin from 172.16.166.1 port 37696
+2025-07-23T15:58:16.771354-03:00 linux-lab01 sshd[3598]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T15:58:16.771606-03:00 linux-lab01 sshd[3598]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T15:58:18.454164-03:00 linux-lab01 sshd[3598]: Failed password for invalid user admin from 172.16.166.1 port 37696 ssh2
+2025-07-23T15:58:18.584512-03:00 linux-lab01 sshd[3600]: Invalid user admin from 172.16.166.1 port 37744
+2025-07-23T15:58:18.597031-03:00 linux-lab01 sshd[3600]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T15:58:18.597702-03:00 linux-lab01 sshd[3600]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T15:58:20.887639-03:00 linux-lab01 sshd[3600]: Failed password for invalid user admin from 172.16.166.1 port 37744 ssh2
+2025-07-23T15:58:22.156879-03:00 linux-lab01 sshd[3602]: Invalid user admin from 172.16.166.1 port 48048
+2025-07-23T15:58:22.182611-03:00 linux-lab01 sshd[3602]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T15:58:22.184027-03:00 linux-lab01 sshd[3602]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T15:58:24.693035-03:00 linux-lab01 sshd[3602]: Failed password for invalid user admin from 172.16.166.1 port 48048 ssh2
+2025-07-23T15:58:25.691369-03:00 linux-lab01 sshd[3604]: Invalid user admin from 172.16.166.1 port 48058
+2025-07-23T15:58:25.708594-03:00 linux-lab01 sshd[3604]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T15:58:25.709162-03:00 linux-lab01 sshd[3604]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T15:58:27.626193-03:00 linux-lab01 sshd[3604]: Failed password for invalid user admin from 172.16.166.1 port 48058 ssh2
+2025-07-23T15:58:29.212538-03:00 linux-lab01 sshd[3606]: Invalid user admin from 172.16.166.1 port 48094
+2025-07-23T15:58:29.218731-03:00 linux-lab01 sshd[3606]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T15:58:29.218945-03:00 linux-lab01 sshd[3606]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T15:58:30.686788-03:00 linux-lab01 sshd[3606]: Failed password for invalid user admin from 172.16.166.1 port 48094 ssh2
+2025-07-23T15:58:31.024571-03:00 linux-lab01 sshd[3608]: Invalid user admin from 172.16.166.1 port 59114
+2025-07-23T15:58:31.038900-03:00 linux-lab01 sshd[3608]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T15:58:31.039165-03:00 linux-lab01 sshd[3608]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T15:58:33.780503-03:00 linux-lab01 sshd[3608]: Failed password for invalid user admin from 172.16.166.1 port 59114 ssh2
+2025-07-23T15:58:34.546208-03:00 linux-lab01 sshd[3610]: Invalid user admin from 172.16.166.1 port 59134
+2025-07-23T15:58:34.559776-03:00 linux-lab01 sshd[3610]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T15:58:34.560441-03:00 linux-lab01 sshd[3610]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T15:58:37.045765-03:00 linux-lab01 sshd[3610]: Failed password for invalid user admin from 172.16.166.1 port 59134 ssh2
+2025-07-23T15:58:38.090057-03:00 linux-lab01 sshd[3612]: Invalid user admin from 172.16.166.1 port 59182
+2025-07-23T15:58:38.111165-03:00 linux-lab01 sshd[3612]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T15:58:38.111612-03:00 linux-lab01 sshd[3612]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T15:58:39.814755-03:00 linux-lab01 sshd[3612]: Failed password for invalid user admin from 172.16.166.1 port 59182 ssh2
+2025-07-23T15:58:39.964888-03:00 linux-lab01 sshd[3614]: Invalid user admin from 172.16.166.1 port 59202
+2025-07-23T15:58:39.982085-03:00 linux-lab01 sshd[3614]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T15:58:39.982494-03:00 linux-lab01 sshd[3614]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T15:58:41.490641-03:00 linux-lab01 sshd[3614]: Failed password for invalid user admin from 172.16.166.1 port 59202 ssh2
+2025-07-23T15:58:41.809089-03:00 linux-lab01 sshd[3616]: Invalid user admin from 172.16.166.1 port 59428
+2025-07-23T15:58:41.815365-03:00 linux-lab01 sshd[3616]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T15:58:41.815650-03:00 linux-lab01 sshd[3616]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T15:58:43.261708-03:00 linux-lab01 sshd[3616]: Failed password for invalid user admin from 172.16.166.1 port 59428 ssh2
+2025-07-23T15:58:43.630066-03:00 linux-lab01 sshd[3618]: Invalid user admin from 172.16.166.1 port 59432
+2025-07-23T15:58:43.649499-03:00 linux-lab01 sshd[3618]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T15:58:43.650255-03:00 linux-lab01 sshd[3618]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T15:58:46.369961-03:00 linux-lab01 sshd[3618]: Failed password for invalid user admin from 172.16.166.1 port 59432 ssh2
+2025-07-23T15:58:47.197643-03:00 linux-lab01 sshd[3620]: Invalid user admin from 172.16.166.1 port 59438
+2025-07-23T15:58:47.218866-03:00 linux-lab01 sshd[3620]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T15:58:47.219427-03:00 linux-lab01 sshd[3620]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T15:58:49.158723-03:00 linux-lab01 sshd[3620]: Failed password for invalid user admin from 172.16.166.1 port 59438 ssh2
+2025-07-23T15:58:50.768888-03:00 linux-lab01 sshd[3622]: Invalid user admin from 172.16.166.1 port 34756
+2025-07-23T15:58:50.774976-03:00 linux-lab01 sshd[3622]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T15:58:50.775253-03:00 linux-lab01 sshd[3622]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T15:58:52.457911-03:00 linux-lab01 sshd[3622]: Failed password for invalid user admin from 172.16.166.1 port 34756 ssh2
+2025-07-23T15:58:52.584689-03:00 linux-lab01 sshd[3624]: Invalid user admin from 172.16.166.1 port 34762
+2025-07-23T15:58:52.590567-03:00 linux-lab01 sshd[3624]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T15:58:52.590787-03:00 linux-lab01 sshd[3624]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T15:58:54.214715-03:00 linux-lab01 sshd[3624]: Failed password for invalid user admin from 172.16.166.1 port 34762 ssh2
+2025-07-23T15:58:54.392192-03:00 linux-lab01 sshd[3626]: Invalid user admin from 172.16.166.1 port 34784
+2025-07-23T15:58:54.398711-03:00 linux-lab01 sshd[3626]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T15:58:54.398927-03:00 linux-lab01 sshd[3626]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T15:58:56.963235-03:00 linux-lab01 sshd[3626]: Failed password for invalid user admin from 172.16.166.1 port 34784 ssh2
+2025-07-23T15:58:57.902550-03:00 linux-lab01 sshd[3628]: Invalid user admin from 172.16.166.1 port 34826
+2025-07-23T15:58:57.913781-03:00 linux-lab01 sshd[3628]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T15:58:57.914065-03:00 linux-lab01 sshd[3628]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T15:58:59.891291-03:00 linux-lab01 sshd[3628]: Failed password for invalid user admin from 172.16.166.1 port 34826 ssh2
+2025-07-23T15:59:01.434340-03:00 linux-lab01 sshd[3630]: Invalid user admin from 172.16.166.1 port 36844
+2025-07-23T15:59:01.454692-03:00 linux-lab01 sshd[3630]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T15:59:01.455218-03:00 linux-lab01 sshd[3630]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T15:59:03.649613-03:00 linux-lab01 sshd[3630]: Failed password for invalid user admin from 172.16.166.1 port 36844 ssh2
+2025-07-23T15:59:04.969080-03:00 linux-lab01 sshd[3632]: Invalid user admin from 172.16.166.1 port 36858
+2025-07-23T15:59:04.975206-03:00 linux-lab01 sshd[3632]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T15:59:04.975449-03:00 linux-lab01 sshd[3632]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T15:59:06.914182-03:00 linux-lab01 sshd[3632]: Failed password for invalid user admin from 172.16.166.1 port 36858 ssh2
+2025-07-23T15:59:08.504659-03:00 linux-lab01 sshd[3634]: Invalid user admin from 172.16.166.1 port 36884
+2025-07-23T15:59:08.522067-03:00 linux-lab01 sshd[3634]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T15:59:08.522416-03:00 linux-lab01 sshd[3634]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T15:59:10.010531-03:00 linux-lab01 sshd[3634]: Failed password for invalid user admin from 172.16.166.1 port 36884 ssh2
+2025-07-23T15:59:10.329676-03:00 linux-lab01 sshd[3636]: Invalid user admin from 172.16.166.1 port 45858
+2025-07-23T15:59:10.336326-03:00 linux-lab01 sshd[3636]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T15:59:10.336623-03:00 linux-lab01 sshd[3636]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T15:59:12.100733-03:00 linux-lab01 sshd[3636]: Failed password for invalid user admin from 172.16.166.1 port 45858 ssh2
+2025-07-23T15:59:13.852743-03:00 linux-lab01 sshd[3638]: Invalid user admin from 172.16.166.1 port 45886
+2025-07-23T15:59:13.859394-03:00 linux-lab01 sshd[3638]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T15:59:13.859650-03:00 linux-lab01 sshd[3638]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T15:59:16.033569-03:00 linux-lab01 sshd[3638]: Failed password for invalid user admin from 172.16.166.1 port 45886 ssh2
+2025-07-23T15:59:17.377161-03:00 linux-lab01 sshd[3640]: Invalid user admin from 172.16.166.1 port 45926
+2025-07-23T15:59:17.390862-03:00 linux-lab01 sshd[3640]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T15:59:17.391224-03:00 linux-lab01 sshd[3640]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T15:59:19.780841-03:00 linux-lab01 sshd[3640]: Failed password for invalid user admin from 172.16.166.1 port 45926 ssh2
+2025-07-23T15:59:20.904708-03:00 linux-lab01 sshd[3642]: Invalid user admin from 172.16.166.1 port 53496
+2025-07-23T15:59:20.911210-03:00 linux-lab01 sshd[3642]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T15:59:20.911496-03:00 linux-lab01 sshd[3642]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T15:59:22.714534-03:00 linux-lab01 sshd[3642]: Failed password for invalid user admin from 172.16.166.1 port 53496 ssh2
+2025-07-23T15:59:24.434310-03:00 linux-lab01 sshd[3644]: Invalid user admin from 172.16.166.1 port 53506
+2025-07-23T15:59:24.454264-03:00 linux-lab01 sshd[3644]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T15:59:24.454740-03:00 linux-lab01 sshd[3644]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T15:59:26.137048-03:00 linux-lab01 sshd[3644]: Failed password for invalid user admin from 172.16.166.1 port 53506 ssh2
+2025-07-23T15:59:26.256516-03:00 linux-lab01 sshd[3646]: Invalid user admin from 172.16.166.1 port 53520
+2025-07-23T15:59:26.263027-03:00 linux-lab01 sshd[3646]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T15:59:26.263257-03:00 linux-lab01 sshd[3646]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T15:59:27.554288-03:00 linux-lab01 sshd[3646]: Failed password for invalid user admin from 172.16.166.1 port 53520 ssh2
+2025-07-23T15:59:28.089762-03:00 linux-lab01 sshd[3648]: Invalid user admin from 172.16.166.1 port 53544
+2025-07-23T15:59:28.110137-03:00 linux-lab01 sshd[3648]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T15:59:28.111149-03:00 linux-lab01 sshd[3648]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T15:59:30.009880-03:00 linux-lab01 sshd[3648]: Failed password for invalid user admin from 172.16.166.1 port 53544 ssh2
+2025-07-23T15:59:31.678683-03:00 linux-lab01 sshd[3651]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=root
+2025-07-23T15:59:33.659034-03:00 linux-lab01 sshd[3651]: Failed password for root from 172.16.166.1 port 42804 ssh2
+2025-07-23T15:59:34.129880-03:00 linux-lab01 sshd[3653]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=root
+2025-07-23T15:59:35.851931-03:00 linux-lab01 sshd[3653]: Failed password for root from 172.16.166.1 port 42814 ssh2
+2025-07-23T15:59:36.583867-03:00 linux-lab01 sshd[3655]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=root
+2025-07-23T15:59:38.582367-03:00 linux-lab01 sshd[3655]: Failed password for root from 172.16.166.1 port 42826 ssh2
+2025-07-23T15:59:39.071594-03:00 linux-lab01 sshd[3657]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=root
+2025-07-23T15:59:40.814864-03:00 linux-lab01 sshd[3657]: Failed password for root from 172.16.166.1 port 42838 ssh2
+2025-07-23T15:59:41.523922-03:00 linux-lab01 sshd[3659]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=root
+2025-07-23T15:59:43.543036-03:00 linux-lab01 sshd[3659]: Failed password for root from 172.16.166.1 port 59044 ssh2
+2025-07-23T15:59:43.972813-03:00 linux-lab01 sshd[3661]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=root
+2025-07-23T15:59:45.930681-03:00 linux-lab01 sshd[3661]: Failed password for root from 172.16.166.1 port 59068 ssh2
+2025-07-23T15:59:46.500461-03:00 linux-lab01 sshd[3664]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=root
+2025-07-23T15:59:48.202356-03:00 linux-lab01 sshd[3664]: Failed password for root from 172.16.166.1 port 59112 ssh2
+2025-07-23T15:59:48.934759-03:00 linux-lab01 sshd[3666]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=root
+2025-07-23T15:59:50.914596-03:00 linux-lab01 sshd[3666]: Failed password for root from 172.16.166.1 port 59120 ssh2
+2025-07-23T15:59:51.462049-03:00 linux-lab01 sshd[3668]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=root
+2025-07-23T15:59:53.185837-03:00 linux-lab01 sshd[3668]: Failed password for root from 172.16.166.1 port 33052 ssh2
+2025-07-23T15:59:53.892903-03:00 linux-lab01 sshd[3670]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=root
+2025-07-23T15:59:55.891481-03:00 linux-lab01 sshd[3670]: Failed password for root from 172.16.166.1 port 33070 ssh2
+2025-07-23T15:59:56.419379-03:00 linux-lab01 sshd[3672]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=root
+2025-07-23T15:59:58.161390-03:00 linux-lab01 sshd[3672]: Failed password for root from 172.16.166.1 port 33108 ssh2
+2025-07-23T15:59:58.862659-03:00 linux-lab01 sshd[3674]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=root
+2025-07-23T16:00:00.879941-03:00 linux-lab01 sshd[3674]: Failed password for root from 172.16.166.1 port 33146 ssh2
+2025-07-23T16:00:01.312903-03:00 linux-lab01 sshd[3676]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=root
+2025-07-23T16:00:03.074385-03:00 linux-lab01 sshd[3676]: Failed password for root from 172.16.166.1 port 33642 ssh2
+2025-07-23T16:00:03.779918-03:00 linux-lab01 sshd[3678]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=root
+2025-07-23T16:00:05.817157-03:00 linux-lab01 sshd[3678]: Failed password for root from 172.16.166.1 port 33654 ssh2
+2025-07-23T16:00:06.255637-03:00 linux-lab01 sshd[3680]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=root
+2025-07-23T16:00:08.706296-03:00 linux-lab01 sshd[3680]: Failed password for root from 172.16.166.1 port 33694 ssh2
+2025-07-23T16:00:11.037559-03:00 linux-lab01 sshd[3682]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=root
+2025-07-23T16:00:12.841326-03:00 linux-lab01 sshd[3682]: Failed password for root from 172.16.166.1 port 33962 ssh2
+2025-07-23T16:00:13.516818-03:00 linux-lab01 sshd[3684]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=root
+2025-07-23T16:00:15.258028-03:00 linux-lab01 sshd[3684]: Failed password for root from 172.16.166.1 port 33986 ssh2
+2025-07-23T16:00:16.007840-03:00 linux-lab01 sshd[3686]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=root
+2025-07-23T16:00:18.027417-03:00 linux-lab01 sshd[3686]: Failed password for root from 172.16.166.1 port 33992 ssh2
+2025-07-23T16:00:18.478773-03:00 linux-lab01 sshd[3688]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=root
+2025-07-23T16:00:20.910599-03:00 linux-lab01 sshd[3688]: Failed password for root from 172.16.166.1 port 34002 ssh2
+2025-07-23T16:00:23.315859-03:00 linux-lab01 sshd[3691]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=root
+2025-07-23T16:00:25.102064-03:00 linux-lab01 sshd[3691]: Failed password for root from 172.16.166.1 port 60346 ssh2
+2025-07-23T16:00:25.771607-03:00 linux-lab01 sshd[3693]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=root
+2025-07-23T16:00:27.829797-03:00 linux-lab01 sshd[3693]: Failed password for root from 172.16.166.1 port 60352 ssh2
+2025-07-23T16:00:28.243553-03:00 linux-lab01 sshd[3695]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=root
+2025-07-23T16:00:30.046326-03:00 linux-lab01 sshd[3695]: Failed password for root from 172.16.166.1 port 60374 ssh2
+2025-07-23T16:00:30.688347-03:00 linux-lab01 sshd[3697]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=root
+2025-07-23T16:00:32.767530-03:00 linux-lab01 sshd[3697]: Failed password for root from 172.16.166.1 port 35974 ssh2
+2025-07-23T16:00:33.151686-03:00 linux-lab01 sshd[3699]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=root
+2025-07-23T16:00:34.973582-03:00 linux-lab01 sshd[3699]: Failed password for root from 172.16.166.1 port 36002 ssh2
+2025-07-23T16:00:35.682008-03:00 linux-lab01 sshd[3701]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=root
+2025-07-23T16:00:37.446165-03:00 linux-lab01 sshd[3701]: Failed password for root from 172.16.166.1 port 36010 ssh2
+2025-07-23T16:00:38.131032-03:00 linux-lab01 sshd[3703]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=root
+2025-07-23T16:00:39.975178-03:00 linux-lab01 sshd[3703]: Failed password for root from 172.16.166.1 port 36018 ssh2
+2025-07-23T16:00:40.597127-03:00 linux-lab01 sshd[3705]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=root
+2025-07-23T16:00:42.381891-03:00 linux-lab01 sshd[3705]: Failed password for root from 172.16.166.1 port 60832 ssh2
+2025-07-23T16:00:43.083572-03:00 linux-lab01 sshd[3707]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=root
+2025-07-23T16:00:45.277145-03:00 linux-lab01 sshd[3707]: Failed password for root from 172.16.166.1 port 60878 ssh2
+2025-07-23T16:00:45.523334-03:00 linux-lab01 sshd[3709]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=root
+2025-07-23T16:00:47.326856-03:00 linux-lab01 sshd[3709]: Failed password for root from 172.16.166.1 port 60894 ssh2
+2025-07-23T16:00:48.001372-03:00 linux-lab01 sshd[3711]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=root
+2025-07-23T16:00:50.079754-03:00 linux-lab01 sshd[3711]: Failed password for root from 172.16.166.1 port 60898 ssh2
+2025-07-23T16:00:50.440476-03:00 linux-lab01 sshd[3713]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=root
+2025-07-23T16:00:52.262519-03:00 linux-lab01 sshd[3713]: Failed password for root from 172.16.166.1 port 43446 ssh2
+2025-07-23T16:00:52.896575-03:00 linux-lab01 sshd[3715]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=root
+2025-07-23T16:00:54.994587-03:00 linux-lab01 sshd[3715]: Failed password for root from 172.16.166.1 port 43448 ssh2
+2025-07-23T16:00:55.383906-03:00 linux-lab01 sshd[3717]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=root
+2025-07-23T16:00:57.225348-03:00 linux-lab01 sshd[3717]: Failed password for root from 172.16.166.1 port 43508 ssh2
+2025-07-23T16:00:57.841479-03:00 linux-lab01 sshd[3720]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=root
+2025-07-23T16:00:59.624320-03:00 linux-lab01 sshd[3720]: Failed password for root from 172.16.166.1 port 43544 ssh2
+2025-07-23T16:01:00.305213-03:00 linux-lab01 sshd[3722]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=root
+2025-07-23T16:01:02.834336-03:00 linux-lab01 sshd[3722]: Failed password for root from 172.16.166.1 port 49774 ssh2
+2025-07-23T16:01:05.138050-03:00 linux-lab01 sshd[3724]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=root
+2025-07-23T16:01:07.022059-03:00 linux-lab01 sshd[3724]: Failed password for root from 172.16.166.1 port 49804 ssh2
+2025-07-23T16:01:07.593907-03:00 linux-lab01 sshd[3726]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=root
+2025-07-23T16:01:09.418162-03:00 linux-lab01 sshd[3726]: Failed password for root from 172.16.166.1 port 49822 ssh2
+2025-07-23T16:01:10.041452-03:00 linux-lab01 sshd[3728]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=root
+2025-07-23T16:01:11.944002-03:00 linux-lab01 sshd[3728]: Failed password for root from 172.16.166.1 port 49838 ssh2
+2025-07-23T16:01:12.499862-03:00 linux-lab01 sshd[3730]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=root
+2025-07-23T16:01:15.010264-03:00 linux-lab01 sshd[3730]: Failed password for root from 172.16.166.1 port 48200 ssh2
+2025-07-23T16:01:17.317028-03:00 linux-lab01 sshd[3732]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=root
+2025-07-23T16:01:19.181529-03:00 linux-lab01 sshd[3732]: Failed password for root from 172.16.166.1 port 48220 ssh2
+2025-07-23T16:01:19.759812-03:00 linux-lab01 sshd[3734]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=root
+2025-07-23T16:01:22.230154-03:00 linux-lab01 sshd[3734]: Failed password for root from 172.16.166.1 port 48236 ssh2
+2025-07-23T16:01:24.586865-03:00 linux-lab01 sshd[3736]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=root
+2025-07-23T16:01:26.745463-03:00 linux-lab01 sshd[3736]: Failed password for root from 172.16.166.1 port 33374 ssh2
+2025-07-23T16:01:26.985186-03:00 linux-lab01 sshd[3738]: Invalid user user from 172.16.166.1 port 33402
+2025-07-23T16:01:26.991787-03:00 linux-lab01 sshd[3738]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T16:01:26.992034-03:00 linux-lab01 sshd[3738]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T16:01:28.423111-03:00 linux-lab01 sshd[3738]: Failed password for invalid user user from 172.16.166.1 port 33402 ssh2
+2025-07-23T16:01:28.937082-03:00 linux-lab01 sshd[3740]: Invalid user user from 172.16.166.1 port 33410
+2025-07-23T16:01:28.943934-03:00 linux-lab01 sshd[3740]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T16:01:28.944200-03:00 linux-lab01 sshd[3740]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T16:01:30.984452-03:00 linux-lab01 sshd[3740]: Failed password for invalid user user from 172.16.166.1 port 33410 ssh2
+2025-07-23T16:01:32.737028-03:00 linux-lab01 sshd[3742]: Invalid user user from 172.16.166.1 port 36264
+2025-07-23T16:01:32.743635-03:00 linux-lab01 sshd[3742]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T16:01:32.743880-03:00 linux-lab01 sshd[3742]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T16:01:34.665582-03:00 linux-lab01 sshd[3742]: Failed password for invalid user user from 172.16.166.1 port 36264 ssh2
+2025-07-23T16:01:36.505380-03:00 linux-lab01 sshd[3744]: Invalid user user from 172.16.166.1 port 36296
+2025-07-23T16:01:36.534691-03:00 linux-lab01 sshd[3744]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T16:01:36.534974-03:00 linux-lab01 sshd[3744]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T16:01:38.672432-03:00 linux-lab01 sshd[3744]: Failed password for invalid user user from 172.16.166.1 port 36296 ssh2
+2025-07-23T16:01:40.333163-03:00 linux-lab01 sshd[3746]: Invalid user user from 172.16.166.1 port 34044
+2025-07-23T16:01:40.339809-03:00 linux-lab01 sshd[3746]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T16:01:40.340133-03:00 linux-lab01 sshd[3746]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T16:01:42.027892-03:00 linux-lab01 sshd[3746]: Failed password for invalid user user from 172.16.166.1 port 34044 ssh2
+2025-07-23T16:01:42.276177-03:00 linux-lab01 sshd[3748]: Invalid user user from 172.16.166.1 port 34060
+2025-07-23T16:01:42.283419-03:00 linux-lab01 sshd[3748]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T16:01:42.283638-03:00 linux-lab01 sshd[3748]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T16:01:44.911173-03:00 linux-lab01 sshd[3748]: Failed password for invalid user user from 172.16.166.1 port 34060 ssh2
+2025-07-23T16:01:46.041094-03:00 linux-lab01 sshd[3750]: Invalid user user from 172.16.166.1 port 34078
+2025-07-23T16:01:46.047636-03:00 linux-lab01 sshd[3750]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T16:01:46.047906-03:00 linux-lab01 sshd[3750]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T16:01:48.226687-03:00 linux-lab01 sshd[3750]: Failed password for invalid user user from 172.16.166.1 port 34078 ssh2
+2025-07-23T16:01:49.816627-03:00 linux-lab01 sshd[3752]: Invalid user user from 172.16.166.1 port 34110
+2025-07-23T16:01:49.823230-03:00 linux-lab01 sshd[3752]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T16:01:49.823487-03:00 linux-lab01 sshd[3752]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T16:01:52.413455-03:00 linux-lab01 sshd[3752]: Failed password for invalid user user from 172.16.166.1 port 34110 ssh2
+2025-07-23T16:01:53.636616-03:00 linux-lab01 sshd[3754]: Invalid user user from 172.16.166.1 port 57570
+2025-07-23T16:01:53.643515-03:00 linux-lab01 sshd[3754]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T16:01:53.643788-03:00 linux-lab01 sshd[3754]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T16:01:55.783902-03:00 linux-lab01 sshd[3754]: Failed password for invalid user user from 172.16.166.1 port 57570 ssh2
+2025-07-23T16:01:57.424368-03:00 linux-lab01 sshd[3756]: Invalid user user from 172.16.166.1 port 57592
+2025-07-23T16:01:57.431325-03:00 linux-lab01 sshd[3756]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T16:01:57.431560-03:00 linux-lab01 sshd[3756]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T16:01:59.120671-03:00 linux-lab01 sshd[3756]: Failed password for invalid user user from 172.16.166.1 port 57592 ssh2
+2025-07-23T16:01:59.382677-03:00 linux-lab01 sshd[3768]: Invalid user user from 172.16.166.1 port 57608
+2025-07-23T16:01:59.405399-03:00 linux-lab01 sshd[3768]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T16:01:59.405902-03:00 linux-lab01 sshd[3768]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T16:02:01.369169-03:00 linux-lab01 sshd[3768]: Failed password for invalid user user from 172.16.166.1 port 57608 ssh2
+2025-07-23T16:02:03.168915-03:00 linux-lab01 sshd[3770]: Invalid user user from 172.16.166.1 port 41860
+2025-07-23T16:02:03.175765-03:00 linux-lab01 sshd[3770]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T16:02:03.176037-03:00 linux-lab01 sshd[3770]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T16:02:05.019423-03:00 linux-lab01 sshd[3770]: Failed password for invalid user user from 172.16.166.1 port 41860 ssh2
+2025-07-23T16:02:06.973915-03:00 linux-lab01 sshd[3772]: Invalid user user from 172.16.166.1 port 41924
+2025-07-23T16:02:06.986556-03:00 linux-lab01 sshd[3772]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T16:02:06.987043-03:00 linux-lab01 sshd[3772]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T16:02:09.577535-03:00 linux-lab01 sshd[3772]: Failed password for invalid user user from 172.16.166.1 port 41924 ssh2
+2025-07-23T16:02:10.765010-03:00 linux-lab01 sshd[3774]: Invalid user user from 172.16.166.1 port 52248
+2025-07-23T16:02:10.772600-03:00 linux-lab01 sshd[3774]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T16:02:10.772952-03:00 linux-lab01 sshd[3774]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T16:02:12.912825-03:00 linux-lab01 sshd[3774]: Failed password for invalid user user from 172.16.166.1 port 52248 ssh2
+2025-07-23T16:02:14.557336-03:00 linux-lab01 sshd[3776]: Invalid user user from 172.16.166.1 port 52254
+2025-07-23T16:02:14.564114-03:00 linux-lab01 sshd[3776]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T16:02:14.564430-03:00 linux-lab01 sshd[3776]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T16:02:16.251057-03:00 linux-lab01 sshd[3776]: Failed password for invalid user user from 172.16.166.1 port 52254 ssh2
+2025-07-23T16:02:16.504685-03:00 linux-lab01 sshd[3778]: Invalid user user from 172.16.166.1 port 52266
+2025-07-23T16:02:16.511663-03:00 linux-lab01 sshd[3778]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T16:02:16.511892-03:00 linux-lab01 sshd[3778]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T16:02:18.473993-03:00 linux-lab01 sshd[3778]: Failed password for invalid user user from 172.16.166.1 port 52266 ssh2
+2025-07-23T16:02:20.304554-03:00 linux-lab01 sshd[3780]: Invalid user user from 172.16.166.1 port 53756
+2025-07-23T16:02:20.330880-03:00 linux-lab01 sshd[3780]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T16:02:20.331611-03:00 linux-lab01 sshd[3780]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T16:02:21.845833-03:00 linux-lab01 sshd[3780]: Failed password for invalid user user from 172.16.166.1 port 53756 ssh2
+2025-07-23T16:02:22.284557-03:00 linux-lab01 sshd[3782]: Invalid user user from 172.16.166.1 port 53788
+2025-07-23T16:02:22.309417-03:00 linux-lab01 sshd[3782]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T16:02:22.309861-03:00 linux-lab01 sshd[3782]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T16:02:24.430792-03:00 linux-lab01 sshd[3782]: Failed password for invalid user user from 172.16.166.1 port 53788 ssh2
+2025-07-23T16:02:26.098590-03:00 linux-lab01 sshd[3784]: Invalid user user from 172.16.166.1 port 53806
+2025-07-23T16:02:26.112748-03:00 linux-lab01 sshd[3784]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T16:02:26.113183-03:00 linux-lab01 sshd[3784]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T16:02:28.116330-03:00 linux-lab01 sshd[3784]: Failed password for invalid user user from 172.16.166.1 port 53806 ssh2
+2025-07-23T16:02:29.892828-03:00 linux-lab01 sshd[3786]: Invalid user user from 172.16.166.1 port 53820
+2025-07-23T16:02:29.899970-03:00 linux-lab01 sshd[3786]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T16:02:29.900252-03:00 linux-lab01 sshd[3786]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T16:02:32.315571-03:00 linux-lab01 sshd[3786]: Failed password for invalid user user from 172.16.166.1 port 53820 ssh2
+2025-07-23T16:02:33.677349-03:00 linux-lab01 sshd[3788]: Invalid user user from 172.16.166.1 port 51872
+2025-07-23T16:02:33.683772-03:00 linux-lab01 sshd[3788]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T16:02:33.684039-03:00 linux-lab01 sshd[3788]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T16:02:35.647048-03:00 linux-lab01 sshd[3788]: Failed password for invalid user user from 172.16.166.1 port 51872 ssh2
+2025-07-23T16:02:37.460449-03:00 linux-lab01 sshd[3790]: Invalid user user from 172.16.166.1 port 51888
+2025-07-23T16:02:37.467557-03:00 linux-lab01 sshd[3790]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T16:02:37.467816-03:00 linux-lab01 sshd[3790]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T16:02:39.982994-03:00 linux-lab01 sshd[3790]: Failed password for invalid user user from 172.16.166.1 port 51888 ssh2
+2025-07-23T16:02:41.257346-03:00 linux-lab01 sshd[3792]: Invalid user user from 172.16.166.1 port 55528
+2025-07-23T16:02:41.263895-03:00 linux-lab01 sshd[3792]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T16:02:41.264507-03:00 linux-lab01 sshd[3792]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T16:02:43.658948-03:00 linux-lab01 sshd[3792]: Failed password for invalid user user from 172.16.166.1 port 55528 ssh2
+2025-07-23T16:02:45.037349-03:00 linux-lab01 sshd[3794]: Invalid user user from 172.16.166.1 port 55532
+2025-07-23T16:02:45.043230-03:00 linux-lab01 sshd[3794]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T16:02:45.043442-03:00 linux-lab01 sshd[3794]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T16:02:46.988096-03:00 linux-lab01 sshd[3794]: Failed password for invalid user user from 172.16.166.1 port 55532 ssh2
+2025-07-23T16:02:48.829022-03:00 linux-lab01 sshd[3796]: Invalid user user from 172.16.166.1 port 55550
+2025-07-23T16:02:48.835644-03:00 linux-lab01 sshd[3796]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T16:02:48.835873-03:00 linux-lab01 sshd[3796]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T16:02:51.526035-03:00 linux-lab01 sshd[3796]: Failed password for invalid user user from 172.16.166.1 port 55550 ssh2
+2025-07-23T16:02:52.625322-03:00 linux-lab01 sshd[3798]: Invalid user user from 172.16.166.1 port 44148
+2025-07-23T16:02:52.632937-03:00 linux-lab01 sshd[3798]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T16:02:52.633414-03:00 linux-lab01 sshd[3798]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T16:02:54.873593-03:00 linux-lab01 sshd[3798]: Failed password for invalid user user from 172.16.166.1 port 44148 ssh2
+2025-07-23T16:02:56.413262-03:00 linux-lab01 sshd[3800]: Invalid user user from 172.16.166.1 port 44160
+2025-07-23T16:02:56.419924-03:00 linux-lab01 sshd[3800]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T16:02:56.420204-03:00 linux-lab01 sshd[3800]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T16:02:58.207737-03:00 linux-lab01 sshd[3800]: Failed password for invalid user user from 172.16.166.1 port 44160 ssh2
+2025-07-23T16:02:58.364536-03:00 linux-lab01 sshd[3802]: Invalid user user from 172.16.166.1 port 44176
+2025-07-23T16:02:58.378999-03:00 linux-lab01 sshd[3802]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T16:02:58.379394-03:00 linux-lab01 sshd[3802]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T16:03:00.107711-03:00 linux-lab01 sshd[3802]: Failed password for invalid user user from 172.16.166.1 port 44176 ssh2
+2025-07-23T16:03:00.326270-03:00 linux-lab01 sshd[3804]: Invalid user user from 172.16.166.1 port 36954
+2025-07-23T16:03:00.347112-03:00 linux-lab01 sshd[3804]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T16:03:00.347486-03:00 linux-lab01 sshd[3804]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T16:03:03.018607-03:00 linux-lab01 sshd[3804]: Failed password for invalid user user from 172.16.166.1 port 36954 ssh2
+2025-07-23T16:03:04.149895-03:00 linux-lab01 sshd[3806]: Invalid user user from 172.16.166.1 port 36970
+2025-07-23T16:03:04.156402-03:00 linux-lab01 sshd[3806]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T16:03:04.156747-03:00 linux-lab01 sshd[3806]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T16:03:06.375861-03:00 linux-lab01 sshd[3806]: Failed password for invalid user user from 172.16.166.1 port 36970 ssh2
+2025-07-23T16:03:07.944574-03:00 linux-lab01 sshd[3808]: Invalid user user from 172.16.166.1 port 36984
+2025-07-23T16:03:07.951638-03:00 linux-lab01 sshd[3808]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T16:03:07.951913-03:00 linux-lab01 sshd[3808]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T16:03:10.581692-03:00 linux-lab01 sshd[3808]: Failed password for invalid user user from 172.16.166.1 port 36984 ssh2
+2025-07-23T16:03:11.737292-03:00 linux-lab01 sshd[3810]: Invalid user user from 172.16.166.1 port 54488
+2025-07-23T16:03:11.743838-03:00 linux-lab01 sshd[3810]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T16:03:11.744086-03:00 linux-lab01 sshd[3810]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T16:03:14.259359-03:00 linux-lab01 sshd[3810]: Failed password for invalid user user from 172.16.166.1 port 54488 ssh2
+2025-07-23T16:03:15.528935-03:00 linux-lab01 sshd[3812]: Invalid user user from 172.16.166.1 port 54512
+2025-07-23T16:03:15.535726-03:00 linux-lab01 sshd[3812]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T16:03:15.535973-03:00 linux-lab01 sshd[3812]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T16:03:17.599704-03:00 linux-lab01 sshd[3812]: Failed password for invalid user user from 172.16.166.1 port 54512 ssh2
+2025-07-23T16:03:19.316995-03:00 linux-lab01 sshd[3814]: Invalid user user from 172.16.166.1 port 54530
+2025-07-23T16:03:19.323577-03:00 linux-lab01 sshd[3814]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T16:03:19.323837-03:00 linux-lab01 sshd[3814]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T16:03:21.934493-03:00 linux-lab01 sshd[3814]: Failed password for invalid user user from 172.16.166.1 port 54530 ssh2
+2025-07-23T16:03:23.120107-03:00 linux-lab01 sshd[3816]: Invalid user user from 172.16.166.1 port 52504
+2025-07-23T16:03:23.127218-03:00 linux-lab01 sshd[3816]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T16:03:23.127430-03:00 linux-lab01 sshd[3816]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T16:03:25.622282-03:00 linux-lab01 sshd[3816]: Failed password for invalid user user from 172.16.166.1 port 52504 ssh2
+2025-07-23T16:03:26.912467-03:00 linux-lab01 sshd[3818]: Invalid user user from 172.16.166.1 port 52516
+2025-07-23T16:03:26.919110-03:00 linux-lab01 sshd[3818]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T16:03:26.919332-03:00 linux-lab01 sshd[3818]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T16:03:29.163118-03:00 linux-lab01 sshd[3818]: Failed password for invalid user user from 172.16.166.1 port 52516 ssh2
+2025-07-23T16:03:30.713312-03:00 linux-lab01 sshd[3820]: Invalid user user from 172.16.166.1 port 52738
+2025-07-23T16:03:30.725789-03:00 linux-lab01 sshd[3820]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T16:03:30.726216-03:00 linux-lab01 sshd[3820]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T16:03:33.181088-03:00 linux-lab01 sshd[3820]: Failed password for invalid user user from 172.16.166.1 port 52738 ssh2
+2025-07-23T16:03:34.512821-03:00 linux-lab01 sshd[3822]: Invalid user user from 172.16.166.1 port 52760
+2025-07-23T16:03:34.519772-03:00 linux-lab01 sshd[3822]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T16:03:34.520028-03:00 linux-lab01 sshd[3822]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T16:03:36.858886-03:00 linux-lab01 sshd[3822]: Failed password for invalid user user from 172.16.166.1 port 52760 ssh2
+2025-07-23T16:03:38.304824-03:00 linux-lab01 sshd[3824]: Invalid user user from 172.16.166.1 port 52766
+2025-07-23T16:03:38.311782-03:00 linux-lab01 sshd[3824]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T16:03:38.312035-03:00 linux-lab01 sshd[3824]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T16:03:40.530309-03:00 linux-lab01 sshd[3824]: Failed password for invalid user user from 172.16.166.1 port 52766 ssh2
+2025-07-23T16:03:42.112156-03:00 linux-lab01 sshd[3826]: Invalid user user from 172.16.166.1 port 57522
+2025-07-23T16:03:42.131578-03:00 linux-lab01 sshd[3826]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T16:03:42.131896-03:00 linux-lab01 sshd[3826]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T16:03:44.567500-03:00 linux-lab01 sshd[3826]: Failed password for invalid user user from 172.16.166.1 port 57522 ssh2
+2025-07-23T16:03:45.924815-03:00 linux-lab01 sshd[3828]: Invalid user user from 172.16.166.1 port 57556
+2025-07-23T16:03:45.931457-03:00 linux-lab01 sshd[3828]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T16:03:45.931765-03:00 linux-lab01 sshd[3828]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T16:03:47.113513-03:00 linux-lab01 sshd[3828]: Failed password for invalid user user from 172.16.166.1 port 57556 ssh2
+2025-07-23T16:03:47.889600-03:00 linux-lab01 sshd[3830]: Invalid user user from 172.16.166.1 port 57620
+2025-07-23T16:03:47.902726-03:00 linux-lab01 sshd[3830]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T16:03:47.904032-03:00 linux-lab01 sshd[3830]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T16:03:50.359760-03:00 linux-lab01 sshd[3830]: Failed password for invalid user user from 172.16.166.1 port 57620 ssh2
+2025-07-23T16:03:51.688850-03:00 linux-lab01 sshd[3832]: Invalid user user from 172.16.166.1 port 37604
+2025-07-23T16:03:51.695969-03:00 linux-lab01 sshd[3832]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T16:03:51.696248-03:00 linux-lab01 sshd[3832]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T16:03:53.700395-03:00 linux-lab01 sshd[3832]: Failed password for invalid user user from 172.16.166.1 port 37604 ssh2
+2025-07-23T16:03:55.476905-03:00 linux-lab01 sshd[3834]: Invalid user user from 172.16.166.1 port 37614
+2025-07-23T16:03:55.483456-03:00 linux-lab01 sshd[3834]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T16:03:55.483702-03:00 linux-lab01 sshd[3834]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T16:03:57.371528-03:00 linux-lab01 sshd[3834]: Failed password for invalid user user from 172.16.166.1 port 37614 ssh2
+2025-07-23T16:03:59.261075-03:00 linux-lab01 sshd[3836]: Invalid user user from 172.16.166.1 port 37630
+2025-07-23T16:03:59.268040-03:00 linux-lab01 sshd[3836]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T16:03:59.268378-03:00 linux-lab01 sshd[3836]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T16:04:01.374543-03:00 linux-lab01 sshd[3836]: Failed password for invalid user user from 172.16.166.1 port 37630 ssh2
+2025-07-23T16:04:03.049650-03:00 linux-lab01 sshd[3838]: Invalid user user from 172.16.166.1 port 58134
+2025-07-23T16:04:03.057024-03:00 linux-lab01 sshd[3838]: pam_unix(sshd:auth): check pass; user unknown
+2025-07-23T16:04:03.057400-03:00 linux-lab01 sshd[3838]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1 
+2025-07-23T16:04:05.046773-03:00 linux-lab01 sshd[3838]: Failed password for invalid user user from 172.16.166.1 port 58134 ssh2
+2025-07-23T16:04:06.748541-03:00 linux-lab01 sshd[3792]: Connection closed by invalid user user 172.16.166.1 port 55528 [preauth]
+2025-07-23T16:04:06.762625-03:00 linux-lab01 sshd[3810]: Connection closed by invalid user user 172.16.166.1 port 54488 [preauth]
+2025-07-23T16:04:06.765732-03:00 linux-lab01 sshd[3778]: Connection closed by invalid user user 172.16.166.1 port 52266 [preauth]
+2025-07-23T16:04:06.769686-03:00 linux-lab01 sshd[3772]: Connection closed by invalid user user 172.16.166.1 port 41924 [preauth]
+2025-07-23T16:04:06.772330-03:00 linux-lab01 sshd[3836]: Connection closed by invalid user user 172.16.166.1 port 37630 [preauth]
+2025-07-23T16:04:06.775196-03:00 linux-lab01 sshd[3790]: Connection closed by invalid user user 172.16.166.1 port 51888 [preauth]
+2025-07-23T16:04:06.776305-03:00 linux-lab01 sshd[3826]: Connection closed by invalid user user 172.16.166.1 port 57522 [preauth]
+2025-07-23T16:04:06.778872-03:00 linux-lab01 sshd[3808]: Connection closed by invalid user user 172.16.166.1 port 36984 [preauth]
+2025-07-23T16:04:06.781008-03:00 linux-lab01 sshd[3822]: Connection closed by invalid user user 172.16.166.1 port 52760 [preauth]
+2025-07-23T16:04:06.785058-03:00 linux-lab01 sshd[3802]: Connection closed by invalid user user 172.16.166.1 port 44176 [preauth]
+2025-07-23T16:04:06.787848-03:00 linux-lab01 sshd[3776]: Connection closed by invalid user user 172.16.166.1 port 52254 [preauth]
+2025-07-23T16:04:06.791245-03:00 linux-lab01 sshd[3788]: Connection closed by invalid user user 172.16.166.1 port 51872 [preauth]
+2025-07-23T16:04:06.791795-03:00 linux-lab01 sshd[3804]: Connection closed by invalid user user 172.16.166.1 port 36954 [preauth]
+2025-07-23T16:04:06.792243-03:00 linux-lab01 sshd[3806]: Connection closed by invalid user user 172.16.166.1 port 36970 [preauth]
+2025-07-23T16:04:06.792733-03:00 linux-lab01 sshd[3820]: Connection closed by invalid user user 172.16.166.1 port 52738 [preauth]
+2025-07-23T16:04:06.793123-03:00 linux-lab01 sshd[3834]: Connection closed by invalid user user 172.16.166.1 port 37614 [preauth]
+2025-07-23T16:04:06.798329-03:00 linux-lab01 sshd[3798]: Connection closed by invalid user user 172.16.166.1 port 44148 [preauth]
+2025-07-23T16:04:06.799096-03:00 linux-lab01 sshd[3796]: Connection closed by invalid user user 172.16.166.1 port 55550 [preauth]
+2025-07-23T16:04:06.800583-03:00 linux-lab01 sshd[3818]: Connection closed by invalid user user 172.16.166.1 port 52516 [preauth]
+2025-07-23T16:04:06.803343-03:00 linux-lab01 sshd[3824]: Connection closed by invalid user user 172.16.166.1 port 52766 [preauth]
+2025-07-23T16:04:06.806274-03:00 linux-lab01 sshd[3832]: Connection closed by invalid user user 172.16.166.1 port 37604 [preauth]
+2025-07-23T16:04:06.811962-03:00 linux-lab01 sshd[3816]: Connection closed by invalid user user 172.16.166.1 port 52504 [preauth]
+2025-07-23T16:04:06.817452-03:00 linux-lab01 sshd[3814]: Connection closed by invalid user user 172.16.166.1 port 54530 [preauth]
+2025-07-23T16:04:06.818963-03:00 linux-lab01 sshd[3794]: Connection closed by invalid user user 172.16.166.1 port 55532 [preauth]
+2025-07-23T16:04:06.820746-03:00 linux-lab01 sshd[3828]: Connection closed by invalid user user 172.16.166.1 port 57556 [preauth]
+2025-07-23T16:04:06.821192-03:00 linux-lab01 sshd[3830]: Connection closed by invalid user user 172.16.166.1 port 57620 [preauth]
+2025-07-23T16:04:06.826975-03:00 linux-lab01 sshd[3774]: Connection closed by invalid user user 172.16.166.1 port 52248 [preauth]
+2025-07-23T16:04:06.827456-03:00 linux-lab01 sshd[3782]: Connection closed by invalid user user 172.16.166.1 port 53788 [preauth]
+2025-07-23T16:04:06.828290-03:00 linux-lab01 sshd[3780]: Connection closed by invalid user user 172.16.166.1 port 53756 [preauth]
+2025-07-23T16:04:06.828726-03:00 linux-lab01 sshd[3812]: Connection closed by invalid user user 172.16.166.1 port 54512 [preauth]
+2025-07-23T16:04:06.829116-03:00 linux-lab01 sshd[3784]: Connection closed by invalid user user 172.16.166.1 port 53806 [preauth]
+2025-07-23T16:04:06.832011-03:00 linux-lab01 sshd[3786]: Connection closed by invalid user user 172.16.166.1 port 53820 [preauth]
+2025-07-23T16:04:06.839016-03:00 linux-lab01 sshd[3800]: Connection closed by invalid user user 172.16.166.1 port 44160 [preauth]
+2025-07-23T16:04:06.878487-03:00 linux-lab01 sshd[3838]: Connection closed by invalid user user 172.16.166.1 port 58134 [preauth]
+2025-07-23T16:04:35.001312-03:00 linux-lab01 sshd[559]: exited MaxStartups throttling after 00:09:21, 215 connections dropped
+2025-07-23T16:04:35.115987-03:00 linux-lab01 sshd[3841]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=pun1sh3r
+2025-07-23T16:04:37.159555-03:00 linux-lab01 sshd[3841]: Failed password for pun1sh3r from 172.16.166.1 port 55052 ssh2
+2025-07-23T16:04:37.985615-03:00 linux-lab01 sshd[3843]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=pun1sh3r
+2025-07-23T16:04:40.306308-03:00 linux-lab01 sshd[3843]: Failed password for pun1sh3r from 172.16.166.1 port 55066 ssh2
+2025-07-23T16:04:40.789179-03:00 linux-lab01 sshd[3845]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=pun1sh3r
+2025-07-23T16:04:42.523327-03:00 linux-lab01 sshd[3845]: Failed password for pun1sh3r from 172.16.166.1 port 38382 ssh2
+2025-07-23T16:04:43.633481-03:00 linux-lab01 sshd[3847]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=pun1sh3r
+2025-07-23T16:04:45.779637-03:00 linux-lab01 sshd[3847]: Failed password for pun1sh3r from 172.16.166.1 port 38396 ssh2
+2025-07-23T16:04:46.465200-03:00 linux-lab01 sshd[3849]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=pun1sh3r
+2025-07-23T16:04:48.354096-03:00 linux-lab01 sshd[3849]: Failed password for pun1sh3r from 172.16.166.1 port 38398 ssh2
+2025-07-23T16:04:49.328724-03:00 linux-lab01 sshd[3851]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=pun1sh3r
+2025-07-23T16:04:51.628178-03:00 linux-lab01 sshd[3851]: Failed password for pun1sh3r from 172.16.166.1 port 38408 ssh2
+2025-07-23T16:04:52.172424-03:00 linux-lab01 sshd[3853]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=pun1sh3r
+2025-07-23T16:04:53.886290-03:00 linux-lab01 sshd[3853]: Failed password for pun1sh3r from 172.16.166.1 port 51648 ssh2
+2025-07-23T16:04:55.004238-03:00 linux-lab01 sshd[3855]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=pun1sh3r
+2025-07-23T16:04:56.659899-03:00 linux-lab01 sshd[3855]: Failed password for pun1sh3r from 172.16.166.1 port 51654 ssh2
+2025-07-23T16:04:57.908796-03:00 linux-lab01 sshd[3857]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.166.1  user=pun1sh3r
+2025-07-23T16:04:59.972541-03:00 linux-lab01 sshd[3857]: Failed password for pun1sh3r from 172.16.166.1 port 51656 ssh2
+2025-07-23T16:05:00.754464-03:00 linux-lab01 sshd[3859]: Accepted password for pun1sh3r from 172.16.166.1 port 48816 ssh2
+2025-07-23T16:05:00.760246-03:00 linux-lab01 sshd[3859]: pam_unix(sshd:session): session opened for user pun1sh3r(uid=1000) by (uid=0)
+2025-07-23T16:05:00.782070-03:00 linux-lab01 systemd-logind[460]: New session 17 of user pun1sh3r.
+2025-07-23T16:05:00.801376-03:00 linux-lab01 sshd[3859]: pam_env(sshd:session): deprecated reading of user environment enabled
+2025-07-23T16:05:41.500189-03:00 linux-lab01 sshd[3859]: pam_unix(sshd:session): session closed for user pun1sh3r
+2025-07-23T16:05:41.508026-03:00 linux-lab01 sshd[3843]: Connection closed by authenticating user pun1sh3r 172.16.166.1 port 55066 [preauth]
+2025-07-23T16:05:41.516559-03:00 linux-lab01 systemd-logind[460]: Session 17 logged out. Waiting for processes to exit.
+2025-07-23T16:05:41.517038-03:00 linux-lab01 systemd-logind[460]: Removed session 17.
+2025-07-23T16:05:41.518484-03:00 linux-lab01 sshd[3855]: Connection closed by authenticating user pun1sh3r 172.16.166.1 port 51654 [preauth]
+2025-07-23T16:05:41.533195-03:00 linux-lab01 sshd[3845]: Connection closed by authenticating user pun1sh3r 172.16.166.1 port 38382 [preauth]
+2025-07-23T16:05:41.549906-03:00 linux-lab01 sshd[3851]: Connection closed by authenticating user pun1sh3r 172.16.166.1 port 38408 [preauth]
+2025-07-23T16:05:41.554920-03:00 linux-lab01 sshd[3849]: Connection closed by authenticating user pun1sh3r 172.16.166.1 port 38398 [preauth]
+2025-07-23T16:05:41.555849-03:00 linux-lab01 sshd[3841]: Connection closed by authenticating user pun1sh3r 172.16.166.1 port 55052 [preauth]
+2025-07-23T16:05:41.556280-03:00 linux-lab01 sshd[3853]: Connection closed by authenticating user pun1sh3r 172.16.166.1 port 51648 [preauth]
+2025-07-23T16:05:41.556640-03:00 linux-lab01 sshd[3857]: Connection closed by authenticating user pun1sh3r 172.16.166.1 port 51656 [preauth]
+2025-07-23T16:05:41.558012-03:00 linux-lab01 sshd[3847]: Connection closed by authenticating user pun1sh3r 172.16.166.1 port 38396 [preauth]

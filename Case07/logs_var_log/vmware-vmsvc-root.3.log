@@ -1,0 +1,25 @@
+[2025-07-21T18:31:02.052Z] [ message] [vmsvc] [421] VMware Tools Version: 12.2.0.41219 (build-21223074)
+[2025-07-21T18:31:02.052Z] [ message] [vmsvc] [421] Guest OS details: architecture='X86' bitness='64' distroAddlVersion='12 (bookworm)' distroName='Debian GNU/Linux' distroVersion='12' familyName='Linux' kernelVersion='6.1.0-37-amd64' prettyName='Debian GNU/Linux 12 (bookworm)'
+[2025-07-21T18:31:02.052Z] [ message] [vmsvc] [421] Log caching is enabled with maxCacheEntries=4096.
+[2025-07-21T18:31:02.052Z] [ message] [vmsvc] [421] Core dump limit set to -1
+[2025-07-21T18:31:02.138Z] [ message] [vmtoolsd] [421] Plugin 'hgfsServer' initialized.
+[2025-07-21T18:31:02.141Z] [ message] [vix] [421] QueryVGAuthConfig: vgauth usage is: 1
+[2025-07-21T18:31:02.142Z] [ message] [vmtoolsd] [421] Plugin 'vix' initialized.
+[2025-07-21T18:31:02.142Z] [ message] [vmtoolsd] [421] Plugin 'appInfo' initialized.
+[2025-07-21T18:31:02.142Z] [ message] [vmtoolsd] [421] Plugin 'componentMgr' initialized.
+[2025-07-21T18:31:02.142Z] [ message] [vmtoolsd] [421] Plugin 'guestInfo' initialized.
+[2025-07-21T18:31:02.142Z] [ message] [vmtoolsd] [421] Plugin 'powerops' initialized.
+[2025-07-21T18:31:02.142Z] [ message] [resolutionCommon] [421] resolutionCheckForKMS: dlopen succeeded.
+[2025-07-21T18:31:02.320Z] [ warning] [resolutionCommon] [421] resolutionCheckForKMS: No system support for resolutionKMS.
+[2025-07-21T18:31:02.320Z] [ message] [vmtoolsd] [421] Plugin 'timeSync' initialized.
+[2025-07-21T18:31:02.320Z] [ message] [vmtoolsd] [421] Plugin 'vmbackup' initialized.
+[2025-07-21T18:31:02.341Z] [ message] [vix] [421] VixTools_ProcessVixCommand: command 62
+[2025-07-21T20:25:42.030Z] [ warning] [GLib-GObject] [421] g_object_get_is_valid_property: object class 'ToolsCoreService' has no property named 'tps_prop_gueststore'
+[2025-07-21T20:25:42.044Z] [ message] [vmtoolsd] [421] Unloading plugin 'vmbackup'.
+[2025-07-21T20:25:42.044Z] [ message] [vmtoolsd] [421] Unloading plugin 'timeSync'.
+[2025-07-21T20:25:42.044Z] [ message] [vmtoolsd] [421] Unloading plugin 'powerops'.
+[2025-07-21T20:25:42.044Z] [ message] [vmtoolsd] [421] Unloading plugin 'guestInfo'.
+[2025-07-21T20:25:42.044Z] [ message] [vmtoolsd] [421] Unloading plugin 'componentMgr'.
+[2025-07-21T20:25:42.044Z] [ message] [vmtoolsd] [421] Unloading plugin 'appInfo'.
+[2025-07-21T20:25:42.044Z] [ message] [vmtoolsd] [421] Unloading plugin 'vix'.
+[2025-07-21T20:25:42.044Z] [ message] [vmtoolsd] [421] Unloading plugin 'hgfsServer'.

@@ -1,0 +1,9 @@
+2025-07-23T09:30:43.062828-03:00 linux-lab01 VGAuthService[424]: Pref_Init: Using '/etc/vmware-tools/vgauth.conf' as preferences filepath
+2025-07-23T09:30:43.062888-03:00 linux-lab01 VGAuthService[424]: Core dump limit set to -1
+2025-07-23T09:30:43.062924-03:00 linux-lab01 VGAuthService[424]: INIT SERVICE
+2025-07-23T09:30:43.062930-03:00 linux-lab01 VGAuthService[424]: Using '/var/lib/vmware/VGAuth/aliasStore' for alias store root directory
+2025-07-23T09:30:42.980854-03:00 linux-lab01 VGAuthService[424]: LoadCatalogAndSchema: Using '/etc/vmware-tools/vgauth/schemas' for SAML schemas
+2025-07-23T09:30:43.066326-03:00 linux-lab01 VGAuthService[424]: LoadPrefs: Allowing 300 of clock skew for SAML date validation
+2025-07-23T09:30:43.073708-03:00 linux-lab01 VGAuthService[424]: SAML_Init: Using xmlsec1 1.2.37 for XML signature support
+2025-07-23T09:30:43.077198-03:00 linux-lab01 VGAuthService[424]: ServiceNetworkCreateSocketDir: Created socket directory '/var/run/vmware'
+2025-07-23T09:30:43.077395-03:00 linux-lab01 VGAuthService[424]: BEGIN SERVICE
