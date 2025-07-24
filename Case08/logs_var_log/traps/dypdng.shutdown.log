@@ -1,0 +1,6 @@
+NOTE: Timestamp is epoch, convert to date using: date -d@<epoch>
+****************************************************************
+#### SHUTDOWN ALERT @ 1753367470 : UNEXPECTED SHUTDOWN WITH UNKNOWN CONTEXT
+Unexpected shutdown without context was detected in previous run of dypdng
+Previous service was started at around Thu Jul 24 09:52:05 2025 (1753361525) and terminated before Thu Jul 24 11:31:10 2025 (1753367470)
+----------------------------------------------------------------

@@ -1,0 +1,29 @@
+ip ad
+reboot
+ifconfig
+apt install net-tools
+vim.tiny /etc/apt/sources.list
+apt install net-tools
+apt update
+ping www.terra.com.br
+cat /etc/resolv.conf 
+vim.tiny /etc/resolv.conf 
+ping www.terra.com.br
+ping www.terra.com.br
+ip ad
+reboot
+ping www.terra.com.br
+ip ad
+ping www.terra.com.br
+/etc/init.d/networking restart
+ip ad
+/etc/init.d/networking restart
+/etc/init.d/networking restart
+reboot
+íng www.terra.com.br
+píng www.terra.com.br
+apt install net-tools
+píng www.terra.com.br
+sudo ping www.terra.com.br
+ping www.terra.com.br
+ip ad

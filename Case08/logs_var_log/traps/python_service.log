@@ -1,0 +1,582 @@
+2025/07/21 17:12:05 | INFO     | 2062 | (MainThread  ) | Starting Cortex XDR Payload V3.15.0.20250721171204
+2025/07/21 17:12:05 | INFO     | 2062 | (MainThread  ) | Executed by Traps: TRUE
+2025/07/21 17:12:05 | INFO     | 2062 | (MainThread  ) | Logger class: 'Logger'
+2025/07/21 17:12:05 | INFO     | 2062 | (MainThread  ) | Using OpenSSL version: OpenSSL 3.3.2 3 Sep 2024
+2025/07/21 17:12:05 | INFO     | 2062 | (MainThread  ) | Using OpenSSL FIPS enabled: True
+2025/07/21 17:12:05 | INFO     | 2062 | (MainThread  ) | Additional parameters: None
+2025/07/21 17:12:05 | INFO     | 2062 | (MainThread  ) | sys._MEIPASS: /opt/traps/python/payload
+2025/07/21 17:12:05 | INFO     | 2062 | (MainThread  ) | No bypassing hosts file enforced.
+2025/07/21 17:12:05 | INFO     | 2062 | (MainThread  ) | PyInstaller bootloader path (sys.executable): /opt/traps/python/payload/pyxd
+2025/07/21 17:12:05 | INFO     | 2062 | (MainThread  ) | Bundle directory: /opt/traps/python/payload, Cwd: /opt/traps/python/scripts
+2025/07/21 17:12:05 | INFO     | 2062 | (MainThread  ) | ScriptExecutionPayload: output_limit_bytes=1048576
+2025/07/21 17:12:05 | INFO     | 2062 | (MainThread  ) | ScriptExecutionPayload: stdout_limit_bytes=10240
+2025/07/21 17:12:05 | INFO     | 2062 | (MainThread  ) | Running script 'service_main.py' in current working directory: /opt/traps/python/scripts
+2025/07/21 17:12:05 | INFO     | 2062 | (MainThread  ) | Script input parameters:
+ {}
+2025/07/21 17:12:05 | INFO     | 2062 | (MainThread  ) | sys.path: ['/opt/traps/python/payload/base_library.zip', '/opt/traps/python/payload/lib-dynload', '/opt/traps/python/payload', '/opt/traps/python/payload/setuptools/_vendor', '/opt/traps/python/scripts']
+2025/07/21 17:12:05 | INFO     | 2062 | (script_thread) | Started script execution thread
+2025/07/21 17:12:05 | INFO     | 2062 | (script_thread) | Execution location: /opt/traps/python/scripts
+2025/07/21 17:12:05 | INFO     | 2062 | (script_thread) | Found 203 files/directories in directory: /opt/traps/python/scripts
+2025/07/21 17:12:06|INFO    |2062:140493023344320::|ipc_client_api|Detected traps version: 8.8.0.133595
+2025/07/21 17:12:06|INFO    |2062:140493023344320::|ipc_client_api|Traps version is higher or equal to 7.7 - using irpc client.
+2025/07/21 17:12:06|INFO    |2062:140493023344320::|irpc_client_nix|Creating IRRPCClient for channel path: /opt/traps/ipc/python.12C719DBF9264DD2981975F0A0A3E5DB
+2025/07/21 17:12:06 | INFO     | 2062 | (script_thread) | Going to run: service_main.main() with kwargs: {}
+2025/07/21 17:12:06|INFO    |2062:140493023344320::|service_main|Service started.
+2025/07/21 17:12:06|INFO    |2062:140493023344320::|service_main|Detected traps version: 8.8.0.133595
+2025/07/21 17:12:06|INFO    |2062:140493023344320::|service_main|update_settings with kwargs: {}
+2025/07/21 17:12:06|INFO    |2062:140493023344320::|service_main|Received 1 tasks to execute.
+2025/07/21 17:12:06|INFO    |2062:140492918486720:Python Service:1|service_main|update_settings with kwargs: {'settings': string_value: "{}"
+}
+2025/07/21 17:12:06|INFO    |2062:140492918486720:Python Service:1|service_main|Task 'Python Service' (ID=1) execution result as JSON: {"return_value": null}
+2025/07/21 17:19:36|INFO    |2062:140493023344320::|service_main|Received 1 tasks to execute.
+2025/07/21 17:19:36|INFO    |2062:140492918486720:Adaptive Policy:3|service_main|Task 'Adaptive Policy' (ID=3) execution result as JSON: {"apex": [], "persistence": {}, "output_settings": "{}", "last_analysis": 1753129176}
+2025/07/21 17:20:56|INFO    |2062:140493023344320::|service_main|Received 1 tasks to execute.
+2025/07/21 17:20:56|INFO    |2062:140492918486720:Telemetry Tagging:4|service_main|Task 'Telemetry Tagging' (ID=4) execution result as JSON: {"return_value": ["tag #0", "tag #1", "tag #2", "tag #3", "tag #4"]}
+2025/07/21 17:25:17 | INFO     | 3405 | (MainThread  ) | Starting Cortex XDR Payload V3.15.0.20250721172517
+2025/07/21 17:25:17 | INFO     | 3405 | (MainThread  ) | Executed by Traps: TRUE
+2025/07/21 17:25:17 | INFO     | 3405 | (MainThread  ) | Logger class: 'Logger'
+2025/07/21 17:25:17 | INFO     | 3405 | (MainThread  ) | Using OpenSSL version: OpenSSL 3.3.2 3 Sep 2024
+2025/07/21 17:25:17 | INFO     | 3405 | (MainThread  ) | Using OpenSSL FIPS enabled: True
+2025/07/21 17:25:17 | INFO     | 3405 | (MainThread  ) | Additional parameters: None
+2025/07/21 17:25:17 | INFO     | 3405 | (MainThread  ) | sys._MEIPASS: /opt/traps/python/payload
+2025/07/21 17:25:17 | INFO     | 3405 | (MainThread  ) | No bypassing hosts file enforced.
+2025/07/21 17:25:17 | INFO     | 3405 | (MainThread  ) | PyInstaller bootloader path (sys.executable): /opt/traps/python/payload/pyxd
+2025/07/21 17:25:17 | INFO     | 3405 | (MainThread  ) | Bundle directory: /opt/traps/python/payload, Cwd: /opt/traps/python/scripts
+2025/07/21 17:25:17 | INFO     | 3405 | (MainThread  ) | ScriptExecutionPayload: output_limit_bytes=1048576
+2025/07/21 17:25:17 | INFO     | 3405 | (MainThread  ) | ScriptExecutionPayload: stdout_limit_bytes=10240
+2025/07/21 17:25:17 | INFO     | 3405 | (MainThread  ) | Running script 'service_main.py' in current working directory: /opt/traps/python/scripts
+2025/07/21 17:25:17 | INFO     | 3405 | (MainThread  ) | Script input parameters:
+ {}
+2025/07/21 17:25:17 | INFO     | 3405 | (MainThread  ) | sys.path: ['/opt/traps/python/payload/base_library.zip', '/opt/traps/python/payload/lib-dynload', '/opt/traps/python/payload', '/opt/traps/python/payload/setuptools/_vendor', '/opt/traps/python/scripts']
+2025/07/21 17:25:17 | INFO     | 3405 | (script_thread) | Started script execution thread
+2025/07/21 17:25:17 | INFO     | 3405 | (script_thread) | Execution location: /opt/traps/python/scripts
+2025/07/21 17:25:17 | INFO     | 3405 | (script_thread) | Found 203 files/directories in directory: /opt/traps/python/scripts
+2025/07/21 17:25:17|INFO    |3405:140329688757952::|ipc_client_api|Detected traps version: 8.8.0.133595
+2025/07/21 17:25:17|INFO    |3405:140329688757952::|ipc_client_api|Traps version is higher or equal to 7.7 - using irpc client.
+2025/07/21 17:25:17|INFO    |3405:140329688757952::|irpc_client_nix|Creating IRRPCClient for channel path: /opt/traps/ipc/python.12C719DBF9264DD2981975F0A0A3E5DB
+2025/07/21 17:25:17 | INFO     | 3405 | (script_thread) | Going to run: service_main.main() with kwargs: {}
+2025/07/21 17:25:17|INFO    |3405:140329688757952::|service_main|Service started.
+2025/07/21 17:25:17|INFO    |3405:140329688757952::|service_main|Detected traps version: 8.8.0.133595
+2025/07/21 17:25:17|INFO    |3405:140329688757952::|service_main|update_settings with kwargs: {}
+2025/07/21 19:21:32 | INFO     | 829 | (MainThread  ) | Starting Cortex XDR Payload V3.15.0.20250721192132
+2025/07/21 19:21:32 | INFO     | 829 | (MainThread  ) | Executed by Traps: TRUE
+2025/07/21 19:21:32 | INFO     | 829 | (MainThread  ) | Logger class: 'Logger'
+2025/07/21 19:21:32 | INFO     | 829 | (MainThread  ) | Using OpenSSL version: OpenSSL 3.3.2 3 Sep 2024
+2025/07/21 19:21:32 | INFO     | 829 | (MainThread  ) | Using OpenSSL FIPS enabled: True
+2025/07/21 19:21:32 | INFO     | 829 | (MainThread  ) | Additional parameters: None
+2025/07/21 19:21:32 | INFO     | 829 | (MainThread  ) | sys._MEIPASS: /opt/traps/python/payload
+2025/07/21 19:21:32 | INFO     | 829 | (MainThread  ) | No bypassing hosts file enforced.
+2025/07/21 19:21:32 | INFO     | 829 | (MainThread  ) | PyInstaller bootloader path (sys.executable): /opt/traps/python/payload/pyxd
+2025/07/21 19:21:32 | INFO     | 829 | (MainThread  ) | Bundle directory: /opt/traps/python/payload, Cwd: /opt/traps/python/scripts
+2025/07/21 19:21:32 | INFO     | 829 | (MainThread  ) | ScriptExecutionPayload: output_limit_bytes=1048576
+2025/07/21 19:21:32 | INFO     | 829 | (MainThread  ) | ScriptExecutionPayload: stdout_limit_bytes=10240
+2025/07/21 19:21:32 | INFO     | 829 | (MainThread  ) | Running script 'service_main.py' in current working directory: /opt/traps/python/scripts
+2025/07/21 19:21:32 | INFO     | 829 | (MainThread  ) | Script input parameters:
+ {}
+2025/07/21 19:21:32 | INFO     | 829 | (MainThread  ) | sys.path: ['/opt/traps/python/payload/base_library.zip', '/opt/traps/python/payload/lib-dynload', '/opt/traps/python/payload', '/opt/traps/python/payload/setuptools/_vendor', '/opt/traps/python/scripts']
+2025/07/21 19:21:32 | INFO     | 829 | (script_thread) | Started script execution thread
+2025/07/21 19:21:32 | INFO     | 829 | (script_thread) | Execution location: /opt/traps/python/scripts
+2025/07/21 19:21:32 | INFO     | 829 | (script_thread) | Found 203 files/directories in directory: /opt/traps/python/scripts
+2025/07/21 19:21:32|INFO    |829:140069180536512::|ipc_client_api|Detected traps version: 8.8.0.133595
+2025/07/21 19:21:32|INFO    |829:140069180536512::|ipc_client_api|Traps version is higher or equal to 7.7 - using irpc client.
+2025/07/21 19:21:32|INFO    |829:140069180536512::|irpc_client_nix|Creating IRRPCClient for channel path: /opt/traps/ipc/python.12C719DBF9264DD2981975F0A0A3E5DB
+2025/07/21 19:21:32 | INFO     | 829 | (script_thread) | Going to run: service_main.main() with kwargs: {}
+2025/07/21 19:21:32|INFO    |829:140069180536512::|service_main|Service started.
+2025/07/21 19:21:32|INFO    |829:140069180536512::|service_main|Detected traps version: 8.8.0.133595
+2025/07/21 19:21:32|INFO    |829:140069180536512::|service_main|update_settings with kwargs: {}
+2025/07/21 19:21:32|INFO    |829:140069180536512::|service_main|Received 1 tasks to execute.
+2025/07/21 19:21:32|INFO    |829:140069075678912:Python Service:1|service_main|update_settings with kwargs: {'settings': string_value: "{}"
+}
+2025/07/21 19:21:32|INFO    |829:140069075678912:Python Service:1|service_main|Task 'Python Service' (ID=1) execution result as JSON: {"return_value": null}
+2025/07/21 19:21:42|INFO    |829:140069180536512::|service_main|Received 1 tasks to execute.
+2025/07/21 19:21:53|INFO    |829:140069075678912:Cloud Metadata Collector:2|service_main|Task 'Cloud Metadata Collector' (ID=2) execution result as JSON: {"return_value": "{\"cloudMetadata\": {\"accountID\": \"Non-onboarded cloud accounts\", \"provider\": \"others\"}, \"hostname\": \"linux-lab02\", \"agentID\": \"b65fb3a49434443e8ddc66b697314fe5\"}"}
+2025/07/21 19:28:32|INFO    |829:140069180536512::|service_main|Received 1 tasks to execute.
+2025/07/21 19:28:33|INFO    |829:140069075678912:Adaptive Policy:3|service_main|Task 'Adaptive Policy' (ID=3) execution result as JSON: {"apex": [], "persistence": {}, "output_settings": "{}", "last_analysis": 1753136913}
+2025/07/21 19:36:42|INFO    |829:140069180536512::|service_main|Received 1 tasks to execute.
+2025/07/21 19:36:42|INFO    |829:140069075678912:Telemetry Tagging:4|service_main|Task 'Telemetry Tagging' (ID=4) execution result as JSON: {"return_value": ["tag #0", "tag #1", "tag #2", "tag #3", "tag #4"]}
+2025/07/21 19:43:33|INFO    |829:140069180536512::|service_main|Received 1 tasks to execute.
+2025/07/21 19:43:33|INFO    |829:140069075678912:Adaptive Policy:5|service_main|Task 'Adaptive Policy' (ID=5) execution result as JSON: {"apex": [], "persistence": {"auto_disable_agent": {}, "edr_archive_parser": {}, "syslog_parser": {"last_scan": -2191540435.0}, "net_collector": {}, "linux_auto_disable_on_write_parser": {"trapsd_avg_cpu": 1.9305296352726469}}, "output_settings": "{\n\"agentDisabledByAdaptivePolicy\": false\n}", "last_analysis": 1753137813}
+2025/07/21 19:58:33|INFO    |829:140069180536512::|service_main|Received 1 tasks to execute.
+2025/07/21 19:58:33|INFO    |829:140069075678912:Adaptive Policy:6|service_main|Task 'Adaptive Policy' (ID=6) execution result as JSON: {"apex": [], "persistence": {"auto_disable_agent": {}, "edr_archive_parser": {}, "syslog_parser": {"last_scan": -2191539377.0}, "net_collector": {}, "linux_auto_disable_on_write_parser": {"trapsd_avg_cpu": 1.2385076683301324}}, "output_settings": "{\n\"agentDisabledByAdaptivePolicy\": false\n}", "last_analysis": 1753138713}
+2025/07/21 20:13:33|INFO    |829:140069180536512::|service_main|Received 1 tasks to execute.
+2025/07/21 20:13:33|INFO    |829:140069075678912:Adaptive Policy:7|service_main|Task 'Adaptive Policy' (ID=7) execution result as JSON: {"apex": [], "persistence": {"auto_disable_agent": {}, "edr_archive_parser": {}, "syslog_parser": {"last_scan": -2191539217.0}, "net_collector": {}, "linux_auto_disable_on_write_parser": {"trapsd_avg_cpu": 0.9195308331043964}}, "output_settings": "{\n\"agentDisabledByAdaptivePolicy\": false\n}", "last_analysis": 1753139613}
+2025/07/21 20:28:34|INFO    |829:140069180536512::|service_main|Received 1 tasks to execute.
+2025/07/21 20:28:34|INFO    |829:140069075678912:Adaptive Policy:8|service_main|Task 'Adaptive Policy' (ID=8) execution result as JSON: {"apex": [], "persistence": {"auto_disable_agent": {}, "edr_archive_parser": {}, "syslog_parser": {"last_scan": -2191537645.0}, "net_collector": {}, "linux_auto_disable_on_write_parser": {"trapsd_avg_cpu": 0.8990408478312663}}, "output_settings": "{\n\"agentDisabledByAdaptivePolicy\": false\n}", "last_analysis": 1753140514}
+2025/07/21 20:36:44|INFO    |829:140069180536512::|service_main|Received 1 tasks to execute.
+2025/07/21 20:36:44|INFO    |829:140069075678912:Telemetry Tagging:9|service_main|Task 'Telemetry Tagging' (ID=9) execution result as JSON: {"return_value": ["tag #0", "tag #1", "tag #2", "tag #3", "tag #4"]}
+2025/07/21 20:43:34|INFO    |829:140069180536512::|service_main|Received 1 tasks to execute.
+2025/07/21 20:43:34|INFO    |829:140069075678912:Adaptive Policy:10|service_main|Task 'Adaptive Policy' (ID=10) execution result as JSON: {"apex": [], "persistence": {"auto_disable_agent": {}, "edr_archive_parser": {}, "syslog_parser": {"last_scan": -2191536905.0}, "net_collector": {}, "linux_auto_disable_on_write_parser": {"trapsd_avg_cpu": 0.9375253793794804}}, "output_settings": "{\n\"agentDisabledByAdaptivePolicy\": false\n}", "last_analysis": 1753141414}
+2025/07/21 20:58:35|INFO    |829:140069180536512::|service_main|Received 1 tasks to execute.
+2025/07/21 20:58:35|INFO    |829:140069075678912:Adaptive Policy:11|service_main|Task 'Adaptive Policy' (ID=11) execution result as JSON: {"apex": [], "persistence": {"auto_disable_agent": {}, "edr_archive_parser": {}, "syslog_parser": {"last_scan": -2191536087.0}, "net_collector": {}, "linux_auto_disable_on_write_parser": {"trapsd_avg_cpu": 0.9233381332176565}}, "output_settings": "{\n\"agentDisabledByAdaptivePolicy\": false\n}", "last_analysis": 1753142315}
+2025/07/21 21:13:35|INFO    |829:140069180536512::|service_main|Received 1 tasks to execute.
+2025/07/21 21:13:35|INFO    |829:140069075678912:Adaptive Policy:12|service_main|Task 'Adaptive Policy' (ID=12) execution result as JSON: {"apex": [], "persistence": {"auto_disable_agent": {}, "edr_archive_parser": {}, "syslog_parser": {"last_scan": -2191535391.0}, "net_collector": {}, "linux_auto_disable_on_write_parser": {"trapsd_avg_cpu": 0.9982176108546583}}, "output_settings": "{\n\"agentDisabledByAdaptivePolicy\": false\n}", "last_analysis": 1753143215}
+2025/07/21 21:28:35|INFO    |829:140069180536512::|service_main|Received 1 tasks to execute.
+2025/07/21 21:28:35|INFO    |829:140069075678912:Adaptive Policy:13|service_main|Task 'Adaptive Policy' (ID=13) execution result as JSON: {"apex": [], "persistence": {"auto_disable_agent": {}, "edr_archive_parser": {}, "syslog_parser": {"last_scan": -2191533953.0}, "net_collector": {}, "linux_auto_disable_on_write_parser": {"trapsd_avg_cpu": 0.988713812751319}}, "output_settings": "{\n\"agentDisabledByAdaptivePolicy\": false\n}", "last_analysis": 1753144115}
+2025/07/21 21:36:45|INFO    |829:140069180536512::|service_main|Received 1 tasks to execute.
+2025/07/21 21:36:45|INFO    |829:140069075678912:Telemetry Tagging:14|service_main|Task 'Telemetry Tagging' (ID=14) execution result as JSON: {"return_value": ["tag #0", "tag #1", "tag #2", "tag #3", "tag #4"]}
+2025/07/21 21:43:36|INFO    |829:140069180536512::|service_main|Received 1 tasks to execute.
+2025/07/21 21:43:36|INFO    |829:140069075678912:Adaptive Policy:15|service_main|Task 'Adaptive Policy' (ID=15) execution result as JSON: {"apex": [], "persistence": {"auto_disable_agent": {}, "edr_archive_parser": {}, "syslog_parser": {"last_scan": -2191533219.0}, "net_collector": {}, "linux_auto_disable_on_write_parser": {"trapsd_avg_cpu": 0.9328958820887684}}, "output_settings": "{\n\"agentDisabledByAdaptivePolicy\": false\n}", "last_analysis": 1753145016}
+2025/07/21 21:58:36|INFO    |829:140069180536512::|service_main|Received 1 tasks to execute.
+2025/07/21 21:58:36|INFO    |829:140069075678912:Adaptive Policy:16|service_main|Task 'Adaptive Policy' (ID=16) execution result as JSON: {"apex": [], "persistence": {"auto_disable_agent": {}, "edr_archive_parser": {}, "syslog_parser": {"last_scan": -2191532338.0}, "net_collector": {}, "linux_auto_disable_on_write_parser": {"trapsd_avg_cpu": 0.9667438928292006}}, "output_settings": "{\n\"agentDisabledByAdaptivePolicy\": false\n}", "last_analysis": 1753145916}
+2025/07/21 22:13:36|INFO    |829:140069180536512::|service_main|Received 1 tasks to execute.
+2025/07/21 22:13:37|INFO    |829:140069075678912:Adaptive Policy:17|service_main|Task 'Adaptive Policy' (ID=17) execution result as JSON: {"apex": [], "persistence": {"auto_disable_agent": {}, "edr_archive_parser": {}, "syslog_parser": {"last_scan": -2191531527.0}, "net_collector": {}, "linux_auto_disable_on_write_parser": {"trapsd_avg_cpu": 1.0426513269681679}}, "output_settings": "{\n\"agentDisabledByAdaptivePolicy\": false\n}", "last_analysis": 1753146817}
+2025/07/21 22:25:11 | INFO     | 3190 | (MainThread  ) | Starting Cortex XDR Payload V3.15.0.20250721222511
+2025/07/21 22:25:11 | INFO     | 3190 | (MainThread  ) | Executed by Traps: TRUE
+2025/07/21 22:25:11 | INFO     | 3190 | (MainThread  ) | Logger class: 'Logger'
+2025/07/21 22:25:11 | INFO     | 3190 | (MainThread  ) | Using OpenSSL version: OpenSSL 3.3.2 3 Sep 2024
+2025/07/21 22:25:11 | INFO     | 3190 | (MainThread  ) | Using OpenSSL FIPS enabled: True
+2025/07/21 22:25:11 | INFO     | 3190 | (MainThread  ) | Additional parameters: None
+2025/07/21 22:25:11 | INFO     | 3190 | (MainThread  ) | sys._MEIPASS: /opt/traps/python/payload
+2025/07/21 22:25:11 | INFO     | 3190 | (MainThread  ) | No bypassing hosts file enforced.
+2025/07/21 22:25:11 | INFO     | 3190 | (MainThread  ) | PyInstaller bootloader path (sys.executable): /opt/traps/python/payload/pyxd
+2025/07/21 22:25:11 | INFO     | 3190 | (MainThread  ) | Bundle directory: /opt/traps/python/payload, Cwd: /opt/traps/python/scripts
+2025/07/21 22:25:11 | INFO     | 3190 | (MainThread  ) | ScriptExecutionPayload: output_limit_bytes=1048576
+2025/07/21 22:25:11 | INFO     | 3190 | (MainThread  ) | ScriptExecutionPayload: stdout_limit_bytes=10240
+2025/07/21 22:25:11 | INFO     | 3190 | (MainThread  ) | Running script 'service_main.py' in current working directory: /opt/traps/python/scripts
+2025/07/21 22:25:11 | INFO     | 3190 | (MainThread  ) | Script input parameters:
+ {}
+2025/07/21 22:25:11 | INFO     | 3190 | (MainThread  ) | sys.path: ['/opt/traps/python/payload/base_library.zip', '/opt/traps/python/payload/lib-dynload', '/opt/traps/python/payload', '/opt/traps/python/payload/setuptools/_vendor', '/opt/traps/python/scripts']
+2025/07/21 22:25:11 | INFO     | 3190 | (script_thread) | Started script execution thread
+2025/07/21 22:25:11 | INFO     | 3190 | (script_thread) | Execution location: /opt/traps/python/scripts
+2025/07/21 22:25:11 | INFO     | 3190 | (script_thread) | Found 203 files/directories in directory: /opt/traps/python/scripts
+2025/07/21 22:25:11|INFO    |3190:139892191393472::|ipc_client_api|Detected traps version: 8.8.0.133595
+2025/07/21 22:25:11|INFO    |3190:139892191393472::|ipc_client_api|Traps version is higher or equal to 7.7 - using irpc client.
+2025/07/21 22:25:11|INFO    |3190:139892191393472::|irpc_client_nix|Creating IRRPCClient for channel path: /opt/traps/ipc/python.12C719DBF9264DD2981975F0A0A3E5DB
+2025/07/21 22:25:11 | INFO     | 3190 | (script_thread) | Going to run: service_main.main() with kwargs: {}
+2025/07/21 22:25:11|INFO    |3190:139892191393472::|service_main|Service started.
+2025/07/21 22:25:11|INFO    |3190:139892191393472::|service_main|Detected traps version: 8.8.0.133595
+2025/07/21 22:25:11|INFO    |3190:139892191393472::|service_main|update_settings with kwargs: {}
+2025/07/22 11:04:25 | INFO     | 858 | (MainThread  ) | Starting Cortex XDR Payload V3.15.0.20250722110425
+2025/07/22 11:04:25 | INFO     | 858 | (MainThread  ) | Executed by Traps: TRUE
+2025/07/22 11:04:25 | INFO     | 858 | (MainThread  ) | Logger class: 'Logger'
+2025/07/22 11:04:25 | INFO     | 858 | (MainThread  ) | Using OpenSSL version: OpenSSL 3.3.2 3 Sep 2024
+2025/07/22 11:04:25 | INFO     | 858 | (MainThread  ) | Using OpenSSL FIPS enabled: True
+2025/07/22 11:04:25 | INFO     | 858 | (MainThread  ) | Additional parameters: None
+2025/07/22 11:04:25 | INFO     | 858 | (MainThread  ) | sys._MEIPASS: /opt/traps/python/payload
+2025/07/22 11:04:25 | INFO     | 858 | (MainThread  ) | No bypassing hosts file enforced.
+2025/07/22 11:04:25 | INFO     | 858 | (MainThread  ) | PyInstaller bootloader path (sys.executable): /opt/traps/python/payload/pyxd
+2025/07/22 11:04:25 | INFO     | 858 | (MainThread  ) | Bundle directory: /opt/traps/python/payload, Cwd: /opt/traps/python/scripts
+2025/07/22 11:04:25 | INFO     | 858 | (MainThread  ) | ScriptExecutionPayload: output_limit_bytes=1048576
+2025/07/22 11:04:25 | INFO     | 858 | (MainThread  ) | ScriptExecutionPayload: stdout_limit_bytes=10240
+2025/07/22 11:04:25 | INFO     | 858 | (MainThread  ) | Running script 'service_main.py' in current working directory: /opt/traps/python/scripts
+2025/07/22 11:04:25 | INFO     | 858 | (MainThread  ) | Script input parameters:
+ {}
+2025/07/22 11:04:25 | INFO     | 858 | (MainThread  ) | sys.path: ['/opt/traps/python/payload/base_library.zip', '/opt/traps/python/payload/lib-dynload', '/opt/traps/python/payload', '/opt/traps/python/payload/setuptools/_vendor', '/opt/traps/python/scripts']
+2025/07/22 11:04:25 | INFO     | 858 | (script_thread) | Started script execution thread
+2025/07/22 11:04:25 | INFO     | 858 | (script_thread) | Execution location: /opt/traps/python/scripts
+2025/07/22 11:04:25 | INFO     | 858 | (script_thread) | Found 203 files/directories in directory: /opt/traps/python/scripts
+2025/07/22 11:04:25|INFO    |858:140358933542592::|ipc_client_api|Detected traps version: 8.8.0.133595
+2025/07/22 11:04:25|INFO    |858:140358933542592::|ipc_client_api|Traps version is higher or equal to 7.7 - using irpc client.
+2025/07/22 11:04:25|INFO    |858:140358933542592::|irpc_client_nix|Creating IRRPCClient for channel path: /opt/traps/ipc/python.12C719DBF9264DD2981975F0A0A3E5DB
+2025/07/22 11:04:25 | INFO     | 858 | (script_thread) | Going to run: service_main.main() with kwargs: {}
+2025/07/22 11:04:25|INFO    |858:140358933542592::|service_main|Service started.
+2025/07/22 11:04:25|INFO    |858:140358933542592::|service_main|Detected traps version: 8.8.0.133595
+2025/07/22 11:04:25|INFO    |858:140358933542592::|service_main|update_settings with kwargs: {}
+2025/07/22 11:04:25|INFO    |858:140358933542592::|service_main|Received 1 tasks to execute.
+2025/07/22 11:04:25|INFO    |858:140358899988160:Python Service:1|service_main|update_settings with kwargs: {'settings': string_value: "{}"
+}
+2025/07/22 11:04:25|INFO    |858:140358899988160:Python Service:1|service_main|Task 'Python Service' (ID=1) execution result as JSON: {"return_value": null}
+2025/07/22 11:04:35|INFO    |858:140358933542592::|service_main|Received 1 tasks to execute.
+2025/07/22 11:04:46|INFO    |858:140358899988160:Cloud Metadata Collector:2|service_main|Task 'Cloud Metadata Collector' (ID=2) execution result as JSON: {"return_value": "{\"cloudMetadata\": {\"accountID\": \"Non-onboarded cloud accounts\", \"provider\": \"others\"}, \"hostname\": \"linux-lab02\", \"agentID\": \"b65fb3a49434443e8ddc66b697314fe5\"}"}
+2025/07/22 11:09:05|INFO    |858:140358933542592::|service_main|Received 1 tasks to execute.
+2025/07/22 11:09:05|INFO    |858:140358899988160:Adaptive Policy:3|service_main|Task 'Adaptive Policy' (ID=3) execution result as JSON: {"apex": [], "persistence": {"auto_disable_agent": {}, "edr_archive_parser": {}, "syslog_parser": {"last_scan": -2191531527.0}, "net_collector": {}, "linux_auto_disable_on_write_parser": {"trapsd_avg_cpu": 1.0426513269681679}}, "output_settings": "{}", "last_analysis": 1753193345}
+2025/07/22 11:20:05|INFO    |858:140358933542592::|service_main|Received 1 tasks to execute.
+2025/07/22 11:20:05|INFO    |858:140358899988160:Telemetry Tagging:4|service_main|Task 'Telemetry Tagging' (ID=4) execution result as JSON: {"return_value": ["tag #0", "tag #1", "tag #2", "tag #3", "tag #4"]}
+2025/07/22 11:24:05|INFO    |858:140358933542592::|service_main|Received 1 tasks to execute.
+2025/07/22 11:24:05|INFO    |858:140358899988160:Adaptive Policy:5|service_main|Task 'Adaptive Policy' (ID=5) execution result as JSON: {"apex": [], "persistence": {"auto_disable_agent": {}, "edr_archive_parser": {}, "syslog_parser": {"last_scan": -2191483861.0}, "net_collector": {}, "linux_auto_disable_on_write_parser": {"trapsd_avg_cpu": 2.219270104434301}}, "output_settings": "{\n\"agentDisabledByAdaptivePolicy\": false\n}", "last_analysis": 1753194245}
+2025/07/22 11:39:06|INFO    |858:140358933542592::|service_main|Received 1 tasks to execute.
+2025/07/22 11:39:06|INFO    |858:140358899988160:Adaptive Policy:6|service_main|Task 'Adaptive Policy' (ID=6) execution result as JSON: {"apex": [], "persistence": {"auto_disable_agent": {}, "edr_archive_parser": {}, "syslog_parser": {"last_scan": -2191483236.0}, "net_collector": {}, "linux_auto_disable_on_write_parser": {"trapsd_avg_cpu": 1.321849437139714}}, "output_settings": "{\n\"agentDisabledByAdaptivePolicy\": false\n}", "last_analysis": 1753195146}
+2025/07/22 11:54:06|INFO    |858:140358933542592::|service_main|Received 1 tasks to execute.
+2025/07/22 11:54:06|INFO    |858:140358899988160:Adaptive Policy:7|service_main|Task 'Adaptive Policy' (ID=7) execution result as JSON: {"apex": [], "persistence": {"auto_disable_agent": {}, "edr_archive_parser": {}, "syslog_parser": {"last_scan": -2191482372.0}, "net_collector": {}, "linux_auto_disable_on_write_parser": {"trapsd_avg_cpu": 1.0303673504397866}}, "output_settings": "{\n\"agentDisabledByAdaptivePolicy\": false\n}", "last_analysis": 1753196046}
+2025/07/22 12:09:06|INFO    |858:140358933542592::|service_main|Received 1 tasks to execute.
+2025/07/22 12:09:06|INFO    |858:140358899988160:Adaptive Policy:8|service_main|Task 'Adaptive Policy' (ID=8) execution result as JSON: {"apex": [], "persistence": {"auto_disable_agent": {}, "edr_archive_parser": {}, "syslog_parser": {"last_scan": -2191481737.0}, "net_collector": {}, "linux_auto_disable_on_write_parser": {"trapsd_avg_cpu": 0.8255913708522085}}, "output_settings": "{\n\"agentDisabledByAdaptivePolicy\": false\n}", "last_analysis": 1753196946}
+2025/07/22 12:20:07|INFO    |858:140358933542592::|service_main|Received 1 tasks to execute.
+2025/07/22 12:20:07|INFO    |858:140358899988160:Telemetry Tagging:9|service_main|Task 'Telemetry Tagging' (ID=9) execution result as JSON: {"return_value": ["tag #0", "tag #1", "tag #2", "tag #3", "tag #4"]}
+2025/07/22 12:24:07|INFO    |858:140358933542592::|service_main|Received 1 tasks to execute.
+2025/07/22 12:24:07|INFO    |858:140358899988160:Adaptive Policy:10|service_main|Task 'Adaptive Policy' (ID=10) execution result as JSON: {"apex": [], "persistence": {"auto_disable_agent": {}, "edr_archive_parser": {}, "syslog_parser": {"last_scan": -2191480591.0}, "net_collector": {}, "linux_auto_disable_on_write_parser": {"trapsd_avg_cpu": 0.7682482015728962}}, "output_settings": "{\n\"agentDisabledByAdaptivePolicy\": false\n}", "last_analysis": 1753197847}
+2025/07/22 12:39:07|INFO    |858:140358933542592::|service_main|Received 1 tasks to execute.
+2025/07/22 12:39:07|INFO    |858:140358899988160:Adaptive Policy:11|service_main|Task 'Adaptive Policy' (ID=11) execution result as JSON: {"apex": [], "persistence": {"auto_disable_agent": {}, "edr_archive_parser": {}, "syslog_parser": {"last_scan": -2191479424.0}, "net_collector": {}, "linux_auto_disable_on_write_parser": {"trapsd_avg_cpu": 0.9693401985225808}}, "output_settings": "{\n\"agentDisabledByAdaptivePolicy\": false\n}", "last_analysis": 1753198747}
+2025/07/22 12:54:07|INFO    |858:140358933542592::|service_main|Received 1 tasks to execute.
+2025/07/22 12:54:07|INFO    |858:140358899988160:Adaptive Policy:12|service_main|Task 'Adaptive Policy' (ID=12) execution result as JSON: {"apex": [], "persistence": {"auto_disable_agent": {}, "edr_archive_parser": {}, "syslog_parser": {"last_scan": -2191478647.0}, "net_collector": {}, "linux_auto_disable_on_write_parser": {"trapsd_avg_cpu": 0.897372845734015}}, "output_settings": "{\n\"agentDisabledByAdaptivePolicy\": false\n}", "last_analysis": 1753199647}
+2025/07/22 13:09:08|INFO    |858:140358933542592::|service_main|Received 1 tasks to execute.
+2025/07/22 13:09:08|INFO    |858:140358899988160:Adaptive Policy:13|service_main|Task 'Adaptive Policy' (ID=13) execution result as JSON: {"apex": [], "persistence": {"auto_disable_agent": {}, "edr_archive_parser": {}, "syslog_parser": {"last_scan": -2191477795.0}, "net_collector": {}, "linux_auto_disable_on_write_parser": {"trapsd_avg_cpu": 0.9697000256172386}}, "output_settings": "{\n\"agentDisabledByAdaptivePolicy\": false\n}", "last_analysis": 1753200548}
+2025/07/22 13:20:08|INFO    |858:140358933542592::|service_main|Received 1 tasks to execute.
+2025/07/22 13:20:08|INFO    |858:140358899988160:Telemetry Tagging:14|service_main|Task 'Telemetry Tagging' (ID=14) execution result as JSON: {"return_value": ["tag #0", "tag #1", "tag #2", "tag #3", "tag #4"]}
+2025/07/22 13:24:08|INFO    |858:140358933542592::|service_main|Received 1 tasks to execute.
+2025/07/22 13:24:08|INFO    |858:140358899988160:Adaptive Policy:15|service_main|Task 'Adaptive Policy' (ID=15) execution result as JSON: {"apex": [], "persistence": {"auto_disable_agent": {}, "edr_archive_parser": {}, "syslog_parser": {"last_scan": -2191476991.0}, "net_collector": {}, "linux_auto_disable_on_write_parser": {"trapsd_avg_cpu": 1.0053062689412393}}, "output_settings": "{\n\"agentDisabledByAdaptivePolicy\": false\n}", "last_analysis": 1753201448}
+2025/07/22 13:39:08|INFO    |858:140358933542592::|service_main|Received 1 tasks to execute.
+2025/07/22 13:39:09|INFO    |858:140358899988160:Adaptive Policy:16|service_main|Task 'Adaptive Policy' (ID=16) execution result as JSON: {"apex": [], "persistence": {"auto_disable_agent": {}, "edr_archive_parser": {}, "syslog_parser": {"last_scan": -2191476153.0}, "net_collector": {}, "linux_auto_disable_on_write_parser": {"trapsd_avg_cpu": 1.0618419518782312}}, "output_settings": "{\n\"agentDisabledByAdaptivePolicy\": false\n}", "last_analysis": 1753202349}
+2025/07/22 13:54:09|INFO    |858:140358933542592::|service_main|Received 1 tasks to execute.
+2025/07/22 13:54:09|INFO    |858:140358899988160:Adaptive Policy:17|service_main|Task 'Adaptive Policy' (ID=17) execution result as JSON: {"apex": [], "persistence": {"auto_disable_agent": {}, "edr_archive_parser": {}, "syslog_parser": {"last_scan": -2191475441.0}, "net_collector": {}, "linux_auto_disable_on_write_parser": {"trapsd_avg_cpu": 1.0300905129888733}}, "output_settings": "{\n\"agentDisabledByAdaptivePolicy\": false\n}", "last_analysis": 1753203249}
+2025/07/22 14:09:09|INFO    |858:140358933542592::|service_main|Received 1 tasks to execute.
+2025/07/22 14:09:09|INFO    |858:140358899988160:Adaptive Policy:18|service_main|Task 'Adaptive Policy' (ID=18) execution result as JSON: {"apex": [], "persistence": {"auto_disable_agent": {}, "edr_archive_parser": {}, "syslog_parser": {"last_scan": -2191474640.0}, "net_collector": {}, "linux_auto_disable_on_write_parser": {"trapsd_avg_cpu": 0.9128982977610044}}, "output_settings": "{\n\"agentDisabledByAdaptivePolicy\": false\n}", "last_analysis": 1753204149}
+2025/07/22 14:20:09|INFO    |858:140358933542592::|service_main|Received 1 tasks to execute.
+2025/07/22 14:20:09|INFO    |858:140358899988160:Telemetry Tagging:19|service_main|Task 'Telemetry Tagging' (ID=19) execution result as JSON: {"return_value": ["tag #0", "tag #1", "tag #2", "tag #3", "tag #4"]}
+2025/07/22 14:24:10|INFO    |858:140358933542592::|service_main|Received 1 tasks to execute.
+2025/07/22 14:24:10|INFO    |858:140358899988160:Adaptive Policy:20|service_main|Task 'Adaptive Policy' (ID=20) execution result as JSON: {"apex": [], "persistence": {"auto_disable_agent": {}, "edr_archive_parser": {}, "syslog_parser": {"last_scan": -2191472992.0}, "net_collector": {}, "linux_auto_disable_on_write_parser": {"trapsd_avg_cpu": 0.921866606627884}}, "output_settings": "{\n\"agentDisabledByAdaptivePolicy\": false\n}", "last_analysis": 1753205050}
+2025/07/22 14:39:10|INFO    |858:140358933542592::|service_main|Received 1 tasks to execute.
+2025/07/22 14:39:10|INFO    |858:140358899988160:Adaptive Policy:21|service_main|Task 'Adaptive Policy' (ID=21) execution result as JSON: {"apex": [], "persistence": {"auto_disable_agent": {}, "edr_archive_parser": {}, "syslog_parser": {"last_scan": -2191472241.0}, "net_collector": {}, "linux_auto_disable_on_write_parser": {"trapsd_avg_cpu": 1.0313853275717755}}, "output_settings": "{\n\"agentDisabledByAdaptivePolicy\": false\n}", "last_analysis": 1753205950}
+2025/07/22 14:54:10|INFO    |858:140358933542592::|service_main|Received 1 tasks to execute.
+2025/07/22 14:54:10|INFO    |858:140358899988160:Adaptive Policy:22|service_main|Task 'Adaptive Policy' (ID=22) execution result as JSON: {"apex": [], "persistence": {"auto_disable_agent": {}, "edr_archive_parser": {}, "syslog_parser": {"last_scan": -2191471439.0}, "net_collector": {}, "linux_auto_disable_on_write_parser": {"trapsd_avg_cpu": 0.9634193466960043}}, "output_settings": "{\n\"agentDisabledByAdaptivePolicy\": false\n}", "last_analysis": 1753206850}
+2025/07/22 15:09:11|INFO    |858:140358933542592::|service_main|Received 1 tasks to execute.
+2025/07/22 15:09:11|INFO    |858:140358899988160:Adaptive Policy:23|service_main|Task 'Adaptive Policy' (ID=23) execution result as JSON: {"apex": [], "persistence": {"auto_disable_agent": {}, "edr_archive_parser": {}, "syslog_parser": {"last_scan": -2191470674.0}, "net_collector": {}, "linux_auto_disable_on_write_parser": {"trapsd_avg_cpu": 0.9770600873718721}}, "output_settings": "{\n\"agentDisabledByAdaptivePolicy\": false\n}", "last_analysis": 1753207751}
+2025/07/22 15:20:11|INFO    |858:140358933542592::|service_main|Received 1 tasks to execute.
+2025/07/22 15:20:11|INFO    |858:140358899988160:Telemetry Tagging:24|service_main|Task 'Telemetry Tagging' (ID=24) execution result as JSON: {"return_value": ["tag #0", "tag #1", "tag #2", "tag #3", "tag #4"]}
+2025/07/22 15:24:11|INFO    |858:140358933542592::|service_main|Received 1 tasks to execute.
+2025/07/22 15:24:11|INFO    |858:140358899988160:Adaptive Policy:25|service_main|Task 'Adaptive Policy' (ID=25) execution result as JSON: {"apex": [], "persistence": {"auto_disable_agent": {}, "edr_archive_parser": {}, "syslog_parser": {"last_scan": -2191469791.0}, "net_collector": {}, "linux_auto_disable_on_write_parser": {"trapsd_avg_cpu": 0.9164311045967244}}, "output_settings": "{\n\"agentDisabledByAdaptivePolicy\": false\n}", "last_analysis": 1753208651}
+2025/07/22 15:39:11|INFO    |858:140358933542592::|service_main|Received 1 tasks to execute.
+2025/07/22 15:39:11|INFO    |858:140358899988160:Adaptive Policy:26|service_main|Task 'Adaptive Policy' (ID=26) execution result as JSON: {"apex": [], "persistence": {"auto_disable_agent": {}, "edr_archive_parser": {}, "syslog_parser": {"last_scan": -2191468951.0}, "net_collector": {}, "linux_auto_disable_on_write_parser": {"trapsd_avg_cpu": 0.9926730131801927}}, "output_settings": "{\n\"agentDisabledByAdaptivePolicy\": false\n}", "last_analysis": 1753209551}
+2025/07/22 15:54:12|INFO    |858:140358933542592::|service_main|Received 1 tasks to execute.
+2025/07/22 15:54:12|INFO    |858:140358899988160:Adaptive Policy:27|service_main|Task 'Adaptive Policy' (ID=27) execution result as JSON: {"apex": [], "persistence": {"auto_disable_agent": {}, "edr_archive_parser": {}, "syslog_parser": {"last_scan": -2191468219.0}, "net_collector": {}, "linux_auto_disable_on_write_parser": {"trapsd_avg_cpu": 0.9047477066395921}}, "output_settings": "{\n\"agentDisabledByAdaptivePolicy\": false\n}", "last_analysis": 1753210452}
+2025/07/22 16:09:12|INFO    |858:140358933542592::|service_main|Received 1 tasks to execute.
+2025/07/22 16:09:12|INFO    |858:140358899988160:Adaptive Policy:28|service_main|Task 'Adaptive Policy' (ID=28) execution result as JSON: {"apex": [], "persistence": {"auto_disable_agent": {}, "edr_archive_parser": {}, "syslog_parser": {"last_scan": -2191466772.0}, "net_collector": {}, "linux_auto_disable_on_write_parser": {"trapsd_avg_cpu": 0.8933141385940946}}, "output_settings": "{\n\"agentDisabledByAdaptivePolicy\": false\n}", "last_analysis": 1753211352}
+2025/07/22 16:20:12|INFO    |858:140358933542592::|service_main|Received 1 tasks to execute.
+2025/07/22 16:20:12|INFO    |858:140358899988160:Telemetry Tagging:29|service_main|Task 'Telemetry Tagging' (ID=29) execution result as JSON: {"return_value": ["tag #0", "tag #1", "tag #2", "tag #3", "tag #4"]}
+2025/07/22 16:24:12|INFO    |858:140358933542592::|service_main|Received 1 tasks to execute.
+2025/07/22 16:24:12|INFO    |858:140358899988160:Adaptive Policy:30|service_main|Task 'Adaptive Policy' (ID=30) execution result as JSON: {"apex": [], "persistence": {"auto_disable_agent": {}, "edr_archive_parser": {}, "syslog_parser": {"last_scan": -2191466072.0}, "net_collector": {}, "linux_auto_disable_on_write_parser": {"trapsd_avg_cpu": 0.9075014283530408}}, "output_settings": "{\n\"agentDisabledByAdaptivePolicy\": false\n}", "last_analysis": 1753212252}
+2025/07/22 16:39:13|INFO    |858:140358933542592::|service_main|Received 1 tasks to execute.
+2025/07/22 16:39:13|INFO    |858:140358899988160:Adaptive Policy:31|service_main|Task 'Adaptive Policy' (ID=31) execution result as JSON: {"apex": [], "persistence": {"auto_disable_agent": {}, "edr_archive_parser": {}, "syslog_parser": {"last_scan": -2191465362.0}, "net_collector": {}, "linux_auto_disable_on_write_parser": {"trapsd_avg_cpu": 0.9275393782264705}}, "output_settings": "{\n\"agentDisabledByAdaptivePolicy\": false\n}", "last_analysis": 1753213153}
+2025/07/22 16:54:13|INFO    |858:140358933542592::|service_main|Received 1 tasks to execute.
+2025/07/22 16:54:13|INFO    |858:140358899988160:Adaptive Policy:32|service_main|Task 'Adaptive Policy' (ID=32) execution result as JSON: {"apex": [], "persistence": {"auto_disable_agent": {}, "edr_archive_parser": {}, "syslog_parser": {"last_scan": -2191463966.0}, "net_collector": {}, "linux_auto_disable_on_write_parser": {"trapsd_avg_cpu": 0.9122028343080331}}, "output_settings": "{\n\"agentDisabledByAdaptivePolicy\": false\n}", "last_analysis": 1753214053}
+2025/07/22 17:09:13|INFO    |858:140358933542592::|service_main|Received 1 tasks to execute.
+2025/07/22 17:09:13|INFO    |858:140358899988160:Adaptive Policy:33|service_main|Task 'Adaptive Policy' (ID=33) execution result as JSON: {"apex": [], "persistence": {"auto_disable_agent": {}, "edr_archive_parser": {}, "syslog_parser": {"last_scan": -2191463101.0}, "net_collector": {}, "linux_auto_disable_on_write_parser": {"trapsd_avg_cpu": 1.015603800506267}}, "output_settings": "{\n\"agentDisabledByAdaptivePolicy\": false\n}", "last_analysis": 1753214953}
+2025/07/22 17:20:14|INFO    |858:140358933542592::|service_main|Received 1 tasks to execute.
+2025/07/22 17:20:14|INFO    |858:140358899988160:Telemetry Tagging:34|service_main|Task 'Telemetry Tagging' (ID=34) execution result as JSON: {"return_value": ["tag #0", "tag #1", "tag #2", "tag #3", "tag #4"]}
+2025/07/22 17:24:14|INFO    |858:140358933542592::|service_main|Received 1 tasks to execute.
+2025/07/22 17:24:14|INFO    |858:140358899988160:Adaptive Policy:35|service_main|Task 'Adaptive Policy' (ID=35) execution result as JSON: {"apex": [], "persistence": {"auto_disable_agent": {}, "edr_archive_parser": {}, "syslog_parser": {"last_scan": -2191462346.0}, "net_collector": {}, "linux_auto_disable_on_write_parser": {"trapsd_avg_cpu": 1.0196907549622096}}, "output_settings": "{\n\"agentDisabledByAdaptivePolicy\": false\n}", "last_analysis": 1753215854}
+2025/07/22 17:39:14|INFO    |858:140358933542592::|service_main|Received 1 tasks to execute.
+2025/07/22 17:39:14|INFO    |858:140358899988160:Adaptive Policy:36|service_main|Task 'Adaptive Policy' (ID=36) execution result as JSON: {"apex": [], "persistence": {"auto_disable_agent": {}, "edr_archive_parser": {}, "syslog_parser": {"last_scan": -2191461535.0}, "net_collector": {}, "linux_auto_disable_on_write_parser": {"trapsd_avg_cpu": 0.9541508829402017}}, "output_settings": "{\n\"agentDisabledByAdaptivePolicy\": false\n}", "last_analysis": 1753216754}
+2025/07/22 17:54:14|INFO    |858:140358933542592::|service_main|Received 1 tasks to execute.
+2025/07/22 17:54:14|INFO    |858:140358899988160:Adaptive Policy:37|service_main|Task 'Adaptive Policy' (ID=37) execution result as JSON: {"apex": [], "persistence": {"auto_disable_agent": {}, "edr_archive_parser": {}, "syslog_parser": {"last_scan": -2191460762.0}, "net_collector": {}, "linux_auto_disable_on_write_parser": {"trapsd_avg_cpu": 1.0085215181960132}}, "output_settings": "{\n\"agentDisabledByAdaptivePolicy\": false\n}", "last_analysis": 1753217654}
+2025/07/22 18:09:15|INFO    |858:140358933542592::|service_main|Received 1 tasks to execute.
+2025/07/22 18:09:15|INFO    |858:140358899988160:Adaptive Policy:38|service_main|Task 'Adaptive Policy' (ID=38) execution result as JSON: {"apex": [], "persistence": {"auto_disable_agent": {}, "edr_archive_parser": {}, "syslog_parser": {"last_scan": -2191459948.0}, "net_collector": {}, "linux_auto_disable_on_write_parser": {"trapsd_avg_cpu": 1.1953307664543507}}, "output_settings": "{\n\"agentDisabledByAdaptivePolicy\": false\n}", "last_analysis": 1753218555}
+2025/07/22 18:20:15|INFO    |858:140358933542592::|service_main|Received 1 tasks to execute.
+2025/07/22 18:20:15|INFO    |858:140358899988160:Telemetry Tagging:39|service_main|Task 'Telemetry Tagging' (ID=39) execution result as JSON: {"return_value": ["tag #0", "tag #1", "tag #2", "tag #3", "tag #4"]}
+2025/07/22 18:23:46 | INFO     | 5525 | (MainThread  ) | Starting Cortex XDR Payload V3.15.0.20250722182346
+2025/07/22 18:23:46 | INFO     | 5525 | (MainThread  ) | Executed by Traps: TRUE
+2025/07/22 18:23:46 | INFO     | 5525 | (MainThread  ) | Logger class: 'Logger'
+2025/07/22 18:23:46 | INFO     | 5525 | (MainThread  ) | Using OpenSSL version: OpenSSL 3.3.2 3 Sep 2024
+2025/07/22 18:23:46 | INFO     | 5525 | (MainThread  ) | Using OpenSSL FIPS enabled: True
+2025/07/22 18:23:46 | INFO     | 5525 | (MainThread  ) | Additional parameters: None
+2025/07/22 18:23:46 | INFO     | 5525 | (MainThread  ) | sys._MEIPASS: /opt/traps/python/payload
+2025/07/22 18:23:46 | INFO     | 5525 | (MainThread  ) | No bypassing hosts file enforced.
+2025/07/22 18:23:46 | INFO     | 5525 | (MainThread  ) | PyInstaller bootloader path (sys.executable): /opt/traps/python/payload/pyxd
+2025/07/22 18:23:46 | INFO     | 5525 | (MainThread  ) | Bundle directory: /opt/traps/python/payload, Cwd: /opt/traps/python/scripts
+2025/07/22 18:23:46 | INFO     | 5525 | (MainThread  ) | ScriptExecutionPayload: output_limit_bytes=1048576
+2025/07/22 18:23:46 | INFO     | 5525 | (MainThread  ) | ScriptExecutionPayload: stdout_limit_bytes=10240
+2025/07/22 18:23:46 | INFO     | 5525 | (MainThread  ) | Running script 'service_main.py' in current working directory: /opt/traps/python/scripts
+2025/07/22 18:23:46 | INFO     | 5525 | (MainThread  ) | Script input parameters:
+ {}
+2025/07/22 18:23:46 | INFO     | 5525 | (MainThread  ) | sys.path: ['/opt/traps/python/payload/base_library.zip', '/opt/traps/python/payload/lib-dynload', '/opt/traps/python/payload', '/opt/traps/python/payload/setuptools/_vendor', '/opt/traps/python/scripts']
+2025/07/22 18:23:46 | INFO     | 5525 | (script_thread) | Started script execution thread
+2025/07/22 18:23:46 | INFO     | 5525 | (script_thread) | Execution location: /opt/traps/python/scripts
+2025/07/22 18:23:46 | INFO     | 5525 | (script_thread) | Found 203 files/directories in directory: /opt/traps/python/scripts
+2025/07/22 18:23:46|INFO    |5525:140161016919744::|ipc_client_api|Detected traps version: 8.8.0.133595
+2025/07/22 18:23:46|INFO    |5525:140161016919744::|ipc_client_api|Traps version is higher or equal to 7.7 - using irpc client.
+2025/07/22 18:23:46|INFO    |5525:140161016919744::|irpc_client_nix|Creating IRRPCClient for channel path: /opt/traps/ipc/python.12C719DBF9264DD2981975F0A0A3E5DB
+2025/07/22 18:23:46 | INFO     | 5525 | (script_thread) | Going to run: service_main.main() with kwargs: {}
+2025/07/22 18:23:46|INFO    |5525:140161016919744::|service_main|Service started.
+2025/07/22 18:23:46|INFO    |5525:140161016919744::|service_main|Detected traps version: 8.8.0.133595
+2025/07/22 18:23:46|INFO    |5525:140161016919744::|service_main|update_settings with kwargs: {}
+2025/07/22 18:24:16|INFO    |5525:140161016919744::|service_main|Received 1 tasks to execute.
+2025/07/22 18:24:17|INFO    |5525:140160983365312:Adaptive Policy:40|service_main|Task 'Adaptive Policy' (ID=40) execution result as JSON: {"apex": [], "persistence": {"auto_disable_agent": {}, "edr_archive_parser": {}, "syslog_parser": {"last_scan": -2191458584.0}, "net_collector": {}, "linux_auto_disable_on_write_parser": {"trapsd_avg_cpu": 1.0546360330975297}}, "output_settings": "{\n\"agentDisabledByAdaptivePolicy\": false\n}", "last_analysis": 1753219457}
+2025/07/22 18:39:17|INFO    |5525:140161016919744::|service_main|Received 1 tasks to execute.
+2025/07/22 18:39:17|INFO    |5525:140160983365312:Adaptive Policy:41|service_main|Task 'Adaptive Policy' (ID=41) execution result as JSON: {"apex": [], "persistence": {"auto_disable_agent": {}, "edr_archive_parser": {}, "syslog_parser": {"last_scan": -2191458375.0}, "net_collector": {}, "linux_auto_disable_on_write_parser": {"trapsd_avg_cpu": 1.9303542818089123}}, "output_settings": "{\n\"agentDisabledByAdaptivePolicy\": false\n}", "last_analysis": 1753220357}
+2025/07/22 18:54:17|INFO    |5525:140161016919744::|service_main|Received 1 tasks to execute.
+2025/07/22 18:54:17|INFO    |5525:140160983365312:Adaptive Policy:42|service_main|Task 'Adaptive Policy' (ID=42) execution result as JSON: {"apex": [], "persistence": {"auto_disable_agent": {}, "edr_archive_parser": {}, "syslog_parser": {"last_scan": -2191456892.0}, "net_collector": {}, "linux_auto_disable_on_write_parser": {"trapsd_avg_cpu": 0.8422073762792147}}, "output_settings": "{\n\"agentDisabledByAdaptivePolicy\": false\n}", "last_analysis": 1753221257}
+2025/07/22 19:09:17|INFO    |5525:140161016919744::|service_main|Received 1 tasks to execute.
+2025/07/22 19:09:18|INFO    |5525:140160983365312:Adaptive Policy:43|service_main|Task 'Adaptive Policy' (ID=43) execution result as JSON: {"apex": [], "persistence": {"auto_disable_agent": {}, "edr_archive_parser": {}, "syslog_parser": {"last_scan": -2191456102.0}, "net_collector": {}, "linux_auto_disable_on_write_parser": {"trapsd_avg_cpu": 0.7403195379563899}}, "output_settings": "{\n\"agentDisabledByAdaptivePolicy\": false\n}", "last_analysis": 1753222158}
+2025/07/22 19:20:18|INFO    |5525:140161016919744::|service_main|Received 1 tasks to execute.
+2025/07/22 19:20:18|INFO    |5525:140160983365312:Telemetry Tagging:44|service_main|Task 'Telemetry Tagging' (ID=44) execution result as JSON: {"return_value": ["tag #0", "tag #1", "tag #2", "tag #3", "tag #4"]}
+2025/07/22 19:24:18|INFO    |5525:140161016919744::|service_main|Received 1 tasks to execute.
+2025/07/22 19:24:18|INFO    |5525:140160983365312:Adaptive Policy:45|service_main|Task 'Adaptive Policy' (ID=45) execution result as JSON: {"apex": [], "persistence": {"auto_disable_agent": {}, "edr_archive_parser": {}, "syslog_parser": {"last_scan": -2191455314.0}, "net_collector": {}, "linux_auto_disable_on_write_parser": {"trapsd_avg_cpu": 0.7775303382042429}}, "output_settings": "{\n\"agentDisabledByAdaptivePolicy\": false\n}", "last_analysis": 1753223058}
+2025/07/22 19:39:18|INFO    |5525:140161016919744::|service_main|Received 1 tasks to execute.
+2025/07/22 19:39:18|INFO    |5525:140160983365312:Adaptive Policy:46|service_main|Task 'Adaptive Policy' (ID=46) execution result as JSON: {"apex": [], "persistence": {"auto_disable_agent": {}, "edr_archive_parser": {}, "syslog_parser": {"last_scan": -2191454505.0}, "net_collector": {}, "linux_auto_disable_on_write_parser": {"trapsd_avg_cpu": 0.8320899152705415}}, "output_settings": "{\n\"agentDisabledByAdaptivePolicy\": false\n}", "last_analysis": 1753223958}
+2025/07/22 19:51:29 | INFO     | 6300 | (MainThread  ) | Starting Cortex XDR Payload V3.15.0.20250722195129
+2025/07/22 19:51:29 | INFO     | 6300 | (MainThread  ) | Executed by Traps: TRUE
+2025/07/22 19:51:29 | INFO     | 6300 | (MainThread  ) | Logger class: 'Logger'
+2025/07/22 19:51:29 | INFO     | 6300 | (MainThread  ) | Using OpenSSL version: OpenSSL 3.3.2 3 Sep 2024
+2025/07/22 19:51:29 | INFO     | 6300 | (MainThread  ) | Using OpenSSL FIPS enabled: True
+2025/07/22 19:51:29 | INFO     | 6300 | (MainThread  ) | Additional parameters: None
+2025/07/22 19:51:29 | INFO     | 6300 | (MainThread  ) | sys._MEIPASS: /opt/traps/python/payload
+2025/07/22 19:51:29 | INFO     | 6300 | (MainThread  ) | No bypassing hosts file enforced.
+2025/07/22 19:51:29 | INFO     | 6300 | (MainThread  ) | PyInstaller bootloader path (sys.executable): /opt/traps/python/payload/pyxd
+2025/07/22 19:51:29 | INFO     | 6300 | (MainThread  ) | Bundle directory: /opt/traps/python/payload, Cwd: /opt/traps/python/scripts
+2025/07/22 19:51:29 | INFO     | 6300 | (MainThread  ) | ScriptExecutionPayload: output_limit_bytes=1048576
+2025/07/22 19:51:29 | INFO     | 6300 | (MainThread  ) | ScriptExecutionPayload: stdout_limit_bytes=10240
+2025/07/22 19:51:29 | INFO     | 6300 | (MainThread  ) | Running script 'service_main.py' in current working directory: /opt/traps/python/scripts
+2025/07/22 19:51:29 | INFO     | 6300 | (MainThread  ) | Script input parameters:
+ {}
+2025/07/22 19:51:29 | INFO     | 6300 | (MainThread  ) | sys.path: ['/opt/traps/python/payload/base_library.zip', '/opt/traps/python/payload/lib-dynload', '/opt/traps/python/payload', '/opt/traps/python/payload/setuptools/_vendor', '/opt/traps/python/scripts']
+2025/07/22 19:51:29 | INFO     | 6300 | (script_thread) | Started script execution thread
+2025/07/22 19:51:29 | INFO     | 6300 | (script_thread) | Execution location: /opt/traps/python/scripts
+2025/07/22 19:51:29 | INFO     | 6300 | (script_thread) | Found 203 files/directories in directory: /opt/traps/python/scripts
+2025/07/22 19:51:29|INFO    |6300:139886111749824::|ipc_client_api|Detected traps version: 8.8.0.133595
+2025/07/22 19:51:29|INFO    |6300:139886111749824::|ipc_client_api|Traps version is higher or equal to 7.7 - using irpc client.
+2025/07/22 19:51:29|INFO    |6300:139886111749824::|irpc_client_nix|Creating IRRPCClient for channel path: /opt/traps/ipc/python.12C719DBF9264DD2981975F0A0A3E5DB
+2025/07/22 19:51:29 | INFO     | 6300 | (script_thread) | Going to run: service_main.main() with kwargs: {}
+2025/07/22 19:51:29|INFO    |6300:139886111749824::|service_main|Service started.
+2025/07/22 19:51:29|INFO    |6300:139886111749824::|service_main|Detected traps version: 8.8.0.133595
+2025/07/22 19:51:29|INFO    |6300:139886111749824::|service_main|update_settings with kwargs: {}
+2025/07/23 22:36:41 | INFO     | 862 | (MainThread  ) | Starting Cortex XDR Payload V3.15.0.20250723223641
+2025/07/23 22:36:41 | INFO     | 862 | (MainThread  ) | Executed by Traps: TRUE
+2025/07/23 22:36:41 | INFO     | 862 | (MainThread  ) | Logger class: 'Logger'
+2025/07/23 22:36:41 | INFO     | 862 | (MainThread  ) | Using OpenSSL version: OpenSSL 3.3.2 3 Sep 2024
+2025/07/23 22:36:41 | INFO     | 862 | (MainThread  ) | Using OpenSSL FIPS enabled: True
+2025/07/23 22:36:41 | INFO     | 862 | (MainThread  ) | Additional parameters: None
+2025/07/23 22:36:41 | INFO     | 862 | (MainThread  ) | sys._MEIPASS: /opt/traps/python/payload
+2025/07/23 22:36:41 | INFO     | 862 | (MainThread  ) | No bypassing hosts file enforced.
+2025/07/23 22:36:41 | INFO     | 862 | (MainThread  ) | PyInstaller bootloader path (sys.executable): /opt/traps/python/payload/pyxd
+2025/07/23 22:36:41 | INFO     | 862 | (MainThread  ) | Bundle directory: /opt/traps/python/payload, Cwd: /opt/traps/python/scripts
+2025/07/23 22:36:41 | INFO     | 862 | (MainThread  ) | ScriptExecutionPayload: output_limit_bytes=1048576
+2025/07/23 22:36:41 | INFO     | 862 | (MainThread  ) | ScriptExecutionPayload: stdout_limit_bytes=10240
+2025/07/23 22:36:41 | INFO     | 862 | (MainThread  ) | Running script 'service_main.py' in current working directory: /opt/traps/python/scripts
+2025/07/23 22:36:41 | INFO     | 862 | (MainThread  ) | Script input parameters:
+ {}
+2025/07/23 22:36:41 | INFO     | 862 | (MainThread  ) | sys.path: ['/opt/traps/python/payload/base_library.zip', '/opt/traps/python/payload/lib-dynload', '/opt/traps/python/payload', '/opt/traps/python/payload/setuptools/_vendor', '/opt/traps/python/scripts']
+2025/07/23 22:36:41 | INFO     | 862 | (script_thread) | Started script execution thread
+2025/07/23 22:36:41 | INFO     | 862 | (script_thread) | Execution location: /opt/traps/python/scripts
+2025/07/23 22:36:41 | INFO     | 862 | (script_thread) | Found 203 files/directories in directory: /opt/traps/python/scripts
+2025/07/23 22:36:41|INFO    |862:140436467349184::|ipc_client_api|Detected traps version: 8.8.0.133595
+2025/07/23 22:36:41|INFO    |862:140436467349184::|ipc_client_api|Traps version is higher or equal to 7.7 - using irpc client.
+2025/07/23 22:36:41|INFO    |862:140436467349184::|irpc_client_nix|Creating IRRPCClient for channel path: /opt/traps/ipc/python.12C719DBF9264DD2981975F0A0A3E5DB
+2025/07/23 22:36:41 | INFO     | 862 | (script_thread) | Going to run: service_main.main() with kwargs: {}
+2025/07/23 22:36:41|INFO    |862:140436467349184::|service_main|Service started.
+2025/07/23 22:36:41|INFO    |862:140436467349184::|service_main|Detected traps version: 8.8.0.133595
+2025/07/23 22:36:41|INFO    |862:140436467349184::|service_main|update_settings with kwargs: {}
+2025/07/23 22:36:41|INFO    |862:140436467349184::|service_main|Received 1 tasks to execute.
+2025/07/23 22:36:41|INFO    |862:140436362491584:Python Service:1|service_main|update_settings with kwargs: {'settings': string_value: "{}"
+}
+2025/07/23 22:36:41|INFO    |862:140436362491584:Python Service:1|service_main|Task 'Python Service' (ID=1) execution result as JSON: {"return_value": null}
+2025/07/23 22:36:51|INFO    |862:140436467349184::|service_main|Received 1 tasks to execute.
+2025/07/23 22:37:02|INFO    |862:140436362491584:Cloud Metadata Collector:2|service_main|Task 'Cloud Metadata Collector' (ID=2) execution result as JSON: {"return_value": "{\"cloudMetadata\": {\"accountID\": \"Non-onboarded cloud accounts\", \"provider\": \"others\"}, \"hostname\": \"linux-lab02\", \"agentID\": \"b65fb3a49434443e8ddc66b697314fe5\"}"}
+2025/07/23 22:44:21|INFO    |862:140436467349184::|service_main|Received 1 tasks to execute.
+2025/07/23 22:44:21|INFO    |862:140436362491584:Adaptive Policy:3|service_main|Task 'Adaptive Policy' (ID=3) execution result as JSON: {"apex": [], "persistence": {"auto_disable_agent": {}, "edr_archive_parser": {}, "syslog_parser": {"last_scan": -2191454505.0}, "net_collector": {}, "linux_auto_disable_on_write_parser": {"trapsd_avg_cpu": 0.8320899152705415}}, "output_settings": "{}", "last_analysis": 1753321461}
+2025/07/23 22:52:21|INFO    |862:140436467349184::|service_main|Received 1 tasks to execute.
+2025/07/23 22:52:21|INFO    |862:140436362491584:Telemetry Tagging:4|service_main|Task 'Telemetry Tagging' (ID=4) execution result as JSON: {"return_value": ["tag #0", "tag #1", "tag #2", "tag #3", "tag #4"]}
+2025/07/23 22:59:21|INFO    |862:140436467349184::|service_main|Received 1 tasks to execute.
+2025/07/23 22:59:21|INFO    |862:140436362491584:Adaptive Policy:5|service_main|Task 'Adaptive Policy' (ID=5) execution result as JSON: {"apex": [], "persistence": {"auto_disable_agent": {}, "edr_archive_parser": {}, "syslog_parser": {"last_scan": -2191355681.0}, "net_collector": {}, "linux_auto_disable_on_write_parser": {"trapsd_avg_cpu": 2.159915993541016}}, "output_settings": "{\n\"agentDisabledByAdaptivePolicy\": false\n}", "last_analysis": 1753322361}
+2025/07/23 23:06:44 | INFO     | 9559 | (MainThread  ) | Starting Cortex XDR Payload V3.15.0.20250723230644
+2025/07/23 23:06:44 | INFO     | 9559 | (MainThread  ) | Executed by Traps: TRUE
+2025/07/23 23:06:44 | INFO     | 9559 | (MainThread  ) | Logger class: 'Logger'
+2025/07/23 23:06:44 | INFO     | 9559 | (MainThread  ) | Using OpenSSL version: OpenSSL 3.3.2 3 Sep 2024
+2025/07/23 23:06:44 | INFO     | 9559 | (MainThread  ) | Using OpenSSL FIPS enabled: True
+2025/07/23 23:06:44 | INFO     | 9559 | (MainThread  ) | Additional parameters: None
+2025/07/23 23:06:44 | INFO     | 9559 | (MainThread  ) | sys._MEIPASS: /opt/traps/python/payload
+2025/07/23 23:06:44 | INFO     | 9559 | (MainThread  ) | No bypassing hosts file enforced.
+2025/07/23 23:06:44 | INFO     | 9559 | (MainThread  ) | PyInstaller bootloader path (sys.executable): /opt/traps/python/payload/pyxd
+2025/07/23 23:06:44 | INFO     | 9559 | (MainThread  ) | Bundle directory: /opt/traps/python/payload, Cwd: /opt/traps/python/scripts
+2025/07/23 23:06:44 | INFO     | 9559 | (MainThread  ) | ScriptExecutionPayload: output_limit_bytes=1048576
+2025/07/23 23:06:44 | INFO     | 9559 | (MainThread  ) | ScriptExecutionPayload: stdout_limit_bytes=10240
+2025/07/23 23:06:44 | INFO     | 9559 | (MainThread  ) | Running script 'service_main.py' in current working directory: /opt/traps/python/scripts
+2025/07/23 23:06:44 | INFO     | 9559 | (MainThread  ) | Script input parameters:
+ {}
+2025/07/23 23:06:44 | INFO     | 9559 | (MainThread  ) | sys.path: ['/opt/traps/python/payload/base_library.zip', '/opt/traps/python/payload/lib-dynload', '/opt/traps/python/payload', '/opt/traps/python/payload/setuptools/_vendor', '/opt/traps/python/scripts']
+2025/07/23 23:06:44 | INFO     | 9559 | (script_thread) | Started script execution thread
+2025/07/23 23:06:44 | INFO     | 9559 | (script_thread) | Execution location: /opt/traps/python/scripts
+2025/07/23 23:06:44 | INFO     | 9559 | (script_thread) | Found 203 files/directories in directory: /opt/traps/python/scripts
+2025/07/23 23:06:44|INFO    |9559:139747431282368::|ipc_client_api|Detected traps version: 8.8.0.133595
+2025/07/23 23:06:44|INFO    |9559:139747431282368::|ipc_client_api|Traps version is higher or equal to 7.7 - using irpc client.
+2025/07/23 23:06:44|INFO    |9559:139747431282368::|irpc_client_nix|Creating IRRPCClient for channel path: /opt/traps/ipc/python.12C719DBF9264DD2981975F0A0A3E5DB
+2025/07/23 23:06:44 | INFO     | 9559 | (script_thread) | Going to run: service_main.main() with kwargs: {}
+2025/07/23 23:06:44|INFO    |9559:139747431282368::|service_main|Service started.
+2025/07/23 23:06:44|INFO    |9559:139747431282368::|service_main|Detected traps version: 8.8.0.133595
+2025/07/23 23:06:44|INFO    |9559:139747431282368::|service_main|update_settings with kwargs: {}
+2025/07/24 09:52:01 | INFO     | 912 | (MainThread  ) | Starting Cortex XDR Payload V3.15.0.20250724095201
+2025/07/24 09:52:01 | INFO     | 912 | (MainThread  ) | Executed by Traps: TRUE
+2025/07/24 09:52:01 | INFO     | 912 | (MainThread  ) | Logger class: 'Logger'
+2025/07/24 09:52:01 | INFO     | 912 | (MainThread  ) | Using OpenSSL version: OpenSSL 3.3.2 3 Sep 2024
+2025/07/24 09:52:01 | INFO     | 912 | (MainThread  ) | Using OpenSSL FIPS enabled: True
+2025/07/24 09:52:01 | INFO     | 912 | (MainThread  ) | Additional parameters: None
+2025/07/24 09:52:01 | INFO     | 912 | (MainThread  ) | sys._MEIPASS: /opt/traps/python/payload
+2025/07/24 09:52:01 | INFO     | 912 | (MainThread  ) | No bypassing hosts file enforced.
+2025/07/24 09:52:01 | INFO     | 912 | (MainThread  ) | PyInstaller bootloader path (sys.executable): /opt/traps/python/payload/pyxd
+2025/07/24 09:52:01 | INFO     | 912 | (MainThread  ) | Bundle directory: /opt/traps/python/payload, Cwd: /opt/traps/python/scripts
+2025/07/24 09:52:01 | INFO     | 912 | (MainThread  ) | ScriptExecutionPayload: output_limit_bytes=1048576
+2025/07/24 09:52:01 | INFO     | 912 | (MainThread  ) | ScriptExecutionPayload: stdout_limit_bytes=10240
+2025/07/24 09:52:01 | INFO     | 912 | (MainThread  ) | Running script 'service_main.py' in current working directory: /opt/traps/python/scripts
+2025/07/24 09:52:01 | INFO     | 912 | (MainThread  ) | Script input parameters:
+ {}
+2025/07/24 09:52:01 | INFO     | 912 | (MainThread  ) | sys.path: ['/opt/traps/python/payload/base_library.zip', '/opt/traps/python/payload/lib-dynload', '/opt/traps/python/payload', '/opt/traps/python/payload/setuptools/_vendor', '/opt/traps/python/scripts']
+2025/07/24 09:52:01 | INFO     | 912 | (script_thread) | Started script execution thread
+2025/07/24 09:52:01 | INFO     | 912 | (script_thread) | Execution location: /opt/traps/python/scripts
+2025/07/24 09:52:01 | INFO     | 912 | (script_thread) | Found 203 files/directories in directory: /opt/traps/python/scripts
+2025/07/24 09:52:02|INFO    |912:139918921692864::|ipc_client_api|Detected traps version: 8.8.0.133595
+2025/07/24 09:52:02|INFO    |912:139918921692864::|ipc_client_api|Traps version is higher or equal to 7.7 - using irpc client.
+2025/07/24 09:52:02|INFO    |912:139918921692864::|irpc_client_nix|Creating IRRPCClient for channel path: /opt/traps/ipc/python.12C719DBF9264DD2981975F0A0A3E5DB
+2025/07/24 09:52:02 | INFO     | 912 | (script_thread) | Going to run: service_main.main() with kwargs: {}
+2025/07/24 09:52:02|INFO    |912:139918921692864::|service_main|Service started.
+2025/07/24 09:52:02|INFO    |912:139918921692864::|service_main|Detected traps version: 8.8.0.133595
+2025/07/24 09:52:02|INFO    |912:139918921692864::|service_main|update_settings with kwargs: {}
+2025/07/24 09:52:02|INFO    |912:139918921692864::|service_main|Received 1 tasks to execute.
+2025/07/24 09:52:02|INFO    |912:139918818932416:Python Service:1|service_main|update_settings with kwargs: {'settings': string_value: "{}"
+}
+2025/07/24 09:52:02|INFO    |912:139918818932416:Python Service:1|service_main|Task 'Python Service' (ID=1) execution result as JSON: {"return_value": null}
+2025/07/24 09:52:12|INFO    |912:139918921692864::|service_main|Received 1 tasks to execute.
+2025/07/24 09:52:22|INFO    |912:139918818932416:Cloud Metadata Collector:2|service_main|Task 'Cloud Metadata Collector' (ID=2) execution result as JSON: {"return_value": "{\"cloudMetadata\": {\"accountID\": \"Non-onboarded cloud accounts\", \"provider\": \"others\"}, \"hostname\": \"linux-lab02\", \"agentID\": \"b65fb3a49434443e8ddc66b697314fe5\"}"}
+2025/07/24 10:02:22|INFO    |912:139918921692864::|service_main|Received 1 tasks to execute.
+2025/07/24 10:02:22|INFO    |912:139918818932416:Adaptive Policy:3|service_main|Task 'Adaptive Policy' (ID=3) execution result as JSON: {"apex": [], "persistence": {"auto_disable_agent": {}, "edr_archive_parser": {}, "syslog_parser": {"last_scan": -2191355681.0}, "net_collector": {}, "linux_auto_disable_on_write_parser": {"trapsd_avg_cpu": 2.159915993541016}}, "output_settings": "{}", "last_analysis": 1753362142}
+2025/07/24 10:07:42|INFO    |912:139918921692864::|service_main|Received 1 tasks to execute.
+2025/07/24 10:07:42|INFO    |912:139918818932416:Telemetry Tagging:4|service_main|Task 'Telemetry Tagging' (ID=4) execution result as JSON: {"return_value": ["tag #0", "tag #1", "tag #2", "tag #3", "tag #4"]}
+2025/07/24 10:17:22|INFO    |912:139918921692864::|service_main|Received 1 tasks to execute.
+2025/07/24 10:17:22|INFO    |912:139918818932416:Adaptive Policy:5|service_main|Task 'Adaptive Policy' (ID=5) execution result as JSON: {"apex": [], "persistence": {"auto_disable_agent": {}, "edr_archive_parser": {}, "syslog_parser": {"last_scan": -2191314991.0}, "net_collector": {}, "linux_auto_disable_on_write_parser": {"trapsd_avg_cpu": 2.0556092441041516}}, "output_settings": "{\n\"agentDisabledByAdaptivePolicy\": false\n}", "last_analysis": 1753363042}
+2025/07/24 10:32:23|INFO    |912:139918921692864::|service_main|Received 1 tasks to execute.
+2025/07/24 10:32:23|INFO    |912:139918818932416:Adaptive Policy:6|service_main|Task 'Adaptive Policy' (ID=6) execution result as JSON: {"apex": [], "persistence": {"auto_disable_agent": {}, "edr_archive_parser": {}, "syslog_parser": {"last_scan": -2191314121.0}, "net_collector": {}, "linux_auto_disable_on_write_parser": {"trapsd_avg_cpu": 0.9751082978032684}}, "output_settings": "{\n\"agentDisabledByAdaptivePolicy\": false\n}", "last_analysis": 1753363943}
+2025/07/24 10:47:23|INFO    |912:139918921692864::|service_main|Received 1 tasks to execute.
+2025/07/24 10:47:23|INFO    |912:139918818932416:Adaptive Policy:7|service_main|Task 'Adaptive Policy' (ID=7) execution result as JSON: {"apex": [], "persistence": {"auto_disable_agent": {}, "edr_archive_parser": {}, "syslog_parser": {"last_scan": -2191313255.0}, "net_collector": {}, "linux_auto_disable_on_write_parser": {"trapsd_avg_cpu": 1.1895068574383232}}, "output_settings": "{\n\"agentDisabledByAdaptivePolicy\": false\n}", "last_analysis": 1753364843}
+2025/07/24 11:02:23|INFO    |912:139918921692864::|service_main|Received 1 tasks to execute.
+2025/07/24 11:02:24|INFO    |912:139918818932416:Adaptive Policy:8|service_main|Task 'Adaptive Policy' (ID=8) execution result as JSON: {"apex": [], "persistence": {"auto_disable_agent": {}, "edr_archive_parser": {}, "syslog_parser": {"last_scan": -2191312329.0}, "net_collector": {}, "linux_auto_disable_on_write_parser": {"trapsd_avg_cpu": 1.2604845774652014}}, "output_settings": "{\n\"agentDisabledByAdaptivePolicy\": false\n}", "last_analysis": 1753365744}
+2025/07/24 11:07:44|INFO    |912:139918921692864::|service_main|Received 1 tasks to execute.
+2025/07/24 11:07:44|INFO    |912:139918818932416:Telemetry Tagging:9|service_main|Task 'Telemetry Tagging' (ID=9) execution result as JSON: {"return_value": ["tag #0", "tag #1", "tag #2", "tag #3", "tag #4"]}
+2025/07/24 11:17:24|INFO    |912:139918921692864::|service_main|Received 1 tasks to execute.
+2025/07/24 11:17:24|INFO    |912:139918818932416:Adaptive Policy:10|service_main|Task 'Adaptive Policy' (ID=10) execution result as JSON: {"apex": [], "persistence": {"auto_disable_agent": {}, "edr_archive_parser": {}, "syslog_parser": {"last_scan": -2191311391.0}, "net_collector": {}, "linux_auto_disable_on_write_parser": {"trapsd_avg_cpu": 1.0141957808234596}}, "output_settings": "{\n\"agentDisabledByAdaptivePolicy\": false\n}", "last_analysis": 1753366644}
+2025/07/24 11:31:06 | INFO     | 903 | (MainThread  ) | Starting Cortex XDR Payload V3.15.0.20250724113106
+2025/07/24 11:31:06 | INFO     | 903 | (MainThread  ) | Executed by Traps: TRUE
+2025/07/24 11:31:06 | INFO     | 903 | (MainThread  ) | Logger class: 'Logger'
+2025/07/24 11:31:06 | INFO     | 903 | (MainThread  ) | Using OpenSSL version: OpenSSL 3.3.2 3 Sep 2024
+2025/07/24 11:31:06 | INFO     | 903 | (MainThread  ) | Using OpenSSL FIPS enabled: True
+2025/07/24 11:31:06 | INFO     | 903 | (MainThread  ) | Additional parameters: None
+2025/07/24 11:31:06 | INFO     | 903 | (MainThread  ) | sys._MEIPASS: /opt/traps/python/payload
+2025/07/24 11:31:06 | INFO     | 903 | (MainThread  ) | No bypassing hosts file enforced.
+2025/07/24 11:31:06 | INFO     | 903 | (MainThread  ) | PyInstaller bootloader path (sys.executable): /opt/traps/python/payload/pyxd
+2025/07/24 11:31:06 | INFO     | 903 | (MainThread  ) | Bundle directory: /opt/traps/python/payload, Cwd: /opt/traps/python/scripts
+2025/07/24 11:31:06 | INFO     | 903 | (MainThread  ) | ScriptExecutionPayload: output_limit_bytes=1048576
+2025/07/24 11:31:06 | INFO     | 903 | (MainThread  ) | ScriptExecutionPayload: stdout_limit_bytes=10240
+2025/07/24 11:31:06 | INFO     | 903 | (MainThread  ) | Running script 'service_main.py' in current working directory: /opt/traps/python/scripts
+2025/07/24 11:31:06 | INFO     | 903 | (MainThread  ) | Script input parameters:
+ {}
+2025/07/24 11:31:06 | INFO     | 903 | (MainThread  ) | sys.path: ['/opt/traps/python/payload/base_library.zip', '/opt/traps/python/payload/lib-dynload', '/opt/traps/python/payload', '/opt/traps/python/payload/setuptools/_vendor', '/opt/traps/python/scripts']
+2025/07/24 11:31:06 | INFO     | 903 | (script_thread) | Started script execution thread
+2025/07/24 11:31:06 | INFO     | 903 | (script_thread) | Execution location: /opt/traps/python/scripts
+2025/07/24 11:31:06 | INFO     | 903 | (script_thread) | Found 203 files/directories in directory: /opt/traps/python/scripts
+2025/07/24 11:31:06|INFO    |903:140240429774528::|ipc_client_api|Detected traps version: 8.8.0.133595
+2025/07/24 11:31:06|INFO    |903:140240429774528::|ipc_client_api|Traps version is higher or equal to 7.7 - using irpc client.
+2025/07/24 11:31:06|INFO    |903:140240429774528::|irpc_client_nix|Creating IRRPCClient for channel path: /opt/traps/ipc/python.12C719DBF9264DD2981975F0A0A3E5DB
+2025/07/24 11:31:06 | INFO     | 903 | (script_thread) | Going to run: service_main.main() with kwargs: {}
+2025/07/24 11:31:06|INFO    |903:140240429774528::|service_main|Service started.
+2025/07/24 11:31:06|INFO    |903:140240429774528::|service_main|Detected traps version: 8.8.0.133595
+2025/07/24 11:31:06|INFO    |903:140240429774528::|service_main|update_settings with kwargs: {}
+2025/07/24 11:31:06|INFO    |903:140240429774528::|service_main|Received 1 tasks to execute.
+2025/07/24 11:31:06|INFO    |903:140240324916928:Python Service:1|service_main|update_settings with kwargs: {'settings': string_value: "{}"
+}
+2025/07/24 11:31:06|INFO    |903:140240324916928:Python Service:1|service_main|Task 'Python Service' (ID=1) execution result as JSON: {"return_value": null}
+2025/07/24 11:31:16|INFO    |903:140240429774528::|service_main|Received 1 tasks to execute.
+2025/07/24 11:31:27|INFO    |903:140240324916928:Cloud Metadata Collector:2|service_main|Task 'Cloud Metadata Collector' (ID=2) execution result as JSON: {"return_value": "{\"cloudMetadata\": {\"accountID\": \"Non-onboarded cloud accounts\", \"provider\": \"others\"}, \"hostname\": \"linux-lab02\", \"agentID\": \"b65fb3a49434443e8ddc66b697314fe5\"}"}
+2025/07/24 11:36:19 | INFO     | 1712 | (MainThread  ) | Starting Cortex XDR Payload V3.15.0.20250724113619
+2025/07/24 11:36:19 | INFO     | 1712 | (MainThread  ) | Executed by Traps: TRUE
+2025/07/24 11:36:19 | INFO     | 1712 | (MainThread  ) | Logger class: 'Logger'
+2025/07/24 11:36:19 | INFO     | 1712 | (MainThread  ) | Using OpenSSL version: OpenSSL 3.3.2 3 Sep 2024
+2025/07/24 11:36:19 | INFO     | 1712 | (MainThread  ) | Using OpenSSL FIPS enabled: True
+2025/07/24 11:36:19 | INFO     | 1712 | (MainThread  ) | Additional parameters: None
+2025/07/24 11:36:19 | INFO     | 1712 | (MainThread  ) | sys._MEIPASS: /opt/traps/python/payload
+2025/07/24 11:36:19 | INFO     | 1712 | (MainThread  ) | No bypassing hosts file enforced.
+2025/07/24 11:36:19 | INFO     | 1712 | (MainThread  ) | PyInstaller bootloader path (sys.executable): /opt/traps/python/payload/pyxd
+2025/07/24 11:36:19 | INFO     | 1712 | (MainThread  ) | Bundle directory: /opt/traps/python/payload, Cwd: /opt/traps/python/scripts
+2025/07/24 11:36:19 | INFO     | 1712 | (MainThread  ) | ScriptExecutionPayload: output_limit_bytes=1048576
+2025/07/24 11:36:19 | INFO     | 1712 | (MainThread  ) | ScriptExecutionPayload: stdout_limit_bytes=10240
+2025/07/24 11:36:19 | INFO     | 1712 | (MainThread  ) | Running script 'service_main.py' in current working directory: /opt/traps/python/scripts
+2025/07/24 11:36:19 | INFO     | 1712 | (MainThread  ) | Script input parameters:
+ {}
+2025/07/24 11:36:19 | INFO     | 1712 | (MainThread  ) | sys.path: ['/opt/traps/python/payload/base_library.zip', '/opt/traps/python/payload/lib-dynload', '/opt/traps/python/payload', '/opt/traps/python/payload/setuptools/_vendor', '/opt/traps/python/scripts']
+2025/07/24 11:36:19 | INFO     | 1712 | (script_thread) | Started script execution thread
+2025/07/24 11:36:19 | INFO     | 1712 | (script_thread) | Execution location: /opt/traps/python/scripts
+2025/07/24 11:36:19 | INFO     | 1712 | (script_thread) | Found 203 files/directories in directory: /opt/traps/python/scripts
+2025/07/24 11:36:19|INFO    |1712:140339968997056::|ipc_client_api|Detected traps version: 8.8.0.133595
+2025/07/24 11:36:19|INFO    |1712:140339968997056::|ipc_client_api|Traps version is higher or equal to 7.7 - using irpc client.
+2025/07/24 11:36:19|INFO    |1712:140339968997056::|irpc_client_nix|Creating IRRPCClient for channel path: /opt/traps/ipc/python.12C719DBF9264DD2981975F0A0A3E5DB
+2025/07/24 11:36:19 | INFO     | 1712 | (script_thread) | Going to run: service_main.main() with kwargs: {}
+2025/07/24 11:36:19|INFO    |1712:140339968997056::|service_main|Service started.
+2025/07/24 11:36:19|INFO    |1712:140339968997056::|service_main|Detected traps version: 8.8.0.133595
+2025/07/24 11:36:19|INFO    |1712:140339968997056::|service_main|update_settings with kwargs: {}
+2025/07/24 11:37:08 | INFO     | 884 | (MainThread  ) | Starting Cortex XDR Payload V3.15.0.20250724113707
+2025/07/24 11:37:08 | INFO     | 884 | (MainThread  ) | Executed by Traps: TRUE
+2025/07/24 11:37:08 | INFO     | 884 | (MainThread  ) | Logger class: 'Logger'
+2025/07/24 11:37:08 | INFO     | 884 | (MainThread  ) | Using OpenSSL version: OpenSSL 3.3.2 3 Sep 2024
+2025/07/24 11:37:08 | INFO     | 884 | (MainThread  ) | Using OpenSSL FIPS enabled: True
+2025/07/24 11:37:08 | INFO     | 884 | (MainThread  ) | Additional parameters: None
+2025/07/24 11:37:08 | INFO     | 884 | (MainThread  ) | sys._MEIPASS: /opt/traps/python/payload
+2025/07/24 11:37:08 | INFO     | 884 | (MainThread  ) | No bypassing hosts file enforced.
+2025/07/24 11:37:08 | INFO     | 884 | (MainThread  ) | PyInstaller bootloader path (sys.executable): /opt/traps/python/payload/pyxd
+2025/07/24 11:37:08 | INFO     | 884 | (MainThread  ) | Bundle directory: /opt/traps/python/payload, Cwd: /opt/traps/python/scripts
+2025/07/24 11:37:08 | INFO     | 884 | (MainThread  ) | ScriptExecutionPayload: output_limit_bytes=1048576
+2025/07/24 11:37:08 | INFO     | 884 | (MainThread  ) | ScriptExecutionPayload: stdout_limit_bytes=10240
+2025/07/24 11:37:08 | INFO     | 884 | (MainThread  ) | Running script 'service_main.py' in current working directory: /opt/traps/python/scripts
+2025/07/24 11:37:08 | INFO     | 884 | (MainThread  ) | Script input parameters:
+ {}
+2025/07/24 11:37:08 | INFO     | 884 | (MainThread  ) | sys.path: ['/opt/traps/python/payload/base_library.zip', '/opt/traps/python/payload/lib-dynload', '/opt/traps/python/payload', '/opt/traps/python/payload/setuptools/_vendor', '/opt/traps/python/scripts']
+2025/07/24 11:37:08 | INFO     | 884 | (script_thread) | Started script execution thread
+2025/07/24 11:37:08 | INFO     | 884 | (script_thread) | Execution location: /opt/traps/python/scripts
+2025/07/24 11:37:08 | INFO     | 884 | (script_thread) | Found 203 files/directories in directory: /opt/traps/python/scripts
+2025/07/24 11:37:08|INFO    |884:140036720817856::|ipc_client_api|Detected traps version: 8.8.0.133595
+2025/07/24 11:37:08|INFO    |884:140036720817856::|ipc_client_api|Traps version is higher or equal to 7.7 - using irpc client.
+2025/07/24 11:37:08|INFO    |884:140036720817856::|irpc_client_nix|Creating IRRPCClient for channel path: /opt/traps/ipc/python.12C719DBF9264DD2981975F0A0A3E5DB
+2025/07/24 11:37:08 | INFO     | 884 | (script_thread) | Going to run: service_main.main() with kwargs: {}
+2025/07/24 11:37:08|INFO    |884:140036720817856::|service_main|Service started.
+2025/07/24 11:37:08|INFO    |884:140036720817856::|service_main|Detected traps version: 8.8.0.133595
+2025/07/24 11:37:08|INFO    |884:140036720817856::|service_main|update_settings with kwargs: {}
+2025/07/24 11:37:08|INFO    |884:140036720817856::|service_main|Received 1 tasks to execute.
+2025/07/24 11:37:08|INFO    |884:140036687263424:Python Service:1|service_main|update_settings with kwargs: {'settings': string_value: "{}"
+}
+2025/07/24 11:37:08|INFO    |884:140036687263424:Python Service:1|service_main|Task 'Python Service' (ID=1) execution result as JSON: {"return_value": null}
+2025/07/24 11:37:18|INFO    |884:140036720817856::|service_main|Received 1 tasks to execute.
+2025/07/24 11:37:29|INFO    |884:140036687263424:Cloud Metadata Collector:2|service_main|Task 'Cloud Metadata Collector' (ID=2) execution result as JSON: {"return_value": "{\"cloudMetadata\": {\"accountID\": \"Non-onboarded cloud accounts\", \"provider\": \"others\"}, \"hostname\": \"linux-lab02\", \"agentID\": \"b65fb3a49434443e8ddc66b697314fe5\"}"}
+2025/07/24 11:49:28|INFO    |884:140036720817856::|service_main|Received 1 tasks to execute.
+2025/07/24 11:49:28|INFO    |884:140036687263424:Adaptive Policy:3|service_main|Task 'Adaptive Policy' (ID=3) execution result as JSON: {"apex": [], "persistence": {"auto_disable_agent": {}, "edr_archive_parser": {}, "syslog_parser": {"last_scan": -2191311391.0}, "net_collector": {}, "linux_auto_disable_on_write_parser": {"trapsd_avg_cpu": 1.0141957808234596}}, "output_settings": "{}", "last_analysis": 1753368568}
+2025/07/24 11:52:18|INFO    |884:140036720817856::|service_main|Received 1 tasks to execute.
+2025/07/24 11:52:18|INFO    |884:140036687263424:Telemetry Tagging:4|service_main|Task 'Telemetry Tagging' (ID=4) execution result as JSON: {"return_value": ["tag #0", "tag #1", "tag #2", "tag #3", "tag #4"]}
+2025/07/24 12:04:28|INFO    |884:140036720817856::|service_main|Received 1 tasks to execute.
+2025/07/24 12:04:28|INFO    |884:140036687263424:Adaptive Policy:5|service_main|Task 'Adaptive Policy' (ID=5) execution result as JSON: {"apex": [], "persistence": {"auto_disable_agent": {}, "edr_archive_parser": {}, "syslog_parser": {"last_scan": -2191308554.0}, "net_collector": {}, "linux_auto_disable_on_write_parser": {"trapsd_avg_cpu": 1.9182710605947446}}, "output_settings": "{\n\"agentDisabledByAdaptivePolicy\": false\n}", "last_analysis": 1753369468}
+2025/07/24 12:19:29|INFO    |884:140036720817856::|service_main|Received 1 tasks to execute.
+2025/07/24 12:19:29|INFO    |884:140036687263424:Adaptive Policy:6|service_main|Task 'Adaptive Policy' (ID=6) execution result as JSON: {"apex": [], "persistence": {"auto_disable_agent": {}, "edr_archive_parser": {}, "syslog_parser": {"last_scan": -2191307791.0}, "net_collector": {}, "linux_auto_disable_on_write_parser": {"trapsd_avg_cpu": 0.9226992665742746}}, "output_settings": "{\n\"agentDisabledByAdaptivePolicy\": false\n}", "last_analysis": 1753370369}
+2025/07/24 12:34:29|INFO    |884:140036720817856::|service_main|Received 1 tasks to execute.
+2025/07/24 12:34:29|INFO    |884:140036687263424:Adaptive Policy:7|service_main|Task 'Adaptive Policy' (ID=7) execution result as JSON: {"apex": [], "persistence": {"auto_disable_agent": {}, "edr_archive_parser": {}, "syslog_parser": {"last_scan": -2191307214.0}, "net_collector": {}, "linux_auto_disable_on_write_parser": {"trapsd_avg_cpu": 0.82259514328446}}, "output_settings": "{\n\"agentDisabledByAdaptivePolicy\": false\n}", "last_analysis": 1753371269}
+2025/07/24 12:49:29|INFO    |884:140036720817856::|service_main|Received 1 tasks to execute.
+2025/07/24 12:49:29|INFO    |884:140036687263424:Adaptive Policy:8|service_main|Task 'Adaptive Policy' (ID=8) execution result as JSON: {"apex": [], "persistence": {"auto_disable_agent": {}, "edr_archive_parser": {}, "syslog_parser": {"last_scan": -2191305955.0}, "net_collector": {}, "linux_auto_disable_on_write_parser": {"trapsd_avg_cpu": 0.9953274910311177}}, "output_settings": "{\n\"agentDisabledByAdaptivePolicy\": false\n}", "last_analysis": 1753372169}
+2025/07/24 12:52:19|INFO    |884:140036720817856::|service_main|Received 1 tasks to execute.
+2025/07/24 12:52:19|INFO    |884:140036687263424:Telemetry Tagging:9|service_main|Task 'Telemetry Tagging' (ID=9) execution result as JSON: {"return_value": ["tag #0", "tag #1", "tag #2", "tag #3", "tag #4"]}
+2025/07/24 13:04:29|INFO    |884:140036720817856::|service_main|Received 1 tasks to execute.
+2025/07/24 13:04:29|INFO    |884:140036687263424:Adaptive Policy:10|service_main|Task 'Adaptive Policy' (ID=10) execution result as JSON: {"apex": [], "persistence": {"auto_disable_agent": {}, "edr_archive_parser": {}, "syslog_parser": {"last_scan": -2191305575.0}, "net_collector": {}, "linux_auto_disable_on_write_parser": {"trapsd_avg_cpu": 0.9730183887348131}}, "output_settings": "{\n\"agentDisabledByAdaptivePolicy\": false\n}", "last_analysis": 1753373069}
+2025/07/24 13:19:30|INFO    |884:140036720817856::|service_main|Received 1 tasks to execute.
+2025/07/24 13:19:30|INFO    |884:140036687263424:Adaptive Policy:11|service_main|Task 'Adaptive Policy' (ID=11) execution result as JSON: {"apex": [], "persistence": {"auto_disable_agent": {}, "edr_archive_parser": {}, "syslog_parser": {"last_scan": -2191304122.0}, "net_collector": {}, "linux_auto_disable_on_write_parser": {"trapsd_avg_cpu": 0.766065349412229}}, "output_settings": "{\n\"agentDisabledByAdaptivePolicy\": false\n}", "last_analysis": 1753373970}
+2025/07/24 13:34:30|INFO    |884:140036720817856::|service_main|Received 1 tasks to execute.
+2025/07/24 13:34:30|INFO    |884:140036687263424:Adaptive Policy:12|service_main|Task 'Adaptive Policy' (ID=12) execution result as JSON: {"apex": [], "persistence": {"auto_disable_agent": {}, "edr_archive_parser": {}, "syslog_parser": {"last_scan": -2191303424.0}, "net_collector": {}, "linux_auto_disable_on_write_parser": {"trapsd_avg_cpu": 0.8552654548835725}}, "output_settings": "{\n\"agentDisabledByAdaptivePolicy\": false\n}", "last_analysis": 1753374870}
+2025/07/24 13:49:30|INFO    |884:140036720817856::|service_main|Received 1 tasks to execute.
+2025/07/24 13:49:30|INFO    |884:140036687263424:Adaptive Policy:13|service_main|Task 'Adaptive Policy' (ID=13) execution result as JSON: {"apex": [], "persistence": {"auto_disable_agent": {}, "edr_archive_parser": {}, "syslog_parser": {"last_scan": -2191302588.0}, "net_collector": {}, "linux_auto_disable_on_write_parser": {"trapsd_avg_cpu": 0.9585551762555375}}, "output_settings": "{\n\"agentDisabledByAdaptivePolicy\": false\n}", "last_analysis": 1753375770}
+2025/07/24 13:52:20|INFO    |884:140036720817856::|service_main|Received 1 tasks to execute.
+2025/07/24 13:52:20|INFO    |884:140036687263424:Telemetry Tagging:14|service_main|Task 'Telemetry Tagging' (ID=14) execution result as JSON: {"return_value": ["tag #0", "tag #1", "tag #2", "tag #3", "tag #4"]}
+2025/07/24 14:04:30|INFO    |884:140036720817856::|service_main|Received 1 tasks to execute.
+2025/07/24 14:04:30|INFO    |884:140036687263424:Adaptive Policy:15|service_main|Task 'Adaptive Policy' (ID=15) execution result as JSON: {"apex": [], "persistence": {"auto_disable_agent": {}, "edr_archive_parser": {}, "syslog_parser": {"last_scan": -2191301832.0}, "net_collector": {}, "linux_auto_disable_on_write_parser": {"trapsd_avg_cpu": 0.4256102443330482}}, "output_settings": "{\n\"agentDisabledByAdaptivePolicy\": false\n}", "last_analysis": 1753376670}
+2025/07/24 14:19:31|INFO    |884:140036720817856::|service_main|Received 1 tasks to execute.
+2025/07/24 14:19:31|INFO    |884:140036687263424:Adaptive Policy:16|service_main|Task 'Adaptive Policy' (ID=16) execution result as JSON: {"apex": [], "persistence": {"auto_disable_agent": {}, "edr_archive_parser": {}, "syslog_parser": {"last_scan": -2191300591.0}, "net_collector": {}, "linux_auto_disable_on_write_parser": {"trapsd_avg_cpu": 0.39901736827735484}}, "output_settings": "{\n\"agentDisabledByAdaptivePolicy\": false\n}", "last_analysis": 1753377571}
+2025/07/24 14:34:32|INFO    |884:140036720817856::|service_main|Received 1 tasks to execute.
+2025/07/24 14:34:32|INFO    |884:140036687263424:Adaptive Policy:17|service_main|Task 'Adaptive Policy' (ID=17) execution result as JSON: {"apex": [], "persistence": {"auto_disable_agent": {}, "edr_archive_parser": {}, "syslog_parser": {"last_scan": -2191300201.0}, "net_collector": {}, "linux_auto_disable_on_write_parser": {"trapsd_avg_cpu": 0.47827700024157677}}, "output_settings": "{\n\"agentDisabledByAdaptivePolicy\": false\n}", "last_analysis": 1753378472}
+2025/07/24 14:49:34|INFO    |884:140036720817856::|service_main|Received 1 tasks to execute.
+2025/07/24 14:49:34|INFO    |884:140036687263424:Adaptive Policy:18|service_main|Task 'Adaptive Policy' (ID=18) execution result as JSON: {"apex": [], "persistence": {"auto_disable_agent": {}, "edr_archive_parser": {}, "syslog_parser": {"last_scan": -2191298648.0}, "net_collector": {}, "linux_auto_disable_on_write_parser": {"trapsd_avg_cpu": 9.325633046726676}}, "output_settings": "{\n\"agentDisabledByAdaptivePolicy\": false\n}", "last_analysis": 1753379374}
+2025/07/24 14:52:24|INFO    |884:140036720817856::|service_main|Received 1 tasks to execute.
+2025/07/24 14:52:24|INFO    |884:140036687263424:Telemetry Tagging:19|service_main|Task 'Telemetry Tagging' (ID=19) execution result as JSON: {"return_value": ["tag #0", "tag #1", "tag #2", "tag #3", "tag #4"]}
+2025/07/24 15:04:35|INFO    |884:140036720817856::|service_main|Received 1 tasks to execute.
+2025/07/24 15:04:35|INFO    |884:140036687263424:Adaptive Policy:20|service_main|Task 'Adaptive Policy' (ID=20) execution result as JSON: {"apex": [], "persistence": {"auto_disable_agent": {}, "edr_archive_parser": {}, "syslog_parser": {"last_scan": -2191297791.0}, "net_collector": {}, "linux_auto_disable_on_write_parser": {"trapsd_avg_cpu": 1.1561698916220065}}, "output_settings": "{\n\"agentDisabledByAdaptivePolicy\": false\n}", "last_analysis": 1753380275}
+2025/07/24 15:19:36|INFO    |884:140036720817856::|service_main|Received 1 tasks to execute.
+2025/07/24 15:19:37|INFO    |884:140036687263424:Adaptive Policy:21|service_main|Task 'Adaptive Policy' (ID=21) execution result as JSON: {"apex": [], "persistence": {"auto_disable_agent": {}, "edr_archive_parser": {}, "syslog_parser": {"last_scan": -2191296957.0}, "net_collector": {}, "linux_auto_disable_on_write_parser": {"trapsd_avg_cpu": 0.625535935014053}}, "output_settings": "{\n\"agentDisabledByAdaptivePolicy\": false\n}", "last_analysis": 1753381177}
+2025/07/24 15:34:46|INFO    |884:140036720817856::|service_main|Received 1 tasks to execute.
+2025/07/24 15:34:46|INFO    |884:140036687263424:Adaptive Policy:22|service_main|Task 'Adaptive Policy' (ID=22) execution result as JSON: {"apex": [], "persistence": {"auto_disable_agent": {}, "edr_archive_parser": {}, "syslog_parser": {"last_scan": -2191296089.0}, "net_collector": {}, "linux_auto_disable_on_write_parser": {"trapsd_avg_cpu": 0.6278766129743902}}, "output_settings": "{\n\"agentDisabledByAdaptivePolicy\": false\n}", "last_analysis": 1753382086}
+2025/07/24 15:49:47|INFO    |884:140036720817856::|service_main|Received 1 tasks to execute.
+2025/07/24 15:49:47|INFO    |884:140036687263424:Adaptive Policy:23|service_main|Task 'Adaptive Policy' (ID=23) execution result as JSON: {"apex": [], "persistence": {"auto_disable_agent": {}, "edr_archive_parser": {}, "syslog_parser": {"last_scan": -2191295033.0}, "net_collector": {}, "linux_auto_disable_on_write_parser": {"trapsd_avg_cpu": 1.2941517459535055}}, "output_settings": "{\n\"agentDisabledByAdaptivePolicy\": false\n}", "last_analysis": 1753382987}
+2025/07/24 15:52:27|INFO    |884:140036720817856::|service_main|Received 1 tasks to execute.
+2025/07/24 15:52:27|INFO    |884:140036687263424:Telemetry Tagging:24|service_main|Task 'Telemetry Tagging' (ID=24) execution result as JSON: {"return_value": ["tag #0", "tag #1", "tag #2", "tag #3", "tag #4"]}
+2025/07/24 16:04:47|INFO    |884:140036720817856::|service_main|Received 1 tasks to execute.
+2025/07/24 16:04:47|INFO    |884:140036687263424:Adaptive Policy:25|service_main|Task 'Adaptive Policy' (ID=25) execution result as JSON: {"apex": [], "persistence": {"auto_disable_agent": {}, "edr_archive_parser": {}, "syslog_parser": {"last_scan": -2191294212.0}, "net_collector": {}, "linux_auto_disable_on_write_parser": {"trapsd_avg_cpu": 0.824475327899591}}, "output_settings": "{\n\"agentDisabledByAdaptivePolicy\": false\n}", "last_analysis": 1753383887}
+2025/07/24 16:19:47|INFO    |884:140036720817856::|service_main|Received 1 tasks to execute.
+2025/07/24 16:19:47|INFO    |884:140036687263424:Adaptive Policy:26|service_main|Task 'Adaptive Policy' (ID=26) execution result as JSON: {"apex": [], "persistence": {"auto_disable_agent": {}, "edr_archive_parser": {}, "syslog_parser": {"last_scan": -2191293234.0}, "net_collector": {}, "linux_auto_disable_on_write_parser": {"trapsd_avg_cpu": 1.0069067856425735}}, "output_settings": "{\n\"agentDisabledByAdaptivePolicy\": false\n}", "last_analysis": 1753384787}
+2025/07/24 16:34:48|INFO    |884:140036720817856::|service_main|Received 1 tasks to execute.
+2025/07/24 16:34:48|INFO    |884:140036687263424:Adaptive Policy:27|service_main|Task 'Adaptive Policy' (ID=27) execution result as JSON: {"apex": [], "persistence": {"auto_disable_agent": {}, "edr_archive_parser": {}, "syslog_parser": {"last_scan": -2191292837.0}, "net_collector": {}, "linux_auto_disable_on_write_parser": {"trapsd_avg_cpu": 0.6129101145752843}}, "output_settings": "{\n\"agentDisabledByAdaptivePolicy\": false\n}", "last_analysis": 1753385688}
+2025/07/24 16:49:48|INFO    |884:140036720817856::|service_main|Received 1 tasks to execute.
+2025/07/24 16:49:48|INFO    |884:140036687263424:Adaptive Policy:28|service_main|Task 'Adaptive Policy' (ID=28) execution result as JSON: {"apex": [], "persistence": {"auto_disable_agent": {}, "edr_archive_parser": {}, "syslog_parser": {"last_scan": -2191291606.0}, "net_collector": {}, "linux_auto_disable_on_write_parser": {"trapsd_avg_cpu": 0.6707881903609986}}, "output_settings": "{\n\"agentDisabledByAdaptivePolicy\": false\n}", "last_analysis": 1753386588}
+2025/07/24 16:52:28|INFO    |884:140036720817856::|service_main|Received 1 tasks to execute.
+2025/07/24 16:52:28|INFO    |884:140036687263424:Telemetry Tagging:29|service_main|Task 'Telemetry Tagging' (ID=29) execution result as JSON: {"return_value": ["tag #0", "tag #1", "tag #2", "tag #3", "tag #4"]}
+2025/07/24 17:04:48|INFO    |884:140036720817856::|service_main|Received 1 tasks to execute.
+2025/07/24 17:04:48|INFO    |884:140036687263424:Adaptive Policy:30|service_main|Task 'Adaptive Policy' (ID=30) execution result as JSON: {"apex": [], "persistence": {"auto_disable_agent": {}, "edr_archive_parser": {}, "syslog_parser": {"last_scan": -2191291310.0}, "net_collector": {}, "linux_auto_disable_on_write_parser": {"trapsd_avg_cpu": 0.6687579053036786}}, "output_settings": "{\n\"agentDisabledByAdaptivePolicy\": false\n}", "last_analysis": 1753387488}
+2025/07/24 17:19:48|INFO    |884:140036720817856::|service_main|Received 1 tasks to execute.
+2025/07/24 17:19:48|INFO    |884:140036687263424:Adaptive Policy:31|service_main|Task 'Adaptive Policy' (ID=31) execution result as JSON: {"apex": [], "persistence": {"auto_disable_agent": {}, "edr_archive_parser": {}, "syslog_parser": {"last_scan": -2191289713.0}, "net_collector": {}, "linux_auto_disable_on_write_parser": {"trapsd_avg_cpu": 0.7699349534660804}}, "output_settings": "{\n\"agentDisabledByAdaptivePolicy\": false\n}", "last_analysis": 1753388388}
+2025/07/24 17:34:49|INFO    |884:140036720817856::|service_main|Received 1 tasks to execute.
+2025/07/24 17:34:49|INFO    |884:140036687263424:Adaptive Policy:32|service_main|Task 'Adaptive Policy' (ID=32) execution result as JSON: {"apex": [], "persistence": {"auto_disable_agent": {}, "edr_archive_parser": {}, "syslog_parser": {"last_scan": -2191288943.0}, "net_collector": {}, "linux_auto_disable_on_write_parser": {"trapsd_avg_cpu": 0.7832549211319262}}, "output_settings": "{\n\"agentDisabledByAdaptivePolicy\": false\n}", "last_analysis": 1753389289}

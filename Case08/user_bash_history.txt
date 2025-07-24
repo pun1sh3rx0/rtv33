@@ -1,0 +1,7 @@
+su root
+pyhton3 --version
+su root
+pip3 install FPDF openpyxl --break-system-packages
+su root
+exit
+su root

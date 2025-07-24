@@ -1,0 +1,155 @@
+2025-07-22T12:17:01.127357-03:00 linux-lab02 CRON[2657]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2025-07-22T12:17:01.139491-03:00 linux-lab02 CRON[2657]: pam_unix(cron:session): session closed for user root
+2025-07-22T13:17:01.186227-03:00 linux-lab02 CRON[3080]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2025-07-22T13:17:01.200938-03:00 linux-lab02 CRON[3080]: pam_unix(cron:session): session closed for user root
+2025-07-22T14:17:01.242327-03:00 linux-lab02 CRON[3497]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2025-07-22T14:17:01.259208-03:00 linux-lab02 CRON[3497]: pam_unix(cron:session): session closed for user root
+2025-07-22T15:17:01.299853-03:00 linux-lab02 CRON[3915]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2025-07-22T15:17:01.314088-03:00 linux-lab02 CRON[3915]: pam_unix(cron:session): session closed for user root
+2025-07-22T16:17:01.356548-03:00 linux-lab02 CRON[4444]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2025-07-22T16:17:01.391961-03:00 linux-lab02 CRON[4444]: pam_unix(cron:session): session closed for user root
+2025-07-22T16:28:01.713438-03:00 linux-lab02 su[1979]: pam_unix(su:session): session closed for user root
+2025-07-22T16:28:02.943622-03:00 linux-lab02 sshd[1955]: Received disconnect from 172.16.166.1 port 39066:11: disconnected by user
+2025-07-22T16:28:02.944259-03:00 linux-lab02 sshd[1955]: Disconnected from user pun1sh3r 172.16.166.1 port 39066
+2025-07-22T16:28:02.956797-03:00 linux-lab02 sshd[1929]: pam_unix(sshd:session): session closed for user pun1sh3r
+2025-07-22T16:28:02.961447-03:00 linux-lab02 systemd-logind[564]: Session 4 logged out. Waiting for processes to exit.
+2025-07-22T16:28:02.962711-03:00 linux-lab02 systemd-logind[564]: Removed session 4.
+2025-07-22T17:17:01.431893-03:00 linux-lab02 CRON[4895]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2025-07-22T17:17:01.466118-03:00 linux-lab02 CRON[4895]: pam_unix(cron:session): session closed for user root
+2025-07-22T18:17:01.504198-03:00 linux-lab02 CRON[5365]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2025-07-22T18:17:01.524947-03:00 linux-lab02 CRON[5365]: pam_unix(cron:session): session closed for user root
+2025-07-22T19:17:01.570798-03:00 linux-lab02 CRON[6012]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2025-07-22T19:17:01.592287-03:00 linux-lab02 CRON[6012]: pam_unix(cron:session): session closed for user root
+2025-07-22T19:51:26.153566-03:00 linux-lab02 systemd-logind[564]: The system will power off now!
+2025-07-22T19:51:26.164511-03:00 linux-lab02 systemd-logind[564]: System is powering down.
+2025-07-23T22:36:38.941670-03:00 linux-lab02 systemd-logind[566]: New seat seat0.
+2025-07-23T22:36:38.941770-03:00 linux-lab02 systemd-logind[566]: Watching system buttons on /dev/input/event4 (Power Button)
+2025-07-23T22:36:38.941834-03:00 linux-lab02 systemd-logind[566]: Watching system buttons on /dev/input/event0 (AT Translated Set 2 keyboard)
+2025-07-23T22:36:39.116786-03:00 linux-lab02 sshd[648]: Server listening on 0.0.0.0 port 22.
+2025-07-23T22:36:39.117549-03:00 linux-lab02 sshd[648]: Server listening on :: port 22.
+2025-07-23T22:51:35.947922-03:00 linux-lab02 login[644]: pam_unix(login:auth): authentication failure; logname=LOGIN uid=0 euid=0 tty=/dev/tty1 ruser= rhost=  user=root
+2025-07-23T22:51:38.971293-03:00 linux-lab02 login[644]: FAILED LOGIN (1) on '/dev/tty1' FOR 'root', Authentication failure
+2025-07-23T22:51:42.826731-03:00 linux-lab02 login[644]: pam_unix(login:session): session opened for user root(uid=0) by LOGIN(uid=0)
+2025-07-23T22:51:42.848213-03:00 linux-lab02 systemd-logind[566]: New session 1 of user root.
+2025-07-23T22:51:42.884607-03:00 linux-lab02 (systemd): pam_unix(systemd-user:session): session opened for user root(uid=0) by (uid=0)
+2025-07-23T22:51:43.060506-03:00 linux-lab02 login[2120]: ROOT LOGIN  on '/dev/tty1'
+2025-07-23T22:52:10.834928-03:00 linux-lab02 sshd[2124]: Accepted password for pun1sh3r from 172.16.166.1 port 53550 ssh2
+2025-07-23T22:52:10.835741-03:00 linux-lab02 sshd[2124]: pam_unix(sshd:session): session opened for user pun1sh3r(uid=1000) by (uid=0)
+2025-07-23T22:52:10.864316-03:00 linux-lab02 systemd-logind[566]: New session 3 of user pun1sh3r.
+2025-07-23T22:52:10.880719-03:00 linux-lab02 (systemd): pam_unix(systemd-user:session): session opened for user pun1sh3r(uid=1000) by (uid=0)
+2025-07-23T22:52:11.033378-03:00 linux-lab02 sshd[2124]: pam_env(sshd:session): deprecated reading of user environment enabled
+2025-07-23T22:52:23.986638-03:00 linux-lab02 su[2153]: (to root) pun1sh3r on pts/0
+2025-07-23T22:52:23.987395-03:00 linux-lab02 su[2153]: pam_unix(su:session): session opened for user root(uid=0) by pun1sh3r(uid=1000)
+2025-07-23T22:54:17.557294-03:00 linux-lab02 groupadd[2716]: group added to /etc/group: name=ssl-cert, GID=109
+2025-07-23T22:54:17.557548-03:00 linux-lab02 groupadd[2716]: group added to /etc/gshadow: name=ssl-cert
+2025-07-23T22:54:17.564406-03:00 linux-lab02 groupadd[2716]: new group: name=ssl-cert, GID=109
+2025-07-23T23:06:33.446674-03:00 linux-lab02 su[2153]: pam_unix(su:session): session closed for user root
+2025-07-23T23:06:33.607643-03:00 linux-lab02 sshd[2149]: Received disconnect from 172.16.166.1 port 53550:11: disconnected by user
+2025-07-23T23:06:33.613009-03:00 linux-lab02 sshd[2149]: Disconnected from user pun1sh3r 172.16.166.1 port 53550
+2025-07-23T23:06:33.616754-03:00 linux-lab02 sshd[2124]: pam_unix(sshd:session): session closed for user pun1sh3r
+2025-07-23T23:06:33.632906-03:00 linux-lab02 systemd-logind[566]: Session 3 logged out. Waiting for processes to exit.
+2025-07-23T23:06:33.635949-03:00 linux-lab02 systemd-logind[566]: Removed session 3.
+2025-07-23T23:06:40.877191-03:00 linux-lab02 systemd-logind[566]: The system will power off now!
+2025-07-23T23:06:40.883811-03:00 linux-lab02 systemd-logind[566]: System is powering down.
+2025-07-24T09:51:59.499677-03:00 linux-lab02 systemd-logind[570]: New seat seat0.
+2025-07-24T09:51:59.518259-03:00 linux-lab02 systemd-logind[570]: Watching system buttons on /dev/input/event4 (Power Button)
+2025-07-24T09:51:59.518430-03:00 linux-lab02 systemd-logind[570]: Watching system buttons on /dev/input/event0 (AT Translated Set 2 keyboard)
+2025-07-24T09:52:00.153002-03:00 linux-lab02 sshd[729]: Server listening on 0.0.0.0 port 22.
+2025-07-24T09:52:00.161094-03:00 linux-lab02 sshd[729]: Server listening on :: port 22.
+2025-07-24T09:52:44.909189-03:00 linux-lab02 sshd[1376]: Accepted password for pun1sh3r from 172.16.166.1 port 56600 ssh2
+2025-07-24T09:52:44.911091-03:00 linux-lab02 sshd[1376]: pam_unix(sshd:session): session opened for user pun1sh3r(uid=1000) by (uid=0)
+2025-07-24T09:52:44.939934-03:00 linux-lab02 systemd-logind[570]: New session 1 of user pun1sh3r.
+2025-07-24T09:52:44.983277-03:00 linux-lab02 (systemd): pam_unix(systemd-user:session): session opened for user pun1sh3r(uid=1000) by (uid=0)
+2025-07-24T09:52:45.210025-03:00 linux-lab02 sshd[1376]: pam_env(sshd:session): deprecated reading of user environment enabled
+2025-07-24T09:53:46.007903-03:00 linux-lab02 su[1588]: (to root) pun1sh3r on pts/0
+2025-07-24T09:53:46.009184-03:00 linux-lab02 su[1588]: pam_unix(su:session): session opened for user root(uid=0) by pun1sh3r(uid=1000)
+2025-07-24T10:09:01.289572-03:00 linux-lab02 CRON[1715]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2025-07-24T10:09:01.303077-03:00 linux-lab02 CRON[1715]: pam_unix(cron:session): session closed for user root
+2025-07-24T10:17:01.321444-03:00 linux-lab02 CRON[1804]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2025-07-24T10:17:01.352290-03:00 linux-lab02 CRON[1804]: pam_unix(cron:session): session closed for user root
+2025-07-24T10:39:01.398514-03:00 linux-lab02 CRON[2354]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2025-07-24T10:39:01.423313-03:00 linux-lab02 CRON[2354]: pam_unix(cron:session): session closed for user root
+2025-07-24T11:09:01.451852-03:00 linux-lab02 CRON[2753]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2025-07-24T11:09:01.481302-03:00 linux-lab02 CRON[2753]: pam_unix(cron:session): session closed for user root
+2025-07-24T11:17:01.488369-03:00 linux-lab02 CRON[2846]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2025-07-24T11:17:01.501781-03:00 linux-lab02 CRON[2846]: pam_unix(cron:session): session closed for user root
+2025-07-24T11:31:03.472713-03:00 linux-lab02 systemd-logind[612]: New seat seat0.
+2025-07-24T11:31:03.490502-03:00 linux-lab02 systemd-logind[612]: Watching system buttons on /dev/input/event4 (Power Button)
+2025-07-24T11:31:03.490745-03:00 linux-lab02 systemd-logind[612]: Watching system buttons on /dev/input/event0 (AT Translated Set 2 keyboard)
+2025-07-24T11:31:03.696228-03:00 linux-lab02 sshd[705]: Server listening on 0.0.0.0 port 22.
+2025-07-24T11:31:03.698331-03:00 linux-lab02 sshd[705]: Server listening on :: port 22.
+2025-07-24T11:36:15.938831-03:00 linux-lab02 systemd-logind[612]: The system will power off now!
+2025-07-24T11:36:15.941487-03:00 linux-lab02 systemd-logind[612]: System is powering down.
+2025-07-24T11:37:05.795435-03:00 linux-lab02 systemd-logind[542]: New seat seat0.
+2025-07-24T11:37:05.804254-03:00 linux-lab02 systemd-logind[542]: Watching system buttons on /dev/input/event4 (Power Button)
+2025-07-24T11:37:05.804715-03:00 linux-lab02 systemd-logind[542]: Watching system buttons on /dev/input/event0 (AT Translated Set 2 keyboard)
+2025-07-24T11:37:06.108388-03:00 linux-lab02 sshd[684]: Server listening on 0.0.0.0 port 22.
+2025-07-24T11:37:06.113760-03:00 linux-lab02 sshd[684]: Server listening on :: port 22.
+2025-07-24T11:37:55.664739-03:00 linux-lab02 login[675]: pam_unix(login:session): session opened for user root(uid=0) by LOGIN(uid=0)
+2025-07-24T11:37:55.675495-03:00 linux-lab02 systemd-logind[542]: New session 1 of user root.
+2025-07-24T11:37:55.715893-03:00 linux-lab02 (systemd): pam_unix(systemd-user:session): session opened for user root(uid=0) by (uid=0)
+2025-07-24T11:37:55.919884-03:00 linux-lab02 login[1493]: ROOT LOGIN  on '/dev/tty1'
+2025-07-24T11:39:01.642363-03:00 linux-lab02 CRON[1523]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2025-07-24T11:39:01.646459-03:00 linux-lab02 CRON[1523]: pam_unix(cron:session): session closed for user root
+2025-07-24T11:46:20.121112-03:00 linux-lab02 sshd[1611]: Accepted password for pun1sh3r from 172.16.166.1 port 51356 ssh2
+2025-07-24T11:46:20.124113-03:00 linux-lab02 sshd[1611]: pam_unix(sshd:session): session opened for user pun1sh3r(uid=1000) by (uid=0)
+2025-07-24T11:46:20.151738-03:00 linux-lab02 systemd-logind[542]: New session 4 of user pun1sh3r.
+2025-07-24T11:46:20.193924-03:00 linux-lab02 (systemd): pam_unix(systemd-user:session): session opened for user pun1sh3r(uid=1000) by (uid=0)
+2025-07-24T11:46:20.349066-03:00 linux-lab02 sshd[1611]: pam_env(sshd:session): deprecated reading of user environment enabled
+2025-07-24T11:46:24.426922-03:00 linux-lab02 su[1643]: (to root) pun1sh3r on pts/0
+2025-07-24T11:46:24.427746-03:00 linux-lab02 su[1643]: pam_unix(su:session): session opened for user root(uid=0) by pun1sh3r(uid=1000)
+2025-07-24T12:04:18.546739-03:00 linux-lab02 su[1643]: pam_unix(su:session): session closed for user root
+2025-07-24T12:04:35.495859-03:00 linux-lab02 su[1847]: (to root) pun1sh3r on pts/0
+2025-07-24T12:04:35.500062-03:00 linux-lab02 su[1847]: pam_unix(su:session): session opened for user root(uid=0) by pun1sh3r(uid=1000)
+2025-07-24T12:09:01.708565-03:00 linux-lab02 CRON[1892]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2025-07-24T12:09:01.715585-03:00 linux-lab02 CRON[1892]: pam_unix(cron:session): session closed for user root
+2025-07-24T12:17:01.724092-03:00 linux-lab02 CRON[1985]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2025-07-24T12:17:01.733408-03:00 linux-lab02 CRON[1985]: pam_unix(cron:session): session closed for user root
+2025-07-24T12:24:09.018549-03:00 linux-lab02 sshd[2062]: Accepted password for pun1sh3r from 172.16.166.1 port 37586 ssh2
+2025-07-24T12:24:09.019692-03:00 linux-lab02 sshd[2062]: pam_unix(sshd:session): session opened for user pun1sh3r(uid=1000) by (uid=0)
+2025-07-24T12:24:09.032982-03:00 linux-lab02 systemd-logind[542]: New session 8 of user pun1sh3r.
+2025-07-24T12:24:09.043269-03:00 linux-lab02 sshd[2062]: pam_env(sshd:session): deprecated reading of user environment enabled
+2025-07-24T12:24:13.216013-03:00 linux-lab02 su[2072]: (to root) pun1sh3r on pts/1
+2025-07-24T12:24:13.217409-03:00 linux-lab02 su[2072]: pam_unix(su:session): session opened for user root(uid=0) by pun1sh3r(uid=1000)
+2025-07-24T12:24:46.148750-03:00 linux-lab02 groupadd[2138]: group added to /etc/group: name=tcpdump, GID=110
+2025-07-24T12:24:46.153065-03:00 linux-lab02 groupadd[2138]: group added to /etc/gshadow: name=tcpdump
+2025-07-24T12:24:46.153154-03:00 linux-lab02 groupadd[2138]: new group: name=tcpdump, GID=110
+2025-07-24T12:24:46.225713-03:00 linux-lab02 useradd[2146]: new user: name=tcpdump, UID=102, GID=110, home=/nonexistent, shell=/usr/sbin/nologin, from=/dev/pts/2
+2025-07-24T12:39:01.761176-03:00 linux-lab02 CRON[2328]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2025-07-24T12:39:01.773926-03:00 linux-lab02 CRON[2328]: pam_unix(cron:session): session closed for user root
+2025-07-24T13:09:01.802406-03:00 linux-lab02 CRON[2666]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2025-07-24T13:09:01.839870-03:00 linux-lab02 CRON[2666]: pam_unix(cron:session): session closed for user root
+2025-07-24T13:17:01.879235-03:00 linux-lab02 CRON[2756]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2025-07-24T13:17:01.892765-03:00 linux-lab02 CRON[2756]: pam_unix(cron:session): session closed for user root
+2025-07-24T13:39:01.917701-03:00 linux-lab02 CRON[3111]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2025-07-24T13:39:01.920860-03:00 linux-lab02 CRON[3111]: pam_unix(cron:session): session closed for user root
+2025-07-24T14:09:01.931230-03:00 linux-lab02 CRON[3503]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2025-07-24T14:09:01.951260-03:00 linux-lab02 CRON[3503]: pam_unix(cron:session): session closed for user root
+2025-07-24T14:17:01.957257-03:00 linux-lab02 CRON[3644]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2025-07-24T14:17:01.964926-03:00 linux-lab02 CRON[3644]: pam_unix(cron:session): session closed for user root
+2025-07-24T14:39:01.986189-03:00 linux-lab02 CRON[26825]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2025-07-24T14:39:01.997026-03:00 linux-lab02 CRON[26825]: pam_unix(cron:session): session closed for user root
+2025-07-24T15:09:01.067494-03:00 linux-lab02 CRON[27733]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2025-07-24T15:09:01.090377-03:00 linux-lab02 CRON[27733]: pam_unix(cron:session): session closed for user root
+2025-07-24T15:17:01.102753-03:00 linux-lab02 CRON[27831]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2025-07-24T15:17:01.117710-03:00 linux-lab02 CRON[27831]: pam_unix(cron:session): session closed for user root
+2025-07-24T15:39:01.164358-03:00 linux-lab02 CRON[28068]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2025-07-24T15:39:01.183967-03:00 linux-lab02 CRON[28068]: pam_unix(cron:session): session closed for user root
+2025-07-24T16:09:01.207804-03:00 linux-lab02 CRON[28739]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2025-07-24T16:09:01.210554-03:00 linux-lab02 CRON[28739]: pam_unix(cron:session): session closed for user root
+2025-07-24T16:17:01.215629-03:00 linux-lab02 CRON[28871]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2025-07-24T16:17:01.229517-03:00 linux-lab02 CRON[28871]: pam_unix(cron:session): session closed for user root
+2025-07-24T16:39:01.259884-03:00 linux-lab02 CRON[29081]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2025-07-24T16:39:01.291303-03:00 linux-lab02 CRON[29081]: pam_unix(cron:session): session closed for user root
+2025-07-24T16:46:42.798262-03:00 linux-lab02 sshd[29184]: Accepted password for pun1sh3r from 172.16.166.1 port 48832 ssh2
+2025-07-24T16:46:42.800273-03:00 linux-lab02 sshd[29184]: pam_unix(sshd:session): session opened for user pun1sh3r(uid=1000) by (uid=0)
+2025-07-24T16:46:42.821359-03:00 linux-lab02 systemd-logind[542]: New session 22 of user pun1sh3r.
+2025-07-24T16:46:42.854619-03:00 linux-lab02 sshd[29184]: pam_env(sshd:session): deprecated reading of user environment enabled
+2025-07-24T16:46:46.201051-03:00 linux-lab02 su[29195]: (to root) pun1sh3r on pts/2
+2025-07-24T16:46:46.220112-03:00 linux-lab02 su[29195]: pam_unix(su:session): session opened for user root(uid=0) by pun1sh3r(uid=1000)
+2025-07-24T17:09:01.318361-03:00 linux-lab02 CRON[29393]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2025-07-24T17:09:01.318888-03:00 linux-lab02 CRON[29393]: pam_unix(cron:session): session closed for user root
+2025-07-24T17:17:01.325340-03:00 linux-lab02 CRON[29508]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2025-07-24T17:17:01.335817-03:00 linux-lab02 CRON[29508]: pam_unix(cron:session): session closed for user root
+2025-07-24T17:39:01.353581-03:00 linux-lab02 CRON[29857]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2025-07-24T17:39:01.383876-03:00 linux-lab02 CRON[29857]: pam_unix(cron:session): session closed for user root

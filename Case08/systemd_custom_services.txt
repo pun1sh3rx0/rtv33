@@ -1,0 +1,12 @@
+total 28
+lrwxrwxrwx 1 root root   45 Jul 21 14:45 dbus-org.freedesktop.timesync1.service -> /lib/systemd/system/systemd-timesyncd.service
+drwxr-xr-x 2 root root 4096 Jul 21 14:41 getty.target.wants
+drwxr-xr-x 2 root root 4096 Jul 24 16:03 multi-user.target.wants
+drwxr-xr-x 2 root root 4096 Jul 21 14:41 network-online.target.wants
+drwxr-xr-x 2 root root 4096 Jul 21 14:46 open-vm-tools.service.requires
+lrwxrwxrwx 1 root root   31 Jul 21 14:45 sshd.service -> /lib/systemd/system/ssh.service
+drwxr-xr-x 2 root root 4096 Jul 21 14:45 sysinit.target.wants
+lrwxrwxrwx 1 root root   35 Jul 22 11:27 syslog.service -> /lib/systemd/system/rsyslog.service
+drwxr-xr-x 2 root root 4096 Jul 23 22:54 timers.target.wants
+-rw-r--r-- 1 root root  463 Jul 21 16:34 traps_pmd.service
+lrwxrwxrwx 1 root root   41 Jul 21 14:46 vmtoolsd.service -> /lib/systemd/system/open-vm-tools.service

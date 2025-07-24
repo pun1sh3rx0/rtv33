@@ -1,0 +1,1673 @@
+2025/07/21 17:13:04 | INFO     | 2387 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(MainThread  ) | Starting Cortex XDR Payload V3.15.0.20250721171304
+2025/07/21 17:13:04 | INFO     | 2387 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(MainThread  ) | Executed by Traps: TRUE
+2025/07/21 17:13:04 | INFO     | 2387 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(MainThread  ) | Logger class: 'Logger'
+2025/07/21 17:13:04 | INFO     | 2387 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(MainThread  ) | Using OpenSSL version: OpenSSL 3.3.2 3 Sep 2024
+2025/07/21 17:13:04 | INFO     | 2387 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(MainThread  ) | Using OpenSSL FIPS enabled: True
+2025/07/21 17:13:04 | INFO     | 2387 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(MainThread  ) | Additional parameters: {'script_path': '/opt/traps/python/scripts;/opt/traps/download/content'}
+2025/07/21 17:13:04 | INFO     | 2387 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(MainThread  ) | sys._MEIPASS: /opt/traps/download/protected_payload_execution
+2025/07/21 17:13:04 | INFO     | 2387 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(MainThread  ) | No bypassing hosts file enforced.
+2025/07/21 17:13:04 | INFO     | 2387 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(MainThread  ) | PyInstaller bootloader path (sys.executable): /opt/traps/download/protected_payload_execution/cortex-xdr-payload
+2025/07/21 17:13:04 | INFO     | 2387 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(MainThread  ) | Bundle directory: /opt/traps/download/protected_payload_execution, Cwd: /opt/traps/tmp/payload_execution/ee1d9765
+2025/07/21 17:13:04 | INFO     | 2387 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(MainThread  ) | ScriptExecutionPayload: output_limit_bytes=1048576
+2025/07/21 17:13:04 | INFO     | 2387 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(MainThread  ) | ScriptExecutionPayload: stdout_limit_bytes=10240
+2025/07/21 17:13:04 | INFO     | 2387 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(MainThread  ) | Running script 'detect_cloud.py' in current working directory: /opt/traps/tmp/payload_execution/ee1d9765
+2025/07/21 17:13:04 | INFO     | 2387 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(MainThread  ) | Script input parameters:
+ null
+2025/07/21 17:13:04 | INFO     | 2387 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(MainThread  ) | sys.path: ['/opt/traps/download/protected_payload_execution/base_library.zip', '/opt/traps/download/protected_payload_execution/lib-dynload', '/opt/traps/download/protected_payload_execution', '/opt/traps/download/protected_payload_execution/setuptools/_vendor', '/opt/traps/python/scripts', '/opt/traps/download/content', '/opt/traps/tmp/payload_execution/ee1d9765']
+2025/07/21 17:13:04 | INFO     | 2387 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(script_thread) | Started script execution thread
+2025/07/21 17:13:04 | INFO     | 2387 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(script_thread) | Execution location: /opt/traps/tmp/payload_execution/ee1d9765
+2025/07/21 17:13:04 | INFO     | 2387 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(script_thread) | Found 2 files/directories in directory: /opt/traps/tmp/payload_execution/ee1d9765
+2025/07/21 17:13:04 | INFO     | 2387 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(script_thread) | Going to run: detect_cloud.detect_cloud() with kwargs: {}
+2025/07/21 17:13:34 | INFO     | 2387 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(script_thread) | Changing back location to: /opt/traps/tmp/payload_execution/ee1d9765 for script result calculation
+2025/07/21 17:13:34 | INFO     | 2387 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(script_thread) | Script runtime duration: 30.0803 seconds.
+2025/07/21 17:13:34 | INFO     | 2387 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(script_thread) | In _handle_script_stdout stdoutSize:132
+2025/07/21 17:13:34 | INFO     | 2387 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(script_thread) | In the end of _handle_script_stdout waitForTus: False
+2025/07/21 17:13:34 | INFO     | 2387 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(script_thread) | Starting _handle_script_output_results
+2025/07/21 17:13:34 | INFO     | 2387 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(script_thread) | Dumping scriptOutput to json string
+2025/07/21 17:13:34 | INFO     | 2387 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(script_thread) | scriptOutputSize: 127, output_limit_bytes: 1048576, before check for output size waitForTus: False
+2025/07/21 17:13:34 | INFO     | 2387 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(script_thread) | No need to use TUS because 127 <  1048576 and offline_collector_mode is:0
+2025/07/21 17:13:34 | INFO     | 2387 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(script_thread) | In the end of _handle_script_output_results waitForTus: False
+2025/07/21 17:13:34 | INFO     | 2387 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(script_thread) | Found 2 files/directories in directory: /opt/traps/tmp/payload_execution/ee1d9765
+2025/07/21 17:13:34 | INFO     | 2387 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(script_thread) | Ended script execution thread
+2025/07/21 17:13:34 | INFO     | 2387 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(MainThread  ) | Got waitForTus:False in script results
+2025/07/21 17:13:34 | INFO     | 2387 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(MainThread  ) | Script output :
+{
+    "messageId": "fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f",
+    "scriptOutput": {
+        "Azure": false,
+        "AWS": false,
+        "GCP": false,
+        "Alibaba": false,
+        "IBM": false,
+        "Oracle": false,
+        "Tencent": false,
+        "metadata": {}
+    },
+    "scriptExitCode": 0,
+    "stdout": "Ibm not detected\nAzure not detected\nOracle not detected\nAWS not detected\nGCP not detected\nTencent not detected\nAlibaba not detected\n",
+    "stdoutSize": 132,
+    "waitForTus": false,
+    "timeout": false,
+    "scriptType": "detectCloudScript",
+    "scriptOutputSize": 127,
+    "runtimeDurationSec": "30.0803"
+}
+2025/07/21 17:13:34 | INFO     | 2387 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(MainThread  ) | Before dump of script_results_dict to results.json waitForTus=False, scriptOutputSize=127
+2025/07/21 17:13:34 | INFO     | 2387 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(MainThread  ) | Output file 'results.json' is written successfully.
+2025/07/21 17:13:34 | INFO     | 2387 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(MainThread  ) | Cortex XDR Payload Ended with exit code=0
+2025/07/21 19:49:45 | INFO     | 1711 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(MainThread  ) | Starting Cortex XDR Payload V3.15.0.20250721194945
+2025/07/21 19:49:45 | INFO     | 1711 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(MainThread  ) | Executed by Traps: TRUE
+2025/07/21 19:49:45 | INFO     | 1711 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(MainThread  ) | Logger class: 'Logger'
+2025/07/21 19:49:45 | INFO     | 1711 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(MainThread  ) | Using OpenSSL version: OpenSSL 3.3.2 3 Sep 2024
+2025/07/21 19:49:45 | INFO     | 1711 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(MainThread  ) | Using OpenSSL FIPS enabled: True
+2025/07/21 19:49:45 | INFO     | 1711 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(MainThread  ) | Additional parameters: {'script_path': '/opt/traps/python/scripts;/opt/traps/download/content'}
+2025/07/21 19:49:45 | INFO     | 1711 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(MainThread  ) | sys._MEIPASS: /opt/traps/download/protected_payload_execution
+2025/07/21 19:49:45 | INFO     | 1711 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(MainThread  ) | No bypassing hosts file enforced.
+2025/07/21 19:49:45 | INFO     | 1711 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(MainThread  ) | PyInstaller bootloader path (sys.executable): /opt/traps/download/protected_payload_execution/cortex-xdr-payload
+2025/07/21 19:49:45 | INFO     | 1711 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(MainThread  ) | Bundle directory: /opt/traps/download/protected_payload_execution, Cwd: /opt/traps/tmp/payload_execution/c3be4760
+2025/07/21 19:49:45 | INFO     | 1711 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(MainThread  ) | ScriptExecutionPayload: output_limit_bytes=1048576
+2025/07/21 19:49:45 | INFO     | 1711 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(MainThread  ) | ScriptExecutionPayload: stdout_limit_bytes=10240
+2025/07/21 19:49:45 | INFO     | 1711 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(MainThread  ) | Running script 'collect_compliance.py' in current working directory: /opt/traps/tmp/payload_execution/c3be4760
+2025/07/21 19:49:45 | INFO     | 1711 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(MainThread  ) | Script input parameters:
+ null
+2025/07/21 19:49:45 | INFO     | 1711 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(MainThread  ) | sys.path: ['/opt/traps/download/protected_payload_execution/base_library.zip', '/opt/traps/download/protected_payload_execution/lib-dynload', '/opt/traps/download/protected_payload_execution', '/opt/traps/download/protected_payload_execution/setuptools/_vendor', '/opt/traps/python/scripts', '/opt/traps/download/content', '/opt/traps/tmp/payload_execution/c3be4760']
+2025/07/21 19:49:45 | INFO     | 1711 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(script_thread) | Started script execution thread
+2025/07/21 19:49:45 | INFO     | 1711 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(script_thread) | Execution location: /opt/traps/tmp/payload_execution/c3be4760
+2025/07/21 19:49:45 | INFO     | 1711 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(script_thread) | Found 4 files/directories in directory: /opt/traps/tmp/payload_execution/c3be4760
+2025/07/21 19:49:45 | INFO     | 1711 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(script_thread) | Going to run: collect_compliance.collect() with kwargs: {}
+2025/07/21 19:49:54 | INFO     | 1711 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(script_thread) | Changing back location to: /opt/traps/tmp/payload_execution/c3be4760 for script result calculation
+2025/07/21 19:49:54 | INFO     | 1711 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(script_thread) | Script runtime duration: 8.8651 seconds.
+2025/07/21 19:49:54 | INFO     | 1711 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(script_thread) | In _handle_script_stdout stdoutSize:0
+2025/07/21 19:49:54 | INFO     | 1711 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(script_thread) | In the end of _handle_script_stdout waitForTus: False
+2025/07/21 19:49:54 | INFO     | 1711 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(script_thread) | Starting _handle_script_output_results
+2025/07/21 19:49:54 | INFO     | 1711 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(script_thread) | Dumping scriptOutput to json string
+2025/07/21 19:49:54 | INFO     | 1711 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(script_thread) | scriptOutputSize: 96014, output_limit_bytes: 1048576, before check for output size waitForTus: False
+2025/07/21 19:49:54 | INFO     | 1711 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(script_thread) | No need to use TUS because 96014 <  1048576 and offline_collector_mode is:0
+2025/07/21 19:49:54 | INFO     | 1711 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(script_thread) | In the end of _handle_script_output_results waitForTus: False
+2025/07/21 19:49:54 | INFO     | 1711 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(script_thread) | Found 4 files/directories in directory: /opt/traps/tmp/payload_execution/c3be4760
+2025/07/21 19:49:54 | INFO     | 1711 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(script_thread) | Ended script execution thread
+2025/07/21 19:49:54 | INFO     | 1711 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(MainThread  ) | Got waitForTus:False in script results
+2025/07/21 19:49:54 | INFO     | 1711 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(MainThread  ) | Script output (trimmed):
+{
+    "messageId": "df418db2-987c-4926-a17c-e69be5aa3ce1",
+    "scriptOutput": {
+        "hostComplianceIssues": [
+            {
+                "id": 6112,
+                "title": "(CIS_Linux_2.0.0 - 1.1.2) Ensure /tmp is configured",
+                "severity": "high",
+                "cause": "The directory /tmp should be mounted. File: /proc/mounts",
+                "description": "The /tmp directory is a world-writable directory used for temporary storage by all users\nand some applications.",
+                "layerTime": "1969-12-31T21:00:00-03:00",
+                "category": "Linux"
+            },
+            {
+                "id": 6116,
+                "title": "(CIS_Linux_2.0.0 - 1.1.6) Ensure separate partition exists for /var",
+                "severity": "medium",
+                "cause": "The directory /var should be mounted. File: /proc/mounts",
+                "description": "Since the /var directory may contain world-writable files and directories, there is a risk of\nresource exhaustion if it is not bound to a separate partition",
+                "layerTime": "1969-12-31T21:00:00-03:00",
+                "category": "Linux"
+            },
+            {
+                "id": 6117,
+                "title": "(CIS_Linux_2.0.0 - 1.1.7) Ensure separate partition exists for /var/tmp",
+                "severity": "medium",
+                "cause": "The directory /var/tmp should be mounted. File: /proc/mounts",
+                "description": "The /var/tmp directory is a world-writable directory used for temporary storage by all\nusers and some applications",
+                "layerTime": "1969-12-31T21:00:00-03:00",
+                "category": "Linux"
+            },
+            {
+                "id": 61115,
+                "title": "(CIS_Linux_2.0.0 - 1.1.11) Ensure separate partition exists for /var/log",
+                "severity": "medium",
+                "cause": "The directory /var/log should be mounted. File: /proc/mounts",
+                "description": "There are two important reasons to ensure that system logs are stored on a separate\npartition: protection against resource exhaustion (since logs can grow quite large) and\nprotection of audit data",
+                "layerTime": "1969-12-31T21:00:00-03:00",
+                "category": "Linux"
+            },
+            {
+                "id": 61116,
+                "title": "(CIS_Linux_2.0.0 - 1.1.12) Ensure separate partition exists for /var/log/audit",
+                "severity": "medium",
+                "cause": "The directory /var/log/audit should be mounted. File: /proc/mounts",
+                "description": "There are two important reasons to ensure that data gathered by auditd is stored on a\nseparate partition: protection against resource exhaustion (since the audit.log file can\ngrow quite large) and protection of audit data. The audit daemon calculates how much free\nspace is left and performs actions based on the results. If other processes (such as syslog )\nconsume space in the same partition as auditd , it may not perform as desired",
+                "layerTime": "1969-12-31T21:00:00-03:00",
+                "category": "Linux"
+            },
+            {
+                "id": 61121,
+                "title": "(CIS_Linux_2.0.0 - 1.1.17) Ensure noexec option set on /dev/shm partition",
+                "severity": "medium",
+                "description": "Setting this option on a file system prevents users from executing programs from shared\nmemory. This deters users from introducing potentially malicious software on the system",
+                "layerTime": "1969-12-31T21:00:00-03:00",
+                "category": "Linux"
+            },
+            {
+                "id": 6312,
+                "title": "(CIS_Linux_2.0.0 - 3.1.2) Ensure packet redirect sending is disabled",
+                "severity": "medium",
+                "cause": "Systemd service configuration net/ipv4/conf/all/send_redirects is set to 1 but should be 0",
+                "description": "ICMP Redirects are used to send routing information to other hosts. As a host itself does\nnot act as a router (in a host only configuration), there is no need to send redirects",
+                "layerTime": "1969-12-31T21:00:00-03:00",
+                "category": "Linux"
+            },
+            {
+                "id": 6312,
+                "title": "(CIS_Linux_2.0.0 - 3.1.2) Ensure packet redirect sending is disabled",
+                "severity": "medium",
+                "cause": "Systemd service configuration net/ipv4/conf/default/send_redirects is set to 1 but should be 0",
+                "description": "ICMP Redirects are used to send routing information to other hosts. As a host itself does\nnot act as a router (in a host only configuration), there is no need to send redirects",
+                "layerTime": "1969-12-31T21:00:00-03:00",
+                "category": "Linux"
+            },
+            {
+                "id": 6321,
+                "title": "(CIS_Linux_2.0.0 - 3.2.1) Ensure source routed packets are not accepted",
+                "severity": "high",
+                "cause": "Systemd service configuration net/ipv4/conf/default/accept_source_route is set to 1 but should be 0",
+                "description": "In networking, source routing allows a sender to partially or fully specify the route packets\ntake through a network. In contrast, non-source routed packets travel a path determined\nby routers in the network. In some cases, systems may not be routable or reachable from\nsome locations (e.g. private addresses vs. Internet routable), and so source routed packets\nwould need to be used.",
+                "layerTime": "1969-12-31T21:00:00-03:00",
+                "category": "Linux"
+            },
+            {
+                "id": 6322,
+                "title": "(CIS_Linux_2.0.0 - 3.2.2) Ensure ICMP redirects are not accepted",
+                "severity": "medium",
+                "cause": "Systemd service configuration net/ipv4/conf/all/accept_redirects is set to 1 but should be 0",
+                "description": "ICMP redirect messages are packets that convey routing information and tell your host\n(acting as a router) to send packets via an alternate path. It is a way of allowing an outside\nrouting device to update your system routing tables. By setting\nnet.ipv4.conf.all.accept_redirects to 0, the system will not accept any ICMP redirect\nmessages, and therefore, won't allow outsiders to update the system's routing tables",
+                "layerTime": "1969-12-31T21:00:00-03:00",
+                "category": "Linux"
+            },
+            {
+                "id": 6322,
+                "title": "(CIS_Linux_2.0.0 - 3.2.2) Ensure ICMP redirects are not accepted",
+                "severity": "medium",
+                "cause": "Systemd service configuration net/ipv4/conf/default/accept_redirects is set to 1 but should be 0",
+                "description": "ICMP redirect messages are packets that convey routing information and tell your host\n(acting as a router) to send packets via an alternate path. It is a way of allowing an outside\nrouting device to update your system routing tables. By setting\nnet.ipv4.conf.all.accept_redirects to 0, the system will not accept any ICMP redirect\nmessages, and therefore, won't allow outsiders to update the system's routing tables",
+                "layerTime": "1969-12-31T21:00:00-03:00",
+                "category": "Linux"
+            },
+            {
+                "id": 6323,
+                "title": "(CIS_Linux_2.0.0 - 3.2.3) Ensure secure ICMP redirects are not accepted",
+                "severity": "medium",
+                "cause": "Systemd service configuration net/ipv4/conf/all/secure_redirects is set to 1 but should be 0",
+                "description": "Secure ICMP redirects are the same as ICMP redirects, except they come from gateways\nlisted on the default gateway list. It is assumed that these gateways are known to your\nsystem, and that they are likely to be secure",
+                "layerTime": "1969-12-31T21:00:00-03:00",
+                "category": "Linux"
+            },
+            {
+                "id": 6323,
+                "title": "(CIS_Linux_2.0.0 - 3.2.3) Ensure secure ICMP redirects are not accepted",
+                "severity": "medium",
+                "cause": "Systemd service configuration net/ipv4/conf/default/secure_redirects is set to 1 but should be 0",
+                "description": "Secure ICMP redirects are the same as ICMP redirects, except they come from gateways\nlisted on the default gateway list. It is assumed that these gateways are known to your\nsystem, and that they are likely to be secure",
+                "layerTime": "1969-12-31T21:00:00-03:00",
+                "category": "Linux"
+            },
+            {
+                "id": 6324,
+                "title": "(CIS_Linux_2.0.0 - 3.2.4) Ensure suspicious packets are logged",
+                "severity": "medium",
+                "cause": "Systemd service configuration net/ipv4/conf/all/log_martians is set to 0 but should be 1",
+                "description": "Enabling this feature and logging these packets allows an administrator to investigate the\npossibility that an attacker is sending spoofed packets to their system",
+                "layerTime": "1969-12-31T21:00:00-03:00",
+                "category": "Linux"
+            },
+            {
+                "id": 6324,
+                "title": "(CIS_Linux_2.0.0 - 3.2.4) Ensure suspicious packets are logged",
+                "severity": "medium",
+                "cause": "Systemd service configuration net/ipv4/conf/default/log_martians is set to 0 but should be 1",
+                "description": "Enabling this feature and logging these packets allows an administrator to investigate the\npossibility that an attacker is sending spoofed packets to their system",
+                "layerTime": "1969-12-31T21:00:00-03:00",
+                "
+2025/07/21 19:49:54 | INFO     | 1711 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(MainThread  ) | Before dump of script_results_dict to results.json waitForTus=False, scriptOutputSize=96014
+2025/07/21 19:49:54 | INFO     | 1711 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(MainThread  ) | Output file 'results.json' is written successfully.
+2025/07/21 19:49:54 | INFO     | 1711 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(MainThread  ) | Cortex XDR Payload Ended with exit code=0
+2025/07/22 11:05:40 | INFO     | 1457 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(MainThread  ) | Starting Cortex XDR Payload V3.15.0.20250722110539
+2025/07/22 11:05:40 | INFO     | 1457 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(MainThread  ) | Executed by Traps: TRUE
+2025/07/22 11:05:40 | INFO     | 1457 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(MainThread  ) | Logger class: 'Logger'
+2025/07/22 11:05:40 | INFO     | 1457 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(MainThread  ) | Using OpenSSL version: OpenSSL 3.3.2 3 Sep 2024
+2025/07/22 11:05:40 | INFO     | 1457 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(MainThread  ) | Using OpenSSL FIPS enabled: True
+2025/07/22 11:05:40 | INFO     | 1457 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(MainThread  ) | Additional parameters: {'script_path': '/opt/traps/python/scripts;/opt/traps/download/content'}
+2025/07/22 11:05:40 | INFO     | 1457 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(MainThread  ) | sys._MEIPASS: /opt/traps/download/protected_payload_execution
+2025/07/22 11:05:40 | INFO     | 1457 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(MainThread  ) | No bypassing hosts file enforced.
+2025/07/22 11:05:40 | INFO     | 1457 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(MainThread  ) | PyInstaller bootloader path (sys.executable): /opt/traps/download/protected_payload_execution/cortex-xdr-payload
+2025/07/22 11:05:40 | INFO     | 1457 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(MainThread  ) | Bundle directory: /opt/traps/download/protected_payload_execution, Cwd: /opt/traps/tmp/payload_execution/6b0e9e19
+2025/07/22 11:05:40 | INFO     | 1457 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(MainThread  ) | ScriptExecutionPayload: output_limit_bytes=1048576
+2025/07/22 11:05:40 | INFO     | 1457 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(MainThread  ) | ScriptExecutionPayload: stdout_limit_bytes=10240
+2025/07/22 11:05:40 | INFO     | 1457 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(MainThread  ) | Running script 'collect_compliance.py' in current working directory: /opt/traps/tmp/payload_execution/6b0e9e19
+2025/07/22 11:05:40 | INFO     | 1457 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(MainThread  ) | Script input parameters:
+ null
+2025/07/22 11:05:40 | INFO     | 1457 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(MainThread  ) | sys.path: ['/opt/traps/download/protected_payload_execution/base_library.zip', '/opt/traps/download/protected_payload_execution/lib-dynload', '/opt/traps/download/protected_payload_execution', '/opt/traps/download/protected_payload_execution/setuptools/_vendor', '/opt/traps/python/scripts', '/opt/traps/download/content', '/opt/traps/tmp/payload_execution/6b0e9e19']
+2025/07/22 11:05:40 | INFO     | 1457 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(script_thread) | Started script execution thread
+2025/07/22 11:05:40 | INFO     | 1457 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(script_thread) | Execution location: /opt/traps/tmp/payload_execution/6b0e9e19
+2025/07/22 11:05:40 | INFO     | 1457 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(script_thread) | Found 4 files/directories in directory: /opt/traps/tmp/payload_execution/6b0e9e19
+2025/07/22 11:05:40 | INFO     | 1457 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(script_thread) | Going to run: collect_compliance.collect() with kwargs: {}
+2025/07/22 11:05:48 | INFO     | 1457 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(script_thread) | Changing back location to: /opt/traps/tmp/payload_execution/6b0e9e19 for script result calculation
+2025/07/22 11:05:48 | INFO     | 1457 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(script_thread) | Script runtime duration: 8.1583 seconds.
+2025/07/22 11:05:48 | INFO     | 1457 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(script_thread) | In _handle_script_stdout stdoutSize:0
+2025/07/22 11:05:48 | INFO     | 1457 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(script_thread) | In the end of _handle_script_stdout waitForTus: False
+2025/07/22 11:05:48 | INFO     | 1457 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(script_thread) | Starting _handle_script_output_results
+2025/07/22 11:05:48 | INFO     | 1457 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(script_thread) | Dumping scriptOutput to json string
+2025/07/22 11:05:48 | INFO     | 1457 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(script_thread) | scriptOutputSize: 96465, output_limit_bytes: 1048576, before check for output size waitForTus: False
+2025/07/22 11:05:48 | INFO     | 1457 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(script_thread) | No need to use TUS because 96465 <  1048576 and offline_collector_mode is:0
+2025/07/22 11:05:48 | INFO     | 1457 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(script_thread) | In the end of _handle_script_output_results waitForTus: False
+2025/07/22 11:05:48 | INFO     | 1457 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(script_thread) | Found 4 files/directories in directory: /opt/traps/tmp/payload_execution/6b0e9e19
+2025/07/22 11:05:48 | INFO     | 1457 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(script_thread) | Ended script execution thread
+2025/07/22 11:05:48 | INFO     | 1457 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(MainThread  ) | Got waitForTus:False in script results
+2025/07/22 11:05:48 | INFO     | 1457 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(MainThread  ) | Script output (trimmed):
+{
+    "messageId": "df418db2-987c-4926-a17c-e69be5aa3ce1",
+    "scriptOutput": {
+        "hostComplianceIssues": [
+            {
+                "id": 6112,
+                "title": "(CIS_Linux_2.0.0 - 1.1.2) Ensure /tmp is configured",
+                "severity": "high",
+                "cause": "The directory /tmp should be mounted. File: /proc/mounts",
+                "description": "The /tmp directory is a world-writable directory used for temporary storage by all users\nand some applications.",
+                "layerTime": "1969-12-31T21:00:00-03:00",
+                "category": "Linux"
+            },
+            {
+                "id": 6116,
+                "title": "(CIS_Linux_2.0.0 - 1.1.6) Ensure separate partition exists for /var",
+                "severity": "medium",
+                "cause": "The directory /var should be mounted. File: /proc/mounts",
+                "description": "Since the /var directory may contain world-writable files and directories, there is a risk of\nresource exhaustion if it is not bound to a separate partition",
+                "layerTime": "1969-12-31T21:00:00-03:00",
+                "category": "Linux"
+            },
+            {
+                "id": 6117,
+                "title": "(CIS_Linux_2.0.0 - 1.1.7) Ensure separate partition exists for /var/tmp",
+                "severity": "medium",
+                "cause": "The directory /var/tmp should be mounted. File: /proc/mounts",
+                "description": "The /var/tmp directory is a world-writable directory used for temporary storage by all\nusers and some applications",
+                "layerTime": "1969-12-31T21:00:00-03:00",
+                "category": "Linux"
+            },
+            {
+                "id": 61115,
+                "title": "(CIS_Linux_2.0.0 - 1.1.11) Ensure separate partition exists for /var/log",
+                "severity": "medium",
+                "cause": "The directory /var/log should be mounted. File: /proc/mounts",
+                "description": "There are two important reasons to ensure that system logs are stored on a separate\npartition: protection against resource exhaustion (since logs can grow quite large) and\nprotection of audit data",
+                "layerTime": "1969-12-31T21:00:00-03:00",
+                "category": "Linux"
+            },
+            {
+                "id": 61116,
+                "title": "(CIS_Linux_2.0.0 - 1.1.12) Ensure separate partition exists for /var/log/audit",
+                "severity": "medium",
+                "cause": "The directory /var/log/audit should be mounted. File: /proc/mounts",
+                "description": "There are two important reasons to ensure that data gathered by auditd is stored on a\nseparate partition: protection against resource exhaustion (since the audit.log file can\ngrow quite large) and protection of audit data. The audit daemon calculates how much free\nspace is left and performs actions based on the results. If other processes (such as syslog )\nconsume space in the same partition as auditd , it may not perform as desired",
+                "layerTime": "1969-12-31T21:00:00-03:00",
+                "category": "Linux"
+            },
+            {
+                "id": 61121,
+                "title": "(CIS_Linux_2.0.0 - 1.1.17) Ensure noexec option set on /dev/shm partition",
+                "severity": "medium",
+                "description": "Setting this option on a file system prevents users from executing programs from shared\nmemory. This deters users from introducing potentially malicious software on the system",
+                "layerTime": "1969-12-31T21:00:00-03:00",
+                "category": "Linux"
+            },
+            {
+                "id": 6312,
+                "title": "(CIS_Linux_2.0.0 - 3.1.2) Ensure packet redirect sending is disabled",
+                "severity": "medium",
+                "cause": "Systemd service configuration net/ipv4/conf/all/send_redirects is set to 1 but should be 0",
+                "description": "ICMP Redirects are used to send routing information to other hosts. As a host itself does\nnot act as a router (in a host only configuration), there is no need to send redirects",
+                "layerTime": "1969-12-31T21:00:00-03:00",
+                "category": "Linux"
+            },
+            {
+                "id": 6312,
+                "title": "(CIS_Linux_2.0.0 - 3.1.2) Ensure packet redirect sending is disabled",
+                "severity": "medium",
+                "cause": "Systemd service configuration net/ipv4/conf/default/send_redirects is set to 1 but should be 0",
+                "description": "ICMP Redirects are used to send routing information to other hosts. As a host itself does\nnot act as a router (in a host only configuration), there is no need to send redirects",
+                "layerTime": "1969-12-31T21:00:00-03:00",
+                "category": "Linux"
+            },
+            {
+                "id": 6321,
+                "title": "(CIS_Linux_2.0.0 - 3.2.1) Ensure source routed packets are not accepted",
+                "severity": "high",
+                "cause": "Systemd service configuration net/ipv4/conf/default/accept_source_route is set to 1 but should be 0",
+                "description": "In networking, source routing allows a sender to partially or fully specify the route packets\ntake through a network. In contrast, non-source routed packets travel a path determined\nby routers in the network. In some cases, systems may not be routable or reachable from\nsome locations (e.g. private addresses vs. Internet routable), and so source routed packets\nwould need to be used.",
+                "layerTime": "1969-12-31T21:00:00-03:00",
+                "category": "Linux"
+            },
+            {
+                "id": 6322,
+                "title": "(CIS_Linux_2.0.0 - 3.2.2) Ensure ICMP redirects are not accepted",
+                "severity": "medium",
+                "cause": "Systemd service configuration net/ipv4/conf/all/accept_redirects is set to 1 but should be 0",
+                "description": "ICMP redirect messages are packets that convey routing information and tell your host\n(acting as a router) to send packets via an alternate path. It is a way of allowing an outside\nrouting device to update your system routing tables. By setting\nnet.ipv4.conf.all.accept_redirects to 0, the system will not accept any ICMP redirect\nmessages, and therefore, won't allow outsiders to update the system's routing tables",
+                "layerTime": "1969-12-31T21:00:00-03:00",
+                "category": "Linux"
+            },
+            {
+                "id": 6322,
+                "title": "(CIS_Linux_2.0.0 - 3.2.2) Ensure ICMP redirects are not accepted",
+                "severity": "medium",
+                "cause": "Systemd service configuration net/ipv4/conf/default/accept_redirects is set to 1 but should be 0",
+                "description": "ICMP redirect messages are packets that convey routing information and tell your host\n(acting as a router) to send packets via an alternate path. It is a way of allowing an outside\nrouting device to update your system routing tables. By setting\nnet.ipv4.conf.all.accept_redirects to 0, the system will not accept any ICMP redirect\nmessages, and therefore, won't allow outsiders to update the system's routing tables",
+                "layerTime": "1969-12-31T21:00:00-03:00",
+                "category": "Linux"
+            },
+            {
+                "id": 6323,
+                "title": "(CIS_Linux_2.0.0 - 3.2.3) Ensure secure ICMP redirects are not accepted",
+                "severity": "medium",
+                "cause": "Systemd service configuration net/ipv4/conf/all/secure_redirects is set to 1 but should be 0",
+                "description": "Secure ICMP redirects are the same as ICMP redirects, except they come from gateways\nlisted on the default gateway list. It is assumed that these gateways are known to your\nsystem, and that they are likely to be secure",
+                "layerTime": "1969-12-31T21:00:00-03:00",
+                "category": "Linux"
+            },
+            {
+                "id": 6323,
+                "title": "(CIS_Linux_2.0.0 - 3.2.3) Ensure secure ICMP redirects are not accepted",
+                "severity": "medium",
+                "cause": "Systemd service configuration net/ipv4/conf/default/secure_redirects is set to 1 but should be 0",
+                "description": "Secure ICMP redirects are the same as ICMP redirects, except they come from gateways\nlisted on the default gateway list. It is assumed that these gateways are known to your\nsystem, and that they are likely to be secure",
+                "layerTime": "1969-12-31T21:00:00-03:00",
+                "category": "Linux"
+            },
+            {
+                "id": 6324,
+                "title": "(CIS_Linux_2.0.0 - 3.2.4) Ensure suspicious packets are logged",
+                "severity": "medium",
+                "cause": "Systemd service configuration net/ipv4/conf/all/log_martians is set to 0 but should be 1",
+                "description": "Enabling this feature and logging these packets allows an administrator to investigate the\npossibility that an attacker is sending spoofed packets to their system",
+                "layerTime": "1969-12-31T21:00:00-03:00",
+                "category": "Linux"
+            },
+            {
+                "id": 6324,
+                "title": "(CIS_Linux_2.0.0 - 3.2.4) Ensure suspicious packets are logged",
+                "severity": "medium",
+                "cause": "Systemd service configuration net/ipv4/conf/default/log_martians is set to 0 but should be 1",
+                "description": "Enabling this feature and logging these packets allows an administrator to investigate the\npossibility that an attacker is sending spoofed packets to their system",
+                "layerTime": "1969-12-31T21:00:00-03:00",
+                "
+2025/07/22 11:05:48 | INFO     | 1457 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(MainThread  ) | Before dump of script_results_dict to results.json waitForTus=False, scriptOutputSize=96465
+2025/07/22 11:05:48 | INFO     | 1457 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(MainThread  ) | Output file 'results.json' is written successfully.
+2025/07/22 11:05:48 | INFO     | 1457 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(MainThread  ) | Cortex XDR Payload Ended with exit code=0
+2025/07/22 11:14:35 | INFO     | 1772 | ACTION_ID: c98b76fc-7b74-40f2-8d92-72b849b778b2 |(MainThread  ) | Starting Cortex XDR Payload V3.15.0.20250722111435
+2025/07/22 11:14:35 | INFO     | 1772 | ACTION_ID: c98b76fc-7b74-40f2-8d92-72b849b778b2 |(MainThread  ) | Executed by Traps: TRUE
+2025/07/22 11:14:35 | INFO     | 1772 | ACTION_ID: c98b76fc-7b74-40f2-8d92-72b849b778b2 |(MainThread  ) | Logger class: 'Logger'
+2025/07/22 11:14:35 | INFO     | 1772 | ACTION_ID: c98b76fc-7b74-40f2-8d92-72b849b778b2 |(MainThread  ) | Using OpenSSL version: OpenSSL 3.3.2 3 Sep 2024
+2025/07/22 11:14:35 | INFO     | 1772 | ACTION_ID: c98b76fc-7b74-40f2-8d92-72b849b778b2 |(MainThread  ) | Using OpenSSL FIPS enabled: True
+2025/07/22 11:14:35 | INFO     | 1772 | ACTION_ID: c98b76fc-7b74-40f2-8d92-72b849b778b2 |(MainThread  ) | Additional parameters: {'script_path': '/opt/traps/python/scripts;/opt/traps/download/content'}
+2025/07/22 11:14:35 | INFO     | 1772 | ACTION_ID: c98b76fc-7b74-40f2-8d92-72b849b778b2 |(MainThread  ) | sys._MEIPASS: /opt/traps/download/protected_payload_execution
+2025/07/22 11:14:35 | INFO     | 1772 | ACTION_ID: c98b76fc-7b74-40f2-8d92-72b849b778b2 |(MainThread  ) | No bypassing hosts file enforced.
+2025/07/22 11:14:35 | INFO     | 1772 | ACTION_ID: c98b76fc-7b74-40f2-8d92-72b849b778b2 |(MainThread  ) | PyInstaller bootloader path (sys.executable): /opt/traps/download/protected_payload_execution/cortex-xdr-payload
+2025/07/22 11:14:35 | INFO     | 1772 | ACTION_ID: c98b76fc-7b74-40f2-8d92-72b849b778b2 |(MainThread  ) | Bundle directory: /opt/traps/download/protected_payload_execution, Cwd: /opt/traps/tmp/payload_execution/b8058bcd
+2025/07/22 11:14:35 | INFO     | 1772 | ACTION_ID: c98b76fc-7b74-40f2-8d92-72b849b778b2 |(MainThread  ) | ScriptExecutionPayload: output_limit_bytes=1048576
+2025/07/22 11:14:35 | INFO     | 1772 | ACTION_ID: c98b76fc-7b74-40f2-8d92-72b849b778b2 |(MainThread  ) | ScriptExecutionPayload: stdout_limit_bytes=10240
+2025/07/22 11:14:35 | INFO     | 1772 | ACTION_ID: c98b76fc-7b74-40f2-8d92-72b849b778b2 |(MainThread  ) | Running script 'pythonic_agent_starter.py' in current working directory: /opt/traps/tmp/payload_execution/b8058bcd
+2025/07/22 11:14:35 | INFO     | 1772 | ACTION_ID: c98b76fc-7b74-40f2-8d92-72b849b778b2 |(MainThread  ) | Script input parameters:
+ null
+2025/07/22 11:14:35 | INFO     | 1772 | ACTION_ID: c98b76fc-7b74-40f2-8d92-72b849b778b2 |(MainThread  ) | sys.path: ['/opt/traps/download/protected_payload_execution/base_library.zip', '/opt/traps/download/protected_payload_execution/lib-dynload', '/opt/traps/download/protected_payload_execution', '/opt/traps/download/protected_payload_execution/setuptools/_vendor', '/opt/traps/python/scripts', '/opt/traps/download/content', '/opt/traps/tmp/payload_execution/b8058bcd']
+2025/07/22 11:14:35 | INFO     | 1772 | ACTION_ID: c98b76fc-7b74-40f2-8d92-72b849b778b2 |(script_thread) | Started script execution thread
+2025/07/22 11:14:35 | INFO     | 1772 | ACTION_ID: c98b76fc-7b74-40f2-8d92-72b849b778b2 |(script_thread) | Execution location: /opt/traps/tmp/payload_execution/b8058bcd
+2025/07/22 11:14:35 | INFO     | 1772 | ACTION_ID: c98b76fc-7b74-40f2-8d92-72b849b778b2 |(script_thread) | Found 3 files/directories in directory: /opt/traps/tmp/payload_execution/b8058bcd
+2025/07/22 11:14:35 | INFO     | 1772 | ACTION_ID: c98b76fc-7b74-40f2-8d92-72b849b778b2 |(script_thread) | Going to run: pythonic_agent_starter.deploy_pythonic_agent() with kwargs: {}
+2025/07/22 11:14:35 | INFO     | 1772 | ACTION_ID: c98b76fc-7b74-40f2-8d92-72b849b778b2 |(script_thread) | Changing back location to: /opt/traps/tmp/payload_execution/b8058bcd for script result calculation
+2025/07/22 11:14:35 | INFO     | 1772 | ACTION_ID: c98b76fc-7b74-40f2-8d92-72b849b778b2 |(script_thread) | Script runtime duration: 0.0176 seconds.
+2025/07/22 11:14:35 | INFO     | 1772 | ACTION_ID: c98b76fc-7b74-40f2-8d92-72b849b778b2 |(script_thread) | In _handle_script_stdout stdoutSize:131
+2025/07/22 11:14:35 | INFO     | 1772 | ACTION_ID: c98b76fc-7b74-40f2-8d92-72b849b778b2 |(script_thread) | In the end of _handle_script_stdout waitForTus: False
+2025/07/22 11:14:35 | INFO     | 1772 | ACTION_ID: c98b76fc-7b74-40f2-8d92-72b849b778b2 |(script_thread) | Starting _handle_script_output_results
+2025/07/22 11:14:35 | INFO     | 1772 | ACTION_ID: c98b76fc-7b74-40f2-8d92-72b849b778b2 |(script_thread) | Dumping scriptOutput to json string
+2025/07/22 11:14:35 | INFO     | 1772 | ACTION_ID: c98b76fc-7b74-40f2-8d92-72b849b778b2 |(script_thread) | scriptOutputSize: 22, output_limit_bytes: 1048576, before check for output size waitForTus: False
+2025/07/22 11:14:35 | INFO     | 1772 | ACTION_ID: c98b76fc-7b74-40f2-8d92-72b849b778b2 |(script_thread) | No need to use TUS because 22 <  1048576 and offline_collector_mode is:0
+2025/07/22 11:14:35 | INFO     | 1772 | ACTION_ID: c98b76fc-7b74-40f2-8d92-72b849b778b2 |(script_thread) | In the end of _handle_script_output_results waitForTus: False
+2025/07/22 11:14:35 | INFO     | 1772 | ACTION_ID: c98b76fc-7b74-40f2-8d92-72b849b778b2 |(script_thread) | Found 3 files/directories in directory: /opt/traps/tmp/payload_execution/b8058bcd
+2025/07/22 11:14:35 | INFO     | 1772 | ACTION_ID: c98b76fc-7b74-40f2-8d92-72b849b778b2 |(script_thread) | Ended script execution thread
+2025/07/22 11:14:35 | INFO     | 1772 | ACTION_ID: c98b76fc-7b74-40f2-8d92-72b849b778b2 |(MainThread  ) | Got waitForTus:False in script results
+2025/07/22 11:14:35 | INFO     | 1772 | ACTION_ID: c98b76fc-7b74-40f2-8d92-72b849b778b2 |(MainThread  ) | Script output :
+{
+    "messageId": "c98b76fc-7b74-40f2-8d92-72b849b778b2",
+    "scriptOutput": {
+        "return_value": null
+    },
+    "scriptExitCode": 0,
+    "stdout": "'forensic' logger initialized. Action id: c98b76fc-7b74-40f2-8d92-72b849b778b2, log file path: /var/log/traps/forensic_scripts.log\n",
+    "stdoutSize": 131,
+    "waitForTus": false,
+    "timeout": false,
+    "scriptType": "generalScript",
+    "scriptOutputSize": 22,
+    "runtimeDurationSec": "0.0176"
+}
+2025/07/22 11:14:35 | INFO     | 1772 | ACTION_ID: c98b76fc-7b74-40f2-8d92-72b849b778b2 |(MainThread  ) | Before dump of script_results_dict to results.json waitForTus=False, scriptOutputSize=22
+2025/07/22 11:14:35 | INFO     | 1772 | ACTION_ID: c98b76fc-7b74-40f2-8d92-72b849b778b2 |(MainThread  ) | Output file 'results.json' is written successfully.
+2025/07/22 11:14:35 | INFO     | 1772 | ACTION_ID: c98b76fc-7b74-40f2-8d92-72b849b778b2 |(MainThread  ) | Cortex XDR Payload Ended with exit code=0
+2025/07/22 16:11:35 | INFO     | 4291 | ACTION_ID: f54647a1-44d2-4cb1-bf50-b10cf7b674cc |(MainThread  ) | Starting Cortex XDR Payload V3.15.0.20250722161135
+2025/07/22 16:11:35 | INFO     | 4291 | ACTION_ID: f54647a1-44d2-4cb1-bf50-b10cf7b674cc |(MainThread  ) | Executed by Traps: TRUE
+2025/07/22 16:11:35 | INFO     | 4291 | ACTION_ID: f54647a1-44d2-4cb1-bf50-b10cf7b674cc |(MainThread  ) | Logger class: 'Logger'
+2025/07/22 16:11:35 | INFO     | 4291 | ACTION_ID: f54647a1-44d2-4cb1-bf50-b10cf7b674cc |(MainThread  ) | Using OpenSSL version: OpenSSL 3.3.2 3 Sep 2024
+2025/07/22 16:11:35 | INFO     | 4291 | ACTION_ID: f54647a1-44d2-4cb1-bf50-b10cf7b674cc |(MainThread  ) | Using OpenSSL FIPS enabled: True
+2025/07/22 16:11:35 | INFO     | 4291 | ACTION_ID: f54647a1-44d2-4cb1-bf50-b10cf7b674cc |(MainThread  ) | Additional parameters: {'script_path': '/opt/traps/python/scripts;/opt/traps/download/content'}
+2025/07/22 16:11:35 | INFO     | 4291 | ACTION_ID: f54647a1-44d2-4cb1-bf50-b10cf7b674cc |(MainThread  ) | sys._MEIPASS: /opt/traps/download/protected_payload_execution
+2025/07/22 16:11:35 | INFO     | 4291 | ACTION_ID: f54647a1-44d2-4cb1-bf50-b10cf7b674cc |(MainThread  ) | No bypassing hosts file enforced.
+2025/07/22 16:11:35 | INFO     | 4291 | ACTION_ID: f54647a1-44d2-4cb1-bf50-b10cf7b674cc |(MainThread  ) | PyInstaller bootloader path (sys.executable): /opt/traps/download/protected_payload_execution/cortex-xdr-payload
+2025/07/22 16:11:35 | INFO     | 4291 | ACTION_ID: f54647a1-44d2-4cb1-bf50-b10cf7b674cc |(MainThread  ) | Bundle directory: /opt/traps/download/protected_payload_execution, Cwd: /opt/traps/tmp/payload_execution/b7094df6
+2025/07/22 16:11:35 | INFO     | 4291 | ACTION_ID: f54647a1-44d2-4cb1-bf50-b10cf7b674cc |(MainThread  ) | ScriptExecutionPayload: output_limit_bytes=1048576
+2025/07/22 16:11:35 | INFO     | 4291 | ACTION_ID: f54647a1-44d2-4cb1-bf50-b10cf7b674cc |(MainThread  ) | ScriptExecutionPayload: stdout_limit_bytes=10240
+2025/07/22 16:11:35 | INFO     | 4291 | ACTION_ID: f54647a1-44d2-4cb1-bf50-b10cf7b674cc |(MainThread  ) | Running script 'collect_insights.py' in current working directory: /opt/traps/tmp/payload_execution/b7094df6
+2025/07/22 16:11:35 | INFO     | 4291 | ACTION_ID: f54647a1-44d2-4cb1-bf50-b10cf7b674cc |(MainThread  ) | Script input parameters:
+ null
+2025/07/22 16:11:35 | INFO     | 4291 | ACTION_ID: f54647a1-44d2-4cb1-bf50-b10cf7b674cc |(MainThread  ) | sys.path: ['/opt/traps/download/protected_payload_execution/base_library.zip', '/opt/traps/download/protected_payload_execution/lib-dynload', '/opt/traps/download/protected_payload_execution', '/opt/traps/download/protected_payload_execution/setuptools/_vendor', '/opt/traps/python/scripts', '/opt/traps/download/content', '/opt/traps/tmp/payload_execution/b7094df6']
+2025/07/22 16:11:35 | INFO     | 4291 | ACTION_ID: f54647a1-44d2-4cb1-bf50-b10cf7b674cc |(script_thread) | Started script execution thread
+2025/07/22 16:11:35 | INFO     | 4291 | ACTION_ID: f54647a1-44d2-4cb1-bf50-b10cf7b674cc |(script_thread) | Execution location: /opt/traps/tmp/payload_execution/b7094df6
+2025/07/22 16:11:35 | INFO     | 4291 | ACTION_ID: f54647a1-44d2-4cb1-bf50-b10cf7b674cc |(script_thread) | Found 17 files/directories in directory: /opt/traps/tmp/payload_execution/b7094df6
+2025/07/22 16:11:35 | INFO     | 4291 | ACTION_ID: f54647a1-44d2-4cb1-bf50-b10cf7b674cc |(script_thread) | Going to run: collect_insights.collect() with kwargs: {}
+2025/07/22 16:11:38 | INFO     | 4291 | ACTION_ID: f54647a1-44d2-4cb1-bf50-b10cf7b674cc |(script_thread) | Changing back location to: /opt/traps/tmp/payload_execution/b7094df6 for script result calculation
+2025/07/22 16:11:38 | INFO     | 4291 | ACTION_ID: f54647a1-44d2-4cb1-bf50-b10cf7b674cc |(script_thread) | Script runtime duration: 2.8350 seconds.
+2025/07/22 16:11:38 | INFO     | 4291 | ACTION_ID: f54647a1-44d2-4cb1-bf50-b10cf7b674cc |(script_thread) | In _handle_script_stdout stdoutSize:131
+2025/07/22 16:11:38 | INFO     | 4291 | ACTION_ID: f54647a1-44d2-4cb1-bf50-b10cf7b674cc |(script_thread) | In the end of _handle_script_stdout waitForTus: False
+2025/07/22 16:11:38 | INFO     | 4291 | ACTION_ID: f54647a1-44d2-4cb1-bf50-b10cf7b674cc |(script_thread) | Starting _handle_script_output_results
+2025/07/22 16:11:38 | INFO     | 4291 | ACTION_ID: f54647a1-44d2-4cb1-bf50-b10cf7b674cc |(script_thread) | Dumping scriptOutput to json string
+2025/07/22 16:11:38 | INFO     | 4291 | ACTION_ID: f54647a1-44d2-4cb1-bf50-b10cf7b674cc |(script_thread) | scriptOutputSize: 93245, output_limit_bytes: 1048576, before check for output size waitForTus: False
+2025/07/22 16:11:38 | INFO     | 4291 | ACTION_ID: f54647a1-44d2-4cb1-bf50-b10cf7b674cc |(script_thread) | No need to use TUS because 93245 <  1048576 and offline_collector_mode is:0
+2025/07/22 16:11:38 | INFO     | 4291 | ACTION_ID: f54647a1-44d2-4cb1-bf50-b10cf7b674cc |(script_thread) | In the end of _handle_script_output_results waitForTus: False
+2025/07/22 16:11:38 | INFO     | 4291 | ACTION_ID: f54647a1-44d2-4cb1-bf50-b10cf7b674cc |(script_thread) | Found 17 files/directories in directory: /opt/traps/tmp/payload_execution/b7094df6
+2025/07/22 16:11:38 | INFO     | 4291 | ACTION_ID: f54647a1-44d2-4cb1-bf50-b10cf7b674cc |(script_thread) | Ended script execution thread
+2025/07/22 16:11:38 | INFO     | 4291 | ACTION_ID: f54647a1-44d2-4cb1-bf50-b10cf7b674cc |(MainThread  ) | Got waitForTus:False in script results
+2025/07/22 16:11:38 | INFO     | 4291 | ACTION_ID: f54647a1-44d2-4cb1-bf50-b10cf7b674cc |(MainThread  ) | Script output (trimmed):
+{
+    "messageId": "f54647a1-44d2-4cb1-bf50-b10cf7b674cc",
+    "scriptOutput": {
+        "os_version": {
+            "major": 12,
+            "minor": 11,
+            "build_number": 0,
+            "product_type": 3,
+            "processor_architecture": 9
+        },
+        "cpu": [
+            {
+                "name": "Intel(R) Core(TM) i7-7500U CPU @ 2.70GHz",
+                "number_of_logical_processors": 1,
+                "number_of_cores": 1
+            }
+        ],
+        "computer": {
+            "manufacturer": "VMware, Inc.",
+            "model": "VMware Virtual Platform",
+            "total_physical_memory": 2026209280,
+            "total_swap_memory": 4000313344,
+            "pc_system_type": 4,
+            "chasis_sku_number": "None",
+            "hardware_uuid": "f3b84d56-9e71-9196-7410-2a4a0f4ec603"
+        },
+        "logicaldisk": [
+            {
+                "name": "/dev/sda",
+                "drive_type": 3,
+                "size": 21474836480,
+                "free_space": 16759488512,
+                "file_system": "",
+                "sub_file_systems": [
+                    "ext4",
+                    "swap"
+                ]
+            },
+            {
+                "name": "/dev/sr0",
+                "drive_type": 2,
+                "size": 3942645760,
+                "free_space": 3942645760,
+                "file_system": "iso9660",
+                "sub_file_systems": [
+                    "iso9660"
+                ]
+            }
+        ],
+        "users": {
+            "users_list": [
+                {
+                    "sid": "0",
+                    "name": "root",
+                    "full_name": "root",
+                    "domain": "local"
+                },
+                {
+                    "sid": "1",
+                    "name": "daemon",
+                    "full_name": "daemon",
+                    "domain": "local"
+                },
+                {
+                    "sid": "2",
+                    "name": "bin",
+                    "full_name": "bin",
+                    "domain": "local"
+                },
+                {
+                    "sid": "3",
+                    "name": "sys",
+                    "full_name": "sys",
+                    "domain": "local"
+                },
+                {
+                    "sid": "4",
+                    "name": "sync",
+                    "full_name": "sync",
+                    "domain": "local"
+                },
+                {
+                    "sid": "5",
+                    "name": "games",
+                    "full_name": "games",
+                    "domain": "local"
+                },
+                {
+                    "sid": "6",
+                    "name": "man",
+                    "full_name": "man",
+                    "domain": "local"
+                },
+                {
+                    "sid": "7",
+                    "name": "lp",
+                    "full_name": "lp",
+                    "domain": "local"
+                },
+                {
+                    "sid": "8",
+                    "name": "mail",
+                    "full_name": "mail",
+                    "domain": "local"
+                },
+                {
+                    "sid": "9",
+                    "name": "news",
+                    "full_name": "news",
+                    "domain": "local"
+                },
+                {
+                    "sid": "10",
+                    "name": "uucp",
+                    "full_name": "uucp",
+                    "domain": "local"
+                },
+                {
+                    "sid": "13",
+                    "name": "proxy",
+                    "full_name": "proxy",
+                    "domain": "local"
+                },
+                {
+                    "sid": "33",
+                    "name": "www-data",
+                    "full_name": "www-data",
+                    "domain": "local"
+                },
+                {
+                    "sid": "34",
+                    "name": "backup",
+                    "full_name": "backup",
+                    "domain": "local"
+                },
+                {
+                    "sid": "38",
+                    "name": "list",
+                    "full_name": "Mailing List Manager",
+                    "domain": "local"
+                },
+                {
+                    "sid": "39",
+                    "name": "irc",
+                    "full_name": "ircd",
+                    "domain": "local"
+                },
+                {
+                    "sid": "42",
+                    "name": "_apt",
+                    "full_name": "",
+                    "domain": "local"
+                },
+                {
+                    "sid": "65534",
+                    "name": "nobody",
+                    "full_name": "nobody",
+                    "domain": "local"
+                },
+                {
+                    "sid": "998",
+                    "name": "systemd-network",
+                    "full_name": "systemd Network Management",
+                    "domain": "local"
+                },
+                {
+                    "sid": "997",
+                    "name": "systemd-timesync",
+                    "full_name": "systemd Time Synchronization",
+                    "domain": "local"
+                },
+                {
+                    "sid": "100",
+                    "name": "messagebus",
+                    "full_name": "",
+                    "domain": "local"
+                },
+                {
+                    "sid": "101",
+                    "name": "sshd",
+                    "full_name": "",
+                    "domain": "local"
+                },
+                {
+                    "sid": "1000",
+                    "name": "pun1sh3r",
+                    "full_name": "pun1sh3r",
+                    "domain": "local"
+                },
+                {
+                    "sid": "999",
+                    "name": "cortexuser",
+                    "full_name": "",
+                    "domain": "local"
+                }
+            ],
+            "complete": true
+        },
+        "groups": {
+            "group_list": [
+                {
+                    "sid": "0",
+                    "name": "root",
+                    "accounts": [
+                        {
+                            "name": "root",
+                            "sid": "0",
+                            "sid_type": 1,
+                            "domain": "local"
+                        }
+                    ],
+                    "sid_type": 2,
+                    "domain": "local"
+                },
+                {
+                    "sid": "1",
+                    "name": "daemon",
+                    "accounts": [
+                        {
+                            "name": "daemon",
+                            "sid": "1",
+                            "sid_type": 1,
+                            "domain": "local"
+                        }
+                    ],
+                    "sid_type": 2,
+                    "domain": "local"
+                },
+                {
+                    "sid": "2",
+                    "name": "bin",
+                    "accounts": [
+                        {
+                            "name": "bin",
+                            "sid": "2",
+                            "sid_type": 1,
+                            "domain": "local"
+                        }
+                    ],
+                    "sid_type": 2,
+                    "domain": "local"
+                },
+                {
+                    "sid": "3",
+                    "name": "sys",
+                    "accounts": [
+                        {
+                            "name": "sys",
+                            "sid": "3",
+                            "sid_type": 1,
+                            "domain": "local"
+                        }
+                    ],
+                    "sid_type": 2,
+                    "domain": "local"
+                },
+                {
+                    "sid": "4",
+                    "name": "adm",
+                    "accounts": [],
+                    "sid_type": 2,
+                    "domain": "local"
+                },
+                {
+                    "sid": "5",
+                    "name": "tty",
+                    "accounts": [],
+                    "sid_type": 2,
+                    "domain": "local"
+                },
+                {
+                    "sid": "6",
+                    "name": "disk",
+                    "accounts": [],
+                    "sid_type": 2,
+                    "domain": "local"
+                },
+                {
+                    "sid": "7",
+                    "name": "lp",
+                    "accounts": [
+                        {
+                            "name": "lp",
+                            "sid": "7",
+                            "sid_type": 1,
+                            "domain": "local"
+                        }
+                    ],
+                    "sid_type": 2,
+                    "domain": "local"
+                },
+                {
+                    "sid": "8",
+                    "name": "mail",
+                    "accounts": [
+                        {
+                            "name": "mail",
+                            "sid": "8",
+                            "sid_type": 1,
+                            "domain": "local"
+                        }
+                    ],
+                    "sid_type": 2,
+                    "domain": "local"
+                },
+                {
+                    "sid": "9",
+                    "name": "news",
+                    "accounts": [
+                        {
+                            "name": "news",
+                            "sid": "9",
+                            "sid_type": 1,
+                            "domain": "local"
+                        }
+                    ],
+                
+2025/07/22 16:11:38 | INFO     | 4291 | ACTION_ID: f54647a1-44d2-4cb1-bf50-b10cf7b674cc |(MainThread  ) | Before dump of script_results_dict to results.json waitForTus=False, scriptOutputSize=93245
+2025/07/22 16:11:38 | INFO     | 4291 | ACTION_ID: f54647a1-44d2-4cb1-bf50-b10cf7b674cc |(MainThread  ) | Output file 'results.json' is written successfully.
+2025/07/22 16:11:38 | INFO     | 4291 | ACTION_ID: f54647a1-44d2-4cb1-bf50-b10cf7b674cc |(MainThread  ) | Cortex XDR Payload Ended with exit code=0
+2025/07/22 17:12:35 | INFO     | 4842 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(MainThread  ) | Starting Cortex XDR Payload V3.15.0.20250722171235
+2025/07/22 17:12:35 | INFO     | 4842 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(MainThread  ) | Executed by Traps: TRUE
+2025/07/22 17:12:35 | INFO     | 4842 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(MainThread  ) | Logger class: 'Logger'
+2025/07/22 17:12:35 | INFO     | 4842 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(MainThread  ) | Using OpenSSL version: OpenSSL 3.3.2 3 Sep 2024
+2025/07/22 17:12:35 | INFO     | 4842 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(MainThread  ) | Using OpenSSL FIPS enabled: True
+2025/07/22 17:12:35 | INFO     | 4842 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(MainThread  ) | Additional parameters: {'script_path': '/opt/traps/python/scripts;/opt/traps/download/content'}
+2025/07/22 17:12:35 | INFO     | 4842 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(MainThread  ) | sys._MEIPASS: /opt/traps/download/protected_payload_execution
+2025/07/22 17:12:35 | INFO     | 4842 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(MainThread  ) | No bypassing hosts file enforced.
+2025/07/22 17:12:35 | INFO     | 4842 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(MainThread  ) | PyInstaller bootloader path (sys.executable): /opt/traps/download/protected_payload_execution/cortex-xdr-payload
+2025/07/22 17:12:35 | INFO     | 4842 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(MainThread  ) | Bundle directory: /opt/traps/download/protected_payload_execution, Cwd: /opt/traps/tmp/payload_execution/a1c1d7c
+2025/07/22 17:12:35 | INFO     | 4842 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(MainThread  ) | ScriptExecutionPayload: output_limit_bytes=1048576
+2025/07/22 17:12:35 | INFO     | 4842 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(MainThread  ) | ScriptExecutionPayload: stdout_limit_bytes=10240
+2025/07/22 17:12:35 | INFO     | 4842 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(MainThread  ) | Running script 'detect_cloud.py' in current working directory: /opt/traps/tmp/payload_execution/a1c1d7c
+2025/07/22 17:12:35 | INFO     | 4842 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(MainThread  ) | Script input parameters:
+ null
+2025/07/22 17:12:35 | INFO     | 4842 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(MainThread  ) | sys.path: ['/opt/traps/download/protected_payload_execution/base_library.zip', '/opt/traps/download/protected_payload_execution/lib-dynload', '/opt/traps/download/protected_payload_execution', '/opt/traps/download/protected_payload_execution/setuptools/_vendor', '/opt/traps/python/scripts', '/opt/traps/download/content', '/opt/traps/tmp/payload_execution/a1c1d7c']
+2025/07/22 17:12:35 | INFO     | 4842 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(script_thread) | Started script execution thread
+2025/07/22 17:12:35 | INFO     | 4842 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(script_thread) | Execution location: /opt/traps/tmp/payload_execution/a1c1d7c
+2025/07/22 17:12:35 | INFO     | 4842 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(script_thread) | Found 2 files/directories in directory: /opt/traps/tmp/payload_execution/a1c1d7c
+2025/07/22 17:12:35 | INFO     | 4842 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(script_thread) | Going to run: detect_cloud.detect_cloud() with kwargs: {}
+2025/07/22 17:13:05 | INFO     | 4842 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(script_thread) | Changing back location to: /opt/traps/tmp/payload_execution/a1c1d7c for script result calculation
+2025/07/22 17:13:05 | INFO     | 4842 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(script_thread) | Script runtime duration: 30.1121 seconds.
+2025/07/22 17:13:05 | INFO     | 4842 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(script_thread) | In _handle_script_stdout stdoutSize:132
+2025/07/22 17:13:05 | INFO     | 4842 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(script_thread) | In the end of _handle_script_stdout waitForTus: False
+2025/07/22 17:13:05 | INFO     | 4842 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(script_thread) | Starting _handle_script_output_results
+2025/07/22 17:13:05 | INFO     | 4842 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(script_thread) | Dumping scriptOutput to json string
+2025/07/22 17:13:05 | INFO     | 4842 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(script_thread) | scriptOutputSize: 127, output_limit_bytes: 1048576, before check for output size waitForTus: False
+2025/07/22 17:13:05 | INFO     | 4842 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(script_thread) | No need to use TUS because 127 <  1048576 and offline_collector_mode is:0
+2025/07/22 17:13:05 | INFO     | 4842 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(script_thread) | In the end of _handle_script_output_results waitForTus: False
+2025/07/22 17:13:05 | INFO     | 4842 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(script_thread) | Found 2 files/directories in directory: /opt/traps/tmp/payload_execution/a1c1d7c
+2025/07/22 17:13:05 | INFO     | 4842 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(script_thread) | Ended script execution thread
+2025/07/22 17:13:05 | INFO     | 4842 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(MainThread  ) | Got waitForTus:False in script results
+2025/07/22 17:13:05 | INFO     | 4842 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(MainThread  ) | Script output :
+{
+    "messageId": "fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f",
+    "scriptOutput": {
+        "Azure": false,
+        "AWS": false,
+        "GCP": false,
+        "Alibaba": false,
+        "IBM": false,
+        "Oracle": false,
+        "Tencent": false,
+        "metadata": {}
+    },
+    "scriptExitCode": 0,
+    "stdout": "Ibm not detected\nAzure not detected\nAWS not detected\nOracle not detected\nGCP not detected\nTencent not detected\nAlibaba not detected\n",
+    "stdoutSize": 132,
+    "waitForTus": false,
+    "timeout": false,
+    "scriptType": "detectCloudScript",
+    "scriptOutputSize": 127,
+    "runtimeDurationSec": "30.1121"
+}
+2025/07/22 17:13:05 | INFO     | 4842 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(MainThread  ) | Before dump of script_results_dict to results.json waitForTus=False, scriptOutputSize=127
+2025/07/22 17:13:05 | INFO     | 4842 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(MainThread  ) | Output file 'results.json' is written successfully.
+2025/07/22 17:13:05 | INFO     | 4842 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(MainThread  ) | Cortex XDR Payload Ended with exit code=0
+2025/07/23 22:37:52 | INFO     | 1467 | ACTION_ID: f54647a1-44d2-4cb1-bf50-b10cf7b674cc |(MainThread  ) | Starting Cortex XDR Payload V3.15.0.20250723223752
+2025/07/23 22:37:52 | INFO     | 1467 | ACTION_ID: f54647a1-44d2-4cb1-bf50-b10cf7b674cc |(MainThread  ) | Executed by Traps: TRUE
+2025/07/23 22:37:52 | INFO     | 1467 | ACTION_ID: f54647a1-44d2-4cb1-bf50-b10cf7b674cc |(MainThread  ) | Logger class: 'Logger'
+2025/07/23 22:37:52 | INFO     | 1467 | ACTION_ID: f54647a1-44d2-4cb1-bf50-b10cf7b674cc |(MainThread  ) | Using OpenSSL version: OpenSSL 3.3.2 3 Sep 2024
+2025/07/23 22:37:52 | INFO     | 1467 | ACTION_ID: f54647a1-44d2-4cb1-bf50-b10cf7b674cc |(MainThread  ) | Using OpenSSL FIPS enabled: True
+2025/07/23 22:37:52 | INFO     | 1467 | ACTION_ID: f54647a1-44d2-4cb1-bf50-b10cf7b674cc |(MainThread  ) | Additional parameters: {'script_path': '/opt/traps/python/scripts;/opt/traps/download/content'}
+2025/07/23 22:37:52 | INFO     | 1467 | ACTION_ID: f54647a1-44d2-4cb1-bf50-b10cf7b674cc |(MainThread  ) | sys._MEIPASS: /opt/traps/download/protected_payload_execution
+2025/07/23 22:37:52 | INFO     | 1467 | ACTION_ID: f54647a1-44d2-4cb1-bf50-b10cf7b674cc |(MainThread  ) | No bypassing hosts file enforced.
+2025/07/23 22:37:52 | INFO     | 1467 | ACTION_ID: f54647a1-44d2-4cb1-bf50-b10cf7b674cc |(MainThread  ) | PyInstaller bootloader path (sys.executable): /opt/traps/download/protected_payload_execution/cortex-xdr-payload
+2025/07/23 22:37:52 | INFO     | 1467 | ACTION_ID: f54647a1-44d2-4cb1-bf50-b10cf7b674cc |(MainThread  ) | Bundle directory: /opt/traps/download/protected_payload_execution, Cwd: /opt/traps/tmp/payload_execution/d74f5018
+2025/07/23 22:37:52 | INFO     | 1465 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(MainThread  ) | Starting Cortex XDR Payload V3.15.0.20250723223752
+2025/07/23 22:37:52 | INFO     | 1465 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(MainThread  ) | Executed by Traps: TRUE
+2025/07/23 22:37:52 | INFO     | 1465 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(MainThread  ) | Logger class: 'Logger'
+2025/07/23 22:37:52 | INFO     | 1465 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(MainThread  ) | Using OpenSSL version: OpenSSL 3.3.2 3 Sep 2024
+2025/07/23 22:37:52 | INFO     | 1465 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(MainThread  ) | Using OpenSSL FIPS enabled: True
+2025/07/23 22:37:52 | INFO     | 1465 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(MainThread  ) | Additional parameters: {'script_path': '/opt/traps/python/scripts;/opt/traps/download/content'}
+2025/07/23 22:37:52 | INFO     | 1465 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(MainThread  ) | sys._MEIPASS: /opt/traps/download/protected_payload_execution
+2025/07/23 22:37:52 | INFO     | 1465 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(MainThread  ) | No bypassing hosts file enforced.
+2025/07/23 22:37:52 | INFO     | 1465 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(MainThread  ) | PyInstaller bootloader path (sys.executable): /opt/traps/download/protected_payload_execution/cortex-xdr-payload
+2025/07/23 22:37:52 | INFO     | 1465 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(MainThread  ) | Bundle directory: /opt/traps/download/protected_payload_execution, Cwd: /opt/traps/tmp/payload_execution/398f776c
+2025/07/23 22:37:52 | INFO     | 1466 | ACTION_ID: c98b76fc-7b74-40f2-8d92-72b849b778b2 |(MainThread  ) | Starting Cortex XDR Payload V3.15.0.20250723223752
+2025/07/23 22:37:52 | INFO     | 1467 | ACTION_ID: f54647a1-44d2-4cb1-bf50-b10cf7b674cc |(MainThread  ) | ScriptExecutionPayload: output_limit_bytes=1048576
+2025/07/23 22:37:52 | INFO     | 1467 | ACTION_ID: f54647a1-44d2-4cb1-bf50-b10cf7b674cc |(MainThread  ) | ScriptExecutionPayload: stdout_limit_bytes=10240
+2025/07/23 22:37:52 | INFO     | 1467 | ACTION_ID: f54647a1-44d2-4cb1-bf50-b10cf7b674cc |(MainThread  ) | Running script 'collect_insights.py' in current working directory: /opt/traps/tmp/payload_execution/d74f5018
+2025/07/23 22:37:52 | INFO     | 1467 | ACTION_ID: f54647a1-44d2-4cb1-bf50-b10cf7b674cc |(MainThread  ) | Script input parameters:
+ null
+2025/07/23 22:37:52 | INFO     | 1467 | ACTION_ID: f54647a1-44d2-4cb1-bf50-b10cf7b674cc |(MainThread  ) | sys.path: ['/opt/traps/download/protected_payload_execution/base_library.zip', '/opt/traps/download/protected_payload_execution/lib-dynload', '/opt/traps/download/protected_payload_execution', '/opt/traps/download/protected_payload_execution/setuptools/_vendor', '/opt/traps/python/scripts', '/opt/traps/download/content', '/opt/traps/tmp/payload_execution/d74f5018']
+2025/07/23 22:37:52 | INFO     | 1465 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(MainThread  ) | ScriptExecutionPayload: output_limit_bytes=1048576
+2025/07/23 22:37:52 | INFO     | 1465 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(MainThread  ) | ScriptExecutionPayload: stdout_limit_bytes=10240
+2025/07/23 22:37:52 | INFO     | 1465 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(MainThread  ) | Running script 'detect_cloud.py' in current working directory: /opt/traps/tmp/payload_execution/398f776c
+2025/07/23 22:37:52 | INFO     | 1465 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(MainThread  ) | Script input parameters:
+ null
+2025/07/23 22:37:52 | INFO     | 1465 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(MainThread  ) | sys.path: ['/opt/traps/download/protected_payload_execution/base_library.zip', '/opt/traps/download/protected_payload_execution/lib-dynload', '/opt/traps/download/protected_payload_execution', '/opt/traps/download/protected_payload_execution/setuptools/_vendor', '/opt/traps/python/scripts', '/opt/traps/download/content', '/opt/traps/tmp/payload_execution/398f776c']
+2025/07/23 22:37:52 | INFO     | 1465 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(script_thread) | Started script execution thread
+2025/07/23 22:37:52 | INFO     | 1465 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(script_thread) | Execution location: /opt/traps/tmp/payload_execution/398f776c
+2025/07/23 22:37:52 | INFO     | 1465 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(script_thread) | Found 2 files/directories in directory: /opt/traps/tmp/payload_execution/398f776c
+2025/07/23 22:37:52 | INFO     | 1467 | ACTION_ID: f54647a1-44d2-4cb1-bf50-b10cf7b674cc |(script_thread) | Started script execution thread
+2025/07/23 22:37:52 | INFO     | 1467 | ACTION_ID: f54647a1-44d2-4cb1-bf50-b10cf7b674cc |(script_thread) | Execution location: /opt/traps/tmp/payload_execution/d74f5018
+2025/07/23 22:37:52 | INFO     | 1467 | ACTION_ID: f54647a1-44d2-4cb1-bf50-b10cf7b674cc |(script_thread) | Found 17 files/directories in directory: /opt/traps/tmp/payload_execution/d74f5018
+2025/07/23 22:37:52 | INFO     | 1466 | ACTION_ID: c98b76fc-7b74-40f2-8d92-72b849b778b2 |(MainThread  ) | Executed by Traps: TRUE
+2025/07/23 22:37:52 | INFO     | 1466 | ACTION_ID: c98b76fc-7b74-40f2-8d92-72b849b778b2 |(MainThread  ) | Logger class: 'Logger'
+2025/07/23 22:37:52 | INFO     | 1466 | ACTION_ID: c98b76fc-7b74-40f2-8d92-72b849b778b2 |(MainThread  ) | Using OpenSSL version: OpenSSL 3.3.2 3 Sep 2024
+2025/07/23 22:37:52 | INFO     | 1466 | ACTION_ID: c98b76fc-7b74-40f2-8d92-72b849b778b2 |(MainThread  ) | Using OpenSSL FIPS enabled: True
+2025/07/23 22:37:52 | INFO     | 1466 | ACTION_ID: c98b76fc-7b74-40f2-8d92-72b849b778b2 |(MainThread  ) | Additional parameters: {'script_path': '/opt/traps/python/scripts;/opt/traps/download/content'}
+2025/07/23 22:37:52 | INFO     | 1466 | ACTION_ID: c98b76fc-7b74-40f2-8d92-72b849b778b2 |(MainThread  ) | sys._MEIPASS: /opt/traps/download/protected_payload_execution
+2025/07/23 22:37:52 | INFO     | 1466 | ACTION_ID: c98b76fc-7b74-40f2-8d92-72b849b778b2 |(MainThread  ) | No bypassing hosts file enforced.
+2025/07/23 22:37:52 | INFO     | 1466 | ACTION_ID: c98b76fc-7b74-40f2-8d92-72b849b778b2 |(MainThread  ) | PyInstaller bootloader path (sys.executable): /opt/traps/download/protected_payload_execution/cortex-xdr-payload
+2025/07/23 22:37:52 | INFO     | 1466 | ACTION_ID: c98b76fc-7b74-40f2-8d92-72b849b778b2 |(MainThread  ) | Bundle directory: /opt/traps/download/protected_payload_execution, Cwd: /opt/traps/tmp/payload_execution/291d6dea
+2025/07/23 22:37:53 | INFO     | 1466 | ACTION_ID: c98b76fc-7b74-40f2-8d92-72b849b778b2 |(MainThread  ) | ScriptExecutionPayload: output_limit_bytes=1048576
+2025/07/23 22:37:53 | INFO     | 1466 | ACTION_ID: c98b76fc-7b74-40f2-8d92-72b849b778b2 |(MainThread  ) | ScriptExecutionPayload: stdout_limit_bytes=10240
+2025/07/23 22:37:53 | INFO     | 1466 | ACTION_ID: c98b76fc-7b74-40f2-8d92-72b849b778b2 |(MainThread  ) | Running script 'pythonic_agent_starter.py' in current working directory: /opt/traps/tmp/payload_execution/291d6dea
+2025/07/23 22:37:53 | INFO     | 1466 | ACTION_ID: c98b76fc-7b74-40f2-8d92-72b849b778b2 |(MainThread  ) | Script input parameters:
+ null
+2025/07/23 22:37:53 | INFO     | 1466 | ACTION_ID: c98b76fc-7b74-40f2-8d92-72b849b778b2 |(MainThread  ) | sys.path: ['/opt/traps/download/protected_payload_execution/base_library.zip', '/opt/traps/download/protected_payload_execution/lib-dynload', '/opt/traps/download/protected_payload_execution', '/opt/traps/download/protected_payload_execution/setuptools/_vendor', '/opt/traps/python/scripts', '/opt/traps/download/content', '/opt/traps/tmp/payload_execution/291d6dea']
+2025/07/23 22:37:53 | INFO     | 1466 | ACTION_ID: c98b76fc-7b74-40f2-8d92-72b849b778b2 |(script_thread) | Started script execution thread
+2025/07/23 22:37:53 | INFO     | 1466 | ACTION_ID: c98b76fc-7b74-40f2-8d92-72b849b778b2 |(script_thread) | Execution location: /opt/traps/tmp/payload_execution/291d6dea
+2025/07/23 22:37:53 | INFO     | 1466 | ACTION_ID: c98b76fc-7b74-40f2-8d92-72b849b778b2 |(script_thread) | Found 3 files/directories in directory: /opt/traps/tmp/payload_execution/291d6dea
+2025/07/23 22:37:53 | INFO     | 1466 | ACTION_ID: c98b76fc-7b74-40f2-8d92-72b849b778b2 |(script_thread) | Going to run: pythonic_agent_starter.deploy_pythonic_agent() with kwargs: {}
+2025/07/23 22:37:53 | INFO     | 1466 | ACTION_ID: c98b76fc-7b74-40f2-8d92-72b849b778b2 |(script_thread) | Changing back location to: /opt/traps/tmp/payload_execution/291d6dea for script result calculation
+2025/07/23 22:37:53 | INFO     | 1466 | ACTION_ID: c98b76fc-7b74-40f2-8d92-72b849b778b2 |(script_thread) | Script runtime duration: 0.1345 seconds.
+2025/07/23 22:37:53 | INFO     | 1466 | ACTION_ID: c98b76fc-7b74-40f2-8d92-72b849b778b2 |(script_thread) | In _handle_script_stdout stdoutSize:131
+2025/07/23 22:37:53 | INFO     | 1466 | ACTION_ID: c98b76fc-7b74-40f2-8d92-72b849b778b2 |(script_thread) | In the end of _handle_script_stdout waitForTus: False
+2025/07/23 22:37:53 | INFO     | 1466 | ACTION_ID: c98b76fc-7b74-40f2-8d92-72b849b778b2 |(script_thread) | Starting _handle_script_output_results
+2025/07/23 22:37:53 | INFO     | 1466 | ACTION_ID: c98b76fc-7b74-40f2-8d92-72b849b778b2 |(script_thread) | Dumping scriptOutput to json string
+2025/07/23 22:37:53 | INFO     | 1466 | ACTION_ID: c98b76fc-7b74-40f2-8d92-72b849b778b2 |(script_thread) | scriptOutputSize: 22, output_limit_bytes: 1048576, before check for output size waitForTus: False
+2025/07/23 22:37:53 | INFO     | 1466 | ACTION_ID: c98b76fc-7b74-40f2-8d92-72b849b778b2 |(script_thread) | No need to use TUS because 22 <  1048576 and offline_collector_mode is:0
+2025/07/23 22:37:53 | INFO     | 1466 | ACTION_ID: c98b76fc-7b74-40f2-8d92-72b849b778b2 |(script_thread) | In the end of _handle_script_output_results waitForTus: False
+2025/07/23 22:37:53 | INFO     | 1466 | ACTION_ID: c98b76fc-7b74-40f2-8d92-72b849b778b2 |(script_thread) | Found 3 files/directories in directory: /opt/traps/tmp/payload_execution/291d6dea
+2025/07/23 22:37:53 | INFO     | 1466 | ACTION_ID: c98b76fc-7b74-40f2-8d92-72b849b778b2 |(script_thread) | Ended script execution thread
+2025/07/23 22:37:53 | INFO     | 1466 | ACTION_ID: c98b76fc-7b74-40f2-8d92-72b849b778b2 |(MainThread  ) | Got waitForTus:False in script results
+2025/07/23 22:37:53 | INFO     | 1466 | ACTION_ID: c98b76fc-7b74-40f2-8d92-72b849b778b2 |(MainThread  ) | Script output :
+{
+    "messageId": "c98b76fc-7b74-40f2-8d92-72b849b778b2",
+    "scriptOutput": {
+        "return_value": null
+    },
+    "scriptExitCode": 0,
+    "stdout": "'forensic' logger initialized. Action id: c98b76fc-7b74-40f2-8d92-72b849b778b2, log file path: /var/log/traps/forensic_scripts.log\n",
+    "stdoutSize": 131,
+    "waitForTus": false,
+    "timeout": false,
+    "scriptType": "generalScript",
+    "scriptOutputSize": 22,
+    "runtimeDurationSec": "0.1345"
+}
+2025/07/23 22:37:53 | INFO     | 1466 | ACTION_ID: c98b76fc-7b74-40f2-8d92-72b849b778b2 |(MainThread  ) | Before dump of script_results_dict to results.json waitForTus=False, scriptOutputSize=22
+2025/07/23 22:37:53 | INFO     | 1466 | ACTION_ID: c98b76fc-7b74-40f2-8d92-72b849b778b2 |(MainThread  ) | Output file 'results.json' is written successfully.
+2025/07/23 22:37:53 | INFO     | 1466 | ACTION_ID: c98b76fc-7b74-40f2-8d92-72b849b778b2 |(MainThread  ) | Cortex XDR Payload Ended with exit code=0
+2025/07/23 22:37:53 | INFO     | 1467 | ACTION_ID: f54647a1-44d2-4cb1-bf50-b10cf7b674cc |(script_thread) | Going to run: collect_insights.collect() with kwargs: {}
+2025/07/23 22:37:53 | INFO     | 1465 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(script_thread) | Going to run: detect_cloud.detect_cloud() with kwargs: {}
+2025/07/23 22:37:53 | INFO     | 1468 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(MainThread  ) | Starting Cortex XDR Payload V3.15.0.20250723223753
+2025/07/23 22:37:53 | INFO     | 1468 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(MainThread  ) | Executed by Traps: TRUE
+2025/07/23 22:37:53 | INFO     | 1468 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(MainThread  ) | Logger class: 'Logger'
+2025/07/23 22:37:53 | INFO     | 1468 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(MainThread  ) | Using OpenSSL version: OpenSSL 3.3.2 3 Sep 2024
+2025/07/23 22:37:53 | INFO     | 1468 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(MainThread  ) | Using OpenSSL FIPS enabled: True
+2025/07/23 22:37:53 | INFO     | 1468 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(MainThread  ) | Additional parameters: {'script_path': '/opt/traps/python/scripts;/opt/traps/download/content'}
+2025/07/23 22:37:53 | INFO     | 1468 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(MainThread  ) | sys._MEIPASS: /opt/traps/download/protected_payload_execution
+2025/07/23 22:37:53 | INFO     | 1468 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(MainThread  ) | No bypassing hosts file enforced.
+2025/07/23 22:37:53 | INFO     | 1468 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(MainThread  ) | PyInstaller bootloader path (sys.executable): /opt/traps/download/protected_payload_execution/cortex-xdr-payload
+2025/07/23 22:37:53 | INFO     | 1468 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(MainThread  ) | Bundle directory: /opt/traps/download/protected_payload_execution, Cwd: /opt/traps/tmp/payload_execution/97251c71
+2025/07/23 22:37:53 | INFO     | 1468 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(MainThread  ) | ScriptExecutionPayload: output_limit_bytes=1048576
+2025/07/23 22:37:53 | INFO     | 1468 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(MainThread  ) | ScriptExecutionPayload: stdout_limit_bytes=10240
+2025/07/23 22:37:53 | INFO     | 1468 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(MainThread  ) | Running script 'collect_compliance.py' in current working directory: /opt/traps/tmp/payload_execution/97251c71
+2025/07/23 22:37:53 | INFO     | 1468 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(MainThread  ) | Script input parameters:
+ null
+2025/07/23 22:37:53 | INFO     | 1468 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(MainThread  ) | sys.path: ['/opt/traps/download/protected_payload_execution/base_library.zip', '/opt/traps/download/protected_payload_execution/lib-dynload', '/opt/traps/download/protected_payload_execution', '/opt/traps/download/protected_payload_execution/setuptools/_vendor', '/opt/traps/python/scripts', '/opt/traps/download/content', '/opt/traps/tmp/payload_execution/97251c71']
+2025/07/23 22:37:53 | INFO     | 1468 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(script_thread) | Started script execution thread
+2025/07/23 22:37:53 | INFO     | 1468 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(script_thread) | Execution location: /opt/traps/tmp/payload_execution/97251c71
+2025/07/23 22:37:53 | INFO     | 1468 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(script_thread) | Found 4 files/directories in directory: /opt/traps/tmp/payload_execution/97251c71
+2025/07/23 22:37:53 | INFO     | 1468 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(script_thread) | Going to run: collect_compliance.collect() with kwargs: {}
+2025/07/23 22:37:59 | INFO     | 1467 | ACTION_ID: f54647a1-44d2-4cb1-bf50-b10cf7b674cc |(script_thread) | Changing back location to: /opt/traps/tmp/payload_execution/d74f5018 for script result calculation
+2025/07/23 22:37:59 | INFO     | 1467 | ACTION_ID: f54647a1-44d2-4cb1-bf50-b10cf7b674cc |(script_thread) | Script runtime duration: 6.3340 seconds.
+2025/07/23 22:37:59 | INFO     | 1467 | ACTION_ID: f54647a1-44d2-4cb1-bf50-b10cf7b674cc |(script_thread) | In _handle_script_stdout stdoutSize:131
+2025/07/23 22:37:59 | INFO     | 1467 | ACTION_ID: f54647a1-44d2-4cb1-bf50-b10cf7b674cc |(script_thread) | In the end of _handle_script_stdout waitForTus: False
+2025/07/23 22:37:59 | INFO     | 1467 | ACTION_ID: f54647a1-44d2-4cb1-bf50-b10cf7b674cc |(script_thread) | Starting _handle_script_output_results
+2025/07/23 22:37:59 | INFO     | 1467 | ACTION_ID: f54647a1-44d2-4cb1-bf50-b10cf7b674cc |(script_thread) | Dumping scriptOutput to json string
+2025/07/23 22:37:59 | INFO     | 1467 | ACTION_ID: f54647a1-44d2-4cb1-bf50-b10cf7b674cc |(script_thread) | scriptOutputSize: 92168, output_limit_bytes: 1048576, before check for output size waitForTus: False
+2025/07/23 22:37:59 | INFO     | 1467 | ACTION_ID: f54647a1-44d2-4cb1-bf50-b10cf7b674cc |(script_thread) | No need to use TUS because 92168 <  1048576 and offline_collector_mode is:0
+2025/07/23 22:37:59 | INFO     | 1467 | ACTION_ID: f54647a1-44d2-4cb1-bf50-b10cf7b674cc |(script_thread) | In the end of _handle_script_output_results waitForTus: False
+2025/07/23 22:37:59 | INFO     | 1467 | ACTION_ID: f54647a1-44d2-4cb1-bf50-b10cf7b674cc |(script_thread) | Found 17 files/directories in directory: /opt/traps/tmp/payload_execution/d74f5018
+2025/07/23 22:37:59 | INFO     | 1467 | ACTION_ID: f54647a1-44d2-4cb1-bf50-b10cf7b674cc |(script_thread) | Ended script execution thread
+2025/07/23 22:37:59 | INFO     | 1467 | ACTION_ID: f54647a1-44d2-4cb1-bf50-b10cf7b674cc |(MainThread  ) | Got waitForTus:False in script results
+2025/07/23 22:37:59 | INFO     | 1467 | ACTION_ID: f54647a1-44d2-4cb1-bf50-b10cf7b674cc |(MainThread  ) | Script output (trimmed):
+{
+    "messageId": "f54647a1-44d2-4cb1-bf50-b10cf7b674cc",
+    "scriptOutput": {
+        "os_version": {
+            "major": 12,
+            "minor": 11,
+            "build_number": 0,
+            "product_type": 3,
+            "processor_architecture": 9
+        },
+        "cpu": [
+            {
+                "name": "Intel(R) Core(TM) i7-7500U CPU @ 2.70GHz",
+                "number_of_logical_processors": 1,
+                "number_of_cores": 1
+            }
+        ],
+        "computer": {
+            "manufacturer": "VMware, Inc.",
+            "model": "VMware Virtual Platform",
+            "total_physical_memory": 2026209280,
+            "total_swap_memory": 4000313344,
+            "pc_system_type": 4,
+            "chasis_sku_number": "None",
+            "hardware_uuid": "f3b84d56-9e71-9196-7410-2a4a0f4ec603"
+        },
+        "logicaldisk": [
+            {
+                "name": "/dev/sda",
+                "drive_type": 3,
+                "size": 21474836480,
+                "free_space": 16712093696,
+                "file_system": "",
+                "sub_file_systems": [
+                    "ext4",
+                    "swap"
+                ]
+            },
+            {
+                "name": "/dev/sr0",
+                "drive_type": 2,
+                "size": 3942645760,
+                "free_space": 3942645760,
+                "file_system": "iso9660",
+                "sub_file_systems": [
+                    "iso9660"
+                ]
+            }
+        ],
+        "users": {
+            "users_list": [
+                {
+                    "sid": "0",
+                    "name": "root",
+                    "full_name": "root",
+                    "domain": "local"
+                },
+                {
+                    "sid": "1",
+                    "name": "daemon",
+                    "full_name": "daemon",
+                    "domain": "local"
+                },
+                {
+                    "sid": "2",
+                    "name": "bin",
+                    "full_name": "bin",
+                    "domain": "local"
+                },
+                {
+                    "sid": "3",
+                    "name": "sys",
+                    "full_name": "sys",
+                    "domain": "local"
+                },
+                {
+                    "sid": "4",
+                    "name": "sync",
+                    "full_name": "sync",
+                    "domain": "local"
+                },
+                {
+                    "sid": "5",
+                    "name": "games",
+                    "full_name": "games",
+                    "domain": "local"
+                },
+                {
+                    "sid": "6",
+                    "name": "man",
+                    "full_name": "man",
+                    "domain": "local"
+                },
+                {
+                    "sid": "7",
+                    "name": "lp",
+                    "full_name": "lp",
+                    "domain": "local"
+                },
+                {
+                    "sid": "8",
+                    "name": "mail",
+                    "full_name": "mail",
+                    "domain": "local"
+                },
+                {
+                    "sid": "9",
+                    "name": "news",
+                    "full_name": "news",
+                    "domain": "local"
+                },
+                {
+                    "sid": "10",
+                    "name": "uucp",
+                    "full_name": "uucp",
+                    "domain": "local"
+                },
+                {
+                    "sid": "13",
+                    "name": "proxy",
+                    "full_name": "proxy",
+                    "domain": "local"
+                },
+                {
+                    "sid": "33",
+                    "name": "www-data",
+                    "full_name": "www-data",
+                    "domain": "local"
+                },
+                {
+                    "sid": "34",
+                    "name": "backup",
+                    "full_name": "backup",
+                    "domain": "local"
+                },
+                {
+                    "sid": "38",
+                    "name": "list",
+                    "full_name": "Mailing List Manager",
+                    "domain": "local"
+                },
+                {
+                    "sid": "39",
+                    "name": "irc",
+                    "full_name": "ircd",
+                    "domain": "local"
+                },
+                {
+                    "sid": "42",
+                    "name": "_apt",
+                    "full_name": "",
+                    "domain": "local"
+                },
+                {
+                    "sid": "65534",
+                    "name": "nobody",
+                    "full_name": "nobody",
+                    "domain": "local"
+                },
+                {
+                    "sid": "998",
+                    "name": "systemd-network",
+                    "full_name": "systemd Network Management",
+                    "domain": "local"
+                },
+                {
+                    "sid": "997",
+                    "name": "systemd-timesync",
+                    "full_name": "systemd Time Synchronization",
+                    "domain": "local"
+                },
+                {
+                    "sid": "100",
+                    "name": "messagebus",
+                    "full_name": "",
+                    "domain": "local"
+                },
+                {
+                    "sid": "101",
+                    "name": "sshd",
+                    "full_name": "",
+                    "domain": "local"
+                },
+                {
+                    "sid": "1000",
+                    "name": "pun1sh3r",
+                    "full_name": "pun1sh3r",
+                    "domain": "local"
+                },
+                {
+                    "sid": "999",
+                    "name": "cortexuser",
+                    "full_name": "",
+                    "domain": "local"
+                }
+            ],
+            "complete": true
+        },
+        "groups": {
+            "group_list": [
+                {
+                    "sid": "0",
+                    "name": "root",
+                    "accounts": [
+                        {
+                            "name": "root",
+                            "sid": "0",
+                            "sid_type": 1,
+                            "domain": "local"
+                        }
+                    ],
+                    "sid_type": 2,
+                    "domain": "local"
+                },
+                {
+                    "sid": "1",
+                    "name": "daemon",
+                    "accounts": [
+                        {
+                            "name": "daemon",
+                            "sid": "1",
+                            "sid_type": 1,
+                            "domain": "local"
+                        }
+                    ],
+                    "sid_type": 2,
+                    "domain": "local"
+                },
+                {
+                    "sid": "2",
+                    "name": "bin",
+                    "accounts": [
+                        {
+                            "name": "bin",
+                            "sid": "2",
+                            "sid_type": 1,
+                            "domain": "local"
+                        }
+                    ],
+                    "sid_type": 2,
+                    "domain": "local"
+                },
+                {
+                    "sid": "3",
+                    "name": "sys",
+                    "accounts": [
+                        {
+                            "name": "sys",
+                            "sid": "3",
+                            "sid_type": 1,
+                            "domain": "local"
+                        }
+                    ],
+                    "sid_type": 2,
+                    "domain": "local"
+                },
+                {
+                    "sid": "4",
+                    "name": "adm",
+                    "accounts": [],
+                    "sid_type": 2,
+                    "domain": "local"
+                },
+                {
+                    "sid": "5",
+                    "name": "tty",
+                    "accounts": [],
+                    "sid_type": 2,
+                    "domain": "local"
+                },
+                {
+                    "sid": "6",
+                    "name": "disk",
+                    "accounts": [],
+                    "sid_type": 2,
+                    "domain": "local"
+                },
+                {
+                    "sid": "7",
+                    "name": "lp",
+                    "accounts": [
+                        {
+                            "name": "lp",
+                            "sid": "7",
+                            "sid_type": 1,
+                            "domain": "local"
+                        }
+                    ],
+                    "sid_type": 2,
+                    "domain": "local"
+                },
+                {
+                    "sid": "8",
+                    "name": "mail",
+                    "accounts": [
+                        {
+                            "name": "mail",
+                            "sid": "8",
+                            "sid_type": 1,
+                            "domain": "local"
+                        }
+                    ],
+                    "sid_type": 2,
+                    "domain": "local"
+                },
+                {
+                    "sid": "9",
+                    "name": "news",
+                    "accounts": [
+                        {
+                            "name": "news",
+                            "sid": "9",
+                            "sid_type": 1,
+                            "domain": "local"
+                        }
+                    ],
+                
+2025/07/23 22:37:59 | INFO     | 1467 | ACTION_ID: f54647a1-44d2-4cb1-bf50-b10cf7b674cc |(MainThread  ) | Before dump of script_results_dict to results.json waitForTus=False, scriptOutputSize=92168
+2025/07/23 22:37:59 | INFO     | 1467 | ACTION_ID: f54647a1-44d2-4cb1-bf50-b10cf7b674cc |(MainThread  ) | Output file 'results.json' is written successfully.
+2025/07/23 22:37:59 | INFO     | 1467 | ACTION_ID: f54647a1-44d2-4cb1-bf50-b10cf7b674cc |(MainThread  ) | Cortex XDR Payload Ended with exit code=0
+2025/07/23 22:38:03 | INFO     | 1468 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(script_thread) | Changing back location to: /opt/traps/tmp/payload_execution/97251c71 for script result calculation
+2025/07/23 22:38:03 | INFO     | 1468 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(script_thread) | Script runtime duration: 10.1284 seconds.
+2025/07/23 22:38:03 | INFO     | 1468 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(script_thread) | In _handle_script_stdout stdoutSize:0
+2025/07/23 22:38:03 | INFO     | 1468 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(script_thread) | In the end of _handle_script_stdout waitForTus: False
+2025/07/23 22:38:03 | INFO     | 1468 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(script_thread) | Starting _handle_script_output_results
+2025/07/23 22:38:03 | INFO     | 1468 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(script_thread) | Dumping scriptOutput to json string
+2025/07/23 22:38:03 | INFO     | 1468 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(script_thread) | scriptOutputSize: 96930, output_limit_bytes: 1048576, before check for output size waitForTus: False
+2025/07/23 22:38:03 | INFO     | 1468 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(script_thread) | No need to use TUS because 96930 <  1048576 and offline_collector_mode is:0
+2025/07/23 22:38:03 | INFO     | 1468 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(script_thread) | In the end of _handle_script_output_results waitForTus: False
+2025/07/23 22:38:03 | INFO     | 1468 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(script_thread) | Found 4 files/directories in directory: /opt/traps/tmp/payload_execution/97251c71
+2025/07/23 22:38:03 | INFO     | 1468 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(script_thread) | Ended script execution thread
+2025/07/23 22:38:03 | INFO     | 1468 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(MainThread  ) | Got waitForTus:False in script results
+2025/07/23 22:38:03 | INFO     | 1468 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(MainThread  ) | Script output (trimmed):
+{
+    "messageId": "df418db2-987c-4926-a17c-e69be5aa3ce1",
+    "scriptOutput": {
+        "hostComplianceIssues": [
+            {
+                "id": 6112,
+                "title": "(CIS_Linux_2.0.0 - 1.1.2) Ensure /tmp is configured",
+                "severity": "high",
+                "cause": "The directory /tmp should be mounted. File: /proc/mounts",
+                "description": "The /tmp directory is a world-writable directory used for temporary storage by all users\nand some applications.",
+                "layerTime": "1969-12-31T21:00:00-03:00",
+                "category": "Linux"
+            },
+            {
+                "id": 6116,
+                "title": "(CIS_Linux_2.0.0 - 1.1.6) Ensure separate partition exists for /var",
+                "severity": "medium",
+                "cause": "The directory /var should be mounted. File: /proc/mounts",
+                "description": "Since the /var directory may contain world-writable files and directories, there is a risk of\nresource exhaustion if it is not bound to a separate partition",
+                "layerTime": "1969-12-31T21:00:00-03:00",
+                "category": "Linux"
+            },
+            {
+                "id": 6117,
+                "title": "(CIS_Linux_2.0.0 - 1.1.7) Ensure separate partition exists for /var/tmp",
+                "severity": "medium",
+                "cause": "The directory /var/tmp should be mounted. File: /proc/mounts",
+                "description": "The /var/tmp directory is a world-writable directory used for temporary storage by all\nusers and some applications",
+                "layerTime": "1969-12-31T21:00:00-03:00",
+                "category": "Linux"
+            },
+            {
+                "id": 61115,
+                "title": "(CIS_Linux_2.0.0 - 1.1.11) Ensure separate partition exists for /var/log",
+                "severity": "medium",
+                "cause": "The directory /var/log should be mounted. File: /proc/mounts",
+                "description": "There are two important reasons to ensure that system logs are stored on a separate\npartition: protection against resource exhaustion (since logs can grow quite large) and\nprotection of audit data",
+                "layerTime": "1969-12-31T21:00:00-03:00",
+                "category": "Linux"
+            },
+            {
+                "id": 61116,
+                "title": "(CIS_Linux_2.0.0 - 1.1.12) Ensure separate partition exists for /var/log/audit",
+                "severity": "medium",
+                "cause": "The directory /var/log/audit should be mounted. File: /proc/mounts",
+                "description": "There are two important reasons to ensure that data gathered by auditd is stored on a\nseparate partition: protection against resource exhaustion (since the audit.log file can\ngrow quite large) and protection of audit data. The audit daemon calculates how much free\nspace is left and performs actions based on the results. If other processes (such as syslog )\nconsume space in the same partition as auditd , it may not perform as desired",
+                "layerTime": "1969-12-31T21:00:00-03:00",
+                "category": "Linux"
+            },
+            {
+                "id": 61121,
+                "title": "(CIS_Linux_2.0.0 - 1.1.17) Ensure noexec option set on /dev/shm partition",
+                "severity": "medium",
+                "description": "Setting this option on a file system prevents users from executing programs from shared\nmemory. This deters users from introducing potentially malicious software on the system",
+                "layerTime": "1969-12-31T21:00:00-03:00",
+                "category": "Linux"
+            },
+            {
+                "id": 6312,
+                "title": "(CIS_Linux_2.0.0 - 3.1.2) Ensure packet redirect sending is disabled",
+                "severity": "medium",
+                "cause": "Systemd service configuration net/ipv4/conf/all/send_redirects is set to 1 but should be 0",
+                "description": "ICMP Redirects are used to send routing information to other hosts. As a host itself does\nnot act as a router (in a host only configuration), there is no need to send redirects",
+                "layerTime": "1969-12-31T21:00:00-03:00",
+                "category": "Linux"
+            },
+            {
+                "id": 6312,
+                "title": "(CIS_Linux_2.0.0 - 3.1.2) Ensure packet redirect sending is disabled",
+                "severity": "medium",
+                "cause": "Systemd service configuration net/ipv4/conf/default/send_redirects is set to 1 but should be 0",
+                "description": "ICMP Redirects are used to send routing information to other hosts. As a host itself does\nnot act as a router (in a host only configuration), there is no need to send redirects",
+                "layerTime": "1969-12-31T21:00:00-03:00",
+                "category": "Linux"
+            },
+            {
+                "id": 6321,
+                "title": "(CIS_Linux_2.0.0 - 3.2.1) Ensure source routed packets are not accepted",
+                "severity": "high",
+                "cause": "Systemd service configuration net/ipv4/conf/default/accept_source_route is set to 1 but should be 0",
+                "description": "In networking, source routing allows a sender to partially or fully specify the route packets\ntake through a network. In contrast, non-source routed packets travel a path determined\nby routers in the network. In some cases, systems may not be routable or reachable from\nsome locations (e.g. private addresses vs. Internet routable), and so source routed packets\nwould need to be used.",
+                "layerTime": "1969-12-31T21:00:00-03:00",
+                "category": "Linux"
+            },
+            {
+                "id": 6322,
+                "title": "(CIS_Linux_2.0.0 - 3.2.2) Ensure ICMP redirects are not accepted",
+                "severity": "medium",
+                "cause": "Systemd service configuration net/ipv4/conf/all/accept_redirects is set to 1 but should be 0",
+                "description": "ICMP redirect messages are packets that convey routing information and tell your host\n(acting as a router) to send packets via an alternate path. It is a way of allowing an outside\nrouting device to update your system routing tables. By setting\nnet.ipv4.conf.all.accept_redirects to 0, the system will not accept any ICMP redirect\nmessages, and therefore, won't allow outsiders to update the system's routing tables",
+                "layerTime": "1969-12-31T21:00:00-03:00",
+                "category": "Linux"
+            },
+            {
+                "id": 6322,
+                "title": "(CIS_Linux_2.0.0 - 3.2.2) Ensure ICMP redirects are not accepted",
+                "severity": "medium",
+                "cause": "Systemd service configuration net/ipv4/conf/default/accept_redirects is set to 1 but should be 0",
+                "description": "ICMP redirect messages are packets that convey routing information and tell your host\n(acting as a router) to send packets via an alternate path. It is a way of allowing an outside\nrouting device to update your system routing tables. By setting\nnet.ipv4.conf.all.accept_redirects to 0, the system will not accept any ICMP redirect\nmessages, and therefore, won't allow outsiders to update the system's routing tables",
+                "layerTime": "1969-12-31T21:00:00-03:00",
+                "category": "Linux"
+            },
+            {
+                "id": 6323,
+                "title": "(CIS_Linux_2.0.0 - 3.2.3) Ensure secure ICMP redirects are not accepted",
+                "severity": "medium",
+                "cause": "Systemd service configuration net/ipv4/conf/all/secure_redirects is set to 1 but should be 0",
+                "description": "Secure ICMP redirects are the same as ICMP redirects, except they come from gateways\nlisted on the default gateway list. It is assumed that these gateways are known to your\nsystem, and that they are likely to be secure",
+                "layerTime": "1969-12-31T21:00:00-03:00",
+                "category": "Linux"
+            },
+            {
+                "id": 6323,
+                "title": "(CIS_Linux_2.0.0 - 3.2.3) Ensure secure ICMP redirects are not accepted",
+                "severity": "medium",
+                "cause": "Systemd service configuration net/ipv4/conf/default/secure_redirects is set to 1 but should be 0",
+                "description": "Secure ICMP redirects are the same as ICMP redirects, except they come from gateways\nlisted on the default gateway list. It is assumed that these gateways are known to your\nsystem, and that they are likely to be secure",
+                "layerTime": "1969-12-31T21:00:00-03:00",
+                "category": "Linux"
+            },
+            {
+                "id": 6324,
+                "title": "(CIS_Linux_2.0.0 - 3.2.4) Ensure suspicious packets are logged",
+                "severity": "medium",
+                "cause": "Systemd service configuration net/ipv4/conf/all/log_martians is set to 0 but should be 1",
+                "description": "Enabling this feature and logging these packets allows an administrator to investigate the\npossibility that an attacker is sending spoofed packets to their system",
+                "layerTime": "1969-12-31T21:00:00-03:00",
+                "category": "Linux"
+            },
+            {
+                "id": 6324,
+                "title": "(CIS_Linux_2.0.0 - 3.2.4) Ensure suspicious packets are logged",
+                "severity": "medium",
+                "cause": "Systemd service configuration net/ipv4/conf/default/log_martians is set to 0 but should be 1",
+                "description": "Enabling this feature and logging these packets allows an administrator to investigate the\npossibility that an attacker is sending spoofed packets to their system",
+                "layerTime": "1969-12-31T21:00:00-03:00",
+                "
+2025/07/23 22:38:03 | INFO     | 1468 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(MainThread  ) | Before dump of script_results_dict to results.json waitForTus=False, scriptOutputSize=96930
+2025/07/23 22:38:03 | INFO     | 1468 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(MainThread  ) | Output file 'results.json' is written successfully.
+2025/07/23 22:38:03 | INFO     | 1468 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(MainThread  ) | Cortex XDR Payload Ended with exit code=0
+2025/07/23 22:38:23 | INFO     | 1465 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(script_thread) | Changing back location to: /opt/traps/tmp/payload_execution/398f776c for script result calculation
+2025/07/23 22:38:23 | INFO     | 1465 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(script_thread) | Script runtime duration: 30.4233 seconds.
+2025/07/23 22:38:23 | INFO     | 1465 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(script_thread) | In _handle_script_stdout stdoutSize:132
+2025/07/23 22:38:23 | INFO     | 1465 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(script_thread) | In the end of _handle_script_stdout waitForTus: False
+2025/07/23 22:38:23 | INFO     | 1465 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(script_thread) | Starting _handle_script_output_results
+2025/07/23 22:38:23 | INFO     | 1465 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(script_thread) | Dumping scriptOutput to json string
+2025/07/23 22:38:23 | INFO     | 1465 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(script_thread) | scriptOutputSize: 127, output_limit_bytes: 1048576, before check for output size waitForTus: False
+2025/07/23 22:38:23 | INFO     | 1465 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(script_thread) | No need to use TUS because 127 <  1048576 and offline_collector_mode is:0
+2025/07/23 22:38:23 | INFO     | 1465 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(script_thread) | In the end of _handle_script_output_results waitForTus: False
+2025/07/23 22:38:23 | INFO     | 1465 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(script_thread) | Found 2 files/directories in directory: /opt/traps/tmp/payload_execution/398f776c
+2025/07/23 22:38:23 | INFO     | 1465 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(script_thread) | Ended script execution thread
+2025/07/23 22:38:23 | INFO     | 1465 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(MainThread  ) | Got waitForTus:False in script results
+2025/07/23 22:38:23 | INFO     | 1465 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(MainThread  ) | Script output :
+{
+    "messageId": "fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f",
+    "scriptOutput": {
+        "Azure": false,
+        "AWS": false,
+        "GCP": false,
+        "Alibaba": false,
+        "IBM": false,
+        "Oracle": false,
+        "Tencent": false,
+        "metadata": {}
+    },
+    "scriptExitCode": 0,
+    "stdout": "Ibm not detected\nAzure not detected\nAWS not detected\nOracle not detected\nGCP not detected\nTencent not detected\nAlibaba not detected\n",
+    "stdoutSize": 132,
+    "waitForTus": false,
+    "timeout": false,
+    "scriptType": "detectCloudScript",
+    "scriptOutputSize": 127,
+    "runtimeDurationSec": "30.4233"
+}
+2025/07/23 22:38:23 | INFO     | 1465 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(MainThread  ) | Before dump of script_results_dict to results.json waitForTus=False, scriptOutputSize=127
+2025/07/23 22:38:23 | INFO     | 1465 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(MainThread  ) | Output file 'results.json' is written successfully.
+2025/07/23 22:38:23 | INFO     | 1465 | ACTION_ID: fa4c1acd-728b-41e7-85f9-4ffd51ef8b6f |(MainThread  ) | Cortex XDR Payload Ended with exit code=0
+2025/07/24 10:36:57 | INFO     | 2049 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(MainThread  ) | Starting Cortex XDR Payload V3.15.0.20250724103657
+2025/07/24 10:36:57 | INFO     | 2049 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(MainThread  ) | Executed by Traps: TRUE
+2025/07/24 10:36:57 | INFO     | 2049 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(MainThread  ) | Logger class: 'Logger'
+2025/07/24 10:36:57 | INFO     | 2049 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(MainThread  ) | Using OpenSSL version: OpenSSL 3.3.2 3 Sep 2024
+2025/07/24 10:36:57 | INFO     | 2049 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(MainThread  ) | Using OpenSSL FIPS enabled: True
+2025/07/24 10:36:57 | INFO     | 2049 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(MainThread  ) | Additional parameters: {'script_path': '/opt/traps/python/scripts;/opt/traps/download/content'}
+2025/07/24 10:36:57 | INFO     | 2049 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(MainThread  ) | sys._MEIPASS: /opt/traps/download/protected_payload_execution
+2025/07/24 10:36:57 | INFO     | 2049 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(MainThread  ) | No bypassing hosts file enforced.
+2025/07/24 10:36:57 | INFO     | 2049 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(MainThread  ) | PyInstaller bootloader path (sys.executable): /opt/traps/download/protected_payload_execution/cortex-xdr-payload
+2025/07/24 10:36:57 | INFO     | 2049 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(MainThread  ) | Bundle directory: /opt/traps/download/protected_payload_execution, Cwd: /opt/traps/tmp/payload_execution/ca1937fa
+2025/07/24 10:36:57 | INFO     | 2049 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(MainThread  ) | ScriptExecutionPayload: output_limit_bytes=1048576
+2025/07/24 10:36:57 | INFO     | 2049 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(MainThread  ) | ScriptExecutionPayload: stdout_limit_bytes=10240
+2025/07/24 10:36:57 | INFO     | 2049 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(MainThread  ) | Running script 'collect_compliance.py' in current working directory: /opt/traps/tmp/payload_execution/ca1937fa
+2025/07/24 10:36:57 | INFO     | 2049 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(MainThread  ) | Script input parameters:
+ null
+2025/07/24 10:36:57 | INFO     | 2049 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(MainThread  ) | sys.path: ['/opt/traps/download/protected_payload_execution/base_library.zip', '/opt/traps/download/protected_payload_execution/lib-dynload', '/opt/traps/download/protected_payload_execution', '/opt/traps/download/protected_payload_execution/setuptools/_vendor', '/opt/traps/python/scripts', '/opt/traps/download/content', '/opt/traps/tmp/payload_execution/ca1937fa']
+2025/07/24 10:36:57 | INFO     | 2049 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(script_thread) | Started script execution thread
+2025/07/24 10:36:57 | INFO     | 2049 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(script_thread) | Execution location: /opt/traps/tmp/payload_execution/ca1937fa
+2025/07/24 10:36:57 | INFO     | 2049 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(script_thread) | Found 4 files/directories in directory: /opt/traps/tmp/payload_execution/ca1937fa
+2025/07/24 10:36:57 | INFO     | 2049 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(script_thread) | Going to run: collect_compliance.collect() with kwargs: {}
+2025/07/24 10:37:06 | INFO     | 2049 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(script_thread) | Changing back location to: /opt/traps/tmp/payload_execution/ca1937fa for script result calculation
+2025/07/24 10:37:06 | INFO     | 2049 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(script_thread) | Script runtime duration: 8.8428 seconds.
+2025/07/24 10:37:06 | INFO     | 2049 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(script_thread) | In _handle_script_stdout stdoutSize:0
+2025/07/24 10:37:06 | INFO     | 2049 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(script_thread) | In the end of _handle_script_stdout waitForTus: False
+2025/07/24 10:37:06 | INFO     | 2049 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(script_thread) | Starting _handle_script_output_results
+2025/07/24 10:37:06 | INFO     | 2049 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(script_thread) | Dumping scriptOutput to json string
+2025/07/24 10:37:06 | INFO     | 2049 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(script_thread) | scriptOutputSize: 97474, output_limit_bytes: 1048576, before check for output size waitForTus: False
+2025/07/24 10:37:06 | INFO     | 2049 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(script_thread) | No need to use TUS because 97474 <  1048576 and offline_collector_mode is:0
+2025/07/24 10:37:06 | INFO     | 2049 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(script_thread) | In the end of _handle_script_output_results waitForTus: False
+2025/07/24 10:37:06 | INFO     | 2049 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(script_thread) | Found 4 files/directories in directory: /opt/traps/tmp/payload_execution/ca1937fa
+2025/07/24 10:37:06 | INFO     | 2049 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(script_thread) | Ended script execution thread
+2025/07/24 10:37:06 | INFO     | 2049 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(MainThread  ) | Got waitForTus:False in script results
+2025/07/24 10:37:06 | INFO     | 2049 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(MainThread  ) | Script output (trimmed):
+{
+    "messageId": "df418db2-987c-4926-a17c-e69be5aa3ce1",
+    "scriptOutput": {
+        "hostComplianceIssues": [
+            {
+                "id": 6112,
+                "title": "(CIS_Linux_2.0.0 - 1.1.2) Ensure /tmp is configured",
+                "severity": "high",
+                "cause": "The directory /tmp should be mounted. File: /proc/mounts",
+                "description": "The /tmp directory is a world-writable directory used for temporary storage by all users\nand some applications.",
+                "layerTime": "1969-12-31T21:00:00-03:00",
+                "category": "Linux"
+            },
+            {
+                "id": 6116,
+                "title": "(CIS_Linux_2.0.0 - 1.1.6) Ensure separate partition exists for /var",
+                "severity": "medium",
+                "cause": "The directory /var should be mounted. File: /proc/mounts",
+                "description": "Since the /var directory may contain world-writable files and directories, there is a risk of\nresource exhaustion if it is not bound to a separate partition",
+                "layerTime": "1969-12-31T21:00:00-03:00",
+                "category": "Linux"
+            },
+            {
+                "id": 6117,
+                "title": "(CIS_Linux_2.0.0 - 1.1.7) Ensure separate partition exists for /var/tmp",
+                "severity": "medium",
+                "cause": "The directory /var/tmp should be mounted. File: /proc/mounts",
+                "description": "The /var/tmp directory is a world-writable directory used for temporary storage by all\nusers and some applications",
+                "layerTime": "1969-12-31T21:00:00-03:00",
+                "category": "Linux"
+            },
+            {
+                "id": 61115,
+                "title": "(CIS_Linux_2.0.0 - 1.1.11) Ensure separate partition exists for /var/log",
+                "severity": "medium",
+                "cause": "The directory /var/log should be mounted. File: /proc/mounts",
+                "description": "There are two important reasons to ensure that system logs are stored on a separate\npartition: protection against resource exhaustion (since logs can grow quite large) and\nprotection of audit data",
+                "layerTime": "1969-12-31T21:00:00-03:00",
+                "category": "Linux"
+            },
+            {
+                "id": 61116,
+                "title": "(CIS_Linux_2.0.0 - 1.1.12) Ensure separate partition exists for /var/log/audit",
+                "severity": "medium",
+                "cause": "The directory /var/log/audit should be mounted. File: /proc/mounts",
+                "description": "There are two important reasons to ensure that data gathered by auditd is stored on a\nseparate partition: protection against resource exhaustion (since the audit.log file can\ngrow quite large) and protection of audit data. The audit daemon calculates how much free\nspace is left and performs actions based on the results. If other processes (such as syslog )\nconsume space in the same partition as auditd , it may not perform as desired",
+                "layerTime": "1969-12-31T21:00:00-03:00",
+                "category": "Linux"
+            },
+            {
+                "id": 61121,
+                "title": "(CIS_Linux_2.0.0 - 1.1.17) Ensure noexec option set on /dev/shm partition",
+                "severity": "medium",
+                "description": "Setting this option on a file system prevents users from executing programs from shared\nmemory. This deters users from introducing potentially malicious software on the system",
+                "layerTime": "1969-12-31T21:00:00-03:00",
+                "category": "Linux"
+            },
+            {
+                "id": 62210,
+                "title": "(CIS_Linux_2.0.0 - 2.2.10) Ensure HTTP server is not enabled",
+                "severity": "high",
+                "cause": "The service apache2.service should be disabled. Full path: /lib/systemd/system/apache2.service",
+                "description": "HTTP or web servers provide the ability to host web site content",
+                "layerTime": "1969-12-31T21:00:00-03:00",
+                "category": "Linux"
+            },
+            {
+                "id": 6312,
+                "title": "(CIS_Linux_2.0.0 - 3.1.2) Ensure packet redirect sending is disabled",
+                "severity": "medium",
+                "cause": "Systemd service configuration net/ipv4/conf/all/send_redirects is set to 1 but should be 0",
+                "description": "ICMP Redirects are used to send routing information to other hosts. As a host itself does\nnot act as a router (in a host only configuration), there is no need to send redirects",
+                "layerTime": "1969-12-31T21:00:00-03:00",
+                "category": "Linux"
+            },
+            {
+                "id": 6312,
+                "title": "(CIS_Linux_2.0.0 - 3.1.2) Ensure packet redirect sending is disabled",
+                "severity": "medium",
+                "cause": "Systemd service configuration net/ipv4/conf/default/send_redirects is set to 1 but should be 0",
+                "description": "ICMP Redirects are used to send routing information to other hosts. As a host itself does\nnot act as a router (in a host only configuration), there is no need to send redirects",
+                "layerTime": "1969-12-31T21:00:00-03:00",
+                "category": "Linux"
+            },
+            {
+                "id": 6321,
+                "title": "(CIS_Linux_2.0.0 - 3.2.1) Ensure source routed packets are not accepted",
+                "severity": "high",
+                "cause": "Systemd service configuration net/ipv4/conf/default/accept_source_route is set to 1 but should be 0",
+                "description": "In networking, source routing allows a sender to partially or fully specify the route packets\ntake through a network. In contrast, non-source routed packets travel a path determined\nby routers in the network. In some cases, systems may not be routable or reachable from\nsome locations (e.g. private addresses vs. Internet routable), and so source routed packets\nwould need to be used.",
+                "layerTime": "1969-12-31T21:00:00-03:00",
+                "category": "Linux"
+            },
+            {
+                "id": 6322,
+                "title": "(CIS_Linux_2.0.0 - 3.2.2) Ensure ICMP redirects are not accepted",
+                "severity": "medium",
+                "cause": "Systemd service configuration net/ipv4/conf/all/accept_redirects is set to 1 but should be 0",
+                "description": "ICMP redirect messages are packets that convey routing information and tell your host\n(acting as a router) to send packets via an alternate path. It is a way of allowing an outside\nrouting device to update your system routing tables. By setting\nnet.ipv4.conf.all.accept_redirects to 0, the system will not accept any ICMP redirect\nmessages, and therefore, won't allow outsiders to update the system's routing tables",
+                "layerTime": "1969-12-31T21:00:00-03:00",
+                "category": "Linux"
+            },
+            {
+                "id": 6322,
+                "title": "(CIS_Linux_2.0.0 - 3.2.2) Ensure ICMP redirects are not accepted",
+                "severity": "medium",
+                "cause": "Systemd service configuration net/ipv4/conf/default/accept_redirects is set to 1 but should be 0",
+                "description": "ICMP redirect messages are packets that convey routing information and tell your host\n(acting as a router) to send packets via an alternate path. It is a way of allowing an outside\nrouting device to update your system routing tables. By setting\nnet.ipv4.conf.all.accept_redirects to 0, the system will not accept any ICMP redirect\nmessages, and therefore, won't allow outsiders to update the system's routing tables",
+                "layerTime": "1969-12-31T21:00:00-03:00",
+                "category": "Linux"
+            },
+            {
+                "id": 6323,
+                "title": "(CIS_Linux_2.0.0 - 3.2.3) Ensure secure ICMP redirects are not accepted",
+                "severity": "medium",
+                "cause": "Systemd service configuration net/ipv4/conf/all/secure_redirects is set to 1 but should be 0",
+                "description": "Secure ICMP redirects are the same as ICMP redirects, except they come from gateways\nlisted on the default gateway list. It is assumed that these gateways are known to your\nsystem, and that they are likely to be secure",
+                "layerTime": "1969-12-31T21:00:00-03:00",
+                "category": "Linux"
+            },
+            {
+                "id": 6323,
+                "title": "(CIS_Linux_2.0.0 - 3.2.3) Ensure secure ICMP redirects are not accepted",
+                "severity": "medium",
+                "cause": "Systemd service configuration net/ipv4/conf/default/secure_redirects is set to 1 but should be 0",
+                "description": "Secure ICMP redirects are the same as ICMP redirects, except they come from gateways\nlisted on the default gateway list. It is assumed that these gateways are known to your\nsystem, and that they are likely to be secure",
+                "layerTime": "1969-12-31T21:00:00-03:00",
+                "category": "Linux"
+            },
+            {
+                "id": 6324,
+                "title": "(CIS_Linux_2.0.0 - 3.2.4) Ensure suspicious packets are logged",
+                "severity": "medium",
+                "cause": "Systemd service configuration net/ipv4/conf/all/log_martians is set to 0 but should be 1",
+                "description": "Enabling this feature and logging these packets allows an administrator to investigate the\npossibility that an attacker is sending spoofed packets to their system",
+                "layerTime": "1969-12-31T21:00:00-03:00",
+                "category": "Linux"
+            },
+            {
+                "id": 6324,
+                "title":
+2025/07/24 10:37:06 | INFO     | 2049 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(MainThread  ) | Before dump of script_results_dict to results.json waitForTus=False, scriptOutputSize=97474
+2025/07/24 10:37:06 | INFO     | 2049 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(MainThread  ) | Output file 'results.json' is written successfully.
+2025/07/24 10:37:06 | INFO     | 2049 | ACTION_ID: df418db2-987c-4926-a17c-e69be5aa3ce1 |(MainThread  ) | Cortex XDR Payload Ended with exit code=0

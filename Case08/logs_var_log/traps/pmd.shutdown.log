@@ -1,0 +1,6 @@
+NOTE: Timestamp is epoch, convert to date using: date -d@<epoch>
+****************************************************************
+#### SHUTDOWN ALERT @ 1753367464 : UNEXPECTED SHUTDOWN WITH UNKNOWN CONTEXT
+Unexpected shutdown without context was detected in previous run of pmd
+Previous service was started at around Thu Jul 24 09:52:00 2025 (1753361520) and terminated before Thu Jul 24 11:31:04 2025 (1753367464)
+----------------------------------------------------------------

@@ -1,0 +1,174 @@
+Active Internet connections (servers and established)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 0.0.0.0:22              0.0.0.0:*               LISTEN      684/sshd: /usr/sbin 
+tcp        0      0 0.0.0.0:33221           0.0.0.0:*               LISTEN      666/pmd             
+tcp        0      0 172.16.166.143:52786    34.98.77.231:443        ESTABLISHED 666/pmd             
+tcp        0      0 172.16.166.143:22       172.16.166.1:37586      ESTABLISHED 2062/sshd: pun1sh3r 
+tcp        0      0 172.16.166.143:22       172.16.166.1:51356      ESTABLISHED 1611/sshd: pun1sh3r 
+tcp        0      0 172.16.166.143:22       172.16.166.1:48832      ESTABLISHED 29184/sshd: pun1sh3 
+tcp6       0      0 :::22                   :::*                    LISTEN      684/sshd: /usr/sbin 
+tcp6       0      0 :::80                   :::*                    LISTEN      28916/apache2       
+tcp6       0      0 172.16.166.143:80       172.16.166.137:52344    ESTABLISHED 28938/apache2       
+tcp6       0   1005 172.16.166.143:80       172.16.166.137:52343    ESTABLISHED 28939/apache2       
+tcp6       0      0 172.16.166.143:80       172.16.166.128:54050    TIME_WAIT   -                   
+tcp6       0      0 172.16.166.143:80       172.16.166.128:54056    SYN_RECV    -                   
+tcp6       0      0 172.16.166.143:80       172.16.166.137:52339    TIME_WAIT   -                   
+tcp6       0      0 172.16.166.143:80       172.16.166.128:54055    ESTABLISHED 28918/apache2       
+tcp6       0      0 172.16.166.143:80       172.16.166.128:54040    TIME_WAIT   -                   
+udp        0      0 0.0.0.0:68              0.0.0.0:*                           516/dhclient        
+udp        0      0 0.0.0.0:33221           0.0.0.0:*                           666/pmd             
+Active UNIX domain sockets (servers and established)
+Proto RefCnt Flags       Type       State         I-Node   PID/Program name     Path
+unix  3      [ ]         SEQPACKET  CONNECTED     456715   666/pmd              /opt/traps/traps_sockets/unotify_srv
+unix  2      [ ]         DGRAM      CONNECTED     20237    358/systemd-udevd    
+unix  3      [ ]         SEQPACKET  CONNECTED     462189   29302/apache2        
+unix  3      [ ]         SEQPACKET  CONNECTED     27497    1285/dypdng          
+unix  3      [ ]         SEQPACKET  CONNECTED     462209   666/pmd              /opt/traps/traps_sockets/unotify_srv
+unix  3      [ ]         STREAM     CONNECTED     460488   29191/sshd: pun1sh3  
+unix  2      [ ]         DGRAM                    31531    1615/systemd         /run/user/1000/systemd/notify
+unix  3      [ ]         STREAM     CONNECTED     20911    1/init               /run/systemd/journal/stdout
+unix  2      [ ACC ]     STREAM     LISTENING     31534    1615/systemd         /run/user/1000/systemd/private
+unix  2      [ ]         DGRAM                    29897    1477/systemd         /run/user/0/systemd/notify
+unix  2      [ ACC ]     STREAM     LISTENING     31548    1615/systemd         /run/user/1000/bus
+unix  2      [ ACC ]     STREAM     LISTENING     29900    1477/systemd         /run/user/0/systemd/private
+unix  3      [ ]         DGRAM      CONNECTED     20889    449/systemd-timesyn  
+unix  2      [ ACC ]     STREAM     LISTENING     29909    1477/systemd         /run/user/0/bus
+unix  3      [ ]         STREAM     CONNECTED     20332    1/init               /run/systemd/journal/stdout
+unix  2      [ ACC ]     STREAM     LISTENING     31550    1615/systemd         /run/user/1000/gnupg/S.dirmngr
+unix  2      [ ]         DGRAM      CONNECTED     21091    534/rsyslogd         
+unix  2      [ ACC ]     STREAM     LISTENING     31552    1615/systemd         /run/user/1000/gnupg/S.gpg-agent.browser
+unix  2      [ ACC ]     STREAM     LISTENING     29911    1477/systemd         /run/user/0/gnupg/S.dirmngr
+unix  2      [ ACC ]     STREAM     LISTENING     31554    1615/systemd         /run/user/1000/gnupg/S.gpg-agent.extra
+unix  2      [ ACC ]     STREAM     LISTENING     29913    1477/systemd         /run/user/0/gnupg/S.gpg-agent.browser
+unix  2      [ ACC ]     STREAM     LISTENING     31556    1615/systemd         /run/user/1000/gnupg/S.gpg-agent.ssh
+unix  2      [ ACC ]     STREAM     LISTENING     29915    1477/systemd         /run/user/0/gnupg/S.gpg-agent.extra
+unix  2      [ ACC ]     STREAM     LISTENING     31558    1615/systemd         /run/user/1000/gnupg/S.gpg-agent
+unix  2      [ ACC ]     STREAM     LISTENING     29917    1477/systemd         /run/user/0/gnupg/S.gpg-agent.ssh
+unix  2      [ ACC ]     STREAM     LISTENING     29919    1477/systemd         /run/user/0/gnupg/S.gpg-agent
+unix  3      [ ]         STREAM     CONNECTED     21080    524/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         SEQPACKET  CONNECTED     456481   666/pmd              /opt/traps/traps_sockets/policy_srv
+unix  3      [ ]         STREAM     CONNECTED     29902    1477/systemd         
+unix  3      [ ]         STREAM     CONNECTED     20684    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     20864    489/VGAuthService    
+unix  3      [ ]         STREAM     CONNECTED     31429    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         SEQPACKET  CONNECTED     456460   28917/apache2        
+unix  3      [ ]         DGRAM      CONNECTED     29899    1477/systemd         
+unix  3      [ ]         DGRAM      CONNECTED     15546    1/init               
+unix  2      [ ]         DGRAM      CONNECTED     31352    1611/sshd: pun1sh3r  
+unix  3      [ ]         DGRAM      CONNECTED     20888    449/systemd-timesyn  
+unix  3      [ ]         STREAM     CONNECTED     31612    1611/sshd: pun1sh3r  
+unix  3      [ ]         STREAM     CONNECTED     29766    1477/systemd         
+unix  3      [ ]         SEQPACKET  CONNECTED     456463   666/pmd              /opt/traps/traps_sockets/unotify_srv
+unix  3      [ ]         DGRAM      CONNECTED     15544    1/init               /run/systemd/notify
+unix  2      [ ACC ]     STREAM     LISTENING     15547    1/init               /run/systemd/private
+unix  2      [ ACC ]     STREAM     LISTENING     15549    1/init               /run/systemd/userdb/io.systemd.DynamicUser
+unix  2      [ ACC ]     STREAM     LISTENING     15550    1/init               /run/systemd/io.system.ManagedOOM
+unix  3      [ ]         SEQPACKET  CONNECTED     462208   29303/apache2        
+unix  3      [ ]         SEQPACKET  CONNECTED     456567   666/pmd              /opt/traps/traps_sockets/unotify_srv
+unix  3      [ ]         STREAM     CONNECTED     21061    542/systemd-logind   
+unix  3      [ ]         SEQPACKET  CONNECTED     28466    1429/lted            
+unix  3      [ ]         DGRAM      CONNECTED     20242    358/systemd-udevd    
+unix  2      [ ]         DGRAM                    15561    1/init               /run/systemd/journal/syslog
+unix  2      [ ACC ]     SEQPACKET  LISTENING     27777    666/pmd              /opt/traps/traps_sockets/policy_srv
+unix  2      [ ACC ]     STREAM     LISTENING     21770    666/pmd              /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB
+unix  2      [ ACC ]     STREAM     LISTENING     15563    1/init               /run/systemd/fsck.progress
+unix  14     [ ]         DGRAM      CONNECTED     15567    1/init               /run/systemd/journal/dev-log
+unix  8      [ ]         DGRAM      CONNECTED     15569    1/init               /run/systemd/journal/socket
+unix  3      [ ]         DGRAM      CONNECTED     31532    1615/systemd         
+unix  2      [ ACC ]     STREAM     LISTENING     15571    1/init               /run/systemd/journal/stdout
+unix  2      [ ACC ]     SEQPACKET  LISTENING     15573    1/init               /run/udev/control
+unix  3      [ ]         SEQPACKET  CONNECTED     456443   666/pmd              /opt/traps/traps_sockets/unotify_srv
+unix  2      [ ]         DGRAM      CONNECTED     29723    675/login            
+unix  3      [ ]         STREAM     CONNECTED     21309    524/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     29771    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     20869    490/vmtoolsd         
+unix  2      [ ACC ]     STREAM     LISTENING     27488    666/pmd              /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+unix  3      [ ]         STREAM     CONNECTED     20225    358/systemd-udevd    
+unix  3      [ ]         SEQPACKET  CONNECTED     456755   666/pmd              /opt/traps/traps_sockets/unotify_srv
+unix  2      [ ]         DGRAM      CONNECTED     38208    2072/su              
+unix  3      [ ]         SEQPACKET  CONNECTED     456441   666/pmd              /opt/traps/traps_sockets/policy_srv
+unix  2      [ ]         DGRAM      CONNECTED     31406    1617/(sd-pam)        
+unix  3      [ ]         STREAM     CONNECTED     21308    542/systemd-logind   
+unix  3      [ ]         STREAM     CONNECTED     29906    524/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         DGRAM      CONNECTED     15545    1/init               
+unix  2      [ ]         DGRAM      CONNECTED     20881    449/systemd-timesyn  
+unix  2      [ ACC ]     STREAM     LISTENING     20104    336/systemd-journal  /run/systemd/journal/io.systemd.journal
+unix  2      [ ]         DGRAM      CONNECTED     20977    521/cron             
+unix  3      [ ]         SEQPACKET  CONNECTED     28773    666/pmd              
+unix  3      [ ]         SEQPACKET  CONNECTED     28765    666/pmd              
+unix  2      [ ]         DGRAM      CONNECTED     460447   29184/sshd: pun1sh3  
+unix  3      [ ]         SEQPACKET  CONNECTED     456737   666/pmd              /opt/traps/traps_sockets/unotify_srv
+unix  2      [ ACC ]     STREAM     LISTENING     22841    666/pmd              /opt/traps/ipc/status.03A70614CCF742FD93977FD1A4336D9A
+unix  3      [ ]         SEQPACKET  CONNECTED     456565   666/pmd              /opt/traps/traps_sockets/policy_srv
+unix  3      [ ]         SEQPACKET  CONNECTED     456544   666/pmd              /opt/traps/traps_sockets/policy_srv
+unix  3      [ ]         STREAM     CONNECTED     21062    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     21079    524/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     21003    1/init               /run/systemd/journal/stdout
+unix  2      [ ]         DGRAM      CONNECTED     31435    1615/systemd         
+unix  3      [ ]         DGRAM      CONNECTED     20886    449/systemd-timesyn  
+unix  3      [ ]         SEQPACKET  CONNECTED     27496    666/pmd              
+unix  3      [ ]         SEQPACKET  CONNECTED     456524   28920/apache2        
+unix  3      [ ]         SEQPACKET  CONNECTED     456522   28920/apache2        
+unix  2      [ ]         DGRAM      CONNECTED     29801    1477/systemd         
+unix  3      [ ]         STREAM     CONNECTED     20910    521/cron             
+unix  2      [ ACC ]     STREAM     LISTENING     27775    1285/dypdng          /opt/traps/ipc/dypd.D14E1802209CC40A731D040283E74644
+unix  3      [ ]         STREAM     CONNECTED     21445    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         SEQPACKET  CONNECTED     456523   666/pmd              /opt/traps/traps_sockets/policy_srv
+unix  3      [ ]         STREAM     CONNECTED     20872    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         DGRAM      CONNECTED     31533    1615/systemd         
+unix  3      [ ]         SEQPACKET  CONNECTED     456546   666/pmd              /opt/traps/traps_sockets/unotify_srv
+unix  3      [ ]         STREAM     CONNECTED     21444    684/sshd: /usr/sbin  
+unix  3      [ ]         SEQPACKET  CONNECTED     28465    666/pmd              
+unix  2      [ ACC ]     SEQPACKET  LISTENING     27779    666/pmd              /opt/traps/traps_sockets/unotify_srv
+unix  3      [ ]         DGRAM      CONNECTED     29898    1477/systemd         
+unix  3      [ ]         STREAM     CONNECTED     21074    524/dbus-daemon      
+unix  3      [ ]         SEQPACKET  CONNECTED     456543   28921/apache2        
+unix  2      [ ]         STREAM     CONNECTED     460424   29184/sshd: pun1sh3  
+unix  3      [ ]         STREAM     CONNECTED     38152    2062/sshd: pun1sh3r  
+unix  2      [ ]         DGRAM                    21036    489/VGAuthService    
+unix  3      [ ]         SEQPACKET  CONNECTED     456482   28918/apache2        
+unix  3      [ ]         STREAM     CONNECTED     21077    1/init               
+unix  3      [ ]         SEQPACKET  CONNECTED     456736   28938/apache2        
+unix  2      [ ]         DGRAM      CONNECTED     38109    2062/sshd: pun1sh3r  
+unix  2      [ ]         DGRAM      CONNECTED     20875    516/dhclient         
+unix  3      [ ]         SEQPACKET  CONNECTED     456566   28922/apache2        
+unix  2      [ ACC ]     STREAM     LISTENING     20894    1/init               /run/dbus/system_bus_socket
+unix  2      [ ]         DGRAM      CONNECTED     460542   29195/su             
+unix  3      [ ]         SEQPACKET  CONNECTED     456714   28937/apache2        
+unix  3      [ ]         SEQPACKET  CONNECTED     456564   28922/apache2        
+unix  3      [ ]         STREAM     CONNECTED     20868    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         SEQPACKET  CONNECTED     456442   28916/apache2        
+unix  3      [ ]         STREAM     CONNECTED     20902    449/systemd-timesyn  
+unix  2      [ ACC ]     STREAM     LISTENING     21325    489/VGAuthService    /var/run/vmware/guestServicePipe
+unix  2      [ ]         DGRAM      CONNECTED     20138    336/systemd-journal  
+unix  3      [ ]         SEQPACKET  CONNECTED     456595   666/pmd              /opt/traps/traps_sockets/unotify_srv
+unix  3      [ ]         SEQPACKET  CONNECTED     456483   666/pmd              /opt/traps/traps_sockets/unotify_srv
+unix  3      [ ]         SEQPACKET  CONNECTED     28766    1436/clad            
+unix  3      [ ]         SEQPACKET  CONNECTED     456462   28917/apache2        
+unix  3      [ ]         STREAM     CONNECTED     31611    1639/sshd: pun1sh3r  
+unix  2      [ ]         DGRAM      CONNECTED     35170    1847/su              
+unix  3      [ ]         SEQPACKET  CONNECTED     456525   666/pmd              /opt/traps/traps_sockets/unotify_srv
+unix  3      [ ]         STREAM     CONNECTED     20999    524/dbus-daemon      
+unix  2      [ ]         STREAM     CONNECTED     31327    1611/sshd: pun1sh3r  
+unix  3      [ ]         STREAM     CONNECTED     31536    1615/systemd         
+unix  2      [ ]         DGRAM      CONNECTED     20297    1/init               
+unix  3      [ ]         SEQPACKET  CONNECTED     462190   666/pmd              /opt/traps/traps_sockets/unotify_srv
+unix  3      [ ]         STREAM     CONNECTED     38151    2068/sshd: pun1sh3r  
+unix  2      [ ]         DGRAM      CONNECTED     29779    1478/(sd-pam)        
+unix  3      [ ]         STREAM     CONNECTED     21073    524/dbus-daemon      
+unix  3      [ ]         STREAM     CONNECTED     20683    449/systemd-timesyn  
+unix  3      [ ]         SEQPACKET  CONNECTED     456594   28930/apache2        
+unix  3      [ ]         SEQPACKET  CONNECTED     456545   28921/apache2        
+unix  3      [ ]         STREAM     CONNECTED     31396    1615/systemd         
+unix  3      [ ]         SEQPACKET  CONNECTED     456754   28939/apache2        
+unix  3      [ ]         SEQPACKET  CONNECTED     456461   666/pmd              /opt/traps/traps_sockets/policy_srv
+unix  3      [ ]         DGRAM      CONNECTED     20887    449/systemd-timesyn  
+unix  3      [ ]         DGRAM      CONNECTED     20241    358/systemd-udevd    
+unix  2      [ ACC ]     STREAM     LISTENING     21698    666/pmd              /opt/traps/ipc/python.12C719DBF9264DD2981975F0A0A3E5DB
+unix  3      [ ]         SEQPACKET  CONNECTED     28774    1440/sandboxd        
+unix  3      [ ]         STREAM     CONNECTED     31541    524/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     460489   29184/sshd: pun1sh3  
+unix  3      [ ]         SEQPACKET  CONNECTED     456480   28918/apache2        
+unix  3      [ ]         SEQPACKET  CONNECTED     456440   28916/apache2        
+unix  2      [ ]         STREAM     CONNECTED     38086    2062/sshd: pun1sh3r  
+unix  2      [ ]         DGRAM      CONNECTED     21295    542/systemd-logind   

@@ -1,0 +1,980 @@
+2025/07/21T20:25:07.386+02:00 <Information> linux-lab02 [1068:1068 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T20:25:07.386+02:00 <Information> linux-lab02 [1068:1068 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T20:25:07.386+02:00 <Information> linux-lab02 [1068:1068 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T20:25:07.392+02:00 <Information> linux-lab02 [1068:1068 ]  {cytool:Cytool} About to run cytool command: [runtime start all ]
+2025/07/21T20:25:07.392+02:00 <Information> linux-lab02 [1068:1068 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A for channel type: Support
+2025/07/21T20:25:07.392+02:00 <Error> linux-lab02 [1068:1068 ]  {trapsd:IRpcLib} Ipc channel '/opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A' connect failed with error: 2 (No such file or directory)
+2025/07/21T20:25:07.392+02:00 <Information> linux-lab02 [1068:1068 ]  {trapsd:IRpcLib} Done stopping all active sessions. Clearing the sessions.
+2025/07/21T20:25:13.092+02:00 <Information> linux-lab02 [1068:1068 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool runtime start all ] completed successfully. Error code = 0****
+2025/07/21T16:31:20.752-03:00 <Information> linux-lab02 [835:835 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T16:31:20.755-03:00 <Information> linux-lab02 [835:835 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T16:31:20.755-03:00 <Information> linux-lab02 [835:835 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T16:31:20.778-03:00 <Information> linux-lab02 [835:835 ]  {cytool:Cytool} About to run cytool command: []
+2025/07/21T16:31:20.782-03:00 <Information> linux-lab02 [835:835 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool ] completed with error. Error code = 64****
+2025/07/21T16:31:39.821-03:00 <Information> linux-lab02 [841:841 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T16:31:39.821-03:00 <Information> linux-lab02 [841:841 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T16:31:39.821-03:00 <Information> linux-lab02 [841:841 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T16:31:39.830-03:00 <Information> linux-lab02 [841:841 ]  {cytool:Cytool} About to run cytool command: [runtime status ]
+2025/07/21T16:31:39.834-03:00 <Information> linux-lab02 [841:841 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool runtime status ] completed with error. Error code = 64****
+2025/07/21T16:31:43.196-03:00 <Information> linux-lab02 [846:846 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T16:31:43.197-03:00 <Information> linux-lab02 [846:846 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T16:31:43.197-03:00 <Information> linux-lab02 [846:846 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T16:31:43.204-03:00 <Information> linux-lab02 [846:846 ]  {cytool:Cytool} About to run cytool command: [runtime status ]
+2025/07/21T16:31:43.208-03:00 <Information> linux-lab02 [846:846 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool runtime status ] completed with error. Error code = 64****
+2025/07/21T16:33:56.668-03:00 <Information> linux-lab02 [1051:1051 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T16:33:56.668-03:00 <Information> linux-lab02 [1051:1051 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T16:33:56.668-03:00 <Information> linux-lab02 [1051:1051 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T16:33:56.677-03:00 <Information> linux-lab02 [1051:1051 ]  {cytool:Cytool} About to run cytool command: [runtime stop all ]
+2025/07/21T16:33:56.678-03:00 <Information> linux-lab02 [1051:1051 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A for channel type: Support
+2025/07/21T16:33:56.678-03:00 <Information> linux-lab02 [1051:1051 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T16:33:56.678-03:00 <Information> linux-lab02 [1051:1051 ]  {trapsd:IRpcLib} Executing method 'IsCytoolPasswordAuthenticationRequired'
+2025/07/21T16:33:56.680-03:00 <Information> linux-lab02 [1051:1051 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T16:33:56.680-03:00 <Information> linux-lab02 [1051:1051 ]  {trapsd:IRpcLib} Done stopping all active sessions. Clearing the sessions.
+2025/07/21T16:34:07.418-03:00 <Information> linux-lab02 [1051:1051 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool runtime stop all ] completed successfully. Error code = 0****
+2025/07/21T16:34:10.208-03:00 <Information> linux-lab02 [1428:1428 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T16:34:10.208-03:00 <Information> linux-lab02 [1428:1428 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T16:34:10.208-03:00 <Information> linux-lab02 [1428:1428 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T16:34:10.215-03:00 <Information> linux-lab02 [1428:1428 ]  {cytool:Cytool} About to run cytool command: [runtime start all ]
+2025/07/21T16:34:10.215-03:00 <Information> linux-lab02 [1428:1428 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A for channel type: Support
+2025/07/21T16:34:10.215-03:00 <Error> linux-lab02 [1428:1428 ]  {trapsd:IRpcLib} Ipc channel '/opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A' connect failed with error: 2 (No such file or directory)
+2025/07/21T16:34:10.216-03:00 <Information> linux-lab02 [1428:1428 ]  {trapsd:IRpcLib} Done stopping all active sessions. Clearing the sessions.
+2025/07/21T16:34:15.984-03:00 <Information> linux-lab02 [1428:1428 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool runtime start all ] completed successfully. Error code = 0****
+2025/07/21T16:38:48.495-03:00 <Information> linux-lab02 [806:806 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T16:38:48.495-03:00 <Information> linux-lab02 [806:806 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T16:38:48.495-03:00 <Information> linux-lab02 [806:806 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T16:38:48.505-03:00 <Information> linux-lab02 [806:806 ]  {cytool:Cytool} About to run cytool command: [runtime status ]
+2025/07/21T16:38:48.509-03:00 <Information> linux-lab02 [806:806 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool runtime status ] completed with error. Error code = 64****
+2025/07/21T16:39:06.642-03:00 <Information> linux-lab02 [811:811 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T16:39:06.642-03:00 <Information> linux-lab02 [811:811 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T16:39:06.642-03:00 <Information> linux-lab02 [811:811 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T16:39:06.653-03:00 <Information> linux-lab02 [811:811 ]  {cytool:Cytool} About to run cytool command: [checkin ]
+2025/07/21T16:39:06.653-03:00 <Information> linux-lab02 [811:811 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A for channel type: Support
+2025/07/21T16:39:06.654-03:00 <Information> linux-lab02 [811:811 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T16:39:06.654-03:00 <Information> linux-lab02 [811:811 ]  {trapsd:IRpcLib} Executing method 'CheckinNow'
+2025/07/21T16:39:06.660-03:00 <Information> linux-lab02 [811:811 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T16:39:06.661-03:00 <Information> linux-lab02 [811:811 ]  {trapsd:IRpcLib} Done stopping all active sessions. Clearing the sessions.
+2025/07/21T16:39:06.661-03:00 <Information> linux-lab02 [811:811 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool checkin ] completed successfully. Error code = 0****
+2025/07/21T16:39:23.993-03:00 <Information> linux-lab02 [817:817 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T16:39:23.993-03:00 <Information> linux-lab02 [817:817 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T16:39:23.993-03:00 <Information> linux-lab02 [817:817 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T16:39:24.001-03:00 <Information> linux-lab02 [817:817 ]  {cytool:Cytool} About to run cytool command: [checkin status ]
+2025/07/21T16:39:24.005-03:00 <Information> linux-lab02 [817:817 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool checkin status ] completed with error. Error code = 64****
+2025/07/21T16:39:46.235-03:00 <Information> linux-lab02 [822:822 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T16:39:46.235-03:00 <Information> linux-lab02 [822:822 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T16:39:46.235-03:00 <Information> linux-lab02 [822:822 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T16:39:46.243-03:00 <Information> linux-lab02 [822:822 ]  {cytool:Cytool} About to run cytool command: [connectivity_test 10 ]
+2025/07/21T16:39:46.243-03:00 <Information> linux-lab02 [822:822 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A for channel type: Support
+2025/07/21T16:39:46.243-03:00 <Information> linux-lab02 [822:822 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T16:39:46.243-03:00 <Information> linux-lab02 [822:822 ]  {trapsd:IRpcLib} Executing method 'IsCytoolPasswordAuthenticationRequired'
+2025/07/21T16:39:46.245-03:00 <Information> linux-lab02 [822:822 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T16:39:46.245-03:00 <Information> linux-lab02 [822:822 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T16:39:46.245-03:00 <Information> linux-lab02 [822:822 ]  {trapsd:IRpcLib} Executing method 'ConnectivityTest'
+2025/07/21T16:39:58.751-03:00 <Information> linux-lab02 [822:822 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T16:39:58.757-03:00 <Information> linux-lab02 [822:822 ]  {common:LibTrapsCommon} Process /usr/sbin/traceroute (pid=831) with command line='/usr/sbin/traceroute -I global-content-profiles-policy.storage.googleapis.com ' was successfully launched.
+2025/07/21T16:39:59.175-03:00 <Information> linux-lab02 [822:822 ]  {trapsd:IRpcLib} Done stopping all active sessions. Clearing the sessions.
+2025/07/21T16:39:59.175-03:00 <Information> linux-lab02 [822:822 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool connectivity_test 10 ] completed successfully. Error code = 0****
+2025/07/21T16:40:12.777-03:00 <Information> linux-lab02 [832:832 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T16:40:12.777-03:00 <Information> linux-lab02 [832:832 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T16:40:12.777-03:00 <Information> linux-lab02 [832:832 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T16:40:12.786-03:00 <Information> linux-lab02 [832:832 ]  {cytool:Cytool} About to run cytool command: [connectivity_test 1 ]
+2025/07/21T16:40:12.786-03:00 <Information> linux-lab02 [832:832 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A for channel type: Support
+2025/07/21T16:40:12.786-03:00 <Information> linux-lab02 [832:832 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T16:40:12.786-03:00 <Information> linux-lab02 [832:832 ]  {trapsd:IRpcLib} Executing method 'IsCytoolPasswordAuthenticationRequired'
+2025/07/21T16:40:12.787-03:00 <Information> linux-lab02 [832:832 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T16:40:12.788-03:00 <Information> linux-lab02 [832:832 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T16:40:12.788-03:00 <Information> linux-lab02 [832:832 ]  {trapsd:IRpcLib} Executing method 'ConnectivityTest'
+2025/07/21T16:40:13.986-03:00 <Information> linux-lab02 [832:832 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T16:40:13.986-03:00 <Information> linux-lab02 [832:832 ]  {trapsd:IRpcLib} Done stopping all active sessions. Clearing the sessions.
+2025/07/21T16:40:13.986-03:00 <Information> linux-lab02 [832:832 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool connectivity_test 1 ] completed successfully. Error code = 0****
+2025/07/21T16:40:21.152-03:00 <Information> linux-lab02 [837:837 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T16:40:21.152-03:00 <Information> linux-lab02 [837:837 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T16:40:21.152-03:00 <Information> linux-lab02 [837:837 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T16:40:21.159-03:00 <Information> linux-lab02 [837:837 ]  {cytool:Cytool} About to run cytool command: [connectivity_test 2 ]
+2025/07/21T16:40:21.159-03:00 <Information> linux-lab02 [837:837 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A for channel type: Support
+2025/07/21T16:40:21.159-03:00 <Information> linux-lab02 [837:837 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T16:40:21.159-03:00 <Information> linux-lab02 [837:837 ]  {trapsd:IRpcLib} Executing method 'IsCytoolPasswordAuthenticationRequired'
+2025/07/21T16:40:21.161-03:00 <Information> linux-lab02 [837:837 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T16:40:21.161-03:00 <Information> linux-lab02 [837:837 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T16:40:21.161-03:00 <Information> linux-lab02 [837:837 ]  {trapsd:IRpcLib} Executing method 'ConnectivityTest'
+2025/07/21T16:40:23.852-03:00 <Information> linux-lab02 [837:837 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T16:40:23.852-03:00 <Information> linux-lab02 [837:837 ]  {trapsd:IRpcLib} Done stopping all active sessions. Clearing the sessions.
+2025/07/21T16:40:23.852-03:00 <Information> linux-lab02 [837:837 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool connectivity_test 2 ] completed successfully. Error code = 0****
+2025/07/21T16:40:35.550-03:00 <Information> linux-lab02 [843:843 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T16:40:35.550-03:00 <Information> linux-lab02 [843:843 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T16:40:35.550-03:00 <Information> linux-lab02 [843:843 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T16:40:35.557-03:00 <Information> linux-lab02 [843:843 ]  {cytool:Cytool} About to run cytool command: []
+2025/07/21T16:40:35.561-03:00 <Information> linux-lab02 [843:843 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool ] completed with error. Error code = 64****
+2025/07/21T16:40:57.983-03:00 <Information> linux-lab02 [850:850 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T16:40:57.983-03:00 <Information> linux-lab02 [850:850 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T16:40:57.983-03:00 <Information> linux-lab02 [850:850 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T16:40:57.990-03:00 <Information> linux-lab02 [850:850 ]  {cytool:Cytool} About to run cytool command: [runtime all ]
+2025/07/21T16:40:57.994-03:00 <Information> linux-lab02 [850:850 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool runtime all ] completed with error. Error code = 64****
+2025/07/21T16:41:18.687-03:00 <Information> linux-lab02 [855:855 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T16:41:18.687-03:00 <Information> linux-lab02 [855:855 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T16:41:18.687-03:00 <Information> linux-lab02 [855:855 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T16:41:18.695-03:00 <Information> linux-lab02 [855:855 ]  {cytool:Cytool} About to run cytool command: [runtime restart ]
+2025/07/21T16:41:18.696-03:00 <Information> linux-lab02 [855:855 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A for channel type: Support
+2025/07/21T16:41:18.696-03:00 <Information> linux-lab02 [855:855 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T16:41:18.696-03:00 <Information> linux-lab02 [855:855 ]  {trapsd:IRpcLib} Executing method 'IsCytoolPasswordAuthenticationRequired'
+2025/07/21T16:41:18.697-03:00 <Information> linux-lab02 [855:855 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T16:41:18.697-03:00 <Information> linux-lab02 [855:855 ]  {trapsd:IRpcLib} Done stopping all active sessions. Clearing the sessions.
+2025/07/21T16:41:26.809-03:00 <Information> linux-lab02 [855:855 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A for channel type: Support
+2025/07/21T16:41:26.809-03:00 <Error> linux-lab02 [855:855 ]  {trapsd:IRpcLib} Ipc channel '/opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A' connect failed with error: 2 (No such file or directory)
+2025/07/21T16:41:26.809-03:00 <Information> linux-lab02 [855:855 ]  {trapsd:IRpcLib} Done stopping all active sessions. Clearing the sessions.
+2025/07/21T16:41:32.582-03:00 <Information> linux-lab02 [855:855 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool runtime restart ] completed successfully. Error code = 0****
+2025/07/21T16:41:56.137-03:00 <Information> linux-lab02 [1060:1060 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T16:41:56.137-03:00 <Information> linux-lab02 [1060:1060 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T16:41:56.137-03:00 <Information> linux-lab02 [1060:1060 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T16:41:56.144-03:00 <Information> linux-lab02 [1060:1060 ]  {cytool:Cytool} About to run cytool command: [startup enable ]
+2025/07/21T16:41:56.149-03:00 <Information> linux-lab02 [1060:1060 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool startup enable ] completed with error. Error code = 64****
+2025/07/21T16:42:09.617-03:00 <Information> linux-lab02 [1065:1065 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T16:42:09.617-03:00 <Information> linux-lab02 [1065:1065 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T16:42:09.617-03:00 <Information> linux-lab02 [1065:1065 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T16:42:09.624-03:00 <Information> linux-lab02 [1065:1065 ]  {cytool:Cytool} About to run cytool command: [startup enable ]
+2025/07/21T16:42:09.628-03:00 <Information> linux-lab02 [1065:1065 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool startup enable ] completed with error. Error code = 64****
+2025/07/21T16:44:12.762-03:00 <Information> linux-lab02 [1097:1097 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T16:44:12.762-03:00 <Information> linux-lab02 [1097:1097 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T16:44:12.762-03:00 <Information> linux-lab02 [1097:1097 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T16:44:12.770-03:00 <Information> linux-lab02 [1097:1097 ]  {cytool:Cytool} About to run cytool command: [reconnect [3a1a82df6b774122939c895210ef5dc1] ]
+2025/07/21T16:44:12.770-03:00 <Information> linux-lab02 [1097:1097 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A for channel type: Support
+2025/07/21T16:44:12.771-03:00 <Information> linux-lab02 [1097:1097 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool reconnect [3a1a82df6b774122939c895210ef5dc1] ] completed successfully. Error code = 0****
+2025/07/21T16:44:20.274-03:00 <Information> linux-lab02 [1102:1102 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T16:44:20.274-03:00 <Information> linux-lab02 [1102:1102 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T16:44:20.274-03:00 <Information> linux-lab02 [1102:1102 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T16:44:20.280-03:00 <Information> linux-lab02 [1102:1102 ]  {cytool:Cytool} About to run cytool command: []
+2025/07/21T16:44:20.284-03:00 <Information> linux-lab02 [1102:1102 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool ] completed with error. Error code = 64****
+2025/07/21T16:44:33.161-03:00 <Information> linux-lab02 [1107:1107 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T16:44:33.161-03:00 <Information> linux-lab02 [1107:1107 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T16:44:33.161-03:00 <Information> linux-lab02 [1107:1107 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T16:44:33.167-03:00 <Information> linux-lab02 [1107:1107 ]  {cytool:Cytool} About to run cytool command: [reconnect force [3a1a82df6b774122939c895210ef5dc1] ]
+2025/07/21T16:44:33.167-03:00 <Information> linux-lab02 [1107:1107 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A for channel type: Support
+2025/07/21T16:44:33.168-03:00 <Information> linux-lab02 [1107:1107 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T16:44:33.168-03:00 <Information> linux-lab02 [1107:1107 ]  {trapsd:IRpcLib} Executing method 'ReconnectNoAuth'
+2025/07/21T16:44:33.169-03:00 <Error> linux-lab02 [1107:1107 ]  {trapsd:IRpcLib} Received error request status. Error code: 16 - Reconnect requires authentication
+2025/07/21T16:44:33.169-03:00 <Information> linux-lab02 [1107:1107 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T16:44:33.170-03:00 <Information> linux-lab02 [1107:1107 ]  {trapsd:IRpcLib} Executing method 'IsCytoolPasswordAuthenticationRequired'
+2025/07/21T16:44:33.170-03:00 <Information> linux-lab02 [1107:1107 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T16:44:33.170-03:00 <Information> linux-lab02 [1107:1107 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T16:44:33.170-03:00 <Information> linux-lab02 [1107:1107 ]  {trapsd:IRpcLib} Executing method 'Reconnect'
+2025/07/21T16:44:33.201-03:00 <Information> linux-lab02 [1107:1107 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T16:44:33.201-03:00 <Information> linux-lab02 [1107:1107 ]  {trapsd:IRpcLib} Done stopping all active sessions. Clearing the sessions.
+2025/07/21T16:44:33.201-03:00 <Information> linux-lab02 [1107:1107 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool reconnect force [3a1a82df6b774122939c895210ef5dc1] ] completed successfully. Error code = 0****
+2025/07/21T16:46:55.293-03:00 <Information> linux-lab02 [1119:1119 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T16:46:55.293-03:00 <Information> linux-lab02 [1119:1119 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T16:46:55.293-03:00 <Information> linux-lab02 [1119:1119 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T16:46:55.299-03:00 <Information> linux-lab02 [1119:1119 ]  {cytool:Cytool} About to run cytool command: [runtime restart ]
+2025/07/21T16:46:55.300-03:00 <Information> linux-lab02 [1119:1119 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A for channel type: Support
+2025/07/21T16:46:55.300-03:00 <Information> linux-lab02 [1119:1119 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T16:46:55.300-03:00 <Information> linux-lab02 [1119:1119 ]  {trapsd:IRpcLib} Executing method 'IsCytoolPasswordAuthenticationRequired'
+2025/07/21T16:46:55.302-03:00 <Information> linux-lab02 [1119:1119 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T16:46:55.302-03:00 <Information> linux-lab02 [1119:1119 ]  {trapsd:IRpcLib} Done stopping all active sessions. Clearing the sessions.
+2025/07/21T16:47:03.527-03:00 <Information> linux-lab02 [1119:1119 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A for channel type: Support
+2025/07/21T16:47:03.527-03:00 <Error> linux-lab02 [1119:1119 ]  {trapsd:IRpcLib} Ipc channel '/opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A' connect failed with error: 2 (No such file or directory)
+2025/07/21T16:47:03.528-03:00 <Information> linux-lab02 [1119:1119 ]  {trapsd:IRpcLib} Done stopping all active sessions. Clearing the sessions.
+2025/07/21T16:47:09.332-03:00 <Information> linux-lab02 [1119:1119 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool runtime restart ] completed successfully. Error code = 0****
+2025/07/21T16:48:46.326-03:00 <Information> linux-lab02 [1367:1367 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T16:48:46.326-03:00 <Information> linux-lab02 [1367:1367 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T16:48:46.326-03:00 <Information> linux-lab02 [1367:1367 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T16:48:46.332-03:00 <Information> linux-lab02 [1367:1367 ]  {cytool:Cytool} About to run cytool command: [runtime load ]
+2025/07/21T16:48:46.336-03:00 <Information> linux-lab02 [1367:1367 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool runtime load ] completed with error. Error code = 64****
+2025/07/21T16:48:58.624-03:00 <Information> linux-lab02 [1372:1372 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T16:48:58.624-03:00 <Information> linux-lab02 [1372:1372 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T16:48:58.625-03:00 <Information> linux-lab02 [1372:1372 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T16:48:58.632-03:00 <Information> linux-lab02 [1372:1372 ]  {cytool:Cytool} About to run cytool command: [runtime all ]
+2025/07/21T16:48:58.637-03:00 <Information> linux-lab02 [1372:1372 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool runtime all ] completed with error. Error code = 64****
+2025/07/21T16:49:10.274-03:00 <Information> linux-lab02 [1378:1378 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T16:49:10.275-03:00 <Information> linux-lab02 [1378:1378 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T16:49:10.275-03:00 <Information> linux-lab02 [1378:1378 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T16:49:10.283-03:00 <Information> linux-lab02 [1378:1378 ]  {cytool:Cytool} About to run cytool command: [runtime query ]
+2025/07/21T16:49:10.428-03:00 <Information> linux-lab02 [1378:1378 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool runtime query ] completed successfully. Error code = 0****
+2025/07/21T16:49:22.028-03:00 <Information> linux-lab02 [1401:1401 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T16:49:22.028-03:00 <Information> linux-lab02 [1401:1401 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T16:49:22.028-03:00 <Information> linux-lab02 [1401:1401 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T16:49:22.036-03:00 <Information> linux-lab02 [1401:1401 ]  {cytool:Cytool} About to run cytool command: [runtime clad all ]
+2025/07/21T16:49:22.040-03:00 <Information> linux-lab02 [1401:1401 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool runtime clad all ] completed with error. Error code = 64****
+2025/07/21T16:49:25.296-03:00 <Information> linux-lab02 [1406:1406 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T16:49:25.296-03:00 <Information> linux-lab02 [1406:1406 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T16:49:25.296-03:00 <Information> linux-lab02 [1406:1406 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T16:49:25.303-03:00 <Information> linux-lab02 [1406:1406 ]  {cytool:Cytool} About to run cytool command: [runtime clad start ]
+2025/07/21T16:49:25.307-03:00 <Information> linux-lab02 [1406:1406 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool runtime clad start ] completed with error. Error code = 64****
+2025/07/21T16:50:01.915-03:00 <Information> linux-lab02 [1412:1412 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T16:50:01.915-03:00 <Information> linux-lab02 [1412:1412 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T16:50:01.915-03:00 <Information> linux-lab02 [1412:1412 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T16:50:01.922-03:00 <Information> linux-lab02 [1412:1412 ]  {cytool:Cytool} About to run cytool command: [runtime restart clad ]
+2025/07/21T16:50:14.201-03:00 <Information> linux-lab02 [1417:1417 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T16:50:14.201-03:00 <Information> linux-lab02 [1417:1417 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T16:50:14.201-03:00 <Information> linux-lab02 [1417:1417 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T16:50:14.211-03:00 <Information> linux-lab02 [1417:1417 ]  {cytool:Cytool} About to run cytool command: [runtime clad restart ]
+2025/07/21T16:50:14.215-03:00 <Information> linux-lab02 [1417:1417 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool runtime clad restart ] completed with error. Error code = 64****
+2025/07/21T16:51:41.799-03:00 <Information> linux-lab02 [1425:1425 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T16:51:41.799-03:00 <Information> linux-lab02 [1425:1425 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T16:51:41.799-03:00 <Information> linux-lab02 [1425:1425 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T16:51:41.808-03:00 <Information> linux-lab02 [1425:1425 ]  {cytool:Cytool} About to run cytool command: [reconnect force 3a1a82df6b774122939c895210ef5dc1 ]
+2025/07/21T16:51:41.808-03:00 <Information> linux-lab02 [1425:1425 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A for channel type: Support
+2025/07/21T16:51:41.808-03:00 <Information> linux-lab02 [1425:1425 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T16:51:41.808-03:00 <Information> linux-lab02 [1425:1425 ]  {trapsd:IRpcLib} Executing method 'ReconnectNoAuth'
+2025/07/21T16:51:41.811-03:00 <Error> linux-lab02 [1425:1425 ]  {trapsd:IRpcLib} Received error request status. Error code: 16 - Reconnect requires authentication
+2025/07/21T16:51:41.812-03:00 <Information> linux-lab02 [1425:1425 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T16:51:41.812-03:00 <Information> linux-lab02 [1425:1425 ]  {trapsd:IRpcLib} Executing method 'IsCytoolPasswordAuthenticationRequired'
+2025/07/21T16:51:41.812-03:00 <Information> linux-lab02 [1425:1425 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T16:51:41.812-03:00 <Information> linux-lab02 [1425:1425 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T16:51:41.812-03:00 <Information> linux-lab02 [1425:1425 ]  {trapsd:IRpcLib} Executing method 'Reconnect'
+2025/07/21T16:51:41.838-03:00 <Information> linux-lab02 [1425:1425 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T16:51:41.838-03:00 <Information> linux-lab02 [1425:1425 ]  {trapsd:IRpcLib} Done stopping all active sessions. Clearing the sessions.
+2025/07/21T16:51:41.838-03:00 <Information> linux-lab02 [1425:1425 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool reconnect force 3a1a82df6b774122939c895210ef5dc1 ] completed successfully. Error code = 0****
+2025/07/21T16:51:51.351-03:00 <Information> linux-lab02 [1433:1433 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T16:51:51.351-03:00 <Information> linux-lab02 [1433:1433 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T16:51:51.351-03:00 <Information> linux-lab02 [1433:1433 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T16:51:51.359-03:00 <Information> linux-lab02 [1433:1433 ]  {cytool:Cytool} About to run cytool command: [chackin ]
+2025/07/21T16:51:51.363-03:00 <Information> linux-lab02 [1433:1433 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool chackin ] completed with error. Error code = 64****
+2025/07/21T16:51:55.142-03:00 <Information> linux-lab02 [1438:1438 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T16:51:55.143-03:00 <Information> linux-lab02 [1438:1438 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T16:51:55.143-03:00 <Information> linux-lab02 [1438:1438 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T16:51:55.150-03:00 <Information> linux-lab02 [1438:1438 ]  {cytool:Cytool} About to run cytool command: [checkin ]
+2025/07/21T16:51:55.150-03:00 <Information> linux-lab02 [1438:1438 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A for channel type: Support
+2025/07/21T16:51:55.150-03:00 <Information> linux-lab02 [1438:1438 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T16:51:55.151-03:00 <Information> linux-lab02 [1438:1438 ]  {trapsd:IRpcLib} Executing method 'CheckinNow'
+2025/07/21T16:51:55.157-03:00 <Information> linux-lab02 [1438:1438 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T16:51:55.157-03:00 <Information> linux-lab02 [1438:1438 ]  {trapsd:IRpcLib} Done stopping all active sessions. Clearing the sessions.
+2025/07/21T16:51:55.157-03:00 <Information> linux-lab02 [1438:1438 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool checkin ] completed successfully. Error code = 0****
+2025/07/21T16:52:21.366-03:00 <Information> linux-lab02 [1445:1445 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T16:52:21.366-03:00 <Information> linux-lab02 [1445:1445 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T16:52:21.366-03:00 <Information> linux-lab02 [1445:1445 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T16:52:21.376-03:00 <Information> linux-lab02 [1445:1445 ]  {cytool:Cytool} About to run cytool command: [reconnect force 3a1a82df6b774122939c895210ef5dc1 ]
+2025/07/21T16:52:21.376-03:00 <Information> linux-lab02 [1445:1445 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A for channel type: Support
+2025/07/21T16:52:21.376-03:00 <Information> linux-lab02 [1445:1445 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T16:52:21.377-03:00 <Information> linux-lab02 [1445:1445 ]  {trapsd:IRpcLib} Executing method 'ReconnectNoAuth'
+2025/07/21T16:52:21.378-03:00 <Error> linux-lab02 [1445:1445 ]  {trapsd:IRpcLib} Received error request status. Error code: 16 - Reconnect requires authentication
+2025/07/21T16:52:21.378-03:00 <Information> linux-lab02 [1445:1445 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T16:52:21.378-03:00 <Information> linux-lab02 [1445:1445 ]  {trapsd:IRpcLib} Executing method 'IsCytoolPasswordAuthenticationRequired'
+2025/07/21T16:52:21.379-03:00 <Information> linux-lab02 [1445:1445 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T16:52:21.379-03:00 <Information> linux-lab02 [1445:1445 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T16:52:21.379-03:00 <Information> linux-lab02 [1445:1445 ]  {trapsd:IRpcLib} Executing method 'Reconnect'
+2025/07/21T16:52:21.586-03:00 <Information> linux-lab02 [1445:1445 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T16:52:21.586-03:00 <Information> linux-lab02 [1445:1445 ]  {trapsd:IRpcLib} Done stopping all active sessions. Clearing the sessions.
+2025/07/21T16:52:21.586-03:00 <Information> linux-lab02 [1445:1445 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool reconnect force 3a1a82df6b774122939c895210ef5dc1 ] completed successfully. Error code = 0****
+2025/07/21T16:52:23.868-03:00 <Information> linux-lab02 [1452:1452 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T16:52:23.868-03:00 <Information> linux-lab02 [1452:1452 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T16:52:23.868-03:00 <Information> linux-lab02 [1452:1452 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T16:52:23.876-03:00 <Information> linux-lab02 [1452:1452 ]  {cytool:Cytool} About to run cytool command: [checkin ]
+2025/07/21T16:52:23.876-03:00 <Information> linux-lab02 [1452:1452 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A for channel type: Support
+2025/07/21T16:52:23.876-03:00 <Information> linux-lab02 [1452:1452 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T16:52:23.876-03:00 <Information> linux-lab02 [1452:1452 ]  {trapsd:IRpcLib} Executing method 'CheckinNow'
+2025/07/21T16:52:23.880-03:00 <Information> linux-lab02 [1452:1452 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T16:52:23.880-03:00 <Information> linux-lab02 [1452:1452 ]  {trapsd:IRpcLib} Done stopping all active sessions. Clearing the sessions.
+2025/07/21T16:52:23.881-03:00 <Information> linux-lab02 [1452:1452 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool checkin ] completed successfully. Error code = 0****
+2025/07/21T16:52:40.133-03:00 <Information> linux-lab02 [1457:1457 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T16:52:40.134-03:00 <Information> linux-lab02 [1457:1457 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T16:52:40.134-03:00 <Information> linux-lab02 [1457:1457 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T16:52:40.142-03:00 <Information> linux-lab02 [1457:1457 ]  {cytool:Cytool} About to run cytool command: [last_checkin ]
+2025/07/21T16:52:40.142-03:00 <Information> linux-lab02 [1457:1457 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A for channel type: Support
+2025/07/21T16:52:40.143-03:00 <Information> linux-lab02 [1457:1457 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T16:52:40.143-03:00 <Information> linux-lab02 [1457:1457 ]  {trapsd:IRpcLib} Executing method 'GetLastCheckinTime'
+2025/07/21T16:52:40.144-03:00 <Information> linux-lab02 [1457:1457 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T16:52:40.144-03:00 <Information> linux-lab02 [1457:1457 ]  {trapsd:IRpcLib} Done stopping all active sessions. Clearing the sessions.
+2025/07/21T16:52:40.145-03:00 <Information> linux-lab02 [1457:1457 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool last_checkin ] completed successfully. Error code = 0****
+2025/07/21T16:54:09.798-03:00 <Information> linux-lab02 [1488:1488 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T16:54:09.798-03:00 <Information> linux-lab02 [1488:1488 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T16:54:09.798-03:00 <Information> linux-lab02 [1488:1488 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T16:54:09.805-03:00 <Information> linux-lab02 [1488:1488 ]  {cytool:Cytool} About to run cytool command: [connectivity_test ]
+2025/07/21T16:54:09.806-03:00 <Information> linux-lab02 [1488:1488 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A for channel type: Support
+2025/07/21T16:54:09.806-03:00 <Information> linux-lab02 [1488:1488 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T16:54:09.806-03:00 <Information> linux-lab02 [1488:1488 ]  {trapsd:IRpcLib} Executing method 'IsCytoolPasswordAuthenticationRequired'
+2025/07/21T16:54:09.807-03:00 <Information> linux-lab02 [1488:1488 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T16:54:09.807-03:00 <Information> linux-lab02 [1488:1488 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T16:54:09.807-03:00 <Information> linux-lab02 [1488:1488 ]  {trapsd:IRpcLib} Executing method 'ConnectivityTest'
+2025/07/21T16:54:09.991-03:00 <Information> linux-lab02 [1488:1488 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T16:54:10.005-03:00 <Information> linux-lab02 [1488:1488 ]  {common:LibTrapsCommon} Process /usr/sbin/traceroute (pid=1496) with command line='/usr/sbin/traceroute -I global-content-profiles-policy.storage.googleapis.com ' was successfully launched.
+2025/07/21T16:54:10.509-03:00 <Information> linux-lab02 [1488:1488 ]  {trapsd:IRpcLib} Done stopping all active sessions. Clearing the sessions.
+2025/07/21T16:54:10.509-03:00 <Information> linux-lab02 [1488:1488 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool connectivity_test ] completed successfully. Error code = 0****
+2025/07/21T17:04:01.215-03:00 <Information> linux-lab02 [1163:1163 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T17:04:01.216-03:00 <Information> linux-lab02 [1163:1163 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T17:04:01.216-03:00 <Information> linux-lab02 [1163:1163 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T17:04:01.224-03:00 <Information> linux-lab02 [1163:1163 ]  {cytool:Cytool} About to run cytool command: []
+2025/07/21T17:04:01.228-03:00 <Information> linux-lab02 [1163:1163 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool ] completed with error. Error code = 64****
+2025/07/21T17:04:11.766-03:00 <Information> linux-lab02 [1168:1168 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T17:04:11.766-03:00 <Information> linux-lab02 [1168:1168 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T17:04:11.766-03:00 <Information> linux-lab02 [1168:1168 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T17:04:11.774-03:00 <Information> linux-lab02 [1168:1168 ]  {cytool:Cytool} About to run cytool command: [status ]
+2025/07/21T17:04:11.774-03:00 <Information> linux-lab02 [1168:1168 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A for channel type: Support
+2025/07/21T17:04:11.775-03:00 <Information> linux-lab02 [1168:1168 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T17:04:11.775-03:00 <Information> linux-lab02 [1168:1168 ]  {trapsd:IRpcLib} Executing method 'IsCytoolPasswordAuthenticationRequired'
+2025/07/21T17:04:11.777-03:00 <Information> linux-lab02 [1168:1168 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T17:04:11.777-03:00 <Information> linux-lab02 [1168:1168 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T17:04:11.777-03:00 <Information> linux-lab02 [1168:1168 ]  {trapsd:IRpcLib} Executing method 'GetStatusSummary'
+2025/07/21T17:04:11.779-03:00 <Information> linux-lab02 [1168:1168 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T17:04:11.804-03:00 <Information> linux-lab02 [1168:1168 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A for channel type: Support
+2025/07/21T17:04:11.804-03:00 <Information> linux-lab02 [1168:1168 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T17:04:11.804-03:00 <Information> linux-lab02 [1168:1168 ]  {trapsd:IRpcLib} Executing method 'IsCytoolPasswordAuthenticationRequired'
+2025/07/21T17:04:11.805-03:00 <Information> linux-lab02 [1168:1168 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T17:04:11.805-03:00 <Information> linux-lab02 [1168:1168 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T17:04:11.805-03:00 <Information> linux-lab02 [1168:1168 ]  {trapsd:IRpcLib} Executing method 'GetDbInterval'
+2025/07/21T17:04:11.810-03:00 <Information> linux-lab02 [1168:1168 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T17:04:11.814-03:00 <Information> linux-lab02 [1168:1168 ]  {trapsd:IRpcLib} Done stopping all active sessions. Clearing the sessions.
+2025/07/21T17:04:11.823-03:00 <Information> linux-lab02 [1168:1168 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T17:04:11.823-03:00 <Information> linux-lab02 [1168:1168 ]  {trapsd:IRpcLib} Executing method 'QueryEventCollection'
+2025/07/21T17:04:11.824-03:00 <Information> linux-lab02 [1168:1168 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T17:04:11.846-03:00 <Information> linux-lab02 [1168:1168 ]  {trapsd:IRpcLib} Done stopping all active sessions. Clearing the sessions.
+2025/07/21T17:04:11.846-03:00 <Information> linux-lab02 [1168:1168 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool status ] completed successfully. Error code = 0****
+2025/07/21T17:04:55.243-03:00 <Information> linux-lab02 [1181:1181 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T17:04:55.243-03:00 <Information> linux-lab02 [1181:1181 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T17:04:55.243-03:00 <Information> linux-lab02 [1181:1181 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T17:04:55.250-03:00 <Information> linux-lab02 [1181:1181 ]  {cytool:Cytool} About to run cytool command: [checkin ]
+2025/07/21T17:04:55.250-03:00 <Information> linux-lab02 [1181:1181 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A for channel type: Support
+2025/07/21T17:04:55.250-03:00 <Information> linux-lab02 [1181:1181 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T17:04:55.250-03:00 <Information> linux-lab02 [1181:1181 ]  {trapsd:IRpcLib} Executing method 'CheckinNow'
+2025/07/21T17:04:55.254-03:00 <Information> linux-lab02 [1181:1181 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T17:04:55.255-03:00 <Information> linux-lab02 [1181:1181 ]  {trapsd:IRpcLib} Done stopping all active sessions. Clearing the sessions.
+2025/07/21T17:04:55.255-03:00 <Information> linux-lab02 [1181:1181 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool checkin ] completed successfully. Error code = 0****
+2025/07/21T17:05:19.616-03:00 <Information> linux-lab02 [1189:1189 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T17:05:19.616-03:00 <Information> linux-lab02 [1189:1189 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T17:05:19.616-03:00 <Information> linux-lab02 [1189:1189 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T17:05:19.623-03:00 <Information> linux-lab02 [1189:1189 ]  {cytool:Cytool} About to run cytool command: [runtime restart ]
+2025/07/21T17:05:19.624-03:00 <Information> linux-lab02 [1189:1189 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A for channel type: Support
+2025/07/21T17:05:19.624-03:00 <Information> linux-lab02 [1189:1189 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T17:05:19.624-03:00 <Information> linux-lab02 [1189:1189 ]  {trapsd:IRpcLib} Executing method 'IsCytoolPasswordAuthenticationRequired'
+2025/07/21T17:05:19.626-03:00 <Information> linux-lab02 [1189:1189 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T17:05:19.626-03:00 <Information> linux-lab02 [1189:1189 ]  {trapsd:IRpcLib} Done stopping all active sessions. Clearing the sessions.
+2025/07/21T17:05:53.386-03:00 <Information> linux-lab02 [1189:1189 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A for channel type: Support
+2025/07/21T17:05:53.387-03:00 <Error> linux-lab02 [1189:1189 ]  {trapsd:IRpcLib} Ipc channel '/opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A' connect failed with error: 2 (No such file or directory)
+2025/07/21T17:05:53.387-03:00 <Information> linux-lab02 [1189:1189 ]  {trapsd:IRpcLib} Done stopping all active sessions. Clearing the sessions.
+2025/07/21T17:05:59.259-03:00 <Information> linux-lab02 [1189:1189 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool runtime restart ] completed successfully. Error code = 0****
+2025/07/21T17:06:12.162-03:00 <Information> linux-lab02 [1396:1396 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T17:06:12.162-03:00 <Information> linux-lab02 [1396:1396 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T17:06:12.162-03:00 <Information> linux-lab02 [1396:1396 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T17:06:12.169-03:00 <Information> linux-lab02 [1396:1396 ]  {cytool:Cytool} About to run cytool command: [checkin ]
+2025/07/21T17:06:12.169-03:00 <Information> linux-lab02 [1396:1396 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A for channel type: Support
+2025/07/21T17:06:12.169-03:00 <Information> linux-lab02 [1396:1396 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T17:06:12.169-03:00 <Information> linux-lab02 [1396:1396 ]  {trapsd:IRpcLib} Executing method 'CheckinNow'
+2025/07/21T17:06:12.179-03:00 <Information> linux-lab02 [1396:1396 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T17:06:12.179-03:00 <Information> linux-lab02 [1396:1396 ]  {trapsd:IRpcLib} Done stopping all active sessions. Clearing the sessions.
+2025/07/21T17:06:12.179-03:00 <Information> linux-lab02 [1396:1396 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool checkin ] completed successfully. Error code = 0****
+2025/07/21T17:06:14.617-03:00 <Information> linux-lab02 [1403:1403 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T17:06:14.617-03:00 <Information> linux-lab02 [1403:1403 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T17:06:14.617-03:00 <Information> linux-lab02 [1403:1403 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T17:06:14.623-03:00 <Information> linux-lab02 [1403:1403 ]  {cytool:Cytool} About to run cytool command: [status ]
+2025/07/21T17:06:14.623-03:00 <Information> linux-lab02 [1403:1403 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A for channel type: Support
+2025/07/21T17:06:14.623-03:00 <Information> linux-lab02 [1403:1403 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T17:06:14.623-03:00 <Information> linux-lab02 [1403:1403 ]  {trapsd:IRpcLib} Executing method 'IsCytoolPasswordAuthenticationRequired'
+2025/07/21T17:06:14.624-03:00 <Information> linux-lab02 [1403:1403 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T17:06:14.624-03:00 <Information> linux-lab02 [1403:1403 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T17:06:14.625-03:00 <Information> linux-lab02 [1403:1403 ]  {trapsd:IRpcLib} Executing method 'GetStatusSummary'
+2025/07/21T17:06:14.627-03:00 <Information> linux-lab02 [1403:1403 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T17:06:14.648-03:00 <Information> linux-lab02 [1403:1403 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A for channel type: Support
+2025/07/21T17:06:14.648-03:00 <Information> linux-lab02 [1403:1403 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T17:06:14.648-03:00 <Information> linux-lab02 [1403:1403 ]  {trapsd:IRpcLib} Executing method 'IsCytoolPasswordAuthenticationRequired'
+2025/07/21T17:06:14.648-03:00 <Information> linux-lab02 [1403:1403 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T17:06:14.648-03:00 <Information> linux-lab02 [1403:1403 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T17:06:14.648-03:00 <Information> linux-lab02 [1403:1403 ]  {trapsd:IRpcLib} Executing method 'GetDbInterval'
+2025/07/21T17:06:14.653-03:00 <Information> linux-lab02 [1403:1403 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T17:06:14.655-03:00 <Information> linux-lab02 [1403:1403 ]  {trapsd:IRpcLib} Done stopping all active sessions. Clearing the sessions.
+2025/07/21T17:06:14.667-03:00 <Information> linux-lab02 [1403:1403 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T17:06:14.667-03:00 <Information> linux-lab02 [1403:1403 ]  {trapsd:IRpcLib} Executing method 'QueryEventCollection'
+2025/07/21T17:06:14.667-03:00 <Information> linux-lab02 [1403:1403 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T17:06:14.686-03:00 <Information> linux-lab02 [1403:1403 ]  {trapsd:IRpcLib} Done stopping all active sessions. Clearing the sessions.
+2025/07/21T17:06:14.686-03:00 <Information> linux-lab02 [1403:1403 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool status ] completed successfully. Error code = 0****
+2025/07/21T17:06:50.670-03:00 <Information> linux-lab02 [1414:1414 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T17:06:50.671-03:00 <Information> linux-lab02 [1414:1414 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T17:06:50.671-03:00 <Information> linux-lab02 [1414:1414 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T17:06:50.680-03:00 <Information> linux-lab02 [1414:1414 ]  {cytool:Cytool} About to run cytool command: [connectivity_test ]
+2025/07/21T17:06:50.680-03:00 <Information> linux-lab02 [1414:1414 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A for channel type: Support
+2025/07/21T17:06:50.680-03:00 <Information> linux-lab02 [1414:1414 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T17:06:50.680-03:00 <Information> linux-lab02 [1414:1414 ]  {trapsd:IRpcLib} Executing method 'IsCytoolPasswordAuthenticationRequired'
+2025/07/21T17:06:50.682-03:00 <Information> linux-lab02 [1414:1414 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T17:06:50.682-03:00 <Information> linux-lab02 [1414:1414 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T17:06:50.682-03:00 <Information> linux-lab02 [1414:1414 ]  {trapsd:IRpcLib} Executing method 'ConnectivityTest'
+2025/07/21T17:06:53.755-03:00 <Information> linux-lab02 [1414:1414 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T17:06:53.755-03:00 <Information> linux-lab02 [1414:1414 ]  {trapsd:IRpcLib} Done stopping all active sessions. Clearing the sessions.
+2025/07/21T17:06:53.755-03:00 <Information> linux-lab02 [1414:1414 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool connectivity_test ] completed successfully. Error code = 0****
+2025/07/21T17:07:48.523-03:00 <Information> linux-lab02 [1449:1449 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T17:07:48.523-03:00 <Information> linux-lab02 [1449:1449 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T17:07:48.523-03:00 <Information> linux-lab02 [1449:1449 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T17:07:48.531-03:00 <Information> linux-lab02 [1449:1449 ]  {cytool:Cytool} About to run cytool command: [status ]
+2025/07/21T17:07:48.531-03:00 <Information> linux-lab02 [1449:1449 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A for channel type: Support
+2025/07/21T17:07:48.532-03:00 <Information> linux-lab02 [1449:1449 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T17:07:48.532-03:00 <Information> linux-lab02 [1449:1449 ]  {trapsd:IRpcLib} Executing method 'IsCytoolPasswordAuthenticationRequired'
+2025/07/21T17:07:48.534-03:00 <Information> linux-lab02 [1449:1449 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T17:07:48.534-03:00 <Information> linux-lab02 [1449:1449 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T17:07:48.534-03:00 <Information> linux-lab02 [1449:1449 ]  {trapsd:IRpcLib} Executing method 'GetStatusSummary'
+2025/07/21T17:07:48.535-03:00 <Information> linux-lab02 [1449:1449 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T17:07:48.557-03:00 <Information> linux-lab02 [1449:1449 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A for channel type: Support
+2025/07/21T17:07:48.557-03:00 <Information> linux-lab02 [1449:1449 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T17:07:48.557-03:00 <Information> linux-lab02 [1449:1449 ]  {trapsd:IRpcLib} Executing method 'IsCytoolPasswordAuthenticationRequired'
+2025/07/21T17:07:48.557-03:00 <Information> linux-lab02 [1449:1449 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T17:07:48.557-03:00 <Information> linux-lab02 [1449:1449 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T17:07:48.557-03:00 <Information> linux-lab02 [1449:1449 ]  {trapsd:IRpcLib} Executing method 'GetDbInterval'
+2025/07/21T17:07:48.561-03:00 <Information> linux-lab02 [1449:1449 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T17:07:48.563-03:00 <Information> linux-lab02 [1449:1449 ]  {trapsd:IRpcLib} Done stopping all active sessions. Clearing the sessions.
+2025/07/21T17:07:48.571-03:00 <Information> linux-lab02 [1449:1449 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T17:07:48.571-03:00 <Information> linux-lab02 [1449:1449 ]  {trapsd:IRpcLib} Executing method 'QueryEventCollection'
+2025/07/21T17:07:48.572-03:00 <Information> linux-lab02 [1449:1449 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T17:07:48.586-03:00 <Information> linux-lab02 [1449:1449 ]  {trapsd:IRpcLib} Done stopping all active sessions. Clearing the sessions.
+2025/07/21T17:07:48.586-03:00 <Information> linux-lab02 [1449:1449 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool status ] completed successfully. Error code = 0****
+2025/07/21T17:07:54.290-03:00 <Information> linux-lab02 [1459:1459 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T17:07:54.290-03:00 <Information> linux-lab02 [1459:1459 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T17:07:54.290-03:00 <Information> linux-lab02 [1459:1459 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T17:07:54.299-03:00 <Information> linux-lab02 [1459:1459 ]  {cytool:Cytool} About to run cytool command: []
+2025/07/21T17:07:54.303-03:00 <Information> linux-lab02 [1459:1459 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool ] completed with error. Error code = 64****
+2025/07/21T17:08:04.848-03:00 <Information> linux-lab02 [1464:1464 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T17:08:04.848-03:00 <Information> linux-lab02 [1464:1464 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T17:08:04.848-03:00 <Information> linux-lab02 [1464:1464 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T17:08:04.856-03:00 <Information> linux-lab02 [1464:1464 ]  {cytool:Cytool} About to run cytool command: [connectivity_test 1 ]
+2025/07/21T17:08:04.856-03:00 <Information> linux-lab02 [1464:1464 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A for channel type: Support
+2025/07/21T17:08:04.856-03:00 <Information> linux-lab02 [1464:1464 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T17:08:04.856-03:00 <Information> linux-lab02 [1464:1464 ]  {trapsd:IRpcLib} Executing method 'IsCytoolPasswordAuthenticationRequired'
+2025/07/21T17:08:04.857-03:00 <Information> linux-lab02 [1464:1464 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T17:08:04.858-03:00 <Information> linux-lab02 [1464:1464 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T17:08:04.858-03:00 <Information> linux-lab02 [1464:1464 ]  {trapsd:IRpcLib} Executing method 'ConnectivityTest'
+2025/07/21T17:08:07.457-03:00 <Information> linux-lab02 [1464:1464 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T17:08:07.457-03:00 <Information> linux-lab02 [1464:1464 ]  {trapsd:IRpcLib} Done stopping all active sessions. Clearing the sessions.
+2025/07/21T17:08:07.457-03:00 <Information> linux-lab02 [1464:1464 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool connectivity_test 1 ] completed successfully. Error code = 0****
+2025/07/21T17:08:48.406-03:00 <Information> linux-lab02 [1472:1472 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T17:08:48.406-03:00 <Information> linux-lab02 [1472:1472 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T17:08:48.406-03:00 <Information> linux-lab02 [1472:1472 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T17:08:48.413-03:00 <Information> linux-lab02 [1472:1472 ]  {cytool:Cytool} About to run cytool command: []
+2025/07/21T17:08:48.417-03:00 <Information> linux-lab02 [1472:1472 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool ] completed with error. Error code = 64****
+2025/07/21T17:09:07.506-03:00 <Information> linux-lab02 [1487:1487 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T17:09:07.506-03:00 <Information> linux-lab02 [1487:1487 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T17:09:07.506-03:00 <Information> linux-lab02 [1487:1487 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T17:09:07.513-03:00 <Information> linux-lab02 [1487:1487 ]  {cytool:Cytool} About to run cytool command: [p2p status ]
+2025/07/21T17:09:07.513-03:00 <Information> linux-lab02 [1487:1487 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A for channel type: Support
+2025/07/21T17:09:07.514-03:00 <Information> linux-lab02 [1487:1487 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T17:09:07.514-03:00 <Information> linux-lab02 [1487:1487 ]  {trapsd:IRpcLib} Executing method 'GetPeerToPeerStatus'
+2025/07/21T17:09:07.515-03:00 <Information> linux-lab02 [1487:1487 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T17:09:07.517-03:00 <Information> linux-lab02 [1487:1487 ]  {trapsd:IRpcLib} Done stopping all active sessions. Clearing the sessions.
+2025/07/21T17:09:07.517-03:00 <Information> linux-lab02 [1487:1487 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool p2p status ] completed successfully. Error code = 0****
+2025/07/21T17:09:31.933-03:00 <Information> linux-lab02 [1492:1492 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T17:09:31.933-03:00 <Information> linux-lab02 [1492:1492 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T17:09:31.933-03:00 <Information> linux-lab02 [1492:1492 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T17:09:31.939-03:00 <Information> linux-lab02 [1492:1492 ]  {cytool:Cytool} About to run cytool command: [startup enable ]
+2025/07/21T17:09:31.944-03:00 <Information> linux-lab02 [1492:1492 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool startup enable ] completed with error. Error code = 64****
+2025/07/21T17:09:40.440-03:00 <Information> linux-lab02 [1497:1497 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T17:09:40.440-03:00 <Information> linux-lab02 [1497:1497 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T17:09:40.440-03:00 <Information> linux-lab02 [1497:1497 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T17:09:40.449-03:00 <Information> linux-lab02 [1497:1497 ]  {cytool:Cytool} About to run cytool command: [startup enable ]
+2025/07/21T17:09:40.453-03:00 <Information> linux-lab02 [1497:1497 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool startup enable ] completed with error. Error code = 64****
+2025/07/21T17:09:50.031-03:00 <Information> linux-lab02 [1502:1502 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T17:09:50.032-03:00 <Information> linux-lab02 [1502:1502 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T17:09:50.032-03:00 <Information> linux-lab02 [1502:1502 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T17:09:50.038-03:00 <Information> linux-lab02 [1502:1502 ]  {cytool:Cytool} About to run cytool command: [startup ]
+2025/07/21T17:09:50.042-03:00 <Information> linux-lab02 [1502:1502 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool startup ] completed with error. Error code = 64****
+2025/07/21T17:10:03.948-03:00 <Information> linux-lab02 [1507:1507 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T17:10:03.948-03:00 <Information> linux-lab02 [1507:1507 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T17:10:03.948-03:00 <Information> linux-lab02 [1507:1507 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T17:10:03.955-03:00 <Information> linux-lab02 [1507:1507 ]  {cytool:Cytool} About to run cytool command: [startup query ]
+2025/07/21T17:10:04.014-03:00 <Information> linux-lab02 [1507:1507 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool startup query ] completed successfully. Error code = 0****
+2025/07/21T17:11:03.294-03:00 <Information> linux-lab02 [1523:1523 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T17:11:03.294-03:00 <Information> linux-lab02 [1523:1523 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T17:11:03.294-03:00 <Information> linux-lab02 [1523:1523 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T17:11:03.301-03:00 <Information> linux-lab02 [1523:1523 ]  {cytool:Cytool} About to run cytool command: [start spmd ]
+2025/07/21T17:11:03.305-03:00 <Information> linux-lab02 [1523:1523 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool start spmd ] completed with error. Error code = 64****
+2025/07/21T17:11:05.592-03:00 <Information> linux-lab02 [1528:1528 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T17:11:05.592-03:00 <Information> linux-lab02 [1528:1528 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T17:11:05.592-03:00 <Information> linux-lab02 [1528:1528 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T17:11:05.599-03:00 <Information> linux-lab02 [1528:1528 ]  {cytool:Cytool} About to run cytool command: [start spmd all ]
+2025/07/21T17:11:05.603-03:00 <Information> linux-lab02 [1528:1528 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool start spmd all ] completed with error. Error code = 64****
+2025/07/21T17:11:14.283-03:00 <Information> linux-lab02 [1534:1534 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T17:11:14.283-03:00 <Information> linux-lab02 [1534:1534 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T17:11:14.283-03:00 <Information> linux-lab02 [1534:1534 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T17:11:14.291-03:00 <Information> linux-lab02 [1534:1534 ]  {cytool:Cytool} About to run cytool command: [chackin ]
+2025/07/21T17:11:14.295-03:00 <Information> linux-lab02 [1534:1534 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool chackin ] completed with error. Error code = 64****
+2025/07/21T17:11:18.283-03:00 <Information> linux-lab02 [1540:1540 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T17:11:18.283-03:00 <Information> linux-lab02 [1540:1540 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T17:11:18.283-03:00 <Information> linux-lab02 [1540:1540 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T17:11:18.291-03:00 <Information> linux-lab02 [1540:1540 ]  {cytool:Cytool} About to run cytool command: [checkin ]
+2025/07/21T17:11:18.291-03:00 <Information> linux-lab02 [1540:1540 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A for channel type: Support
+2025/07/21T17:11:18.292-03:00 <Information> linux-lab02 [1540:1540 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T17:11:18.292-03:00 <Information> linux-lab02 [1540:1540 ]  {trapsd:IRpcLib} Executing method 'CheckinNow'
+2025/07/21T17:11:18.294-03:00 <Information> linux-lab02 [1540:1540 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T17:11:18.294-03:00 <Information> linux-lab02 [1540:1540 ]  {trapsd:IRpcLib} Done stopping all active sessions. Clearing the sessions.
+2025/07/21T17:11:18.294-03:00 <Information> linux-lab02 [1540:1540 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool checkin ] completed successfully. Error code = 0****
+2025/07/21T17:11:25.031-03:00 <Information> linux-lab02 [1545:1545 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T17:11:25.031-03:00 <Information> linux-lab02 [1545:1545 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T17:11:25.031-03:00 <Information> linux-lab02 [1545:1545 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T17:11:25.041-03:00 <Information> linux-lab02 [1545:1545 ]  {cytool:Cytool} About to run cytool command: [status ]
+2025/07/21T17:11:25.041-03:00 <Information> linux-lab02 [1545:1545 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A for channel type: Support
+2025/07/21T17:11:25.041-03:00 <Information> linux-lab02 [1545:1545 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T17:11:25.041-03:00 <Information> linux-lab02 [1545:1545 ]  {trapsd:IRpcLib} Executing method 'IsCytoolPasswordAuthenticationRequired'
+2025/07/21T17:11:25.043-03:00 <Information> linux-lab02 [1545:1545 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T17:11:25.043-03:00 <Information> linux-lab02 [1545:1545 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T17:11:25.043-03:00 <Information> linux-lab02 [1545:1545 ]  {trapsd:IRpcLib} Executing method 'GetStatusSummary'
+2025/07/21T17:11:25.046-03:00 <Information> linux-lab02 [1545:1545 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T17:11:25.066-03:00 <Information> linux-lab02 [1545:1545 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A for channel type: Support
+2025/07/21T17:11:25.066-03:00 <Information> linux-lab02 [1545:1545 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T17:11:25.066-03:00 <Information> linux-lab02 [1545:1545 ]  {trapsd:IRpcLib} Executing method 'IsCytoolPasswordAuthenticationRequired'
+2025/07/21T17:11:25.066-03:00 <Information> linux-lab02 [1545:1545 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T17:11:25.066-03:00 <Information> linux-lab02 [1545:1545 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T17:11:25.066-03:00 <Information> linux-lab02 [1545:1545 ]  {trapsd:IRpcLib} Executing method 'GetDbInterval'
+2025/07/21T17:11:25.068-03:00 <Information> linux-lab02 [1545:1545 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T17:11:25.070-03:00 <Information> linux-lab02 [1545:1545 ]  {trapsd:IRpcLib} Done stopping all active sessions. Clearing the sessions.
+2025/07/21T17:11:25.079-03:00 <Information> linux-lab02 [1545:1545 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T17:11:25.079-03:00 <Information> linux-lab02 [1545:1545 ]  {trapsd:IRpcLib} Executing method 'QueryEventCollection'
+2025/07/21T17:11:25.080-03:00 <Information> linux-lab02 [1545:1545 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T17:11:25.096-03:00 <Information> linux-lab02 [1545:1545 ]  {trapsd:IRpcLib} Done stopping all active sessions. Clearing the sessions.
+2025/07/21T17:11:25.096-03:00 <Information> linux-lab02 [1545:1545 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool status ] completed successfully. Error code = 0****
+2025/07/21T17:11:50.873-03:00 <Information> linux-lab02 [1558:1558 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T17:11:50.873-03:00 <Information> linux-lab02 [1558:1558 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T17:11:50.873-03:00 <Information> linux-lab02 [1558:1558 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T17:11:50.889-03:00 <Information> linux-lab02 [1558:1558 ]  {cytool:Cytool} About to run cytool command: [status ]
+2025/07/21T17:11:50.889-03:00 <Information> linux-lab02 [1558:1558 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A for channel type: Support
+2025/07/21T17:11:50.889-03:00 <Information> linux-lab02 [1558:1558 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T17:11:50.889-03:00 <Information> linux-lab02 [1558:1558 ]  {trapsd:IRpcLib} Executing method 'IsCytoolPasswordAuthenticationRequired'
+2025/07/21T17:11:50.895-03:00 <Information> linux-lab02 [1558:1558 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T17:11:50.895-03:00 <Information> linux-lab02 [1558:1558 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T17:11:50.895-03:00 <Information> linux-lab02 [1558:1558 ]  {trapsd:IRpcLib} Executing method 'GetStatusSummary'
+2025/07/21T17:11:50.896-03:00 <Information> linux-lab02 [1558:1558 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T17:11:50.934-03:00 <Information> linux-lab02 [1558:1558 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A for channel type: Support
+2025/07/21T17:11:50.938-03:00 <Information> linux-lab02 [1558:1558 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T17:11:50.938-03:00 <Information> linux-lab02 [1558:1558 ]  {trapsd:IRpcLib} Executing method 'IsCytoolPasswordAuthenticationRequired'
+2025/07/21T17:11:50.943-03:00 <Information> linux-lab02 [1558:1558 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T17:11:50.943-03:00 <Information> linux-lab02 [1558:1558 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T17:11:50.943-03:00 <Information> linux-lab02 [1558:1558 ]  {trapsd:IRpcLib} Executing method 'GetDbInterval'
+2025/07/21T17:11:50.974-03:00 <Information> linux-lab02 [1558:1558 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T17:11:50.983-03:00 <Information> linux-lab02 [1558:1558 ]  {trapsd:IRpcLib} Done stopping all active sessions. Clearing the sessions.
+2025/07/21T17:11:51.011-03:00 <Information> linux-lab02 [1558:1558 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T17:11:51.011-03:00 <Information> linux-lab02 [1558:1558 ]  {trapsd:IRpcLib} Executing method 'QueryEventCollection'
+2025/07/21T17:11:51.011-03:00 <Information> linux-lab02 [1558:1558 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T17:11:51.051-03:00 <Information> linux-lab02 [1558:1558 ]  {trapsd:IRpcLib} Done stopping all active sessions. Clearing the sessions.
+2025/07/21T17:11:51.051-03:00 <Information> linux-lab02 [1558:1558 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool status ] completed successfully. Error code = 0****
+2025/07/21T17:11:52.872-03:00 <Information> linux-lab02 [1775:1775 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T17:11:52.872-03:00 <Information> linux-lab02 [1775:1775 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T17:11:52.872-03:00 <Information> linux-lab02 [1775:1775 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T17:11:52.889-03:00 <Information> linux-lab02 [1775:1775 ]  {cytool:Cytool} About to run cytool command: [status ]
+2025/07/21T17:11:52.889-03:00 <Information> linux-lab02 [1775:1775 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A for channel type: Support
+2025/07/21T17:11:52.890-03:00 <Information> linux-lab02 [1775:1775 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T17:11:52.892-03:00 <Information> linux-lab02 [1775:1775 ]  {trapsd:IRpcLib} Executing method 'IsCytoolPasswordAuthenticationRequired'
+2025/07/21T17:11:52.898-03:00 <Information> linux-lab02 [1775:1775 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T17:11:52.898-03:00 <Information> linux-lab02 [1775:1775 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T17:11:52.898-03:00 <Information> linux-lab02 [1775:1775 ]  {trapsd:IRpcLib} Executing method 'GetStatusSummary'
+2025/07/21T17:12:01.001-03:00 <Information> linux-lab02 [1775:1775 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T17:12:01.047-03:00 <Information> linux-lab02 [1775:1775 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A for channel type: Support
+2025/07/21T17:12:01.047-03:00 <Information> linux-lab02 [1775:1775 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T17:12:01.047-03:00 <Information> linux-lab02 [1775:1775 ]  {trapsd:IRpcLib} Executing method 'IsCytoolPasswordAuthenticationRequired'
+2025/07/21T17:12:01.051-03:00 <Information> linux-lab02 [1775:1775 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T17:12:01.051-03:00 <Information> linux-lab02 [1775:1775 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T17:12:01.051-03:00 <Information> linux-lab02 [1775:1775 ]  {trapsd:IRpcLib} Executing method 'GetDbInterval'
+2025/07/21T17:12:01.053-03:00 <Information> linux-lab02 [1775:1775 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T17:12:01.056-03:00 <Information> linux-lab02 [1775:1775 ]  {trapsd:IRpcLib} Done stopping all active sessions. Clearing the sessions.
+2025/07/21T17:12:01.076-03:00 <Information> linux-lab02 [1775:1775 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T17:12:01.076-03:00 <Information> linux-lab02 [1775:1775 ]  {trapsd:IRpcLib} Executing method 'QueryEventCollection'
+2025/07/21T17:12:01.086-03:00 <Information> linux-lab02 [1775:1775 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T17:12:01.119-03:00 <Information> linux-lab02 [1775:1775 ]  {trapsd:IRpcLib} Done stopping all active sessions. Clearing the sessions.
+2025/07/21T17:12:01.119-03:00 <Information> linux-lab02 [1775:1775 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool status ] completed successfully. Error code = 0****
+2025/07/21T17:12:18.154-03:00 <Information> linux-lab02 [2355:2355 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T17:12:18.154-03:00 <Information> linux-lab02 [2355:2355 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T17:12:18.155-03:00 <Information> linux-lab02 [2355:2355 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T17:12:18.169-03:00 <Information> linux-lab02 [2355:2355 ]  {cytool:Cytool} About to run cytool command: [status ]
+2025/07/21T17:12:18.169-03:00 <Information> linux-lab02 [2355:2355 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A for channel type: Support
+2025/07/21T17:12:18.169-03:00 <Information> linux-lab02 [2355:2355 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T17:12:18.169-03:00 <Information> linux-lab02 [2355:2355 ]  {trapsd:IRpcLib} Executing method 'IsCytoolPasswordAuthenticationRequired'
+2025/07/21T17:12:18.170-03:00 <Information> linux-lab02 [2355:2355 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T17:12:18.171-03:00 <Information> linux-lab02 [2355:2355 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T17:12:18.171-03:00 <Information> linux-lab02 [2355:2355 ]  {trapsd:IRpcLib} Executing method 'GetStatusSummary'
+2025/07/21T17:12:18.172-03:00 <Information> linux-lab02 [2355:2355 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T17:12:18.200-03:00 <Information> linux-lab02 [2355:2355 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A for channel type: Support
+2025/07/21T17:12:18.200-03:00 <Information> linux-lab02 [2355:2355 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T17:12:18.200-03:00 <Information> linux-lab02 [2355:2355 ]  {trapsd:IRpcLib} Executing method 'IsCytoolPasswordAuthenticationRequired'
+2025/07/21T17:12:18.200-03:00 <Information> linux-lab02 [2355:2355 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T17:12:18.200-03:00 <Information> linux-lab02 [2355:2355 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T17:12:18.200-03:00 <Information> linux-lab02 [2355:2355 ]  {trapsd:IRpcLib} Executing method 'GetDbInterval'
+2025/07/21T17:12:18.205-03:00 <Information> linux-lab02 [2355:2355 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T17:12:18.207-03:00 <Information> linux-lab02 [2355:2355 ]  {trapsd:IRpcLib} Done stopping all active sessions. Clearing the sessions.
+2025/07/21T17:12:18.225-03:00 <Information> linux-lab02 [2355:2355 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T17:12:18.226-03:00 <Information> linux-lab02 [2355:2355 ]  {trapsd:IRpcLib} Executing method 'QueryEventCollection'
+2025/07/21T17:12:18.226-03:00 <Information> linux-lab02 [2355:2355 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T17:12:18.265-03:00 <Information> linux-lab02 [2355:2355 ]  {trapsd:IRpcLib} Done stopping all active sessions. Clearing the sessions.
+2025/07/21T17:12:18.265-03:00 <Information> linux-lab02 [2355:2355 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool status ] completed successfully. Error code = 0****
+2025/07/21T17:12:31.392-03:00 <Information> linux-lab02 [2365:2365 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T17:12:31.392-03:00 <Information> linux-lab02 [2365:2365 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T17:12:31.392-03:00 <Information> linux-lab02 [2365:2365 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T17:12:31.399-03:00 <Information> linux-lab02 [2365:2365 ]  {cytool:Cytool} About to run cytool command: [status ]
+2025/07/21T17:12:31.399-03:00 <Information> linux-lab02 [2365:2365 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A for channel type: Support
+2025/07/21T17:12:31.399-03:00 <Information> linux-lab02 [2365:2365 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T17:12:31.399-03:00 <Information> linux-lab02 [2365:2365 ]  {trapsd:IRpcLib} Executing method 'IsCytoolPasswordAuthenticationRequired'
+2025/07/21T17:12:31.401-03:00 <Information> linux-lab02 [2365:2365 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T17:12:31.401-03:00 <Information> linux-lab02 [2365:2365 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T17:12:31.401-03:00 <Information> linux-lab02 [2365:2365 ]  {trapsd:IRpcLib} Executing method 'GetStatusSummary'
+2025/07/21T17:12:31.402-03:00 <Information> linux-lab02 [2365:2365 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T17:12:31.423-03:00 <Information> linux-lab02 [2365:2365 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A for channel type: Support
+2025/07/21T17:12:31.423-03:00 <Information> linux-lab02 [2365:2365 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T17:12:31.423-03:00 <Information> linux-lab02 [2365:2365 ]  {trapsd:IRpcLib} Executing method 'IsCytoolPasswordAuthenticationRequired'
+2025/07/21T17:12:31.423-03:00 <Information> linux-lab02 [2365:2365 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T17:12:31.423-03:00 <Information> linux-lab02 [2365:2365 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T17:12:31.423-03:00 <Information> linux-lab02 [2365:2365 ]  {trapsd:IRpcLib} Executing method 'GetDbInterval'
+2025/07/21T17:12:31.426-03:00 <Information> linux-lab02 [2365:2365 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T17:12:31.429-03:00 <Information> linux-lab02 [2365:2365 ]  {trapsd:IRpcLib} Done stopping all active sessions. Clearing the sessions.
+2025/07/21T17:12:31.440-03:00 <Information> linux-lab02 [2365:2365 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T17:12:31.440-03:00 <Information> linux-lab02 [2365:2365 ]  {trapsd:IRpcLib} Executing method 'QueryEventCollection'
+2025/07/21T17:12:31.440-03:00 <Information> linux-lab02 [2365:2365 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T17:12:31.464-03:00 <Information> linux-lab02 [2365:2365 ]  {trapsd:IRpcLib} Done stopping all active sessions. Clearing the sessions.
+2025/07/21T17:12:31.464-03:00 <Information> linux-lab02 [2365:2365 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool status ] completed successfully. Error code = 0****
+2025/07/21T17:13:00.558-03:00 <Information> linux-lab02 [2375:2375 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T17:13:00.558-03:00 <Information> linux-lab02 [2375:2375 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T17:13:00.558-03:00 <Information> linux-lab02 [2375:2375 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T17:13:00.569-03:00 <Information> linux-lab02 [2375:2375 ]  {cytool:Cytool} About to run cytool command: [status ]
+2025/07/21T17:13:00.569-03:00 <Information> linux-lab02 [2375:2375 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A for channel type: Support
+2025/07/21T17:13:00.569-03:00 <Information> linux-lab02 [2375:2375 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T17:13:00.569-03:00 <Information> linux-lab02 [2375:2375 ]  {trapsd:IRpcLib} Executing method 'IsCytoolPasswordAuthenticationRequired'
+2025/07/21T17:13:00.571-03:00 <Information> linux-lab02 [2375:2375 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T17:13:00.571-03:00 <Information> linux-lab02 [2375:2375 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T17:13:00.571-03:00 <Information> linux-lab02 [2375:2375 ]  {trapsd:IRpcLib} Executing method 'GetStatusSummary'
+2025/07/21T17:13:00.572-03:00 <Information> linux-lab02 [2375:2375 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T17:13:00.592-03:00 <Information> linux-lab02 [2375:2375 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A for channel type: Support
+2025/07/21T17:13:00.592-03:00 <Information> linux-lab02 [2375:2375 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T17:13:00.592-03:00 <Information> linux-lab02 [2375:2375 ]  {trapsd:IRpcLib} Executing method 'IsCytoolPasswordAuthenticationRequired'
+2025/07/21T17:13:00.592-03:00 <Information> linux-lab02 [2375:2375 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T17:13:00.592-03:00 <Information> linux-lab02 [2375:2375 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T17:13:00.592-03:00 <Information> linux-lab02 [2375:2375 ]  {trapsd:IRpcLib} Executing method 'GetDbInterval'
+2025/07/21T17:13:00.598-03:00 <Information> linux-lab02 [2375:2375 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T17:13:00.600-03:00 <Information> linux-lab02 [2375:2375 ]  {trapsd:IRpcLib} Done stopping all active sessions. Clearing the sessions.
+2025/07/21T17:13:00.611-03:00 <Information> linux-lab02 [2375:2375 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T17:13:00.612-03:00 <Information> linux-lab02 [2375:2375 ]  {trapsd:IRpcLib} Executing method 'QueryEventCollection'
+2025/07/21T17:13:00.612-03:00 <Information> linux-lab02 [2375:2375 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T17:13:00.631-03:00 <Information> linux-lab02 [2375:2375 ]  {trapsd:IRpcLib} Done stopping all active sessions. Clearing the sessions.
+2025/07/21T17:13:00.631-03:00 <Information> linux-lab02 [2375:2375 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool status ] completed successfully. Error code = 0****
+2025/07/21T17:13:17.969-03:00 <Information> linux-lab02 [2410:2410 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T17:13:17.969-03:00 <Information> linux-lab02 [2410:2410 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T17:13:17.969-03:00 <Information> linux-lab02 [2410:2410 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T17:13:17.976-03:00 <Information> linux-lab02 [2410:2410 ]  {cytool:Cytool} About to run cytool command: [checkin query ]
+2025/07/21T17:13:17.980-03:00 <Information> linux-lab02 [2410:2410 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool checkin query ] completed with error. Error code = 64****
+2025/07/21T17:13:28.242-03:00 <Information> linux-lab02 [2415:2415 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T17:13:28.243-03:00 <Information> linux-lab02 [2415:2415 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T17:13:28.243-03:00 <Information> linux-lab02 [2415:2415 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T17:13:28.250-03:00 <Information> linux-lab02 [2415:2415 ]  {cytool:Cytool} About to run cytool command: [starup query ]
+2025/07/21T17:13:28.254-03:00 <Information> linux-lab02 [2415:2415 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool starup query ] completed with error. Error code = 64****
+2025/07/21T17:13:37.051-03:00 <Information> linux-lab02 [2421:2421 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T17:13:37.051-03:00 <Information> linux-lab02 [2421:2421 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T17:13:37.051-03:00 <Information> linux-lab02 [2421:2421 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T17:13:37.057-03:00 <Information> linux-lab02 [2421:2421 ]  {cytool:Cytool} About to run cytool command: [runtime status ]
+2025/07/21T17:13:37.061-03:00 <Information> linux-lab02 [2421:2421 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool runtime status ] completed with error. Error code = 64****
+2025/07/21T17:13:48.324-03:00 <Information> linux-lab02 [2426:2426 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T17:13:48.324-03:00 <Information> linux-lab02 [2426:2426 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T17:13:48.324-03:00 <Information> linux-lab02 [2426:2426 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T17:13:48.331-03:00 <Information> linux-lab02 [2426:2426 ]  {cytool:Cytool} About to run cytool command: [runtime query ]
+2025/07/21T17:13:48.512-03:00 <Information> linux-lab02 [2426:2426 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool runtime query ] completed successfully. Error code = 0****
+2025/07/21T17:14:55.159-03:00 <Information> linux-lab02 [2450:2450 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T17:14:55.159-03:00 <Information> linux-lab02 [2450:2450 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T17:14:55.159-03:00 <Information> linux-lab02 [2450:2450 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T17:14:55.166-03:00 <Information> linux-lab02 [2450:2450 ]  {cytool:Cytool} About to run cytool command: [runtime query ]
+2025/07/21T17:14:55.362-03:00 <Information> linux-lab02 [2450:2450 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool runtime query ] completed successfully. Error code = 0****
+2025/07/21T17:15:02.173-03:00 <Information> linux-lab02 [2473:2473 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T17:15:02.173-03:00 <Information> linux-lab02 [2473:2473 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T17:15:02.173-03:00 <Information> linux-lab02 [2473:2473 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T17:15:02.180-03:00 <Information> linux-lab02 [2473:2473 ]  {cytool:Cytool} About to run cytool command: [status ]
+2025/07/21T17:15:02.180-03:00 <Information> linux-lab02 [2473:2473 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A for channel type: Support
+2025/07/21T17:15:02.180-03:00 <Information> linux-lab02 [2473:2473 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T17:15:02.180-03:00 <Information> linux-lab02 [2473:2473 ]  {trapsd:IRpcLib} Executing method 'IsCytoolPasswordAuthenticationRequired'
+2025/07/21T17:15:02.181-03:00 <Information> linux-lab02 [2473:2473 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T17:15:02.181-03:00 <Information> linux-lab02 [2473:2473 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T17:15:02.181-03:00 <Information> linux-lab02 [2473:2473 ]  {trapsd:IRpcLib} Executing method 'GetStatusSummary'
+2025/07/21T17:15:02.184-03:00 <Information> linux-lab02 [2473:2473 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T17:15:02.207-03:00 <Information> linux-lab02 [2473:2473 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A for channel type: Support
+2025/07/21T17:15:02.207-03:00 <Information> linux-lab02 [2473:2473 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T17:15:02.207-03:00 <Information> linux-lab02 [2473:2473 ]  {trapsd:IRpcLib} Executing method 'IsCytoolPasswordAuthenticationRequired'
+2025/07/21T17:15:02.208-03:00 <Information> linux-lab02 [2473:2473 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T17:15:02.208-03:00 <Information> linux-lab02 [2473:2473 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T17:15:02.208-03:00 <Information> linux-lab02 [2473:2473 ]  {trapsd:IRpcLib} Executing method 'GetDbInterval'
+2025/07/21T17:15:02.213-03:00 <Information> linux-lab02 [2473:2473 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T17:15:02.217-03:00 <Information> linux-lab02 [2473:2473 ]  {trapsd:IRpcLib} Done stopping all active sessions. Clearing the sessions.
+2025/07/21T17:15:02.230-03:00 <Information> linux-lab02 [2473:2473 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T17:15:02.231-03:00 <Information> linux-lab02 [2473:2473 ]  {trapsd:IRpcLib} Executing method 'QueryEventCollection'
+2025/07/21T17:15:02.231-03:00 <Information> linux-lab02 [2473:2473 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T17:15:02.250-03:00 <Information> linux-lab02 [2473:2473 ]  {trapsd:IRpcLib} Done stopping all active sessions. Clearing the sessions.
+2025/07/21T17:15:02.250-03:00 <Information> linux-lab02 [2473:2473 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool status ] completed successfully. Error code = 0****
+2025/07/21T17:16:38.713-03:00 <Information> linux-lab02 [2484:2484 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T17:16:38.713-03:00 <Information> linux-lab02 [2484:2484 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T17:16:38.713-03:00 <Information> linux-lab02 [2484:2484 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T17:16:38.720-03:00 <Information> linux-lab02 [2484:2484 ]  {cytool:Cytool} About to run cytool command: [runtime status ]
+2025/07/21T17:16:38.724-03:00 <Information> linux-lab02 [2484:2484 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool runtime status ] completed with error. Error code = 64****
+2025/07/21T17:16:41.523-03:00 <Information> linux-lab02 [2489:2489 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T17:16:41.523-03:00 <Information> linux-lab02 [2489:2489 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T17:16:41.523-03:00 <Information> linux-lab02 [2489:2489 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T17:16:41.530-03:00 <Information> linux-lab02 [2489:2489 ]  {cytool:Cytool} About to run cytool command: [runtime status ]
+2025/07/21T17:16:41.535-03:00 <Information> linux-lab02 [2489:2489 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool runtime status ] completed with error. Error code = 64****
+2025/07/21T17:16:45.741-03:00 <Information> linux-lab02 [2494:2494 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T17:16:45.741-03:00 <Information> linux-lab02 [2494:2494 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T17:16:45.741-03:00 <Information> linux-lab02 [2494:2494 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T17:16:45.748-03:00 <Information> linux-lab02 [2494:2494 ]  {cytool:Cytool} About to run cytool command: [runtime status ]
+2025/07/21T17:16:45.753-03:00 <Information> linux-lab02 [2494:2494 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool runtime status ] completed with error. Error code = 64****
+2025/07/21T17:16:51.711-03:00 <Information> linux-lab02 [2499:2499 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T17:16:51.711-03:00 <Information> linux-lab02 [2499:2499 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T17:16:51.711-03:00 <Information> linux-lab02 [2499:2499 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T17:16:51.718-03:00 <Information> linux-lab02 [2499:2499 ]  {cytool:Cytool} About to run cytool command: [runtime status ]
+2025/07/21T17:16:51.722-03:00 <Information> linux-lab02 [2499:2499 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool runtime status ] completed with error. Error code = 64****
+2025/07/21T17:17:02.347-03:00 <Information> linux-lab02 [2535:2535 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T17:17:02.347-03:00 <Information> linux-lab02 [2535:2535 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T17:17:02.347-03:00 <Information> linux-lab02 [2535:2535 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T17:17:02.356-03:00 <Information> linux-lab02 [2535:2535 ]  {cytool:Cytool} About to run cytool command: [runtime query ]
+2025/07/21T17:17:02.646-03:00 <Information> linux-lab02 [2535:2535 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool runtime query ] completed successfully. Error code = 0****
+2025/07/21T17:17:20.502-03:00 <Information> linux-lab02 [2715:2715 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T17:17:20.502-03:00 <Information> linux-lab02 [2715:2715 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T17:17:20.502-03:00 <Information> linux-lab02 [2715:2715 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T17:17:20.509-03:00 <Information> linux-lab02 [2715:2715 ]  {cytool:Cytool} About to run cytool command: [runtime load ]
+2025/07/21T17:17:20.513-03:00 <Information> linux-lab02 [2715:2715 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool runtime load ] completed with error. Error code = 64****
+2025/07/21T17:17:31.929-03:00 <Information> linux-lab02 [2720:2720 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T17:17:31.930-03:00 <Information> linux-lab02 [2720:2720 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T17:17:31.930-03:00 <Information> linux-lab02 [2720:2720 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T17:17:31.937-03:00 <Information> linux-lab02 [2720:2720 ]  {cytool:Cytool} About to run cytool command: [runtime all ]
+2025/07/21T17:17:31.941-03:00 <Information> linux-lab02 [2720:2720 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool runtime all ] completed with error. Error code = 64****
+2025/07/21T17:17:35.386-03:00 <Information> linux-lab02 [2725:2725 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T17:17:35.386-03:00 <Information> linux-lab02 [2725:2725 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T17:17:35.386-03:00 <Information> linux-lab02 [2725:2725 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T17:17:35.393-03:00 <Information> linux-lab02 [2725:2725 ]  {cytool:Cytool} About to run cytool command: [runtime cortex-8.8.0.133595.deb cortex-8.8.0.133595.sh cortex.conf Cortex_Linux_deb.tar.gz Cortex_Linux_sh.tar.gz README.md all ]
+2025/07/21T17:17:35.396-03:00 <Information> linux-lab02 [2725:2725 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool runtime cortex-8.8.0.133595.deb cortex-8.8.0.133595.sh cortex.conf Cortex_Linux_deb.tar.gz Cortex_Linux_sh.tar.gz README.md all ] completed with error. Error code = 64****
+2025/07/21T17:17:41.812-03:00 <Information> linux-lab02 [2730:2730 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T17:17:41.812-03:00 <Information> linux-lab02 [2730:2730 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T17:17:41.812-03:00 <Information> linux-lab02 [2730:2730 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T17:17:41.819-03:00 <Information> linux-lab02 [2730:2730 ]  {cytool:Cytool} About to run cytool command: [runtime query ]
+2025/07/21T17:17:42.015-03:00 <Information> linux-lab02 [2730:2730 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool runtime query ] completed successfully. Error code = 0****
+2025/07/21T17:18:00.449-03:00 <Information> linux-lab02 [2753:2753 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T17:18:00.449-03:00 <Information> linux-lab02 [2753:2753 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T17:18:00.449-03:00 <Information> linux-lab02 [2753:2753 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T17:18:00.457-03:00 <Information> linux-lab02 [2753:2753 ]  {cytool:Cytool} About to run cytool command: [runtime status ]
+2025/07/21T17:18:00.461-03:00 <Information> linux-lab02 [2753:2753 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool runtime status ] completed with error. Error code = 64****
+2025/07/21T17:18:56.512-03:00 <Information> linux-lab02 [2758:2758 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T17:18:56.512-03:00 <Information> linux-lab02 [2758:2758 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T17:18:56.512-03:00 <Information> linux-lab02 [2758:2758 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T17:18:56.521-03:00 <Information> linux-lab02 [2758:2758 ]  {cytool:Cytool} About to run cytool command: [connectivity_test ]
+2025/07/21T17:18:56.522-03:00 <Information> linux-lab02 [2758:2758 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A for channel type: Support
+2025/07/21T17:18:56.522-03:00 <Information> linux-lab02 [2758:2758 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T17:18:56.522-03:00 <Information> linux-lab02 [2758:2758 ]  {trapsd:IRpcLib} Executing method 'IsCytoolPasswordAuthenticationRequired'
+2025/07/21T17:18:56.523-03:00 <Information> linux-lab02 [2758:2758 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T17:18:56.524-03:00 <Information> linux-lab02 [2758:2758 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T17:18:56.524-03:00 <Information> linux-lab02 [2758:2758 ]  {trapsd:IRpcLib} Executing method 'ConnectivityTest'
+2025/07/21T17:18:59.410-03:00 <Information> linux-lab02 [2758:2758 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T17:18:59.412-03:00 <Information> linux-lab02 [2758:2758 ]  {trapsd:IRpcLib} Done stopping all active sessions. Clearing the sessions.
+2025/07/21T17:18:59.412-03:00 <Information> linux-lab02 [2758:2758 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool connectivity_test ] completed successfully. Error code = 0****
+2025/07/21T17:19:07.232-03:00 <Information> linux-lab02 [2766:2766 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T17:19:07.232-03:00 <Information> linux-lab02 [2766:2766 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T17:19:07.232-03:00 <Information> linux-lab02 [2766:2766 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T17:19:07.240-03:00 <Information> linux-lab02 [2766:2766 ]  {cytool:Cytool} About to run cytool command: []
+2025/07/21T17:19:07.244-03:00 <Information> linux-lab02 [2766:2766 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool ] completed with error. Error code = 64****
+2025/07/21T17:19:17.790-03:00 <Information> linux-lab02 [2771:2771 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T17:19:17.790-03:00 <Information> linux-lab02 [2771:2771 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T17:19:17.790-03:00 <Information> linux-lab02 [2771:2771 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T17:19:17.797-03:00 <Information> linux-lab02 [2771:2771 ]  {cytool:Cytool} About to run cytool command: [checkin ]
+2025/07/21T17:19:17.798-03:00 <Information> linux-lab02 [2771:2771 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A for channel type: Support
+2025/07/21T17:19:17.798-03:00 <Information> linux-lab02 [2771:2771 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T17:19:17.798-03:00 <Information> linux-lab02 [2771:2771 ]  {trapsd:IRpcLib} Executing method 'CheckinNow'
+2025/07/21T17:19:17.802-03:00 <Information> linux-lab02 [2771:2771 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T17:19:17.803-03:00 <Information> linux-lab02 [2771:2771 ]  {trapsd:IRpcLib} Done stopping all active sessions. Clearing the sessions.
+2025/07/21T17:19:17.803-03:00 <Information> linux-lab02 [2771:2771 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool checkin ] completed successfully. Error code = 0****
+2025/07/21T17:19:21.645-03:00 <Information> linux-lab02 [2776:2776 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T17:19:21.646-03:00 <Information> linux-lab02 [2776:2776 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T17:19:21.647-03:00 <Information> linux-lab02 [2776:2776 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T17:19:21.663-03:00 <Information> linux-lab02 [2776:2776 ]  {cytool:Cytool} About to run cytool command: [runtime status ]
+2025/07/21T17:19:21.673-03:00 <Information> linux-lab02 [2776:2776 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool runtime status ] completed with error. Error code = 64****
+2025/07/21T17:19:30.108-03:00 <Information> linux-lab02 [2890:2890 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T17:19:30.109-03:00 <Information> linux-lab02 [2890:2890 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T17:19:30.109-03:00 <Information> linux-lab02 [2890:2890 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T17:19:30.120-03:00 <Information> linux-lab02 [2890:2890 ]  {cytool:Cytool} About to run cytool command: [runtime query ]
+2025/07/21T17:19:30.303-03:00 <Information> linux-lab02 [2890:2890 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool runtime query ] completed successfully. Error code = 0****
+2025/07/21T17:19:46.813-03:00 <Information> linux-lab02 [2929:2929 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T17:19:46.814-03:00 <Information> linux-lab02 [2929:2929 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T17:19:46.814-03:00 <Information> linux-lab02 [2929:2929 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T17:19:46.822-03:00 <Information> linux-lab02 [2929:2929 ]  {cytool:Cytool} About to run cytool command: [runtime query ]
+2025/07/21T17:19:47.001-03:00 <Information> linux-lab02 [2929:2929 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool runtime query ] completed successfully. Error code = 0****
+2025/07/21T17:19:51.481-03:00 <Information> linux-lab02 [2952:2952 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T17:19:51.481-03:00 <Information> linux-lab02 [2952:2952 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T17:19:51.481-03:00 <Information> linux-lab02 [2952:2952 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T17:19:51.488-03:00 <Information> linux-lab02 [2952:2952 ]  {cytool:Cytool} About to run cytool command: [runtime status ]
+2025/07/21T17:19:51.492-03:00 <Information> linux-lab02 [2952:2952 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool runtime status ] completed with error. Error code = 64****
+2025/07/21T17:19:55.459-03:00 <Information> linux-lab02 [2957:2957 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T17:19:55.459-03:00 <Information> linux-lab02 [2957:2957 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T17:19:55.459-03:00 <Information> linux-lab02 [2957:2957 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T17:19:55.467-03:00 <Information> linux-lab02 [2957:2957 ]  {cytool:Cytool} About to run cytool command: [checkin ]
+2025/07/21T17:19:55.467-03:00 <Information> linux-lab02 [2957:2957 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A for channel type: Support
+2025/07/21T17:19:55.467-03:00 <Information> linux-lab02 [2957:2957 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T17:19:55.467-03:00 <Information> linux-lab02 [2957:2957 ]  {trapsd:IRpcLib} Executing method 'CheckinNow'
+2025/07/21T17:19:55.473-03:00 <Information> linux-lab02 [2957:2957 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T17:19:55.473-03:00 <Information> linux-lab02 [2957:2957 ]  {trapsd:IRpcLib} Done stopping all active sessions. Clearing the sessions.
+2025/07/21T17:19:55.473-03:00 <Information> linux-lab02 [2957:2957 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool checkin ] completed successfully. Error code = 0****
+2025/07/21T17:20:04.779-03:00 <Information> linux-lab02 [3072:3072 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T17:20:04.779-03:00 <Information> linux-lab02 [3072:3072 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T17:20:04.779-03:00 <Information> linux-lab02 [3072:3072 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T17:20:04.787-03:00 <Information> linux-lab02 [3072:3072 ]  {cytool:Cytool} About to run cytool command: [startup query ]
+2025/07/21T17:20:04.844-03:00 <Information> linux-lab02 [3072:3072 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool startup query ] completed successfully. Error code = 0****
+2025/07/21T17:20:17.215-03:00 <Information> linux-lab02 [3087:3087 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T17:20:17.216-03:00 <Information> linux-lab02 [3087:3087 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T17:20:17.216-03:00 <Information> linux-lab02 [3087:3087 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T17:20:17.223-03:00 <Information> linux-lab02 [3087:3087 ]  {cytool:Cytool} About to run cytool command: [status ]
+2025/07/21T17:20:17.223-03:00 <Information> linux-lab02 [3087:3087 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A for channel type: Support
+2025/07/21T17:20:17.224-03:00 <Information> linux-lab02 [3087:3087 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T17:20:17.224-03:00 <Information> linux-lab02 [3087:3087 ]  {trapsd:IRpcLib} Executing method 'IsCytoolPasswordAuthenticationRequired'
+2025/07/21T17:20:17.225-03:00 <Information> linux-lab02 [3087:3087 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T17:20:17.225-03:00 <Information> linux-lab02 [3087:3087 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T17:20:17.226-03:00 <Information> linux-lab02 [3087:3087 ]  {trapsd:IRpcLib} Executing method 'GetStatusSummary'
+2025/07/21T17:20:17.227-03:00 <Information> linux-lab02 [3087:3087 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T17:20:17.248-03:00 <Information> linux-lab02 [3087:3087 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A for channel type: Support
+2025/07/21T17:20:17.248-03:00 <Information> linux-lab02 [3087:3087 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T17:20:17.248-03:00 <Information> linux-lab02 [3087:3087 ]  {trapsd:IRpcLib} Executing method 'IsCytoolPasswordAuthenticationRequired'
+2025/07/21T17:20:17.248-03:00 <Information> linux-lab02 [3087:3087 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T17:20:17.248-03:00 <Information> linux-lab02 [3087:3087 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T17:20:17.248-03:00 <Information> linux-lab02 [3087:3087 ]  {trapsd:IRpcLib} Executing method 'GetDbInterval'
+2025/07/21T17:20:17.252-03:00 <Information> linux-lab02 [3087:3087 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T17:20:17.255-03:00 <Information> linux-lab02 [3087:3087 ]  {trapsd:IRpcLib} Done stopping all active sessions. Clearing the sessions.
+2025/07/21T17:20:17.265-03:00 <Information> linux-lab02 [3087:3087 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T17:20:17.265-03:00 <Information> linux-lab02 [3087:3087 ]  {trapsd:IRpcLib} Executing method 'QueryEventCollection'
+2025/07/21T17:20:17.265-03:00 <Information> linux-lab02 [3087:3087 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T17:20:17.285-03:00 <Information> linux-lab02 [3087:3087 ]  {trapsd:IRpcLib} Done stopping all active sessions. Clearing the sessions.
+2025/07/21T17:20:17.286-03:00 <Information> linux-lab02 [3087:3087 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool status ] completed successfully. Error code = 0****
+2025/07/21T17:20:41.398-03:00 <Information> linux-lab02 [3097:3097 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T17:20:41.398-03:00 <Information> linux-lab02 [3097:3097 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T17:20:41.398-03:00 <Information> linux-lab02 [3097:3097 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T17:20:41.410-03:00 <Information> linux-lab02 [3097:3097 ]  {cytool:Cytool} About to run cytool command: [startup query ]
+2025/07/21T17:20:41.461-03:00 <Information> linux-lab02 [3097:3097 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool startup query ] completed successfully. Error code = 0****
+2025/07/21T17:20:44.323-03:00 <Information> linux-lab02 [3112:3112 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T17:20:44.323-03:00 <Information> linux-lab02 [3112:3112 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T17:20:44.325-03:00 <Information> linux-lab02 [3112:3112 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T17:20:44.332-03:00 <Information> linux-lab02 [3112:3112 ]  {cytool:Cytool} About to run cytool command: [runtime status ]
+2025/07/21T17:20:44.336-03:00 <Information> linux-lab02 [3112:3112 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool runtime status ] completed with error. Error code = 64****
+2025/07/21T17:20:47.925-03:00 <Information> linux-lab02 [3117:3117 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T17:20:47.925-03:00 <Information> linux-lab02 [3117:3117 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T17:20:47.925-03:00 <Information> linux-lab02 [3117:3117 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T17:20:47.933-03:00 <Information> linux-lab02 [3117:3117 ]  {cytool:Cytool} About to run cytool command: [runtime query ]
+2025/07/21T17:20:48.125-03:00 <Information> linux-lab02 [3117:3117 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool runtime query ] completed successfully. Error code = 0****
+2025/07/21T17:21:23.441-03:00 <Information> linux-lab02 [3141:3141 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T17:21:23.441-03:00 <Information> linux-lab02 [3141:3141 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T17:21:23.442-03:00 <Information> linux-lab02 [3141:3141 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T17:21:23.450-03:00 <Information> linux-lab02 [3141:3141 ]  {cytool:Cytool} About to run cytool command: [startup query ]
+2025/07/21T17:21:23.504-03:00 <Information> linux-lab02 [3141:3141 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool startup query ] completed successfully. Error code = 0****
+2025/07/21T17:21:26.203-03:00 <Information> linux-lab02 [3156:3156 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T17:21:26.203-03:00 <Information> linux-lab02 [3156:3156 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T17:21:26.203-03:00 <Information> linux-lab02 [3156:3156 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T17:21:26.210-03:00 <Information> linux-lab02 [3156:3156 ]  {cytool:Cytool} About to run cytool command: [runtime status ]
+2025/07/21T17:21:26.216-03:00 <Information> linux-lab02 [3156:3156 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool runtime status ] completed with error. Error code = 64****
+2025/07/21T17:21:29.311-03:00 <Information> linux-lab02 [3161:3161 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T17:21:29.311-03:00 <Information> linux-lab02 [3161:3161 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T17:21:29.312-03:00 <Information> linux-lab02 [3161:3161 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T17:21:29.319-03:00 <Information> linux-lab02 [3161:3161 ]  {cytool:Cytool} About to run cytool command: [status ]
+2025/07/21T17:21:29.319-03:00 <Information> linux-lab02 [3161:3161 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A for channel type: Support
+2025/07/21T17:21:29.319-03:00 <Information> linux-lab02 [3161:3161 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T17:21:29.319-03:00 <Information> linux-lab02 [3161:3161 ]  {trapsd:IRpcLib} Executing method 'IsCytoolPasswordAuthenticationRequired'
+2025/07/21T17:21:29.325-03:00 <Information> linux-lab02 [3161:3161 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T17:21:29.325-03:00 <Information> linux-lab02 [3161:3161 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T17:21:29.325-03:00 <Information> linux-lab02 [3161:3161 ]  {trapsd:IRpcLib} Executing method 'GetStatusSummary'
+2025/07/21T17:21:29.326-03:00 <Information> linux-lab02 [3161:3161 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T17:21:29.346-03:00 <Information> linux-lab02 [3161:3161 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A for channel type: Support
+2025/07/21T17:21:29.346-03:00 <Information> linux-lab02 [3161:3161 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T17:21:29.346-03:00 <Information> linux-lab02 [3161:3161 ]  {trapsd:IRpcLib} Executing method 'IsCytoolPasswordAuthenticationRequired'
+2025/07/21T17:21:29.346-03:00 <Information> linux-lab02 [3161:3161 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T17:21:29.346-03:00 <Information> linux-lab02 [3161:3161 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T17:21:29.346-03:00 <Information> linux-lab02 [3161:3161 ]  {trapsd:IRpcLib} Executing method 'GetDbInterval'
+2025/07/21T17:21:29.351-03:00 <Information> linux-lab02 [3161:3161 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T17:21:29.354-03:00 <Information> linux-lab02 [3161:3161 ]  {trapsd:IRpcLib} Done stopping all active sessions. Clearing the sessions.
+2025/07/21T17:21:29.363-03:00 <Information> linux-lab02 [3161:3161 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T17:21:29.364-03:00 <Information> linux-lab02 [3161:3161 ]  {trapsd:IRpcLib} Executing method 'QueryEventCollection'
+2025/07/21T17:21:29.364-03:00 <Information> linux-lab02 [3161:3161 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T17:21:29.385-03:00 <Information> linux-lab02 [3161:3161 ]  {trapsd:IRpcLib} Done stopping all active sessions. Clearing the sessions.
+2025/07/21T17:21:29.385-03:00 <Information> linux-lab02 [3161:3161 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool status ] completed successfully. Error code = 0****
+2025/07/21T17:21:42.201-03:00 <Information> linux-lab02 [3171:3171 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T17:21:42.202-03:00 <Information> linux-lab02 [3171:3171 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T17:21:42.202-03:00 <Information> linux-lab02 [3171:3171 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T17:21:42.211-03:00 <Information> linux-lab02 [3171:3171 ]  {cytool:Cytool} About to run cytool command: [checkin ]
+2025/07/21T17:21:42.211-03:00 <Information> linux-lab02 [3171:3171 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A for channel type: Support
+2025/07/21T17:21:42.211-03:00 <Information> linux-lab02 [3171:3171 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T17:21:42.211-03:00 <Information> linux-lab02 [3171:3171 ]  {trapsd:IRpcLib} Executing method 'CheckinNow'
+2025/07/21T17:21:42.218-03:00 <Information> linux-lab02 [3171:3171 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T17:21:42.218-03:00 <Information> linux-lab02 [3171:3171 ]  {trapsd:IRpcLib} Done stopping all active sessions. Clearing the sessions.
+2025/07/21T17:21:42.218-03:00 <Information> linux-lab02 [3171:3171 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool checkin ] completed successfully. Error code = 0****
+2025/07/21T17:21:44.609-03:00 <Information> linux-lab02 [3177:3177 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T17:21:44.610-03:00 <Information> linux-lab02 [3177:3177 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T17:21:44.610-03:00 <Information> linux-lab02 [3177:3177 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T17:21:44.633-03:00 <Information> linux-lab02 [3177:3177 ]  {cytool:Cytool} About to run cytool command: [status ]
+2025/07/21T17:21:44.633-03:00 <Information> linux-lab02 [3177:3177 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A for channel type: Support
+2025/07/21T17:21:44.633-03:00 <Information> linux-lab02 [3177:3177 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T17:21:44.633-03:00 <Information> linux-lab02 [3177:3177 ]  {trapsd:IRpcLib} Executing method 'IsCytoolPasswordAuthenticationRequired'
+2025/07/21T17:21:44.649-03:00 <Information> linux-lab02 [3177:3177 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T17:21:44.649-03:00 <Information> linux-lab02 [3177:3177 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T17:21:44.649-03:00 <Information> linux-lab02 [3177:3177 ]  {trapsd:IRpcLib} Executing method 'GetStatusSummary'
+2025/07/21T17:21:44.653-03:00 <Information> linux-lab02 [3177:3177 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T17:21:44.701-03:00 <Information> linux-lab02 [3177:3177 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A for channel type: Support
+2025/07/21T17:21:44.704-03:00 <Information> linux-lab02 [3177:3177 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T17:21:44.704-03:00 <Information> linux-lab02 [3177:3177 ]  {trapsd:IRpcLib} Executing method 'IsCytoolPasswordAuthenticationRequired'
+2025/07/21T17:21:44.706-03:00 <Information> linux-lab02 [3177:3177 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T17:21:44.706-03:00 <Information> linux-lab02 [3177:3177 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T17:21:44.706-03:00 <Information> linux-lab02 [3177:3177 ]  {trapsd:IRpcLib} Executing method 'GetDbInterval'
+2025/07/21T17:21:44.710-03:00 <Information> linux-lab02 [3177:3177 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T17:21:44.715-03:00 <Information> linux-lab02 [3177:3177 ]  {trapsd:IRpcLib} Done stopping all active sessions. Clearing the sessions.
+2025/07/21T17:21:44.731-03:00 <Information> linux-lab02 [3177:3177 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T17:21:44.731-03:00 <Information> linux-lab02 [3177:3177 ]  {trapsd:IRpcLib} Executing method 'QueryEventCollection'
+2025/07/21T17:21:44.733-03:00 <Information> linux-lab02 [3177:3177 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T17:21:44.767-03:00 <Information> linux-lab02 [3177:3177 ]  {trapsd:IRpcLib} Done stopping all active sessions. Clearing the sessions.
+2025/07/21T17:21:44.767-03:00 <Information> linux-lab02 [3177:3177 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool status ] completed successfully. Error code = 0****
+2025/07/21T17:24:03.458-03:00 <Information> linux-lab02 [3335:3335 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T17:24:03.458-03:00 <Information> linux-lab02 [3335:3335 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T17:24:03.458-03:00 <Information> linux-lab02 [3335:3335 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T17:24:03.469-03:00 <Information> linux-lab02 [3335:3335 ]  {cytool:Cytool} About to run cytool command: [status ]
+2025/07/21T17:24:03.469-03:00 <Information> linux-lab02 [3335:3335 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A for channel type: Support
+2025/07/21T17:24:03.470-03:00 <Information> linux-lab02 [3335:3335 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T17:24:03.470-03:00 <Information> linux-lab02 [3335:3335 ]  {trapsd:IRpcLib} Executing method 'IsCytoolPasswordAuthenticationRequired'
+2025/07/21T17:24:03.471-03:00 <Information> linux-lab02 [3335:3335 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T17:24:03.471-03:00 <Information> linux-lab02 [3335:3335 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T17:24:03.471-03:00 <Information> linux-lab02 [3335:3335 ]  {trapsd:IRpcLib} Executing method 'GetStatusSummary'
+2025/07/21T17:24:03.472-03:00 <Information> linux-lab02 [3335:3335 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T17:24:03.492-03:00 <Information> linux-lab02 [3335:3335 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A for channel type: Support
+2025/07/21T17:24:03.493-03:00 <Information> linux-lab02 [3335:3335 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T17:24:03.493-03:00 <Information> linux-lab02 [3335:3335 ]  {trapsd:IRpcLib} Executing method 'IsCytoolPasswordAuthenticationRequired'
+2025/07/21T17:24:03.493-03:00 <Information> linux-lab02 [3335:3335 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T17:24:03.493-03:00 <Information> linux-lab02 [3335:3335 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T17:24:03.493-03:00 <Information> linux-lab02 [3335:3335 ]  {trapsd:IRpcLib} Executing method 'GetDbInterval'
+2025/07/21T17:24:03.499-03:00 <Information> linux-lab02 [3335:3335 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T17:24:03.501-03:00 <Information> linux-lab02 [3335:3335 ]  {trapsd:IRpcLib} Done stopping all active sessions. Clearing the sessions.
+2025/07/21T17:24:03.511-03:00 <Information> linux-lab02 [3335:3335 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T17:24:03.511-03:00 <Information> linux-lab02 [3335:3335 ]  {trapsd:IRpcLib} Executing method 'QueryEventCollection'
+2025/07/21T17:24:03.511-03:00 <Information> linux-lab02 [3335:3335 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T17:24:03.530-03:00 <Information> linux-lab02 [3335:3335 ]  {trapsd:IRpcLib} Done stopping all active sessions. Clearing the sessions.
+2025/07/21T17:24:03.530-03:00 <Information> linux-lab02 [3335:3335 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool status ] completed successfully. Error code = 0****
+2025/07/21T19:27:29.139-03:00 <Information> linux-lab02 [1520:1520 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T19:27:29.140-03:00 <Information> linux-lab02 [1520:1520 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T19:27:29.140-03:00 <Information> linux-lab02 [1520:1520 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T19:27:29.163-03:00 <Information> linux-lab02 [1520:1520 ]  {cytool:Cytool} About to run cytool command: [status ]
+2025/07/21T19:27:29.163-03:00 <Information> linux-lab02 [1520:1520 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A for channel type: Support
+2025/07/21T19:27:29.163-03:00 <Information> linux-lab02 [1520:1520 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T19:27:29.163-03:00 <Information> linux-lab02 [1520:1520 ]  {trapsd:IRpcLib} Executing method 'IsCytoolPasswordAuthenticationRequired'
+2025/07/21T19:27:29.170-03:00 <Information> linux-lab02 [1520:1520 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T19:27:29.170-03:00 <Information> linux-lab02 [1520:1520 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T19:27:29.170-03:00 <Information> linux-lab02 [1520:1520 ]  {trapsd:IRpcLib} Executing method 'GetStatusSummary'
+2025/07/21T19:27:29.175-03:00 <Information> linux-lab02 [1520:1520 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T19:27:29.205-03:00 <Information> linux-lab02 [1520:1520 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A for channel type: Support
+2025/07/21T19:27:29.205-03:00 <Information> linux-lab02 [1520:1520 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T19:27:29.205-03:00 <Information> linux-lab02 [1520:1520 ]  {trapsd:IRpcLib} Executing method 'IsCytoolPasswordAuthenticationRequired'
+2025/07/21T19:27:29.206-03:00 <Information> linux-lab02 [1520:1520 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T19:27:29.206-03:00 <Information> linux-lab02 [1520:1520 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T19:27:29.206-03:00 <Information> linux-lab02 [1520:1520 ]  {trapsd:IRpcLib} Executing method 'GetDbInterval'
+2025/07/21T19:27:29.234-03:00 <Information> linux-lab02 [1520:1520 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T19:27:29.237-03:00 <Information> linux-lab02 [1520:1520 ]  {trapsd:IRpcLib} Done stopping all active sessions. Clearing the sessions.
+2025/07/21T19:27:29.247-03:00 <Information> linux-lab02 [1520:1520 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T19:27:29.247-03:00 <Information> linux-lab02 [1520:1520 ]  {trapsd:IRpcLib} Executing method 'QueryEventCollection'
+2025/07/21T19:27:29.247-03:00 <Information> linux-lab02 [1520:1520 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T19:27:29.270-03:00 <Information> linux-lab02 [1520:1520 ]  {trapsd:IRpcLib} Done stopping all active sessions. Clearing the sessions.
+2025/07/21T19:27:29.270-03:00 <Information> linux-lab02 [1520:1520 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool status ] completed successfully. Error code = 0****
+2025/07/21T22:24:44.749-03:00 <Information> linux-lab02 [3135:3135 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T22:24:44.749-03:00 <Information> linux-lab02 [3135:3135 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T22:24:44.749-03:00 <Information> linux-lab02 [3135:3135 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T22:24:44.757-03:00 <Information> linux-lab02 [3135:3135 ]  {cytool:Cytool} About to run cytool command: [runtime status ]
+2025/07/21T22:24:44.785-03:00 <Information> linux-lab02 [3135:3135 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool runtime status ] completed with error. Error code = 64****
+2025/07/21T22:24:50.766-03:00 <Information> linux-lab02 [3140:3140 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/authorized.3A5949AD8B4A4195BF44C7C4C8FF1FA1 for channel type: AuthorizedSupport
+2025/07/21T22:24:50.766-03:00 <Information> linux-lab02 [3140:3140 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/pmd.B4FF387483ACC4894DE409874743BFDB for channel type: PmdSupport
+2025/07/21T22:24:50.766-03:00 <Information> linux-lab02 [3140:3140 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/sandboxd.5DA9E887BFFF47DF83F0F96497150291 for channel type: SandboxdSupport
+2025/07/21T22:24:50.774-03:00 <Information> linux-lab02 [3140:3140 ]  {cytool:Cytool} About to run cytool command: [status ]
+2025/07/21T22:24:50.774-03:00 <Information> linux-lab02 [3140:3140 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A for channel type: Support
+2025/07/21T22:24:50.775-03:00 <Information> linux-lab02 [3140:3140 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T22:24:50.775-03:00 <Information> linux-lab02 [3140:3140 ]  {trapsd:IRpcLib} Executing method 'IsCytoolPasswordAuthenticationRequired'
+2025/07/21T22:24:50.777-03:00 <Information> linux-lab02 [3140:3140 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T22:24:50.777-03:00 <Information> linux-lab02 [3140:3140 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T22:24:50.777-03:00 <Information> linux-lab02 [3140:3140 ]  {trapsd:IRpcLib} Executing method 'GetStatusSummary'
+2025/07/21T22:24:50.779-03:00 <Information> linux-lab02 [3140:3140 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T22:24:50.801-03:00 <Information> linux-lab02 [3140:3140 ]  {trapsd:IRpcLib} Created irpc channel name: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A for channel type: Support
+2025/07/21T22:24:50.801-03:00 <Information> linux-lab02 [3140:3140 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T22:24:50.801-03:00 <Information> linux-lab02 [3140:3140 ]  {trapsd:IRpcLib} Executing method 'IsCytoolPasswordAuthenticationRequired'
+2025/07/21T22:24:50.801-03:00 <Information> linux-lab02 [3140:3140 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T22:24:50.801-03:00 <Information> linux-lab02 [3140:3140 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T22:24:50.801-03:00 <Information> linux-lab02 [3140:3140 ]  {trapsd:IRpcLib} Executing method 'GetDbInterval'
+2025/07/21T22:24:50.806-03:00 <Information> linux-lab02 [3140:3140 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T22:24:50.812-03:00 <Information> linux-lab02 [3140:3140 ]  {trapsd:IRpcLib} Done stopping all active sessions. Clearing the sessions.
+2025/07/21T22:24:50.827-03:00 <Information> linux-lab02 [3140:3140 ]  {trapsd:IRpcLib} Ipc client connected to channel: /opt/traps/ipc/support.D277B246304A403F8641295EC28FBB2A
+2025/07/21T22:24:50.827-03:00 <Information> linux-lab02 [3140:3140 ]  {trapsd:IRpcLib} Executing method 'QueryEventCollection'
+2025/07/21T22:24:50.828-03:00 <Information> linux-lab02 [3140:3140 ]  {trapsd:IRpcLib} Call execution done
+2025/07/21T22:24:50.879-03:00 <Information> linux-lab02 [3140:3140 ]  {trapsd:IRpcLib} Done stopping all active sessions. Clearing the sessions.
+2025/07/21T22:24:50.879-03:00 <Information> linux-lab02 [3140:3140 ]  {cytool:Cytool} ****Cytool command [/opt/traps/bin/cytool status ] completed successfully. Error code = 0****
