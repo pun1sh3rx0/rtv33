@@ -29,4 +29,11 @@ https://www.netresec.com/?page=NetworkMiner
 ## Windows Security Log Events
 https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/
 
+## LaunchD
+https://www.launchd.info/
+
+https://support.apple.com/guide/terminal/script-management-with-launchd-apdc6c1077b-5d5d-4d35-9c19-60f2397b2369/mac
+
+https://developer.apple.com/library/archive/documentation/MacOSX/Conceptual/BPSystemStartup/Chapters/CreatingLaunchdJobs.html
+
 </div>
