@@ -47,5 +47,7 @@ Which protocols and ports were used?
 🔍 EDR (Endpoint Detection and Response)
 
 Is there an active EDR solution on the machine (e.g., Microsoft Defender for Endpoint, SentinelOne, etc.)?
+
 Was there an attempt to bypass or disable the EDR?
+
 Did the EDR block any malicious actions or not?
