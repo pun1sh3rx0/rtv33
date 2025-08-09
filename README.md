@@ -16,6 +16,8 @@
 
 # Tools and tips useful to walk through these challenges
 
+## A computer or device with internet (Because you will doing investigation)
+
 ## Wireshark
 https://www.wireshark.org/download.html
 
