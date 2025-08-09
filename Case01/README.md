@@ -6,9 +6,13 @@ Build a timeline of the incident with the main observed events.
 ⚙️ Execution and Processes
 
 What is the name of the identified malware (if applicable)?
+
 How was it introduced into the system (e-mail, download, removable media, RDP, etc.)?
+
 Which user executed the malicious binary or script?
+
 Are there indications of file encryption or ransomware activity?
+
 Which executable or script initiated this action (e.g., powershell.exe, cmd.exe, wscript.exe)?
 
 🛠️ Persistence / Autostart (Windows)
