@@ -18,6 +18,8 @@
 
 ## A computer or device with internet to access and download these files (Because you will be doing analysis and investigation)
 
+## Choose one or more cases (I recommend you try all) and send your answers with the number case you chose for email pun1sh3rx0@gmail.com
+
 ## Wireshark
 https://www.wireshark.org/download.html
 
