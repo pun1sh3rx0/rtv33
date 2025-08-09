@@ -18,13 +18,17 @@ Which executable or script initiated this action (e.g., powershell.exe, cmd.exe,
 🛠️ Persistence / Autostart (Windows)
 
 Are there any persistence mechanisms configured?
+
 Are there suspicious entries in the Registry keys?
+
 Were any tasks created in the Task Scheduler?
 
 🗃️ Modified Files
 
 Were critical system or user files modified?
+
 Are there signs of data exfiltration or staging for a leak?
+
 Which files were accessed, modified, or copied?
 
 🌐 Network Activity / C2 Communication
