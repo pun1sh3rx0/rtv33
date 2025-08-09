@@ -34,12 +34,17 @@ Which files were accessed, modified, or copied?
 🌐 Network Activity / C2 Communication
 
 Were connections made to suspicious external domains or IP addresses?
+
 Was any Command & Control (C2) domain or IP identified?
+
 Which protocols and ports were used (HTTP, HTTPS, DNS, etc.)?
+
 Are there signs of DNS tunneling, use of PowerShell Remoting, WinRM, etc.?
 
 🔍 EDR (Endpoint Detection and Response)
 
 Is there an active EDR solution on the machine (e.g., Microsoft Defender for Endpoint, SentinelOne, etc.)?
+
 Was there an attempt to bypass or disable the EDR?
+
 Did the EDR block any malicious actions or not?
