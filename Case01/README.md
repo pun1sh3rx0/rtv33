@@ -1,7 +1,6 @@
 🧠 General Analysis
 
 What were the first signs of compromise?
-Build a timeline of the incident with the main observed events.
 
 ⚙️ Execution and Processes
 
